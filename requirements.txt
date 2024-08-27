@@ -1,0 +1,4 @@
+Flask
+pydantic
+flask-pydantic
+nano-graphrag
