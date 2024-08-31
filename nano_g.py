@@ -13,6 +13,8 @@ DEEPSEEK_API_KEY = "sk-FnmZsLXWhIBnyf3EDb0e8cA14e7143Ca9002Cc6b7a3d367b"
 MODEL = "gpt-4o-mini"
 
 
+# $Env:http_proxy="http://127.0.0.1:7890";$Env:https_proxy="http://127.0.0.1:7890"
+
 async def deepseepk_model_if_cache(
     prompt, system_prompt=None, history_messages=[], **kwargs
 ) -> str:

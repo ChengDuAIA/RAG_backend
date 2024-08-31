@@ -4,3 +4,4 @@ flask-pydantic
 nano-graphrag
 requests
 ollama
+future
