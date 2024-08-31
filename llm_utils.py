@@ -155,26 +155,26 @@ async def gpt_4o_mini_calling(
     # -----------------------------------------------------
     return response.choices[0].message.content
 
-def txt2json(txt):
+def txt2json(txt,model="gpt-4o-mini-2024-07-18"):
     input_string = txt
 
     with open("txt2json_prompt.md", "r", encoding="utf-8") as f:
         system_prompt = f.read()
 
+    openai_client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
     
-    # 调用 OpenAI 的 GPT-3.5 模型来处理输入字符串
-    response = OpenAI.chat.completions.create(
-        model="gpt-4o-mini",
+
+    response = openai_client.chat.completions.create(
+        model=model,
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": input_string}
             
         ]
     )
-    
-    
+
     # 提取生成的文本内容
-    json_string = response.choices[0].text.strip()
+    json_string = response.choices[0]
     
     # 尝试解析生成的文本以确保其是有效的JSON
     try:
@@ -201,19 +201,19 @@ def custom_locate_json_string_body_from_string(content: str) -> Union[str, None]
     else:
         return None
 
-def adv_txt2json(response: str) -> dict:
+def adv_txt2json(response: str,model:str="gpt-4o-mini-2024-07-18") -> dict:
     json_str = custom_locate_json_string_body_from_string(response)
-    assert json_str is not None, f"Unable to parse JSON from response: {response}"
+    assert json_str is not None, f"Unable to parse JSON from response"
     try:
-        data = json.loads(json_str)
+        data = json.loads(json_str,)
         return data
-    except json.JSONDecodeError as e:
+    except Exception as e:
 
-        print(f"Failed to parse JSON: {json_str},retrying using GPT...")
+        print(f"Failed to parse JSON,retrying using GPT...")
 
         for i in range(3):
             try:
-                data = txt2json(response)
+                data = txt2json(response,model)
                 return data
                 
             except Exception as e:
@@ -222,3 +222,4 @@ def adv_txt2json(response: str) -> dict:
                 else:
                     raise e
         raise e
+    

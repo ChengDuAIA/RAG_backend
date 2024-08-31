@@ -16,16 +16,25 @@ class gpt_callings:
     gpt_4o_mini = gpt_4o_mini_calling
     gpt_4o = gpt_4o_calling
     gpt_4t = gpt_4t_calling
-    txt2json = adv_txt2json
+    def adv_txt2json(txt,model="gpt-4o-mini"):
+        return adv_txt2json(txt,model)
 
 
 working_dir ="./d_demo"
+
+print("checking database......")
+for file in os.listdir(working_dir):
+    if file.endswith(".json"):
+        path = os.path.join(working_dir,file)
+        print("find file:",path)
+        with open(path,"r") as f:
+            gpt_callings.adv_txt2json(f.read(),"gpt-4o")
 
 
 graph_func = GraphRAG(working_dir,
                       best_model_func=gpt_callings.gpt_4o_mini,
                       cheap_model_func=gpt_callings.gpt_4o_mini,
-                      convert_response_to_json_func=gpt_callings.txt2json,
+                      convert_response_to_json_func=gpt_callings.adv_txt2json,
                       )
 
 with open("tests/mock_data.txt","r", encoding="utf-8") as f:
@@ -49,7 +58,7 @@ while True:
         print("exit")
         exit()
 
-    
+
     info_str = graph_func.query(query)
     if not info_str.startswith("Sorry, I'm not able to provide"):
 
@@ -79,8 +88,3 @@ while True:
         "role": "assistant",
         "content": current_response
     })
-    
-    
-
-    
-
