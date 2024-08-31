@@ -9,15 +9,15 @@ from nano_graphrag._utils import compute_args_hash
 logging.basicConfig(level=logging.WARNING)
 logging.getLogger("nano-graphrag").setLevel(logging.INFO)
 
-DEEPSEEK_API_KEY = "sk-FnmZsLXWhIBnyf3EDb0e8cA14e7143Ca9002Cc6b7a3d367b"
-MODEL = "gpt-4o-mini"
+DEEPSEEK_API_KEY = "sk-XXXX"
+MODEL = "deepseek-chat"
 
 
 async def deepseepk_model_if_cache(
     prompt, system_prompt=None, history_messages=[], **kwargs
 ) -> str:
     openai_async_client = AsyncOpenAI(
-        api_key=DEEPSEEK_API_KEY, base_url="https://fast.chat.t4wefan.pub/v1"
+        api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com"
     )
     messages = []
     if system_prompt:

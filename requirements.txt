@@ -2,3 +2,5 @@ Flask
 pydantic
 flask-pydantic
 nano-graphrag
+requests
+ollama
