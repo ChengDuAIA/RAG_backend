@@ -22,23 +22,52 @@ class gpt_callings:
 
 working_dir ="./d_demo"
 
-print("checking database......")
-for file in os.listdir(working_dir):
-    if file.endswith(".json"):
-        path = os.path.join(working_dir,file)
-        print("find file:",path)
-        with open(path,"r") as f:
-            gpt_callings.adv_txt2json(f.read(),"gpt-4o")
+if not os.path.exists(working_dir):
+    init_run = True
+else:
+    init_run = False
+
+if init_run:
+    graph_func = GraphRAG(working_dir,
+                        best_model_func=gpt_callings.gpt_4o,
+                        cheap_model_func=gpt_callings.gpt_4o_mini,
+                        convert_response_to_json_func=gpt_callings.adv_txt2json)
 
 
+    with open("tests/mock_data.txt","r", encoding="utf-8") as f:
+        graph_func.insert(f.read())
+
+
+    print("checking database......")
+    for file in os.listdir(working_dir):
+        if file.endswith(".json"):
+            path = os.path.join(working_dir,file)
+            print("find file:",path)
+            with open(path,"r") as f:
+                correct_json = gpt_callings.adv_txt2json(f.read())
+            with open(path,"w") as f:
+                f.write(json.dumps(correct_json,indent=4))
+
+else:
+    print("checking database......")
+    for file in os.listdir(working_dir):
+        if file.endswith(".json"):
+            path = os.path.join(working_dir,file)
+            print("find file:",path)
+            with open(path,"r") as f:
+                correct_json = gpt_callings.adv_txt2json(f.read())
+            with open(path,"w") as f:
+                f.write(json.dumps(correct_json,indent=4))
+    
+
+    
 graph_func = GraphRAG(working_dir,
-                      best_model_func=gpt_callings.gpt_4o_mini,
-                      cheap_model_func=gpt_callings.gpt_4o_mini,
-                      convert_response_to_json_func=gpt_callings.adv_txt2json,
-                      )
+                        best_model_func=gpt_callings.gpt_4o,
+                        cheap_model_func=gpt_callings.gpt_4o_mini,
+                        convert_response_to_json_func=gpt_callings.adv_txt2json)
 
-with open("tests/mock_data.txt","r", encoding="utf-8") as f:
-    graph_func.insert(f.read())
+
+
 
 print("===========================================================")
 print("load done,start chat")
@@ -66,7 +95,9 @@ while True:
             "role": "system",
             "content": info_str
         })
+        print("Successfully find info in database")
         # event_loop = asyncio.get_event_loop()
+        
     
     print("genearting response......")
     gpt_response = sync_gpt_stream_print(model="gpt-4o",prompt=query,history_messages=general_history)
@@ -88,3 +119,4 @@ while True:
         "role": "assistant",
         "content": current_response
     })
+

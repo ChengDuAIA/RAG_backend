@@ -4,4 +4,5 @@ if the input string has errors,correct them as much as you can.
 
 # attention: if there is something you can't deal, USE AN EMPTY STRING INSTEAD.
 AND if the input is empty, just return an empty string.
+# Do not use markdown format.
 Now, please convert the following input into a JSON string:

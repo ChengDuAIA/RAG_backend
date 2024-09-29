@@ -174,23 +174,27 @@ def txt2json(txt,model="gpt-4o-mini-2024-07-18"):
     )
 
     # 提取生成的文本内容
-    json_string = response.choices[0]
+    # print(response)
+    json_string = response.choices[0].message.content
+    # print(son_string)
     
     # 尝试解析生成的文本以确保其是有效的JSON
     try:
         parsed = json.loads(json_string)
+        return parsed
     except:
-        response = OpenAI.chat.completions.create(
+        response = openai_client.chat.completions.create(
         model="gpt-4o",
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": input_string}
             
         ]
-    )
+        )   
+        raise Exception("Failed to parse JSON")
     
     # 返回格式良好的JSON字符串
-    return parsed
+        
 
 
 def custom_locate_json_string_body_from_string(content: str) -> Union[str, None]:
@@ -202,9 +206,10 @@ def custom_locate_json_string_body_from_string(content: str) -> Union[str, None]
         return None
 
 def adv_txt2json(response: str,model:str="gpt-4o-mini-2024-07-18") -> dict:
-    json_str = custom_locate_json_string_body_from_string(response)
-    assert json_str is not None, f"Unable to parse JSON from response"
     try:
+        json_str = custom_locate_json_string_body_from_string(response)
+        assert json_str is not None, f"Unable to parse JSON from response"
+    
         data = json.loads(json_str,)
         return data
     except Exception as e:

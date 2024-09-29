@@ -1,57 +1,50 @@
 from flask import Flask, request, jsonify
+import os
+
+from rag_ops import *
+
+os.environ["OPENAI_BASE_URL"] = "https://fast.chat.t4wefan.pub/v1"
+os.environ["OPENAI_API_KEY"] = "sk-FnmZsLXWhIBnyf3EDb0e8cA14e7143Ca9002Cc6b7a3d367b"
 
 app = Flask(__name__)
 
+graphs_vdb = {}
+
 # 用于存储Graph的数据
-graphs = {}
+def get_graphs():
+    graphs_list = os.listdir("graphs")
+    return graphs_list 
 
-@app.route('/v1/rag/createGraph', methods=['POST'])
-def create_graph():
+graphs = get_graphs()
+print(graphs)
+
+@app.route('/v1/rag/graph', methods=['POST'])
+def v1_rag_graph_query():
+    print("received request")
     data = request.get_json()
-    graph_key = data.get('graphKey')
-    document_urls = data.get('documentUrl')
-    
-    if not graph_key or not document_urls:
-        return jsonify({"error": "graphKey and documentUrl are required"}), 400
-    
-    graphs[graph_key] = {
-        "documentUrls": document_urls
-    }
-    
-    return jsonify({"message": f"Graph with key {graph_key} created successfully"}), 201
+    query = data.get('query')
+    doc_name = data.get('doc_name')
 
-@app.route('/v1/rag/updateGraph', methods=['POST'])
-def update_graph():
-    data = request.get_json()
-    graph_key = data.get('graphKey')
-    document_urls = data.get('documentUrl')
+    if not query or not doc_name:
+        print(data)
+        return jsonify({"error": "Missing query parameter"}), 400
     
-    if not graph_key or not document_urls:
-        return jsonify({"error": "graphKey and documentUrl are required"}), 400
-
-    if graph_key not in graphs:
+    if doc_name not in graphs:
         return jsonify({"error": "Graph not found"}), 404
     
-    graphs[graph_key]["documentUrls"] = document_urls
+    # 开始处理
     
-    return jsonify({"message": f"Graph with key {graph_key} updated successfully"}), 200
+    check_vdb(doc_name)
 
-@app.route('/v1/rag/chatCompletion', methods=['POST'])
-def chat_completion():
-    data = request.get_json()
-    graph_key = data.get('graphKey')
-    msg = data.get('msg')
+    if doc_name not in graphs_vdb:
+        graphs_vdb[doc_name] = init_vdb(doc_name)
     
-    if not graph_key or not msg:
-        return jsonify({"error": "graphKey and msg are required"}), 400
 
-    if graph_key not in graphs:
-        return jsonify({"error": "Graph not found"}), 404
-    
-    # 这里你可以添加实际的对话逻辑处理，下面是一个简单的模拟响应
-    response = f"You said: {msg}. This response is based on the graph with key {graph_key}."
-    
-    return jsonify({"response": response}), 200
+    vdb = graphs_vdb[doc_name]
+
+    result = query_vdb(query,vdb)
+    return jsonify(result)
+
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()

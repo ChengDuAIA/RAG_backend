@@ -5,3 +5,5 @@ nano-graphrag
 requests
 ollama
 future
+aiohttp
+httpx

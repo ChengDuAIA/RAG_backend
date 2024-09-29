@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国, commonly known as China, is the country under which the national standards for hydrological instruments are published and regulated."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水文仪器安全要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文仪器安全要求 refers to the published safety standards for hydrological instruments within the中华人民共和国, focusing on the safety requirements and regulations of such instruments."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部, or the Ministry of Water Resources, is the governmental body responsible for proposing and overseeing the standards related to hydrological instruments in the country."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;南京水利水文自动化研究所&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"南京水利水文自动化研究所, or the Nanjing Hydraulic Research Institute, is responsible for drafting the national standards for hydrological instruments."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;石明华&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"石明华 is one of the main authors involved in the creation of the national standards for hydrological instruments."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;徐海峰&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"徐海峰 serves as a main author for the national standards dealing with safety requirements for hydrological instruments."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;王志毅&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王志毅 is identified as a primary author contributing to the drafting of the national standards for hydrological instruments."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;陆旭&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陆旭 also plays a key role as a main author in the establishment of the national standards for hydrological instruments."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;国家质量监督检验检疫总局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"国家质量监督检验检疫总局, or the General Administration of Quality Supervision, Inspection and Quarantine, is the authority responsible for the publication and enforcement of national standards in China."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水文仪器&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水文仪器 refers to hydrological instruments, which are the object of the safety standards set by the mentioned organizations, and are integral to measuring and analyzing aquatic conditions."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;强制性技术内容&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"强制性技术内容 refers to the mandatory technical specifications included in the hydrological instrument safety standards, ensuring compliance and safety."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </node>
+    <node id="&quot;环境污染&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境污染 highlights concerns in the safety standards regarding potential pollution that hydrological instruments might cause to the environment."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;人身健康&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"人身健康 emphasizes the safety considerations for operators using hydrological instruments, ensuring that their health is not compromised."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;弱电保护&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"弱电保护 refers to guidelines addressing low-voltage protection features in hydrological instruments to ensure safety."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;介电强度试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"介电强度试验 is a testing procedure mentioned in the standards that determines the dielectric strength of electrical components in hydrological instruments."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;基本安全标志表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"基本安全标志表 is referenced as a previous element in the standards that was removed and replaced with text descriptions of graphical symbols."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </node>
+    <node id="&quot;安全特低电压&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全特低电压 refers to specific low-voltage safety levels mentioned in the standards, crucial for the safe operation of instruments."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;长期无人值守仪器&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"长期无人值守仪器 refers to hydrological instruments designed to operate without human supervision for extended periods, requiring safety measures."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;极端水流条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"极端水流条件 addresses the necessary safety standards for hydrological instruments operating under extreme water flow conditions."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;搬动用的提手或把手&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"搬动用的提手或把手 refers to handles on the instruments that must be designed to safely support their weight."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水下使用的仪器&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水下使用的仪器 are hydrological instruments specifically designed for underwater applications, necessitating special safety features."</data>
+      <data key="d2">chunk-9da40c9372371c53e7c479f858bd0435</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;仪器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"仪器 refers to equipment designed for various uses, including measurement and testing, with specifications for safety and handling."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;安全标记&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全标记 refers to safety indicators that ensure the instrument's safe usage, including warnings and operational guidelines."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;功能标志&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"功能标志 refers to functional indicators that specify the operation modes and directions on the instrument."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;测试方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测试方法 are procedures established to evaluate the functionality and safety of the equipment as per product standards."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;提手&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"提手 refers to handles designed for ease of movement and handling of the instrument, important for user interaction."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;防潮&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防潮 refers to moisture protection specifications for instruments to ensure durability in various environments."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;防尘&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防尘 refers to dust protection measures implemented in the instrument design to maintain functionality."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;防昆虫侵入&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防昆虫侵入 refers to protective measures against insect intrusion in the instrument to avoid damage."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;密封结构&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"密封结构 indicates the sealing mechanisms used in underwater instruments to prevent water ingress."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;耐压&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"耐压 refers to the pressure-resistance features that help the instrument withstand operational conditions under water."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;防倾复&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防倾复 refers to mechanical safety devices incorporated into vehicles used for bridge measurements to prevent tipping."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;机械强度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"机械强度 denotes the structural integrity of the instrument, ensuring it can withstand various operational stresses."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;信号电缆&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"信号电缆 refers to the cables used to connect the instrument's components and transmit data."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;插座&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"插座 refers to the power sockets used for electrical connections in the instrument, indicating design and safety specifications."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;熔断器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"熔断器 denotes fuses used for overcurrent protection in instruments powered by electrical networks."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;操作台&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"操作台 refers to the control panel of the instrument where users can interact with its functions."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;标记&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标记 refers to the labeling of symbols and markings on the instrument for clarity and regulation compliance."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;电源&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电源 indicates the power supply systems used in the instruments, critical for their operation."</data>
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </node>
+    <node id="&quot;INSTRUMENT SAFETY STANDARDS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Instrument Safety Standards encompass various safety measures and testing protocols to ensure electrical safety in instruments."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;ELECTRICAL SAFETY COMPLIANCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Electrical Safety Compliance refers to the adherence to established safety requirements and standards in electrical equipment and instruments."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;ELECTRICAL CIRCUIT TESTING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Electrical Circuit Testing involves a series of tests, including insulation resistance and leakage current tests, to verify electrical safety and performance of instruments."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;SAFETY MARKINGS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Safety Markings are various labels placed on instruments to indicate safety features and compliance, ensuring they are clearly visible and durable."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;INDICATOR LIGHT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Indicator Light refers to a light used on instruments to signal whether the power is on or off, playing a crucial role in user awareness."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;FUSES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Fuses are components indicated in instruments to show their current rating, essential for electrical safety and protection."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;LOW VOLTAGE DC POWER SUPPLY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Low Voltage DC Power Supply refers to the power source used in instruments, where connection points must be appropriately marked for safety."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;PROTECTIVE GROUNDING TERMINAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Protective Grounding Terminal is a safety feature in instruments aimed at preventing electric shock by providing a safe path for fault currents."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;ENVIRONMENTAL TESTING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Environmental Testing includes procedures like humidity exposure to ensure that instruments can operate safely under varying conditions."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;BATTERY LEAK PREVENTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Battery Leak Prevention involves design measures taken in instruments to avoid leakage and accumulation of flammable gases from batteries."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;ELECTROMAGNETIC INTERFERENCE PROTECTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Electromagnetic Interference Protection ensures that instruments are safeguarded against industrial electromagnetic interference that may affect their operation."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;LIGHTNING PROTECTION MEASURES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Lightning Protection Measures are implemented in instruments to mitigate the risk of damage due to lightning strikes, particularly in outdoor environments."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;CIRCUIT GROUNDING RESISTANCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Circuit Grounding Resistance refers to the acceptable levels of resistance for grounding connections to ensure safety against electrical faults."</data>
+      <data key="d2">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </node>
+    <node id="&quot;三相仪器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"三相仪器 is a type of safe instrument involved in voltage testing and compliance with specified standards."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;电路&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电路 refers to the process of conducting tests and ensuring safety protocols are followed during electrical testing."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;软件及数据安全要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"软件及数据安全要求 outlines the safety and operational protocols required for software and data integrity in measurement instruments."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;安全仪器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"安全仪器 refers to safe instruments used in electrical testing, ensuring compliance with safety standards during operations."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;供电电压&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"供电电压 refers to the power supply voltage that must comply with safety regulations for testing equipment."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;硬件看门狗&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"硬件看门狗 is a technology used in instruments to monitor operations and prevent system crashes."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;紫外线擦除存储芯片&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"紫外线擦除存储芯片 is a type of memory chip that can lose its program if not protected after writing."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;密码或键锁设置功能&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"密码或键锁设置功能 provides a security feature for instruments to prevent unauthorized access."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;测量数据&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测量数据 refers to the data collected during testing, which must be protected from loss or error."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;逻辑混乱&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"逻辑混乱 refers to a situation where incorrect logic processing occurs within a system, leading to errors in operation."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;误操作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"误操作 refers to errors caused by incorrect handling of instruments, which can lead to data loss or equipment failure."</data>
+      <data key="d2">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </node>
+    <node id="&quot;桥测车辆&quot;">
+      <data key="d2">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+      <data key="d1">"防倾复 devices are implemented in bridge measurement vehicles to ensure safety during operation."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;中华人民共和国&quot;" target="&quot;水文仪器安全要求&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中华人民共和国 publishes the hydrological instrument safety standards, establishing the necessary regulatory framework."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;水利部&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利部 proposes and oversees the safety standards for hydrological instruments under the framework of the中华人民共和国."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;南京水利水文自动化研究所&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"南京水利水文自动化研究所 is responsible for drafting the national standards pertaining to hydrological instruments, supplying technical content."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;石明华&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"石明华 is a main author involved in the creation of the standards for hydrological instruments."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;徐海峰&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"徐海峰 is one of the main authors of the hydrological instrument safety standards, contributing to its technical development."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;王志毅&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"王志毅 is identified as a key author, contributing to the drafting of the standards for hydrological instruments."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;陆旭&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"陆旭 is also a significant author associated with the drafting of the national standards for hydrological instruments."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;国家质量监督检验检疫总局&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"国家质量监督检验检疫总局 oversees the publication and enforcement of safety standards for hydrological instruments, ensuring national compliance."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;水文仪器&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水文仪器 are the primary focus of the safety standards, outlining necessary requirements for their safe operation."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;环境污染&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"环境污染 is a consideration in the development of the safety standards to prevent ecological damage from hydrological instruments."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;人身健康&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"人身健康 pertains to ensuring that the usage of hydrological instruments does not adversely affect the health of operators."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;弱电保护&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"弱电保护 is included in the safety standards to enhance the protection of electrical components in the instruments."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;介电强度试验&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"介电强度试验 is a critical testing method included in the standards to ensure electrical safety of the instruments."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;安全特低电压&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"安全特低电压 standards are essential for the operation and safety of hydrological instruments to limit electrical hazards."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;长期无人值守仪器&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"长期无人值守仪器 are specified in the safety standards to highlight the unique safety measures needed for such devices."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;极端水流条件&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"极端水流条件 demands particular safety measures addressed in the standards to ensure instruments function correctly without risking safety."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;搬动用的提手或把手&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"搬动用的提手或把手 are designed under the safety standards to ensure they can safely support the instrument's weight during usage."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;水下使用的仪器&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水下使用的仪器 must meet rigorous safety standards to operate effectively and safely in aquatic environments."</data>
+      <data key="d6">chunk-9da40c9372371c53e7c479f858bd0435</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;安全标记&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The仪器 requires安全标记 for safe operation and to warn users of any potential hazards."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;功能标志&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"功能标志 guide users in the operation of the仪器, ensuring correct usage and functionality."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;测试方法&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The仪器 is subjected to测试方法 to validate its performance and safety standards."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;提手&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"提手 are designed as an ergonomic feature of the仪器 for ease of handling during operations."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;防潮&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"防潮 mechanisms are essential for the instrumental design to enhance durability in humid conditions."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;防尘&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"防尘 measures contribute to the proper functioning of the仪器 by preventing dust accumulation."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;防昆虫侵入&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"防昆虫侵入 protections are crucial for maintaining the integrity of the仪器 against environmental factors."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;密封结构&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"密封结构 ensures the仪器 is waterproof, allowing for operation in submerged conditions."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;耐压&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"耐压 features enable the仪器 to operate effectively under water pressure during use."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;机械强度&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"机械强度 is vital for the durability and operational effectiveness of the仪器 under harsh conditions."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;信号电缆&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"信号电缆 are crucial for the operation of the仪器, ensuring proper data transmission between components."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;插座&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"插座 must be properly designed to fit the instruments’ power requirements and usage context."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;熔断器&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"熔断器 provide an essential safety feature in the仪器 for preventing electrical overload and damage."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;操作台&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"操作台 is the interface through which users control and monitor the仪器's functions."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;标记&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"标记 present on the仪器 facilitates user understanding of operations and safety protocols."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;电源&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"电源 systems are essential for the operation of the仪器, providing necessary power for functionality."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;安全标记&quot;" target="&quot;功能标志&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"安全标记 complements功能标志, as both ensure safe and effective operation of the仪器."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;防倾复&quot;" target="&quot;桥测车辆&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"防倾复 devices are implemented in bridge measurement vehicles to ensure safety during operation."</data>
+      <data key="d6">chunk-c320ab3432c9e9c3c85d65c62cffdc9e</data>
+    </edge>
+    <edge source="&quot;INSTRUMENT SAFETY STANDARDS&quot;" target="&quot;ELECTRICAL SAFETY COMPLIANCE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Instrument Safety Standards set the requirements that need to be adhered to for achieving Electrical Safety Compliance."</data>
+      <data key="d6">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </edge>
+    <edge source="&quot;ELECTRICAL SAFETY COMPLIANCE&quot;" target="&quot;ELECTRICAL CIRCUIT TESTING&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Electrical Circuit Testing is part of the processes needed to achieve Electrical Safety Compliance by ensuring instruments meet safety standards."</data>
+      <data key="d6">chunk-6bc94f1c9515f9af5c3b47e68a919318</data>
+    </edge>
+    <edge source="&quot;三相仪器&quot;" target="&quot;电路&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"三相仪器 is tested following electrical testing protocols outlined in the 电路 process."</data>
+      <data key="d6">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </edge>
+    <edge source="&quot;三相仪器&quot;" target="&quot;软件及数据安全要求&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"三相仪器 must comply with 软件及数据安全要求 to ensure data protection and operational safety."</data>
+      <data key="d6">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </edge>
+    <edge source="&quot;三相仪器&quot;" target="&quot;密码或键锁设置功能&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"密码或键锁设置功能 is required for 三相仪器 to safeguard against unauthorized data modification."</data>
+      <data key="d6">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </edge>
+    <edge source="&quot;电路&quot;" target="&quot;软件及数据安全要求&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"电路 processes rely on software safety protocols as outlined in 软件及数据安全要求 for accurate measurements."</data>
+      <data key="d6">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </edge>
+    <edge source="&quot;软件及数据安全要求&quot;" target="&quot;紫外线擦除存储芯片&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"紫外线擦除存储芯片 must comply with the protocols specified in 软件及数据安全要求 for data integrity."</data>
+      <data key="d6">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </edge>
+    <edge source="&quot;软件及数据安全要求&quot;" target="&quot;逻辑混乱&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"防止逻辑混乱 is a critical aspect of the protocols outlined in 软件及数据安全要求."</data>
+      <data key="d6">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </edge>
+    <edge source="&quot;安全仪器&quot;" target="&quot;供电电压&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"安全仪器 operates within specified供电电压 limits to ensure safety during testing."</data>
+      <data key="d6">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </edge>
+    <edge source="&quot;安全仪器&quot;" target="&quot;硬件看门狗&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"硬件看门狗 technology is utilized to maintain the proper functioning of 安全仪器 during operations."</data>
+      <data key="d6">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </edge>
+    <edge source="&quot;测量数据&quot;" target="&quot;误操作&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"测量数据 can be adversely affected by 误操作, leading to inaccuracies in the results."</data>
+      <data key="d6">chunk-5e673dd00958204b47d33c0fb1a8472f</data>
+    </edge>
+  </graph>
+</graphml>
