@@ -1,0 +1,965 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is the governmental body responsible for water resources in China, including the approval of industry standards for hydraulic engineering."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;小型水力发电站自动化设计规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"小型水力发电站自动化设计规范 is a standard published for the automation design specifications of small hydropower stations, aiming to enhance control technology."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;水利水电规划设计总院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利水电规划设计总院 is the institute responsible for the development and planning of water resources and hydropower projects in China."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;中国水利水电出版社&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中国水利水电出版社 is the publishing house responsible for the issuance of water resources and hydropower industry standards and literature."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;许秋声&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"许秋声 is one of the principal drafters involved in the creation of the small hydropower automation design standards."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;李涛&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"李涛 is a principal draftsman involved in the standards for small hydropower station automation design."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;李贤海&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"李贤海 is one of the contributors to the small hydropower automation design specification."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;林春霖&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"林春霖 is an important figure in drafting the small hydropower automation design standards."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;陶波梅&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陶波梅 is a principal contributor to the small hydropower station automation design standards."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;叶纪刚&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"叶纪刚 is one of the drafters of the small hydropower automation design specification."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;陈桢楠&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陈桢楠 is one of the primary drafters of the standard for small hydropower stations."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;易先举&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"易先举 is the technical leader of the review meeting for the standard."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;陈登毅&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陈登毅 is responsible for the format review of the small hydropower automation design standards."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;水力行业标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水力行业标准 refers to the set of industrial standards pertaining to hydraulic engineering published by the relevant authorities, which includes specifications for various projects."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;水利技术标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利技术标准 encompasses the technical standards specifically related to water management and hydraulic engineering in China."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;小型水力发电站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"小型水力发电站 refers to small-scale hydropower stations that are subject to the automation design specifications discussed in the document."&lt;SEP&gt;"小型水力发电站是指一种小型的水力发电设施，适合设置微机防误操作系统，以确保设备和人员的安全。"&lt;SEP&gt;"小型水力发电站是指一种小规模的水力发电设施，能够通过水流发电，通常用于地方电力供应。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2&lt;SEP&gt;chunk-1b6a2b72bcb061831f2432e1ea965bfc&lt;SEP&gt;chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;机组及辅助设备自动化&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"机组及辅助设备自动化 involves the automation systems associated with the operation of generating units and auxiliary equipment in hydropower stations."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;自动控制系统&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"自动控制系统 refers to the automated systems used to manage the operational aspects of small hydropower stations, emphasizing reliability and efficiency."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;安全自动装置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全自动装置 denotes safety devices that are part of the automation systems in hydropower stations to prevent accidents."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;测量信号安全自动装置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测量信号安全自动装置 refers to devices involved in the measurement and signaling of safety automatically in hydropower operations."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;水轮发电机组&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水轮发电机组 refers to the turbine generator units that are crucial components of hydropower stations, generating electricity from water flow."&lt;SEP&gt;"水轮发电机组是指一种利用水流转动来发电的设备，其运行状态包括停机、空转和发电等模式。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c&lt;SEP&gt;chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;电能计量装置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电能计量装置 refers to devices used for measuring electrical energy generated by hydropower stations, integral to operations."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;系统设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"系统设计 focuses on the structural design of the automated systems in hydropower plants to enhance operational efficiency."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;技术先进性能稳定运行维护方便&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术先进性能稳定运行维护方便 defines the ideal characteristics of automation components that should be employed in small hydropower stations."</data>
+      <data key="d2">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </node>
+    <node id="&quot;机组&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"机组是一个发电系统的核心组成部分，涉及自动化操作、状态监控及事故响应等多个功能。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;自动控制装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"自动控制装置是指能够根据输入信号自动调整机组状态的设备，包括调速器和励磁系统。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;事故停机&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"事故停机是指在发生故障或紧急情况时，机组按照预定流程进行的紧急停机操作，以确保安全。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;紧急事故停机按钮&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"紧急事故停机按钮是一个设置在机组控制屏上的硬接线装置，用于在紧急情况下快速关闭机组的进水阀和相关设备。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;操作员控制权口令&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"操作员控制权口令是规定操作员在机组操作系统中拥有控制权限的密码或指令，从而确保安全和有效的操作。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;现地控制级&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"现地控制级是指在机组操作中，优先级最高的直接控制层，负责即时监控和决策。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;站控级&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"站控级是指在机组操作中，次高控制层，主要负责协调和控制多个机组的运行。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;远控级&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"远控级是指对机组进行远程操作和监控的控制层，通常距离现场较远，负责全局协调。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;冷却水系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"冷却水系统是用于机组的温度管理，确保设备在运行中保持适宜的温度，防止过热。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;润滑水系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"润滑水系统的作用是减少机组运行中的磨损，确保机组各部件的顺畅运转。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;发电机出口断路器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"发电机出口断路器是保护发电机不受过载或短路影响的重要设备，在异常情况下能够切断电源。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;高压油泵&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"高压油泵是用于向机组提供调速器和励磁系统所需高压油的设备。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;制动气源&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"制动气源是用于机组停机过程中的气压源，确保制动装置能正常操作。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;事故停机电磁阀&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"事故停机电磁阀是控制机组停机流程中的重要元件，在发生事故时快速反应。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;跳闸&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"跳闸是机组在异常情况下自动切断电源的过程，以保护机组和系统安全。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;监测装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"监测装置用于实时监控机组的各项参数，确保设备的健康运行。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;信号装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"信号装置是用于指示设备状态的装置，帮助操作员及时了解机组的工作情况。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;油温控制装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"油温控制装置是用于监测和控制油温的系统，以确保润滑油在适当的温度范围内工作。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;氮气系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"氮气系统可用于机组的气动控制，确保一定的压力环境。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;油气水系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"油气水系统是机组中用于冷却和润滑的重要系统，影响机组的整体效率和安全性。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;进水阀&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"进水阀是机组中控制水流的装置，直接关系到冷却和润滑系统的运行。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;快速事故闸门&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"快速事故闸门用于迅速切断机组进水，以应对紧急情况。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;制动装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"制动装置是机组的组成部分，用于确保机组的安全停机。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;排油系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"排油系统用于确保机组内多余油液的排出，防止过量积聚导致故障。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;机组状态定义&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"机组状态定义了机组运行的不同阶段，帮助操作员进行监控和管理。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;关键操作&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"关键操作是指影响机组安全与性能的重要操作步骤，需要谨慎对待。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;故障条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"故障条件是指机组在运行中，可能会出现的各种故障情况，需要及时检测与处理。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;安全状态&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全状态是指机组在紧急情况下，由控制系统自动切换至的保护状态。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;调速器油压装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"调速器油压装置负责调节机组的油压，以确保设备正常运行。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;高压油减载装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"高压油减载装置用于在机组出现故障时，避免高压油对设备的损坏。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;电气事故&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电气事故是指与电力系统相关的故障，对机组和系统安全构成威胁。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;事故配压阀&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"事故配压阀用于在事故发生时，控制油气压力的分配，以确保安全。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;示流信号装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"示流信号装置用于指示机组中的液体流动状态，帮助操作员随时掌握液体流量情况。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;报警装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"报警装置用于实时监测机组状态并在出现异常时发出警报，对操作员起到警示作用。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;冷却系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"冷却系统的功能是保持机组在安全和稳定的温度运行，防止过热。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;湿度控制装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"湿度控制装置是用来监测和调节机组工作环境中的湿度，确保设备正常运行。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;开机指令&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"开机指令是用来启动机组的指令，标志着机组运行的开始。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;停机指令&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"停机指令是指令机组停止工作的命令，确保设备的安全与维护。"</data>
+      <data key="d2">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </node>
+    <node id="&quot;HYDRAULIC POWER STATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Hydraulic Power Station is an operational facility involving control systems, machinery, and protocols for efficient energy generation, particularly in the context of water-driven turbines."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;CONTROL DEVICE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Control Device encompasses the systems and equipment used for monitoring and managing parameters such as pressure, temperature, and lubrication in a hydraulic power setup."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;EMERGENCY SHUTDOWN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Emergency Shutdown refers to the procedures and actions taken to safely halt operations in response to critical failures or safety hazards in the hydraulic power system."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;SYSTEM MONITORING EQUIPMENT&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The System Monitoring Equipment includes sensors and devices that provide real-time data on operational parameters and detect faults within the hydraulic machines."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;SIGNAL SYSTEM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Signal System refers to the various signaling devices installed to provide indications of different operational states such as supply status and temperature readings."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;LUBRICATION SYSTEM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Lubrication System is designed to ensure that the bearings and moving parts of the hydraulic machinery receive adequate lubrication to function properly."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;TEMPERATURE SENSOR&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Temperature Sensor measures temperature at critical points in the hydraulic system, enabling timely responses to overheating issues."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;EMERGENCY VALVE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Emergency Valve is a crucial safety mechanism designed to quickly shut off fluid flow in case of emergency situations."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;PRESSURE MONITORING DEVICE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Pressure Monitoring Device tracks the pressure levels within the hydraulic systems, essential for maintaining safe operating conditions."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;CONTROL PANEL&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Control Panel serves as the interface for operators to monitor and manage the various systems and parameters of the hydraulic power station."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;OVER-SPEED PROTECTION DEVICE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Over-speed Protection Device is an essential safety feature that activates to prevent equipment damage by shutting down the system if it exceeds safe operational speeds."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;LUBRICATION WATER SUPPLY&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Lubrication Water Supply is the water source utilized for the lubrication needs of the hydraulic system, critical to overall machine health."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;AUXILIARY EQUIPMENT&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Auxiliary Equipment encompasses additional machinery and systems that support the primary operations of the hydraulic power station."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;SMALL-SCALE HYDROPOWER PLANT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Small-scale Hydropower Plant focuses on simpler, less resource-intensive generation of hydroelectric power, typically for local use."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;MAINTENANCE PROTOCOLS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Maintenance Protocols refer to the scheduled tasks and checks performed to ensure the continuous and safe operation of the hydraulic system."</data>
+      <data key="d2">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </node>
+    <node id="&quot;PROGRAMMABLE CONTROLLER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A Programmable Controller is an automated device used for control tasks, capable of executing specific control instructions for opening and closing valves."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;HYDRAULIC PUMP&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"A Hydraulic Pump is used in the system to maintain oil pressure and ensure the proper functioning of valves during operational and emergency conditions."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;EMERGENCY SHUTOFF VALVE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"An Emergency Shutoff Valve is used for immediate closure in case of urgent operational issues, ensuring safety in the hydraulic system."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;PRESSURE OIL TANK&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Pressure Oil Tank stores hydraulic oil and its pressure must be maintained within designated limits to operate effectively."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;CONTROL SYSTEM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Control System includes various automated processes and equipment designed to manage the functioning of hydraulic systems and pumps."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;GENERATOR&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Generator in the context is responsible for converting mechanical energy into electrical energy, operating under specific control protocols and conditions."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;ELECTRIC POWER SYSTEM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Electric Power System refers to the network for delivering electricity from producers to consumers, requiring careful management of various parameters."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;ELECTROMAGNETIC SYSTEM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Electromagnetic System refers to the arrangement and control of electromagnetic components within the generator's operation."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;CONTROL ROOM&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The Control Room is where operators monitor and manage the various control systems during the operation of the generators and hydraulic pumps."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;AUTOMATIC CONTROL DEVICE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"An Automatic Control Device ensures that the adjustments to the systems occur without manual intervention, maintaining operational integrity."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;OIL PRESSURE DEVICE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Oil Pressure Device is responsible for maintaining the appropriate oil pressure levels within the hydraulic system, ensuring operational safety."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;SIGNAL DEVICE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Signal Device is used to indicate the status and performance of the system, alerting operators to any issues or necessary actions."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;AUTOMATIC SUPPLEMENT VALVE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Automatic Supplement Valve is responsible for maintaining oil pressure by supplementing air into the pressure oil tank as needed."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;EMERGENCY SHUTDOWN BUTTON&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Emergency Shutdown Button in the control room allows for immediate cessation of operations during critical situations."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;WATER PUMP&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Water Pump is used for supplying and controlling water flow in conjunction with the generators, impacting their cooling and operational efficiency."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;LEAKAGE DRAIN PUMP&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Leakage Drain Pump is designed to manage excess water levels in the facility to ensure optimal working conditions."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;CENTRALIZED WATER SUPPLY&quot;&lt;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Centralized Water Supply refers to the system used for managing water distribution effectively among various generators."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;BACKUP WATER SOURCE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Backup Water Source is an alternative supply of water activated when the primary water supply fails or falls below required levels."</data>
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </node>
+    <node id="&quot;电站监控系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"电站监控系统是一种用于实时监控电力设备和管理电力生产的综合系统，确保发电设施的安全和效率。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;自动投入装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"自动投入装置是一种电力系统中的设备，在电源失压或出现故障时，能够自动切换到备份电源，确保持续供电。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;晶闸管桥&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"晶闸管桥是一种电力电子元件，主要用于电能转换和控制，在发电和电力调度中起着重要作用。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </node>
+    <node id="&quot;励磁系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"励磁系统用于提高发电机的电压输出，通过控制励磁电流来实现，确保发电机稳定运行。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </node>
+    <node id="&quot;故障报警信号&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"故障报警信号是指在设备出现异常时，通过自动系统发出的警告信号，以便及时采取措施确保设备安全。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;机组开机信号&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"机组开机信号是指控制系统发出的信号，用于启动发电机组并确保正常运行。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </node>
+    <node id="&quot;发电机&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"发电机是将机械能转化为电能的设备，是水力发电站的核心组成部分。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </node>
+    <node id="&quot;晶闸管桥整流元件&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"晶闸管桥整流元件是用于电气转换的组件，尤其在直流和交流电之间的转化中常被采用。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </node>
+    <node id="&quot;水库&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水库是用于储存水资源的人工或自然形成的区域，通常供发电和灌溉使用。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;电流互感器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电流互感器用于测量电流并将其转化为可测量的信号，通常在电力监测中使用。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </node>
+    <node id="&quot;油压装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"油压装置用于通过液压传动系统应用压力，广泛应用于发电机组的机械维护。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </node>
+    <node id="&quot;控制电路&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"控制电路用于管理电气设备的运行，以确保设备按照预定的程序安全、高效地运行。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </node>
+    <node id="&quot;报警信号&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"报警信号是指在设备故障或异常状态时，由监控系统发出的紧急通知。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </node>
+    <node id="&quot;用户INTERFACE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"用户interface是指人与机器交流的界面，通常用于监控和操作电厂设备。"</data>
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;微机防误操作系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"微机防误操作系统用于控制电站设备，防止因误操作造成的设备故障和人身伤害。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;电气回路&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电气回路指的是用于电力传输和控制的电线和设备系统，其操作安全是电站运行的关键。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;自动装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"自动装置是用于检测和反应电气事件的设备，能够在电路操作出现异常时执行预定的动作。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </node>
+    <node id="&quot;断线&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"断线是一种电气事件，可能导致设备故障，必须采取措施防止误动作。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </node>
+    <node id="&quot;断路器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"断路器是一种保护电气回路的装置，能够在电流过载或短路的情况下自动切断电路。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </node>
+    <node id="&quot;电站设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"电站设备指的是水力发电所使用的所有机械和电气设备，包括发电机、变压器和控制系统。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </node>
+    <node id="&quot;手动分闸&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"手动分闸是一种安全措施，用于在电站操作中手动切断电源以防止意外发生。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;权限闭锁&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"权限闭锁是一种控制措施，确保只有授权人员才能操作特定的电气设备或操作。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;硬接线闭锁&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"硬接线闭锁是指通过物理连接实现的安全锁定措施，用于确保设备在未授权情况下不可操作。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;程序软件闭锁&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"程序软件闭锁是通过软件控制实现的安全措施，用于限制对电气回路的操作。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;措施&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"措施指的是为了确保电站安全和正常运作而制定的各种操作和管理策略。"</data>
+      <data key="d2">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;CENTRALIZED WATER SUPPLY&quot;">
+      <data key="d2">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+      <data key="d1">"The Water Pump supports the Centralized Water Supply by ensuring adequate flow and pressure for generator operations."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;焦点监控系统&quot;">
+      <data key="d2">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+      <data key="d1">"焦点监控系统通过分析数据，一旦发现异常，便会触发报警信号以提醒操作人员。"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;小型水力发电站自动化设计规范&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中华人民共和国水利部 approved and published the small hydropower automation design specification, indicating its authority in setting industry standards."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;水利水电规划设计总院&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利水电规划设计总院 is responsible for developing and hosting the small hydropower automation design specification, showing its role in technical standardization."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;中国水利水电出版社&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"中国水利水电出版社 published the standard, playing a crucial role in disseminating industry knowledge."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;许秋声&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"许秋声 is a principal drafter of the standards, indicating his direct involvement in the creation of this specification."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;李涛&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"李涛 contributed to the drafting of the standards, indicating a significant role in their development."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;李贤海&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"李贤海 is involved in drafting the standards, highlighting his participation in establishing these guidelines."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;林春霖&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"林春霖 contributed to the drafting process, showcasing his influence in this area."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;陶波梅&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"陶波梅 played a key role in drafting the standards, marking her vital participation."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;叶纪刚&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"叶纪刚 is recognized as one of the principal drafters of the automation standards, indicating significant involvement."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;陈桢楠&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"陈桢楠 is one of the principal drafters, reflecting his essential contribution to these standards."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;易先举&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"易先举 led the review meeting, demonstrating his oversight role in the standard's approval process."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站自动化设计规范&quot;" target="&quot;陈登毅&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"陈登毅 was responsible for reviewing the format of the standards, indicating his involvement in finalizing the document."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;水力行业标准&quot;" target="&quot;小型水力发电站&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水力行业标准 includes guidelines and specifications that affect the setup and operation of 小型水力发电站, ensuring quality and safety."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站&quot;" target="&quot;机组及辅助设备自动化&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"小型水力发电站 are to implement 机组及辅助设备自动化 standards to enhance their efficiency and operational safety."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站&quot;" target="&quot;自动控制系统&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"自动控制系统 is integral to the functioning of 小型水力发电站, automating key operational tasks."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;小型水力发电站&quot;" target="&quot;电站监控系统&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"小型水力发电站利用电站监控系统来监督设备运行状态并确保安全与效率。"</data>
+      <data key="d6">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </edge>
+    <edge source="&quot;小型水力发电站&quot;" target="&quot;自动投入装置&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"小型水力发电站配备自动投入装置以保障在主电源故障时能够无缝切换到备份电源。"</data>
+      <data key="d6">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </edge>
+    <edge source="&quot;小型水力发电站&quot;" target="&quot;水库&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"小型水力发电站利用水库储存的水资源生成电能，依赖水流的动力。"</data>
+      <data key="d6">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </edge>
+    <edge source="&quot;小型水力发电站&quot;" target="&quot;微机防误操作系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"小型水力发电站设置微机防误操作系统以确保操作安全和设备正常运行。"</data>
+      <data key="d6">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </edge>
+    <edge source="&quot;小型水力发电站&quot;" target="&quot;措施&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"措施是为确保小型水力发电站安全与高效运行而制定的操作策略。"</data>
+      <data key="d6">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </edge>
+    <edge source="&quot;机组及辅助设备自动化&quot;" target="&quot;安全自动装置&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"机组及辅助设备自动化 must integrate with 安全自动装置 to ensure operational safety in hydropower systems."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;自动控制系统&quot;" target="&quot;测量信号安全自动装置&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"测量信号安全自动装置 provides critical safety monitoring for the 自动控制系统 in hydropower operations."</data>
+      <data key="d6">chunk-217f9869e3ebf193c27cecff2e3c3623</data>
+    </edge>
+    <edge source="&quot;水轮发电机组&quot;" target="&quot;机组&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"机组的操作状态包括水轮发电机组的运行模式，直接关系到发电效率和安全性."</data>
+      <data key="d6">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </edge>
+    <edge source="&quot;机组&quot;" target="&quot;自动控制装置&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"自动控制装置是机组操作中不可或缺的一部分，负责状态的监控与切换。"</data>
+      <data key="d6">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </edge>
+    <edge source="&quot;机组&quot;" target="&quot;事故停机&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"事故停机流程直接指导机组在事故情况下的响应和操作，确保机组安全。"</data>
+      <data key="d6">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </edge>
+    <edge source="&quot;机组&quot;" target="&quot;紧急事故停机按钮&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"紧急事故停机按钮的设立目的在于提高机组在紧急情况下的反应速度，确保快速有效的停机。"</data>
+      <data key="d6">chunk-f7edcf42b20841230e8a917fc740398c</data>
+    </edge>
+    <edge source="&quot;HYDRAULIC POWER STATION&quot;" target="&quot;CONTROL DEVICE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Hydraulic Power Station implements Control Devices for monitoring and management to ensure efficient and safe operations."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;HYDRAULIC POWER STATION&quot;" target="&quot;EMERGENCY SHUTDOWN&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Hydraulic Power Station has protocols for Emergency Shutdown to address critical failures, safeguarding personnel and equipment."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;HYDRAULIC POWER STATION&quot;" target="&quot;LUBRICATION SYSTEM&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Hydraulic Power Station employs a Lubrication System to keep machinery functioning optimally and reduce wear."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;HYDRAULIC POWER STATION&quot;" target="&quot;EMERGENCY VALVE&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Emergency Valve is installed within the Hydraulic Power Station to provide a rapid shutdown capability in emergencies."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;HYDRAULIC POWER STATION&quot;" target="&quot;OVER-SPEED PROTECTION DEVICE&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The Over-speed Protection Device safeguards the Hydraulic Power Station from potential over-speed damages by shutting down the equipment."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;CONTROL DEVICE&quot;" target="&quot;SYSTEM MONITORING EQUIPMENT&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"System Monitoring Equipment is a vital part of the Control Device, providing essential data to maintain operational integrity."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;CONTROL DEVICE&quot;" target="&quot;SIGNAL SYSTEM&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Signal System operates as part of the Control Device to convey information regarding parameters such as supply status and temperature."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;EMERGENCY SHUTDOWN&quot;" target="&quot;SYSTEM MONITORING EQUIPMENT&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The effectiveness of Emergency Shutdown procedures relies on System Monitoring Equipment to detect issues in real-time."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;SYSTEM MONITORING EQUIPMENT&quot;" target="&quot;SIGNAL SYSTEM&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Signal System relays information gathered by the System Monitoring Equipment, enhancing awareness of operational conditions."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;LUBRICATION SYSTEM&quot;" target="&quot;TEMPERATURE SENSOR&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Temperature Sensor monitors the Lubrication System, ensuring that lubrication components do not overheat during operation."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;PRESSURE MONITORING DEVICE&quot;" target="&quot;CONTROL PANEL&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Pressure Monitoring Device feeds information to the Control Panel, allowing operators to keep track of system pressure status."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;CONTROL PANEL&quot;" target="&quot;MAINTENANCE PROTOCOLS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Control Panel is utilized to implement Maintenance Protocols, allowing for organized management of regular checks and repairs."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;AUXILIARY EQUIPMENT&quot;" target="&quot;SMALL-SCALE HYDROPOWER PLANT&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Small-scale Hydropower Plant often integrates Auxiliary Equipment to support its simplified operations and efficiency."</data>
+      <data key="d6">chunk-5e08767ca21f27c3c402685f2d223b2a</data>
+    </edge>
+    <edge source="&quot;PROGRAMMABLE CONTROLLER&quot;" target="&quot;HYDRAULIC PUMP&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Programmable Controller is utilized to control the operation of the Hydraulic Pump according to specified criteria for valve operations."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;HYDRAULIC PUMP&quot;" target="&quot;PRESSURE OIL TANK&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Hydraulic Pump is necessary to maintain pressure in the Pressure Oil Tank, allowing it to function correctly during system operations."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;HYDRAULIC PUMP&quot;" target="&quot;OIL PRESSURE DEVICE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Oil Pressure Device interacts with the Hydraulic Pump to ensure the correct operation of the hydraulic systems throughout the generators."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;EMERGENCY SHUTOFF VALVE&quot;" target="&quot;CONTROL SYSTEM&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Emergency Shutoff Valve is an integral part of the Control System, responding directly to the commands issued to ensure safety during emergencies."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;EMERGENCY SHUTOFF VALVE&quot;" target="&quot;EMERGENCY SHUTDOWN BUTTON&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Emergency Shutoff Valve can be triggered by the Emergency Shutdown Button, ensuring rapid response to unsafe conditions."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;PRESSURE OIL TANK&quot;" target="&quot;AUTOMATIC SUPPLEMENT VALVE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Automatic Supplement Valve regulates air supply to the Pressure Oil Tank to maintain proper pressure levels essential for system operation."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;CONTROL SYSTEM&quot;" target="&quot;CONTROL ROOM&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Control Room houses the Control System that monitors and executes various operational commands within the power generation framework."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;GENERATOR&quot;" target="&quot;ELECTRIC POWER SYSTEM&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The Generator is a key component within the Electric Power System, converting mechanical energy into electrical power for distribution."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;GENERATOR&quot;" target="&quot;ELECTROMAGNETIC SYSTEM&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Electromagnetic System is crucial for the functioning of the Generator, ensuring energy conversion is efficient and effective."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;CONTROL ROOM&quot;" target="&quot;AUTOMATIC CONTROL DEVICE&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Automatic Control Device is monitored and managed from the Control Room, where safety and performance are overseen."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;CONTROL ROOM&quot;" target="&quot;LEAKAGE DRAIN PUMP&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The status and control of the Leakage Drain Pump are monitored in the Control Room to maintain operational safety and compliance."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;WATER PUMP&quot;" target="&quot;CENTRALIZED WATER SUPPLY&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Water Pump supports the Centralized Water Supply by ensuring adequate flow and pressure for generator operations."</data>
+      <data key="d6">chunk-3bb48c27050f7f64eae59f9522a7133b</data>
+    </edge>
+    <edge source="&quot;电站监控系统&quot;" target="&quot;故障报警信号&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"电站监控系统通过故障报警信号来及时通知操作人员设备的异常状态。"</data>
+      <data key="d6">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </edge>
+    <edge source="&quot;电站监控系统&quot;" target="&quot;用户INTERFACE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"用户interface为电站监控系统提供了人机交互的功能，使得操作人员能实时监控设备状态。"</data>
+      <data key="d6">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </edge>
+    <edge source="&quot;晶闸管桥&quot;" target="&quot;励磁系统&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"晶闸管桥用于控制励磁系统中的电流，确保发电机的输出电压稳定。"</data>
+      <data key="d6">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </edge>
+    <edge source="&quot;励磁系统&quot;" target="&quot;机组开机信号&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"机组开机信号触发励磁系统，以确保发电机组的起动过程顺利进行。"</data>
+      <data key="d6">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </edge>
+    <edge source="&quot;发电机&quot;" target="&quot;晶闸管桥整流元件&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"发电机的运行依赖于晶闸管桥整流元件，以高效转换电流并增强输出性能。"</data>
+      <data key="d6">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </edge>
+    <edge source="&quot;电流互感器&quot;" target="&quot;控制电路&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"电流互感器将测得的电流信号提供给控制电路，以便于实时监控和调节。"</data>
+      <data key="d6">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </edge>
+    <edge source="&quot;报警信号&quot;" target="&quot;焦点监控系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"焦点监控系统通过分析数据，一旦发现异常，便会触发报警信号以提醒操作人员。"</data>
+      <data key="d6">chunk-1b6a2b72bcb061831f2432e1ea965bfc</data>
+    </edge>
+    <edge source="&quot;微机防误操作系统&quot;" target="&quot;电气回路&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"微机防误操作系统用于管理电气回路的操作，以防止误操作。"</data>
+      <data key="d6">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </edge>
+    <edge source="&quot;电气回路&quot;" target="&quot;手动分闸&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"手动分闸是一种重要的安全措施，用于控制电气回路的操作与异常。"</data>
+      <data key="d6">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </edge>
+    <edge source="&quot;电气回路&quot;" target="&quot;权限闭锁&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"权限闭锁确保只有特定授权人员才能进行电气回路的操作。"</data>
+      <data key="d6">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </edge>
+    <edge source="&quot;电气回路&quot;" target="&quot;硬接线闭锁&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"硬接线闭锁提供物理安全，防止未授权操作电气回路。"</data>
+      <data key="d6">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </edge>
+    <edge source="&quot;电气回路&quot;" target="&quot;程序软件闭锁&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"程序软件闭锁用于软件层面上保障电气回路操作的安全性。"</data>
+      <data key="d6">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </edge>
+    <edge source="&quot;自动装置&quot;" target="&quot;电站设备&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"自动装置是电站设备的一部分，用于保障电气回路的安全运行。"</data>
+      <data key="d6">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </edge>
+    <edge source="&quot;断路器&quot;" target="&quot;电站设备&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"断路器是电站设备中关键的保护装置，防止故障造成损害。"</data>
+      <data key="d6">chunk-3f0f863f3d8a903ce4c4a45d4f5153d2</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,2250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ministry of Water Resources of the People's Republic of China is responsible for approving and publishing standards related to water resource management and engineering."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;堤防工程地质勘察规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Regulations on Geological Survey for Flood Control Projects set forth guidelines for geological investigations in flood control engineering, including methods and requirements for quality assurance."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;中国水利水电出版社&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The China Water Resources and Hydropower Press is responsible for publishing and distributing the standard texts associated with water resources engineering."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;长江委长江勘测规划设计研究院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Yangtze River Water Resources Commission and its surveying and planning design institute are involved in the development of regulations for river engineering projects."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;黄河水利委员会勘测规划设计研究院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Yellow River Water Resources Commission's survey and planning design institute participates in geological research and standard development for water engineering."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;珠江水利委员会勘测设计研究院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Pearl River Water Resources Commission's survey and design institute is engaged in geological survey regulations and standard setting for river engineering."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;马贵生&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ma Guisheng is identified as one of the principal drafters of the standard, contributing expertise to its development."&lt;SEP&gt;"Ma Guisheng is noted as a primary author contributing to the drafting and formulation of water resources engineering standards."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;赵日文&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhao Riwen is a principal contributor to the standard, likely with relevant knowledge in the field of water resources engineering."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;冯德顺&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Feng Deshun is involved as a principal drafter of the geological survey regulations, providing professional insight."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;水国科号&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The water science code is a reference number associated with the approval of standard regulations regarding flood control engineering."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;新疆生产建设兵团水利局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Water Resources Bureau of the Xinjiang Production and Construction Corps is responsible for water resource management in the region."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;省自治区直辖市水利水务厅局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The water resources departments of various provinces and autonomous regions are involved in implementing and overseeing water resource regulations."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;各计划单列市水利水务局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The water resource bureaus of separately listed cities play a role in local water management standards related to flood control engineering."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;李广诚&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Li Guangcheng is mentioned as the technical lead for the review meeting, indicating his oversight in finalizing the standards."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;曹阳&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cao Yang is identified as a reviewer of the standard's structure and format, lending expertise to ensure clarity and compliance."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;各附录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The inclusion of various appendices enhances the standard by providing detailed classifications and criteria relevant to geological investigations."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;江河湖海的级级级堤防&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The flood control projects along rivers, lakes, and seas serve as the context in which the geological survey standards apply."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;堤防工程地质勘察报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Reports generated from geological surveys of flood control projects that document findings and compliance with standards."&lt;SEP&gt;"The 堤防工程地质勘察报告 is a report detailing geological investigations and evaluations related to flood control engineering, highlighting various geological conditions and engineering considerations."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af&lt;SEP&gt;chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;大中型涵闸工程地质勘察报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Reports specifically focused on geological investigations for medium and large-scale sluice gate projects, detailing engineering assessments."&lt;SEP&gt;"The 大中型涵闸工程地质勘察报告 outlines geological investigations for large to medium-sized sluice gates, detailing geological conditions and potential engineering issues."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af&lt;SEP&gt;chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;施工地质报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Construction geological reports that compile data and findings necessary for implementation of flood control projects."&lt;SEP&gt;"施工地质报告 is an event that includes the processes and outcomes associated with geological investigations during construction, detailing geological conditions and issues."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1&lt;SEP&gt;chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;土的分类&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Soil classification includes the categorization and standards for differentiating types of soil encountered during geological surveys."&lt;SEP&gt;"土的分类 is an event that involves the categorization of soil types based on their particle size and composition, which is crucial for geological understanding."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1&lt;SEP&gt;chunk-31eef0146ced7508bc65255489c0e8bd</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;分散性土的判别标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Standards for determining the characteristics and classifications of dispersive soil, relevant to geological investigations."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;土的渗透变形判别&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The criteria for assessing soil permeability and deformation, critical for understanding geological conditions in construction."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;堤基和堤岸工程地质条件分类&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Classification of geological conditions related to embankments and riverbanks, forming a core part of the standard."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;二五年四月十八日&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The date marking the approval or release of the standards related to flood control engineering."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;技术标准制定修订项目计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The plan for creating and revising technical standards specific to water resource engineering."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;水利水电规划设计管理局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Bureau of Water Resources and Hydropower Planning and Design is responsible for overseeing the development and revision of water-related technical standards."</data>
+      <data key="d2">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </node>
+    <node id="&quot;堤防工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"堤防工程 involves the engineering and geological assessments required for the construction of levee systems to protect against water hazards."&lt;SEP&gt;"堤防工程 is associated with flood defense works, specifically focusing on exploration and structural integrity."&lt;SEP&gt;"堤防工程 is described as an engineering project involving geological exploration, water quality testing, and safety measures."&lt;SEP&gt;"堤防工程 refers to a type of project that involves the construction and maintenance of embankments to protect against flooding and erosion."&lt;SEP&gt;"堤防工程 refers to the construction and geology investigation processes involved in building dam structures along river, lake, or reservoir areas."&lt;SEP&gt;"堤防工程涉及对现有堤防的加固、扩建和改建等施工任务，评估其水文地质和工程地质条件。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98&lt;SEP&gt;chunk-abc770ccb5c0437cdbd5096aed0a9f40&lt;SEP&gt;chunk-7db17ef3fa13f5c85ef0ca16b23de7a7&lt;SEP&gt;chunk-b5c3e2e49cd2121cdd5cf11d790ce411&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded&lt;SEP&gt;chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;国家&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"国家 is the overarching governing body that sets standards and regulations relevant to the engineering and geological surveys associated with dam construction."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;水文地质&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水文地质 encompasses the study of geological conditions related to water and its impact on dam construction and stability."&lt;SEP&gt;"水文地质 refers to the study of groundwater and its geological interactions, crucial for construction and engineering assessments."&lt;SEP&gt;"水文地质 relates to the study of the distribution and movement of groundwater in geological settings, which is crucial for engineering assessments."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1&lt;SEP&gt;chunk-c82c4d51351e8fa9eb07e012ef0c04af&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;天然建筑材料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"天然建筑材料 includes naturally sourced materials used for construction, along with their geological characteristics and suitability."&lt;SEP&gt;"天然建筑材料 refers to natural building materials essential for dam projects, whose study is crucial for feasibility assessments."&lt;SEP&gt;"天然建筑材料 represents natural building materials that are evaluated for their suitability in construction projects."</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950&lt;SEP&gt;chunk-c82c4d51351e8fa9eb07e012ef0c04af&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;压渗土料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"压渗土料 is a type of material used in dam construction to prevent seepage and deformation, vital for structural integrity."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;堤防&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"堤防 refers to a structure designed for flood protection, involving various geological assessments and evaluations for its stability."&lt;SEP&gt;"堤防 refers to dams or levees that provide protection against flooding and erosion, crucial in civil engineering projects."&lt;SEP&gt;"堤防 refers to the earthen embankments built alongside rivers, lakes, or reservoirs to prevent flooding and manage water flow."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-17be81b83c21152ce2407e398bd18950&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;土工试验规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土工试验规程 refers to the guidelines and standards governing soil testing procedures essential for evaluating soil properties related to dam construction."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;钻探规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"钻探规程 pertains to the standard practices for drilling investigations needed to assess geological conditions for dam projects."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;地质勘察&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地质勘察 involves geological investigations and surveys required to determine the suitability of sites for dam construction."&lt;SEP&gt;"地质勘察 is the process of investigating geological conditions in a specific area, crucial for the planning and execution of construction projects."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;堤内&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"堤内 refers to the area behind the dam structure, essential for assessing water movement and stability."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;堤外&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"堤外 refers to the water-side area of the dam structure, important for evaluating environmental impacts and stability."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;堤岸&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"堤岸 refers to the bank or shoreline areas that are critical in evaluating flood management and structural integrity."&lt;SEP&gt;"堤岸 refers to the banks adjacent to the dam that are critical for the structural stability of the embankments."</data>
+      <data key="d2">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;封孔&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"封孔 is the process of sealing boreholes after investigations to prevent seepage and ensure the integrity of the dam post-construction."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;分散度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"分散度 refers to the degree to which soil particles are distributed in a mixture, critical in evaluating soil properties for dam construction."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;比重&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"比重 indicates the density of soil materials, which is important for understanding soil stability and behavior under load conditions."&lt;SEP&gt;"比重 signifies the specific gravity of soil, a crucial parameter in soil mechanics and engineering."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;孔隙率&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"孔隙率 refers to the volume of voids in soil, impacting drainage and stability in dam engineering."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;精确性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"精确性 refers to the accuracy required in geological assessments to ensure safe dam construction and operation."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;险情隐患&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"险情隐患 refers to potential geological hazards that may pose risks during construction, necessitating thorough investigation and monitoring."&lt;SEP&gt;"险情隐患 refers to potential risks and hazards associated with dam construction and the geological conditions that may lead to failures."&lt;SEP&gt;"险情隐患包括可能导致工程失败的潜在风险和不安全因素，需要提前识别和处理。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98&lt;SEP&gt;chunk-abc770ccb5c0437cdbd5096aed0a9f40&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;水文地质条件&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水文地质条件 encompasses the specific geological factors relating to water presence that affect dam design and safety."&lt;SEP&gt;"水文地质条件 refers to the hydrogeological conditions that influence groundwater behavior and must be assessed during engineering projects."&lt;SEP&gt;"水文地质条件包括地下水位和流动情况，对工程设计有直接影响。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98&lt;SEP&gt;chunk-abc770ccb5c0437cdbd5096aed0a9f40&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;规划阶段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"规划阶段 describes the planning phase of dam construction where site suitability and geological assessments are conducted."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;可行性研究阶段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"可行性研究阶段 involves assessing the feasibility of a project based on geological and hydrological studies."&lt;SEP&gt;"可行性研究阶段 involves the feasibility studies evaluating geological conditions before proceeding with dam construction."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;初步设计阶段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"初步设计阶段 is the initial design phase that considers geological parameters to inform construction plans."&lt;SEP&gt;"初步设计阶段 refers to the preliminary design stage in the dam construction project, where initial plans are developed based on geological assessments."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;闸基险情隐患&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"闸基险情隐患 refers to specific hazards associated with the foundation of the sluice gates that require assessment during construction."</data>
+      <data key="d2">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;闸址区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"闸址区 denotes the specific area designated for the sluice gates, which is critical in detailing geological conditions."&lt;SEP&gt;"闸址区 refers to the specific location area where dam structures are evaluated in terms of geological conditions related to construction."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1&lt;SEP&gt;chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </node>
+    <node id="&quot;涵闸工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"涵闸工程关注对涵闸基础的地质条件调查以及应对的险情隐患分析。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;天然建筑材料勘察&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"天然建筑材料勘察旨在了解建筑材料的类型与储量，为工程提供可行材料。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;区域构造稳定性&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"区域构造稳定性是指区域内地质结构的稳固程度，对工程影响重大。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;工程地质问题&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"工程地质问题 refers to issues related to geological conditions that need to be investigated and analyzed during construction projects."&lt;SEP&gt;"工程地质问题指在建设过程中可能遇到的地质风险与不良影响，需经过仔细评估和管理。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98&lt;SEP&gt;chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;护坡方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"护坡方案是为了加固堤岸而设计的具体措施，确保堤岸的稳定性和安全性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;施工地质&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"施工地质 is an event involving geological work related to the construction and evaluation of civil engineering projects, ensuring stability and safety."&lt;SEP&gt;"施工地质是指施工过程中所需面对的地质条件，影响工程的具体执行。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98&lt;SEP&gt;chunk-17be81b83c21152ce2407e398bd18950</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;微地貌&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"微地貌是指区域内小尺度的地形变化，对工程设计有细微影响，需要特别关注。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;土层成因&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土层成因指地质构造的形成过程，对施工及材料选择具有重要参考价值。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;地下水类型&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地下水类型涉及不同的水源特性，关系到水位和土壤特性，对施工有直接影响。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;物理地质现象&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"物理地质现象包括地质过程中出现的各种物理特征，对工程有潜在影响。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;历史地震情况&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"历史地震情况涉及区域内的震动记录，是评估地质稳定性的重要依据。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;土岩接触面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土岩接触面是指土层与岩层的交界，理解其特性对工程至关重要。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;抗震参数&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"抗震参数用于评估在地震发生时建筑物的安全性，是工程设计中的重要考量。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;构造稳定性&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"构造稳定性关系到工程区的整体安全性，需要在设计中充分考虑。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;特殊土层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"特殊土层 refers to specific layers of soil that have unique properties which are significant in the construction and assessment process."&lt;SEP&gt;"特殊土层包括某些具有独特物理或化学特性的土层，对工程性能有重要影响。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98&lt;SEP&gt;chunk-17be81b83c21152ce2407e398bd18950</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;地表水与地下水的关系&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地表水与地下水之间的相互作用影响水位及其化学成分，是工程设计的一部分。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;腐蚀性&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"腐蚀性指对材料，尤其是混凝土的侵蚀程度，会影响工程耐久性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;安全性评价&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全性评价是对工程在不同条件下的整体安全状况进行的评估，确保工程的可靠性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;地震动参数&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地震动参数是用来描述地震强度和对建筑影响的重要指标。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;灌溉设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"灌溉设施是与水资源管理相关的工程设施，影响周边生态与水文条件。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;环境影响评价&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境影响评价涉及对工程可能产生的环境影响的分析和评估，为可持续发展提供依据。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;工程验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程验收是对工程质量和符合性进行的最终审核流程，确保项目的完工质量。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;施工风险分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工风险分析用于评估在施工阶段可能遇到的各种风险，包括地质和环境因素。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;资源管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"资源管理是指对建筑材料与天然资源的有效利用与优化配置。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;项目规划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目规划是指对整个建设项目的设计、安排与实施进行的系统策划。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;土力学性质&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土力学性质描述土层在应力作用下的反应，是工程设计的重要参数。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;变迁记录&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"变迁记录对区域历史环境变化的记录，为后续的工程提供了重要参考。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;施工任务&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工任务是指为完成项目而具体定下的各项施工内容与方向。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;结构设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"结构设计是建筑工程中对整体结构进行合理安排和设计的过程，对安全性至关重要。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;质量控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量控制是确保工程按照标准实施的关键过程，涉及材料和施工的各个环节。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;技术标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术标准是指导工程施工、材料使用和质量验收的规范。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;安全措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全措施 indicates the safety measures implemented to prevent structural failures in engineering projects."&lt;SEP&gt;"安全措施是为保障施工和运营中的人员及设备安全而采取的具体措施。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98&lt;SEP&gt;chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;工程管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程管理是对整个建设过程进行监督和管理的活动，确保项目按时完成。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;可行性研究&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"可行性研究 involves feasibility studies conducted prior to the execution of engineering projects to assess practical requirements and constraints."&lt;SEP&gt;"可行性研究是对项目实施的可行性进行全面评估，以判断是否继续推进。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98&lt;SEP&gt;chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;设计方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设计方案是详细描绘项目建设过程中各个部分的实施步骤的计划。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;建设投资&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建设投资是项目实施前期的资金投入，影响工程的启动和完成。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;施工计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工计划是对各项施工活动的安排，确保项目的顺利进行。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;技术评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术评估是对采用技术的有效性及其对项目影响进行分析的重要环节。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;审查流程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"审查流程是指对项目设计与实施进行审核的重要程序。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;环境保护措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护措施是对施工中潜在环境影响的应对与管理，确保绿色施工。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;气候因素&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"气候因素影响地质稳定性与水文条件，是项目规划中的一项重要考量。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;技术指导&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术指导为施工团队提供专业技术支持，以确保工程顺利实施。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;施工进度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工进度评估是对项目实施情况的监控，是确保按时完成的重要措施。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;合同管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合同管理是对项目中各方权利和义务进行有效管理，维护项目利益。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;造价控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"造价控制是对项目支出进行管理，确保投资效果和经济性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;规章制度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"规章制度为工程施工提供法律和道德约束，确保施工合规。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;安全评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全评估是对工程潜在安全隐患的全面分析，确保施工安全。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;研究方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"研究方法是进行地质勘察和分析时采用的科学技术手段。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;周边环境&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"周边环境包括施工区域周围的地质和水文特征，对工程设计产生影响。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;地质勘察技术&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地质勘察技术用于收集和分析地质信息，以支持工程设计决策。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;公用设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"公用设施是指工程建设中与公共服务有关的基础设施，为区域发展提供支持。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;建筑规格&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建筑规格详细描述项目建设的标准和要求，确保工程的质量与安全。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;利益相关者&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"利益相关者是指对项目施加影响的各方，包括政府、社区和承包商等。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;监督机制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监督机制是确保项目执行按照既定标准进行的重要程序之一。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;评估指标&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"评估指标是对项目进行综合考量的标准，影响项目评估的结果。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;可持续发展目标&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"可持续发展目标关注工程项目对环境及社会的长远影响，推进绿色建设。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;施工人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"施工人员是直接参与施工活动的个体，负责具体施工任务的实施。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;项目团队&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"项目团队负责整体工程的策划与执行，包括设计师、工程师和管理者等。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;承包商&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"承包商负责具体的施工任务，确保按照规定完成工程的各个环节。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;监理单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监理单位负责对施工质量和进度进行监督，确保项目符合标准。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;评审小组&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"评审小组负责对工程设计和执行的各个方面进行评审和审核。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;政策法规&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"政策法规提供项目实施的法律框架和指导，确保合规性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;供应商&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"供应商负责工程所需材料的提供，对工程进度和质量产生直接影响。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;地方政府&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"地方政府对项目的审批及审查起到重要作用，是工程执行的重要参与方。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;环境保护组织&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"环境保护组织关注项目实施对自然环境的影响，推动绿色发展。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;科研机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"科研机构提供技术支持和专业研究，帮助提升工程的科学性与技术性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;区域社区&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"区域社区是受工程影响的利益相关方，应参与项目规划与实施过程。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;评估机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"评估机构负责对项目的各项指标进行评估，确保其科学合理性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;物业管理公司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"物业管理公司在项目完成后负责对设施的维护和管理，确保其正常运行。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;水务局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水务局负责监督执法与水资源管理，对工程的水文研究起到重要支持作用。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;安全生产监督管理局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"安全生产监督管理局负责对施工过程中的安全进行监督与管理。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;建设行政主管部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"建设行政主管部门负责对建设项目的审核与实施情况进行管理。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;气象局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"气象局为施工提供气候相关的数据与预测，影响工程设计与实施。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;研究实验室&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"研究实验室提供必要的科研支持与实验，确保项目科学性与可行性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;水利工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利工程是指涉及水资源管理与利用的建设项目，对环境影响较大。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;地质勘察团队&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"地质勘察团队专门负责现场地质情况的调查与研究，支持工程决策。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;建设行业协会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"建设行业协会关注行业发展，为行业内各参与方提供合作与支持。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;土木工程专业&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"土木工程专业为项目提供设计与技术方案，是工程成功的重要保障。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;土木工程师&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"土木工程师负责设计和管理建设项目，确保结构的安全与有效性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;环境评估专家&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"环境评估专家分析项目对自然环境的影响，保证可持续发展。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;项目经理&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"项目经理全面负责项目的管理与协调，确保各方按计划实施。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;意见领袖&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"意见领袖在项目的策划与实施中传达利益相关者的期望和需求。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;设计师&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"设计师负责绘制图纸和设计方案，确保项目符合需求与监管标准。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;合规审查员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"合规审查员负责检查项目的合规性，保障工程在法律框架内进行。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;监理工程师&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"监理工程师监督施工过程，以确保工程质量和进度符合要求。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;档案管理员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"档案管理员负责整理和保存项目相关的所有文件与记录，以备查阅。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;的环境地质问题&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"的环境地质问题是指涉及环境影响的地质情况，对项目评估和设计具有直接影响。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;堤岸防护段&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"堤岸防护段为保护堤岸而建立的设施，需要进行水文与地质条件的评估。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;河 湖变迁&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"河 湖变迁指水体变化的过程，对周边地质和水文条件有影响。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;调查方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"调查方案为确定地质勘察及数据收集的方式与方法，确保信息的准确性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;勘察报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"勘察报告包含对勘察结果的总结与分析，为后续设计提供依据。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;技术支持&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术支持为项目实施提供必要的专业指导与干预，提升项目成功率。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;验收标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收标准为工程完成后的审核提供必要的基准，确保合规性与安全性。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;施工方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工方案 refers to the construction plan that must align with geological conditions observed and evaluated during investigations."&lt;SEP&gt;"施工方案是详细列出施工步骤与要求的文件，确保项目按计划执行。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98&lt;SEP&gt;chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;资金筹集&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"资金筹集是确保项目实施的前提，关系到工程的顺利推进。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;施工阶段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工阶段是项目进行的核心阶段，涉及具体的实施与管理活动。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;材料采购&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"材料采购为施工提供必要的原材料，影响工程进度。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;验收流程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收流程是评估项目完成情况的重要步骤，确保符合预定标准。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;社会责任&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"社会责任是强调在工程项目中对社区与环境的影响与应对。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;后期维护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"后期维护是指对已完成工程进行的定期检查和修复工作，确保设施长期安全使用。"</data>
+      <data key="d2">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </node>
+    <node id="&quot;闸&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"闸 is a type of hydraulic structure used to control water flow, requiring detailed geological investigation and assessment for stability and safety."</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;地下水&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地下水 refers to groundwater resources being analyzed for quality and stability in relation to engineering projects."&lt;SEP&gt;"地下水 refers to groundwater that can be affected by surface conditions, and it plays a vital role in the engineering and geological assessment process."&lt;SEP&gt;"地下水是土壤和建筑物周围存在的一种重要水体，其水质分析对于评估混凝土腐蚀性至关重要。"</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950&lt;SEP&gt;chunk-b5c3e2e49cd2121cdd5cf11d790ce411&lt;SEP&gt;chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;地表水&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地表水 refers to surface water resources which are evaluated for their interaction and quality in relation to construction projects."&lt;SEP&gt;"地表水指的是地表可见的水体，其水质分析也是评估环境影响的重要指标。"</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950&lt;SEP&gt;chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;古河道&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"古河道 refers to ancient river channels being assessed for stability and influence on construction projects."&lt;SEP&gt;"古河道 refers to ancient riverbeds that can influence geological assessments along dam lines in terms of stability and potential risks."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-17be81b83c21152ce2407e398bd18950</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;堤基&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"堤基 refers to a foundation or embankment structure that is built to hold back water and prevent flooding."&lt;SEP&gt;"堤基 refers to the foundation of the flood defense structure, which is assessed for its geological properties to ensure stability."</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950&lt;SEP&gt;chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;基岩&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"基岩 refers to the bedrock underlying surface materials, significant in assessing stability and geological conditions for construction projects."&lt;SEP&gt;"基岩 refers to the bedrock underlying the flood defenses, which is critical in evaluating stability and groundwater interactions."</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950&lt;SEP&gt;chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;物理力学性质&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"物理力学性质 refers to the physical and mechanical properties of soil and rock that are essential for assessing stability of structures."</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </node>
+    <node id="&quot;滑坡&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"滑坡 refers to a specific event of landslides, which are critical geological risks considered in construction projects."&lt;SEP&gt;"滑坡 refers to landslides that can impact the integrity and safety of both 堤防 and 闸 structures."&lt;SEP&gt;"滑坡 refers to landslides which may pose risks and require exploration during the engineering assessments."&lt;SEP&gt;"滑坡指的是土壤在倾斜坡面上的下滑现象，其发生与土壤水分和土质密切相关，对工程安全构成威胁。"</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950&lt;SEP&gt;chunk-7db17ef3fa13f5c85ef0ca16b23de7a7&lt;SEP&gt;chunk-61b0b56e459932d19dccc67bee7087a8&lt;SEP&gt;chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;抗滑稳定&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"抗滑稳定 is a concept related to the prevention of sliding in slopes, crucial for the safety of堤防 and 闸."&lt;SEP&gt;"抗滑稳定 refers to the stability against sliding failure, a critical consideration in slope and foundation design."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-17be81b83c21152ce2407e398bd18950</data>
+    </node>
+    <node id="&quot;冲刷坑&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"冲刷坑 refers to erosion pits that can compromise the structural integrity of flood defenses and require ongoing assessment."</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;淤积物&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"淤积物 refers to sediment deposits that can affect water flow and the functioning of hydraulic structures like 闸."</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;环保措施&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环保措施 refers to environmental protection measures taken during construction to minimize negative impacts on the ecosystem."</data>
+      <data key="d2">chunk-17be81b83c21152ce2407e398bd18950</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;施工地质日志&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工地质日志 is a record of important geological phenomena and conditions encountered during construction, essential for project management and safety."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;减压井&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"减压井 is a specific type of mining or engineering practice that helps manage groundwater levels and geological conditions during construction."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;历史险情&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"历史险情 encompasses past hazardous events that have been documented and influence current engineering safety practices."&lt;SEP&gt;"历史险情 refers to past incidents related to geological hazards that have affected construction projects, providing important context for current projects."&lt;SEP&gt;"历史险情 refers to the historical risk events that have occurred, which inform current engineering practices."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40&lt;SEP&gt;chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;土岩层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土岩层 refers to the layers of soil and rock that are analyzed during construction to understand their characteristics and ensure structural integrity."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;物理力学参数&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"物理力学参数 refers to the physical and mechanical properties of soil and rock, which are crucial for evaluating stability and safety in construction projects."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;施工方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工方法 refers to the techniques and procedures used during construction, which can be impacted by geological factors."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;堤基涵闸&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"堤基涵闸 refers to the foundational structures of embankments, which must be evaluated for their geological suitability during construction."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;回填材料&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"回填材料 refers to materials used to fill excavated areas, requiring geological consideration to ensure stability and safety."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;运行期监测工作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"运行期监测工作 includes activities conducted to monitor geological conditions after construction, vital for ongoing safety assessments."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;工程质量检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程质量检查 entails evaluating the quality of materials and construction practices, crucial for ensuring project safety and compliance."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;勘察阶段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"勘察阶段 is the exploratory phase of a project where various geological assessments and tests are conducted."&lt;SEP&gt;"勘察阶段 refers to the phases of geological investigation that occur before and during construction to assess conditions."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40&lt;SEP&gt;chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </node>
+    <node id="&quot;地形地貌&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地形地貌 refers to the landscape features of an area that impact construction planning and geological assessments."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;遥感与地震资料&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"遥感与地震资料 refers to remote sensing and seismic data used to gather information about geological conditions prior to construction."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;勘探方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"勘探方法 refers to the techniques employed to explore and analyze geological conditions during construction projects."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;工程名称&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程名称 refers to the specific name or title assigned to a construction project, often reflecting its purpose and scope."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;工程概况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程概况 provides an overview of the project details, including its objectives, scale, and requirements related to geological considerations."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;技术要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术要求 outlines the technical specifications and standards that must be met during construction, influenced by geological findings."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;工期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工期 refers to the duration allocated for the completion of a construction project, which can be affected by geological challenges."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;资源配置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"资源配置 involves the allocation of materials and personnel necessary for construction, which can be influenced by geological investigations."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;工程地质测绘&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程地质测绘 encompasses the mapping and surveying of geological features related to construction, critical for project planning."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;反滤层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"反滤层 refers to the filtering layer used in construction to manage water flow and stabilize soil conditions."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;排水系统&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"排水系统 is a system used to manage groundwater and surface water during and after construction to prevent flooding and erosion."</data>
+      <data key="d2">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </node>
+    <node id="&quot;涵闸&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"涵闸 refers to the sluice gates involved in managing water flow and flood control within the engineering projects described."</data>
+      <data key="d2">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;水文地质试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文地质试验 refers to a series of methods used to evaluate groundwater conditions, important for construction projects."&lt;SEP&gt;"水文地质试验 refers to hydrological geological tests conducted to assess site conditions for engineering applications."</data>
+      <data key="d2">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7&lt;SEP&gt;chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;地质条件&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地质条件 encompasses the geological features and characteristics that affect construction, such as rock types and groundwater conditions."&lt;SEP&gt;"地质条件 refers to the geological conditions that impact construction and engineering decisions in the project."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af&lt;SEP&gt;chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;钻孔&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"钻孔 is the process of drilling holes as part of the exploration and assessment of the engineering build."</data>
+      <data key="d2">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;勘探&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"勘探 refers to the exploration activities conducted to assess conditions for flood defense projects, including geological investigations."</data>
+      <data key="d2">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;防渗&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防渗 refers to the anti-seepage measures implemented in engineering projects to ensure stability and integrity of flood defenses."</data>
+      <data key="d2">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;施工&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工 refers to the construction phase of flood defense works, involving various engineering practices and methodologies."</data>
+      <data key="d2">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;受影响区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"受影响区 refers to areas that will be affected by the flood defense projects, necessitating careful planning and assessment."</data>
+      <data key="d2">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </node>
+    <node id="&quot;孔距&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"孔距 refers to the spacing between drilling holes, which is crucial for effective exploration and assessments in engineering projects."</data>
+      <data key="d2">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;岩土试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"岩土试验 encompasses various tests performed on soil and rock samples to determine their physical and mechanical properties."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;取样与试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"取样与试验 involves the collection and analysis of soil samples to ensure they meet engineering standards."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;原位测试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"原位测试 refers to in-situ methods for testing soil characteristics directly at the site."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;孔径&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"孔径 refers to the diameter of boreholes, which is crucial for various geological and engineering assessments."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </node>
+    <node id="&quot;地下水位&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地下水位 refers to the level at which the ground is saturated with water, important for construction and environmental analysis."&lt;SEP&gt;"地下水位是影响土壤和混凝土环境条件的重要因素，对水质分析有直接影响。"</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01&lt;SEP&gt;chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;细粒土层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"细粒土层 is a type of soil layer characterized by fine particles, affecting the drilling and sampling methods."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </node>
+    <node id="&quot;粗砂&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"粗砂 refers to a type of soil with larger grains that requires specific testing and construction techniques."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </node>
+    <node id="&quot;土样&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土样 are soil samples taken for testing to evaluate their properties and suitability for construction."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </node>
+    <node id="&quot;坑探槽探&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"坑探槽探 refers to exploratory methods used to assess soil and rock conditions at a site."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </node>
+    <node id="&quot;电阻率波速&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"电阻率波速 refers to the speed of seismic waves through rock and soil, used to evaluate sub-surface conditions."</data>
+      <data key="d2">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </node>
+    <node id="&quot;方法试验部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"方法试验部是一个专注于水质分析和混凝土腐蚀性的组织，可能负责相关的研究和建议。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;堤身勘察&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"堤身勘察是一项旨在了解堤身状况的活动，结合多种方法进行评估和分析。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;特殊土勘察&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"特殊土勘察是针对软土和黄土等特殊土壤进行的详细勘察，它涵盖了多种土层特性及其影响评估。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;盐渍土勘察&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"盐渍土勘察专注于调查盐渍土的成因、分布和对植物及建筑物的影响。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;软土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"软土是本文提到的一种土壤类型，具有特定的物理和力学特性，以及对工程建设的挑战。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;黄土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"黄土是另一种特殊土壤类型，其结构、滑坡及湿陷特性在勘察中被详细分析。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;盐渍土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"盐渍土是一种土壤类型，容易受盐分影响，其分布和特性对环境和建筑物有重要意义。"&lt;SEP&gt;"盐渍土是含有较高盐分的土壤，其性质和工程适宜性受到盐分类型和含量的影响。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8&lt;SEP&gt;chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;堤基勘察&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"堤基勘察是与堤身勘察结合进行的活动，旨在评估堤的基础情况和结构稳定性。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;物探&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"物探是堤身勘察中的一种方法，利用物理原理来探测土质和地下结构。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;抗滑稳定性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"抗滑稳定性是评估土壤抵抗滑坡的能力，对于堤身和基础工程非常重要。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;沉降变形特性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"沉降变形特性是土壤在荷载作用下的变形行为，影响其结构安全性。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;十字板剪切试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"十字板剪切试验是一种土壤抗剪强度测试方法，广泛应用于土壤勘察。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;固结试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"固结试验用于测量土壤在施加荷载后沉降和固结的特性，是土壤工程评估的重要工具。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;历史&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"历史指的是过去的事件和发展，涉及堤身和土壤勘察过程中的经验教训。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;气温湿度降水量&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"气温湿度降水量是影响土壤条件和植物生长的重要气象资料，在盐渍土勘察中不可或缺。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;土壤物理力学性质&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"土壤物理力学性质指的是土壤在物理和机械行为下的特性，对工程设计至关重要。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;湿陷性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"湿陷性是指土壤在湿润情况下发生沉降的特性，这对于土木工程有重要影响。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;建筑经验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建筑经验是对在类似土壤条件下已建工程的总结，对未来工程提供重要参考。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;湿陷试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"湿陷试验是测试土壤湿陷特性的方法，以评估其在施工中的风险。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;处理措施&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"处理措施是根据地质评估结果提出的应对策略，以解决发现的问题。"</data>
+      <data key="d2">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </node>
+    <node id="&quot;膨胀土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"膨胀土是指一种在水分变化时会发生体积变化的土壤，主要特征包括胀缩性和对工程基础的影响。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;分散性土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"分散性土是一种易于产生土壤灾害的土壤，通常与水文气象气候、土壤水分状况以及植物生长情况有关。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;冻土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"冻土是指在低温条件下形成的土壤，主要特征包括冻胀性和对工程建设的影响。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;水文资料&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水文资料包括该地区的降雨量、蒸发量等环境因素，对土壤类型和水盐动态有重要影响。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;气候资料&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"气候资料涵盖了影响土壤特性的天气条件，包括气温及其变化，对土壤水分和盐动态有显著影响。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;土壤类型&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土壤类型指的是不同种类的土壤，包括盐碱土、种植带、湿地等，其特性直接影响工程建设及生态环境。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;化学成分分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"化学成分分析是评估土壤性质和工程适宜性的重要实验过程，涉及对土壤成分的深入研究。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;工程地质评价&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程地质评价是对土壤和地质条件进行综合判断，以便提出适宜的工程设计与建设方案。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;人工填土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"人工填土是通过人工方法堆填而成的土壤，通常用于调整地形或基础建设，需评估其稳定性和承载力。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;淤泥&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"淤泥是土壤的一种，通常由水体沉积下来的有机物和细颗粒构成，其特性影响生境和土壤流失。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;土的残余抗剪强度&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土的残余抗剪强度是衡量土壤稳定性的重要指标，影响建筑物和工程的安全性。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;土壤水分状况&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土壤水分状况是指土壤中水分的含量和分布情况，直接影响土壤的物理和化学特性。"</data>
+      <data key="d2">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </node>
+    <node id="&quot;多年冻土层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"多年冻土层 refers to permafrost layers that are characterized by the presence of frozen ground over long periods, impacting engineering decisions in affected areas."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;不良地质现象&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"不良地质现象 include geological issues such as thick underground ice, ice cones, frozen swamps, and thermal melting phenomena that pose risks to construction projects."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;红粘土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"红粘土 is a type of red clay whose characteristics such as distribution, composition, and physical-mechanical properties are critical in geotechnical evaluations."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;建设评估报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建设评估报告 are reports created during phases of planning and design, discussing geological findings and making construction recommendations."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;地下冰&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地下冰 refers to subsurface ice found within permafrost regions, which can affect the stability and drainage of engineering projects."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;冰锥&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"冰锥 are conical structures formed of ice, typically found in permafrost areas, presenting unique geological characteristics that influence construction practices."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;融滑&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"融滑 refers to the phenomenon of melting causing ground instability, particularly in thawed permafrost regions, which can lead to construction hazards."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;融湖塘&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"融湖塘 are small lakes that form from melting ice and snow, which can influence groundwater and soil stability in surrounding areas."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;融冻泥流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"融冻泥流 refers to the flow of saturated soil mixed with ice particles, often occurring during rapid thawing and can pose risks to infrastructure."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;寒冻裂隙&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"寒冻裂隙 are fissures that develop in frozen ground, which may affect the integrity of structures built in permafrost regions."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;物质组成&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"物质组成 refers to the composition of materials in soils and geological structures, critical for understanding their engineering properties."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;天气影响&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"天气影响 pertains to the effects of seasonal changes on geological and engineering evaluations, crucial for planning and construction."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;堤基抗滑稳定&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"堤基抗滑稳定 involves assessing the stability of levee foundations against sliding, a key focus in geotechnical engineering evaluations."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;渗透作用&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"渗透作用 refers to the process of water movement through soil, affecting moisture levels and potential erosion in construction zones."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;冻胀性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"冻胀性 describes the swelling of soil due to freezing, impacting ground stability and the design of engineering structures."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;地基影响&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"地基影响 is concerned with how the geological characteristics affect the foundational support of buildings and other structures."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;边坡稳定性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"边坡稳定性 assesses the stability of slopes in geological formations, crucial for preventing landslides in construction areas."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;土壤含水率&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"土壤含水率 is the measurement of moisture in soil, which directly influences its physical and mechanical properties essential for construction assessments."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;滑塌&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"滑塌 refers to the phenomenon of landslides which can occur due to soil instability, greatly impacting engineering projects in hilly or mountainous areas."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;地质勘察报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地质勘察报告 are documents that summarize geological assessments and findings to guide engineering decisions and project planning."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;围岩&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"围岩 refers to the rock or soil that surrounds a tunnel or similar construction, influencing the engineering approach required for safety."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;地基性能&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"地基性能 includes the structural capacity of the ground to support buildings, essential in evaluating soil and material characteristics."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;建设标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"建设标准 are the benchmarks used for construction practices, ensuring safety and performance in engineering projects."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;工程地质评价标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程地质评价标准 are the specific guidelines for evaluating geological factors that impact engineering practices in construction."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;施工设计阶段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工设计阶段 refers to the phase in construction when planning and design considerations are finalized, often informed by geological evaluations."</data>
+      <data key="d2">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </node>
+    <node id="&quot;工程地质&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程地质 refers to the branch of geology that deals with the application of geological sciences to engineering, including the study of geological conditions and materials."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </node>
+    <node id="&quot;堤身状况&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"堤身状况 describes the condition and characteristics of the levee structure, including its composition, stability, and any potential hazards."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </node>
+    <node id="&quot;渗透变形问题&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"渗透变形问题 pertains to the issues related to seepage and deformation of soil which can affect the integrity of the levee or dam structure."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </node>
+    <node id="&quot;地质现象&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"地质现象 refers to observable geological processes or features that can impact engineering projects, such as erosion, sedimentation, and faulting."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </node>
+    <node id="&quot;施工期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工期 refers to the construction period during which engineering works and associated geological assessments are conducted."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </node>
+    <node id="&quot;技术文件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术文件 refers to technical documents that include specifications, guidelines, and methodologies pertinent to the engineering project."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </node>
+    <node id="&quot;前期勘察&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"前期勘察 refers to preliminary investigations conducted before major engineering works to assess geological conditions and potential challenges."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </node>
+    <node id="&quot;勘察成果&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"勘察成果 consists of the findings and results from geological investigations that inform engineering decisions."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </node>
+    <node id="&quot;图文相符&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"图文相符 emphasizes the importance of ensuring that illustrations and photographs accurately represent the geological conditions discussed in reports."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </node>
+    <node id="&quot;浸水流土&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"浸水流土 refers to the phenomenon of soil being saturated with water and losing its stability, often leading to landslides or collapses."</data>
+      <data key="d2">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </node>
+    <node id="&quot;原始资料与勘察成果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"原始资料与勘察成果 refers to the collection of original data and reports resulting from geological explorations that need to be archived."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;堤基地质结构分类&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"堤基地质结构分类 is a systematic classification event of the geological structure of embankments based on rock and soil distribution at various depths."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;巨粒土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"巨粒土 refers to a type of soil consisting of large particles, which is significant in the context of geological studies and construction engineering."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;粗粒土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"粗粒土 refers to coarse-grained soil types that are typically used in construction and geotechnical applications, known for their drainage properties."&lt;SEP&gt;"粗粒土 refers to coarse-grained soil, which is important for its properties related to permeability and stability in construction projects."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1&lt;SEP&gt;chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;细粒土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"细粒土 is characterized by small particle sizes and is significant in terms of cohesion and water retention, often influencing soil behavior."&lt;SEP&gt;"细粒土 refers to fine-grained soil, known for its cohesion and water retention, affecting construction and geological conditions."&lt;SEP&gt;"细粒土 refers to fine-grained soils that have specific characteristics affecting stability and seepage."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-927310057c1ac471ff33b34b3f2cfea1&lt;SEP&gt;chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;水位&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水位 refers to the level of water, especially in relation to underground water sources, impacting geological and engineering evaluations."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;坍塌&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"坍塌 refers to collapses that can occur in geological structures, relevant for assessing risks in construction areas."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;管涌&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"管涌 is a process associated with quicksand conditions where water and soil particles move together, potentially leading to structural failure."&lt;SEP&gt;"管涌 refers to the phenomenon of water flowing through soil or rock, which can impact stability and require geological assessment."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1&lt;SEP&gt;chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;受力特性&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"受力特性 refers to the stress characteristics of soil or rock, essential for understanding its behavior under various load conditions in construction."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;沉降变形&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"沉降变形 refers to the settlement and deformation of structures due to geological conditions, emphasizing the engineering aspects in projects."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;抗滑&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"抗滑 refers to resistance against sliding, a critical evaluation in geotechnical studies related to stability of slopes and constructions."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;抗冲刷&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"抗冲刷 refers to resistance against erosion, which is typically evaluated in the context of soil and geological assessments."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;边坡稳定&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"边坡稳定 refers to the stability of slopes, an essential factor in ensuring safety in construction and geological studies."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;观察记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"观察记录 refers to documentation of observations made during geological investigations, vital for data collection."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;掘进作业&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"掘进作业 refers to excavation operations that are part of geological studies and construction work, influencing engineering decisions."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;内业计算&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"内业计算 refers to the internal calculations done as part of engineering and geological assessments, crucial for planning and implementation."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;样品保存&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"样品保存 refers to the process of storing geological samples for analysis, significant in geotechnical evaluation."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;工程地质条件&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"工程地质条件 encompasses the geological and physical conditions that impact engineering projects and constructions."&lt;SEP&gt;"工程地质条件 refers to the geological conditions that are relevant and must be considered during construction projects."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;堤内地面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"堤内地面 refers to the ground surface within embankments, which is critical for assessing geological conditions and stability."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;岩石风化带&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"岩石风化带 refers to the weathered layer of rock, impacting its stability and suitability for construction projects."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;特殊土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"特殊土 refers to unique soil types that may present specific challenges during geological and construction evaluations."&lt;SEP&gt;"特殊土 signifies soils with unique properties that require special consideration in engineering practices."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;工程勘察&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程勘察 refers to the geological investigation process conducted prior to construction to assess soil and rock conditions."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;监测数据&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监测数据 are the data collected to monitor geological changes, crucial for safety and project management."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;危险因素&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"危险因素 refers to geological risk factors that can affect the safety and stability of construction projects."</data>
+      <data key="d2">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </node>
+    <node id="&quot;粘性土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"粘性土 is a type of soil characterized by its plasticity and cohesion, often used in the construction of embankments and dams."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;接触冲刷&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"接触冲刷 describes the phenomenon where erosion occurs at the contact point between two different soil layers, particularly during water flow."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;渗透变形&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"渗透变形 describes the deformation of soil due to the movement of water through its voids, affecting its stability and structural integrity."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土 refers to earth or soil, the fundamental material for construction and geotechnical engineering, influencing various structure designs and integrity."&lt;SEP&gt;"土 represents soil in various classifications, crucial for understanding construction conditions and behavior."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;不均匀系数&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"不均匀系数 is a metric used to describe the distribution of particle sizes in granular soils, influencing their hydraulic and structural properties."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;粒径&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"粒径 refers to the size of soil particles, an important factor in determining soil classification and behavior during construction."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;临界水力比降&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"临界水力比降 represents the threshold hydraulic gradient necessary to initiate soil erosion or instability in geotechnical contexts."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;过渡型&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"过渡型 describes transitional soil conditions that exhibit properties between those of fine and coarse soils, impacting drainage and stability."&lt;SEP&gt;"过渡型 represents a transitional type of soil flow that impacts stability and drainage considerations."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;堤高&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"堤高 is the height of the embankment, a critical factor in determining the structure’s ability to withstand floodwaters and pressure."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;临界厚度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"临界厚度 refers to the critical thickness of soil layers that impacts their stability and hydraulic performance."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;式&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"式 refers to the equations or formulas used to calculate soil properties, crucial for engineering design and analysis."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;河流&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"河流 signifies a large natural stream of water, which can affect embankment designs depending on their proximity and flow characteristics."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;防洪&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防洪 refers to the measures and strategies implemented to prevent or reduce the impact of floodwaters on land and structures."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;渗流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"渗流 describes the movement of water through soil, impacting geotechnical stability and engineering practices."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;结构三类&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"结构三类 refers to the classification of various engineering structures, essential in the context of construction and design."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;附录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"附录 indicates supplementary material that provides additional information or context relevant to the primary text."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;根据&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"根据 indicates the reliance on established principles or formulas for soil and construction analysis."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"条件 refers to the various parameters and factors affecting soil stability and construction integrity."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"试验 refers to testing procedures used to determine soil properties essential for safe construction and design."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;经验&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"经验 denotes knowledge or insights gained from past practices, critical in geotechnical decision-making."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;变化&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"变化 signifies changes in soil properties or conditions, which are vital in evaluating construction safety."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;设置&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设置 refers to the configurations or arrangements necessary in construction designs for optimal performance."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;性质&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"性质 relates to the characteristics of soils and materials that determine their behavior in construction applications."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;影响&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"影响 denotes the effects that various factors have on soil stability and construction outcomes."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;分布&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"分布 refers to the way soil or material characteristics are arranged in a given area, important for analysis."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;流土型&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流土型 describes a type of soil behavior where saturation leads to flow failure, impacting stability."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;诱导&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"诱导 indicates the inducement of certain soil behaviors during construction processes."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;效应&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"效应 refers to the impact of specific conditions or treatments on soil behavior, critical in geotechnical engineering."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;流失&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流失 describes the loss of soil material, which can pose significant challenges to structural integrity."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;土的孔隙率&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"土的孔隙率 refers to the voids in soil that affect its capacity to hold water and its overall behavior."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;地基&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地基 signifies the foundational layer on which structures are built, crucial for stability."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;颗粒含量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"颗粒含量 quantifies the proportion of particles in different size categories within a soil sample."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;调查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"调查 indicates the process of examining soils to gather data essential for construction and engineering."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;测量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测量 refers to the act of determining soil properties quantitatively for accurate assessments in constructions."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;层&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"层 signifies the different stratified layers within soil which impact drainage and stability."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;实验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实验 refers to tests conducted to analyze and confirm soil properties before construction."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;质量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量 reflects the overall properties and characteristics of materials used in construction."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;失败&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"失败 represents the collapse or dysfunction of structures due to insufficient soil integrity."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监测 describes the ongoing observation of soil properties during and after construction for safety assessments."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;构造&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"构造 indicates the design or arrangement of structural elements crucial for stability."</data>
+      <data key="d2">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </node>
+    <node id="&quot;堤基工程地质条件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"堤基工程地质条件 refers to classifications and evaluations relevant to the geological conditions of dam foundations, crucial for ensuring structural integrity."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;堤岸工程地质条件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"堤岸工程地质条件 describes the classifications and assessments of soil and water conditions affecting the stability of riverbank structures."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;古冲沟&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"古冲沟 indicates ancient channels that play a role in the geological evaluation of dam foundation conditions."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;安全系数&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全系数 represents a numerical value used to determine the safety margins in engineering projects, particularly in dam design."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;土的临界水力比降&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"土的临界水力比降 refers to the critical hydraulic gradient of soil, essential for understanding soil stability under hydraulic conditions."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;颗粒粒径&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"颗粒粒径 refers to the particle sizes in soil, which affect its mechanical properties and behavior under stress."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;渗透系数&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"渗透系数 denotes the coefficient of permeability of soil, essential for evaluating drainage and seepage characteristics."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;抗渗稳定&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"抗渗稳定 indicates the stability against seepage failure, important for water retention structures like dams."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;抗震稳定&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"抗震稳定 refers to the seismic stability of structures, vital for ensuring safety during earthquakes."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;险情&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"险情 refers to hazardous situations or risks that may threaten the integrity and safety of engineering structures."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;沉降问题&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"沉降问题 describes settlement issues that may arise in foundations due to soil behavior under loads."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;工程地质条件分类&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程地质条件分类 refers to the categorization of geological conditions based on their impacts on construction and engineering projects."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;管涌型&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"管涌型 describes a type of soil behavior during hydraulic loading, important in assessing risks in dam design."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;岸坡&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"岸坡 indicates the riverbank slope, a critical area of concern in geotechnical evaluations for stability."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;冲刷能力&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"冲刷能力 assesses the erosive strength of soil against water movement, vital for understanding bank stability."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;岸坡现状&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"岸坡现状 refers to the current condition of the riverbank slope, influencing stability assessments."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;稳定性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"稳定性 describes the ability of structures and soils to maintain their position without failure under loads."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;工程技术&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程技术 refers to the collective technical and engineering disciplines applied in construction projects."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <node id="&quot;标准用词&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"标准用词 outlines the terminology and language standards used within engineering and construction documents."</data>
+      <data key="d2">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;堤防工程地质勘察规程&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The Ministry of Water Resources approves and publishes the regulations that govern geological surveys for flood control projects."</data>
+      <data key="d6">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </edge>
+    <edge source="&quot;堤防工程地质勘察规程&quot;" target="&quot;中国水利水电出版社&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The standard is published and distributed by the China Water Resources and Hydropower Press, which formalizes the regulations."</data>
+      <data key="d6">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </edge>
+    <edge source="&quot;堤防工程地质勘察规程&quot;" target="&quot;长江委长江勘测规划设计研究院&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Yangtze River Commission's design institute contributes to the development and formulation of the geological regulatory standards."</data>
+      <data key="d6">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </edge>
+    <edge source="&quot;堤防工程地质勘察规程&quot;" target="&quot;黄河水利委员会勘测规划设计研究院&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Yellow River Commission's institute collaborates in the creation of geological standards for flood control engineering."</data>
+      <data key="d6">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </edge>
+    <edge source="&quot;堤防工程地质勘察规程&quot;" target="&quot;珠江水利委员会勘测设计研究院&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Pearl River Commission's institute is involved in shaping the standards used for geological investigations in flood control projects."</data>
+      <data key="d6">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </edge>
+    <edge source="&quot;堤防工程地质勘察规程&quot;" target="&quot;马贵生&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Ma Guisheng, as a principal drafter, plays a crucial role in writing and refining the standards for geological surveys."</data>
+      <data key="d6">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </edge>
+    <edge source="&quot;堤防工程地质勘察规程&quot;" target="&quot;赵日文&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Zhao Riwen contributes his expertise as a principal drafter of the geological standards, ensuring professional accuracy."</data>
+      <data key="d6">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </edge>
+    <edge source="&quot;堤防工程地质勘察规程&quot;" target="&quot;冯德顺&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Feng Deshun's involvement as a principal drafter highlights his significant role in the crafting of these regulations."</data>
+      <data key="d6">chunk-31eef0146ced7508bc65255489c0e8bd</data>
+    </edge>
+    <edge source="&quot;堤防工程地质勘察报告&quot;" target="&quot;大中型涵闸工程地质勘察报告&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Both reports focus on geological assessments related to civil engineering infrastructure, specifically addressing flood control and sluice gate conditions."</data>
+      <data key="d6">chunk-c82c4d51351e8fa9eb07e012ef0c04af</data>
+    </edge>
+    <edge source="&quot;施工地质报告&quot;" target="&quot;原始资料与勘察成果&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工地质报告 includes original data and findings from geological investigations that need to be archived, linking the two events."</data>
+      <data key="d6">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </edge>
+    <edge source="&quot;土的分类&quot;" target="&quot;巨粒土&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"土的分类 involves categorizing soil types, including 除了巨粒土, marking a direct relationship as a classification event."</data>
+      <data key="d6">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </edge>
+    <edge source="&quot;土的分类&quot;" target="&quot;粗粒土&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"土的分类 encompasses coarse-grained soil (粗粒土), identifying it as a distinct category in the classification event."</data>
+      <data key="d6">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </edge>
+    <edge source="&quot;土的分类&quot;" target="&quot;细粒土&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"土的分类 includes fine-grained soil (细粒土) as part of its classification system, evidencing the relationship between the event and the soil type."</data>
+      <data key="d6">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;国家&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"堤防工程 must comply with the standards and regulations set by the 国家 for geological investigations and construction practices."</data>
+      <data key="d6">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;水文地质&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水文地质 plays a critical role in evaluating the conditions that affect the design and safety of the 堤防工程."</data>
+      <data key="d6">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;天然建筑材料&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"天然建筑材料 are necessary for the construction processes outlined in the 堤防工程, influencing project feasibility and design."</data>
+      <data key="d6">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;压渗土料&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"压渗土料 is used in the construction of 堤防工程 to mitigate seepage risks, forming a crucial component of the project."</data>
+      <data key="d6">chunk-d9b0c80c4ffa3815021294e6f3b80ded</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;涵闸工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"堤防工程的稳定性和安全性与涵闸工程的实施密切相关，二者需协调考虑."</data>
+      <data key="d6">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;天然建筑材料勘察&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"堤防工程的施工具有与天然建筑材料勘察的结果直接关联，影响材料的选择."</data>
+      <data key="d6">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;减压井&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"堤防工程 may utilize 减压井 to monitor and manage groundwater conditions that could affect the integrity of the embankment."</data>
+      <data key="d6">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;历史险情&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"历史险情 provides critical insights that inform the planning and safety measures for current 堤防工程 projects."</data>
+      <data key="d6">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;涵闸&quot;">
+      <data key="d4">24.0</data>
+      <data key="d5">"堤防工程 includes the construction and assessment of涵闸 as part of the flood management strategy."</data>
+      <data key="d6">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;滑坡&quot;">
+      <data key="d4">21.0</data>
+      <data key="d5">"堤防工程 must account for滑坡 risks and integrate preventive measures in their designs."</data>
+      <data key="d6">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;勘探&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"勘探 activities are integral to the planning and execution of堤防工程 projects, ensuring thorough assessments."</data>
+      <data key="d6">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;防渗&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"防渗 measures are key components implemented within堤防工程 to maintain structural integrity against seepage."</data>
+      <data key="d6">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;施工&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"施工 is directly connected to the execution of堤防工程, depicting the practical aspect of project implementation."</data>
+      <data key="d6">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;可行性研究&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"可行性研究 must be conducted prior to堤防工程 to ensure the projects are viable and practical."</data>
+      <data key="d6">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;水文地质试验&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"堤防工程 incorporates water geological tests to ensure the project's safety and feasibility."</data>
+      <data key="d6">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;岩土试验&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"堤防工程 requires rock and soil tests to assess the materials used in construction."</data>
+      <data key="d6">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;不良地质现象&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"不良地质现象 can impact the design and safety of the 堤防工程, highlighting the need for careful geological analysis."</data>
+      <data key="d6">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;红粘土&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"红粘土's characteristics are essential in planning and executing the 堤防工程 due to its physical properties that may affect stability."</data>
+      <data key="d6">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;建设评估报告&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"建设评估报告 provide necessary geological evaluations and findings that inform decisions made during the 堤防工程 phases."</data>
+      <data key="d6">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </edge>
+    <edge source="&quot;天然建筑材料&quot;" target="&quot;施工地质&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The suitability of 天然建筑材料 is analyzed during the construction geology assessments, impacting project integrity."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;堤防&quot;" target="&quot;施工地质&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"堤防 construction involves detailed geological work to ensure its stability and effectiveness during floods."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;堤防&quot;" target="&quot;古河道&quot;">
+      <data key="d4">12.0</data>
+      <data key="d5">"The assessment of 古河道 is important to evaluate its impact on the stability of 堤防 constructions."&lt;SEP&gt;"The presence of ancient riverbeds can affect the engineering considerations for dam foundations and stability."</data>
+      <data key="d6">chunk-897065ee3c951752d6b6d4e51e17b04c&lt;SEP&gt;chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;堤防&quot;" target="&quot;堤基&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The stability and condition of 堤基 directly affect the effectiveness and safety of the 堤防 structure."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;堤防&quot;" target="&quot;滑坡&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"滑坡 events pose a risk to the stability of the 堤防, necessitating geological evaluations and preventive measures."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;堤防&quot;" target="&quot;冲刷坑&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"冲刷坑 can undermine the structural integrity of the 堤防, requiring monitoring and remediation efforts."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;堤防&quot;" target="&quot;堤基工程地质条件&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"堤基工程地质条件 assessments directly inform the design and safety evaluations for dams, ensuring structural integrity."</data>
+      <data key="d6">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </edge>
+    <edge source="&quot;堤防&quot;" target="&quot;堤岸工程地质条件&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"堤岸工程地质条件 guarantees the stability of banks where dams are constructed, crucial for flood control."</data>
+      <data key="d6">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </edge>
+    <edge source="&quot;堤防&quot;" target="&quot;古冲沟&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Ancient channels may influence the geological assessments necessary for dam safety and structural integrity."</data>
+      <data key="d6">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </edge>
+    <edge source="&quot;堤防&quot;" target="&quot;安全系数&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"安全系数 is utilized in the design of dam structures to determine the necessary safety measures against potential failures."</data>
+      <data key="d6">chunk-897065ee3c951752d6b6d4e51e17b04c</data>
+    </edge>
+    <edge source="&quot;地质勘察&quot;" target="&quot;工程地质问题&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"地质勘察 is essential for identifying and understanding the 工程地质问题 that might arise during construction."</data>
+      <data key="d6">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </edge>
+    <edge source="&quot;水文地质条件&quot;" target="&quot;涵闸工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"涵闸工程的成功实施离不开对水文地质条件的评估与控制."</data>
+      <data key="d6">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </edge>
+    <edge source="&quot;水文地质条件&quot;" target="&quot;区域构造稳定性&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"区域构造稳定性和水文地质条件共同影响工程安全与设计决策."</data>
+      <data key="d6">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </edge>
+    <edge source="&quot;可行性研究阶段&quot;" target="&quot;初步设计阶段&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"可行性研究阶段 informs the初步设计阶段 by providing data on geological conditions."</data>
+      <data key="d6">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </edge>
+    <edge source="&quot;涵闸工程&quot;" target="&quot;区域构造稳定性&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"涵闸工程设计需要考虑区域构造的稳定性，以防止潜在的地质风险."</data>
+      <data key="d6">chunk-a6fef3fa2548346832699d1658468b98</data>
+    </edge>
+    <edge source="&quot;工程地质问题&quot;" target="&quot;施工地质日志&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工地质日志 is created to document and analyze the geological problems that arise during engineering projects."</data>
+      <data key="d6">chunk-abc770ccb5c0437cdbd5096aed0a9f40</data>
+    </edge>
+    <edge source="&quot;施工地质&quot;" target="&quot;闸&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The construction and assessment of the 闸 requires geological work to ensure its stability and proper function.</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;施工地质&quot;" target="&quot;基岩&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The condition of 基岩 must be assessed during construction geology work, as it affects stability and water interactions."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;施工地质&quot;" target="&quot;特殊土层&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Assessment of 特殊土层 is critical during geological evaluations for construction projects to ensure stability."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;施工地质&quot;" target="&quot;环保措施&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Environmental protection measures must be integrated into all aspects of施工地质 to mitigate ecological impact."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;闸&quot;" target="&quot;古河道&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The stability of ancient river channels can affect the engineering and safety of the 闸 structure."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;闸&quot;" target="&quot;淤积物&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"淤积物 present at the闸 site can impact its operation and structural integrity, necessitating regular assessments."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;地下水&quot;" target="&quot;地表水&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"地下水 and 地表水 are interconnected resources, and their quality and stability are crucial in the context of civil engineering projects."</data>
+      <data key="d6">chunk-17be81b83c21152ce2407e398bd18950</data>
+    </edge>
+    <edge source="&quot;堤基&quot;" target="&quot;粘性土&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"堤基 is constructed using 粘性土 to form the core and prevent floodwater intrusion."</data>
+      <data key="d6">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </edge>
+    <edge source="&quot;堤基&quot;" target="&quot;粗粒土&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"粗粒土 may be used in the outer layers of 堤基 for improved drainage and stability."</data>
+      <data key="d6">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </edge>
+    <edge source="&quot;滑坡&quot;" target="&quot;地质条件&quot;">
+      <data key="d4">21.0</data>
+      <data key="d5">"滑坡 is influenced by and poses risks to地质条件 during the exploration and engineering processes."</data>
+      <data key="d6">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </edge>
+    <edge source="&quot;历史险情&quot;" target="&quot;地质条件&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"历史险情 provides historical context that affects the present assessment of地质条件 in the engineering projects."</data>
+      <data key="d6">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </edge>
+    <edge source="&quot;勘察阶段&quot;" target="&quot;土样&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"土样 are collected during勘察阶段 to analyze soil properties for construction viability."</data>
+      <data key="d6">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </edge>
+    <edge source="&quot;水文地质试验&quot;" target="&quot;钻孔&quot;">
+      <data key="d4">27.0</data>
+      <data key="d5">"钻孔 is critical to conducting水文地质试验 in order to gather necessary data for the engineering projects."</data>
+      <data key="d6">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </edge>
+    <edge source="&quot;水文地质试验&quot;" target="&quot;取样与试验&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水文地质试验 includes sampling and testing to analyze groundwater quality and conditions."</data>
+      <data key="d6">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </edge>
+    <edge source="&quot;钻孔&quot;" target="&quot;孔距&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"孔距 specifications directly influence the process and efficiency of钻孔 during exploration."</data>
+      <data key="d6">chunk-7db17ef3fa13f5c85ef0ca16b23de7a7</data>
+    </edge>
+    <edge source="&quot;岩土试验&quot;" target="&quot;原位测试&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"岩土试验 is complemented by原位测试 to provide comprehensive data about soil properties."</data>
+      <data key="d6">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </edge>
+    <edge source="&quot;取样与试验&quot;" target="&quot;原位测试&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"取样与试验 methods may involve原位测试 to ensure accuracy in measuring soil parameters."</data>
+      <data key="d6">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </edge>
+    <edge source="&quot;孔径&quot;" target="&quot;地下水位&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"孔径 must be determined based on the地下水位 to ensure effective drilling and sampling methods."</data>
+      <data key="d6">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </edge>
+    <edge source="&quot;孔径&quot;" target="&quot;细粒土层&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"孔径 must be compatible with细粒土层 when conducting tests and drilling operations."</data>
+      <data key="d6">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </edge>
+    <edge source="&quot;粗砂&quot;" target="&quot;电阻率波速&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"粗砂 can impact the电阻率波速, affecting geotechnical assessments during construction."&lt;</data>
+      <data key="d6">chunk-bb64c90197dfa10c7a11411bd980fd01</data>
+    </edge>
+    <edge source="&quot;方法试验部&quot;" target="&quot;堤身勘察&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"方法试验部可能负责进行堤身勘察的水质分析，直接关联其任务与组织活动。"</data>
+      <data key="d6">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </edge>
+    <edge source="&quot;堤身勘察&quot;" target="&quot;特殊土勘察&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"堤身勘察和特殊土勘察都是地质勘查活动，关注土壤特性和稳定性问题，具有相似的目标和方法。"</data>
+      <data key="d6">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </edge>
+    <edge source="&quot;特殊土勘察&quot;" target="&quot;软土&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"soft土是特殊土勘察的关注对象，评估其行为和特性是勘察目的之一。"</data>
+      <data key="d6">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </edge>
+    <edge source="&quot;特殊土勘察&quot;" target="&quot;黄土&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"黄土作为一种特殊土壤类型，需在特殊土勘察中进行分析和评估。"</data>
+      <data key="d6">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </edge>
+    <edge source="&quot;盐渍土勘察&quot;" target="&quot;盐渍土&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"盐渍土勘察专门针对盐渍土的特点和问题，直接关联其研究领域。"</data>
+      <data key="d6">chunk-b8906d09c234703637533d0eee5fa75d</data>
+    </edge>
+    <edge source="&quot;盐渍土&quot;" target="&quot;膨胀土&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"膨胀土的胀缩性及盐渍土的盐胀性均可能对某些工程措施产生重大影响。"</data>
+      <data key="d6">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </edge>
+    <edge source="&quot;盐渍土&quot;" target="&quot;冻土&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"盐渍土的含盐成份和冻土的特性可能共同影响工程地质评价。"</data>
+      <data key="d6">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </edge>
+    <edge source="&quot;膨胀土&quot;" target="&quot;分散性土&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"膨胀土和分散性土的特性及其对工程的影响均与水分状态密切相关，且都是需关注的地质条件。"</data>
+      <data key="d6">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </edge>
+    <edge source="&quot;膨胀土&quot;" target="&quot;冻土&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"冻土的冻胀性与膨胀土的胀缩性可能在寒冷地区的工程中存在类似的影响因素。"</data>
+      <data key="d6">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </edge>
+    <edge source="&quot;分散性土&quot;" target="&quot;冻土&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"冻土在低温条件下的表现与分散性土的生态影响之间可能存在互相关联的特性。"</data>
+      <data key="d6">chunk-61b0b56e459932d19dccc67bee7087a8</data>
+    </edge>
+    <edge source="&quot;多年冻土层&quot;" target="&quot;不良地质现象&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"多年冻土层 is linked to 不良地质现象 as they both describe geological conditions that need to be assessed for construction safety."</data>
+      <data key="d6">chunk-b5c3e2e49cd2121cdd5cf11d790ce411</data>
+    </edge>
+    <edge source="&quot;堤基地质结构分类&quot;" target="&quot;粗粒土&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"堤基地质结构分类 takes into account the distribution and relationship of coarse-grained soil (粗粒土) when classifying embankment geological structures."</data>
+      <data key="d6">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </edge>
+    <edge source="&quot;堤基地质结构分类&quot;" target="&quot;巨粒土&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"堤基地质结构分类 evaluates the presence and combination of large particle soil (巨粒土) in geological structures, linking the two directly."</data>
+      <data key="d6">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </edge>
+    <edge source="&quot;堤基地质结构分类&quot;" target="&quot;细粒土&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"堤基地质结构分类 considers fine-grained soil (细粒土) distribution in the geological context of embankments, establishing a clear connection."</data>
+      <data key="d6">chunk-927310057c1ac471ff33b34b3f2cfea1</data>
+    </edge>
+    <edge source="&quot;粗粒土&quot;" target="&quot;粘性土&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"粗粒土 and 粘性土 interact in the context of construction and stability, influencing the durability of embankments."</data>
+      <data key="d6">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </edge>
+    <edge source="&quot;接触冲刷&quot;" target="&quot;渗透变形&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"接触冲刷 can be a result of 渗透变形, as water movement alters the structural integrity of soil layers."</data>
+      <data key="d6">chunk-4d30d3fc30ff345a3c8cc3894a6d9c02</data>
+    </edge>
+  </graph>
+</graphml>

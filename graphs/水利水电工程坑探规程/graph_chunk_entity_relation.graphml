@@ -1,0 +1,2333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is the governing body that approves standards related to water resources and hydropower engineering in China."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;水利水电工程坑探规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利水电工程坑探规程 is a standard concerning the procedures and regulations for pit exploration in hydropower engineering, aimed at ensuring safety and quality during construction."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;杨计申&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"杨计申 is one of the primary authors involved in drafting the water pit exploration standard."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;贾国臣&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"贾国臣 is one of the primary authors involved in drafting the water pit exploration standard."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;罗继勇&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"罗继勇 is one of the primary authors involved in drafting the water pit exploration standard."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;张奇伟&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"张奇伟 is one of the primary authors involved in drafting the water pit exploration standard."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;杜长青&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"杜长青 is one of the primary authors involved in drafting the water pit exploration standard."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;朱珍燕&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"朱珍燕 is one of the primary authors involved in drafting the water pit exploration standard."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;武登云&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"武登云 is one of the primary authors involved in drafting the water pit exploration standard."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;高义军&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"高义军 is one of the primary authors involved in drafting the water pit exploration standard."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;广西壮族自治区水利电力勘测设计研究院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"广西壮族自治区水利电力勘测设计研究院 is a participating organization in the creation of the water pit exploration standard."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;北京市水利规划设计研究院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"北京市水利规划设计研究院 is a participating organization in the creation of the water pit exploration standard."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;坑探工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"坑探工程 encompasses the overall operations related to pit exploration, focusing on safety and compliance."&lt;SEP&gt;"坑探工程 is an engineering project involving excavation and testing of locations for safety and compliance relating to demolition activities."&lt;SEP&gt;"坑探工程 refers to a specific excavation project that follows regulations and includes various phases from preparation to completion, ensuring safety and quality."&lt;SEP&gt;"坑探工程 refers to the excavation processes involved in geological exploration through pit, trench, and well techniques, essential for assessing subsurface conditions in hydropower engineering."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc&lt;SEP&gt;chunk-562b2cf14e57df610a632e8b47326b16&lt;SEP&gt;chunk-7d5cdd3a45aa679abc872c5132a1502d&lt;SEP&gt;chunk-43a424d45a9372795ab457b07a0738b9</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 18}]</data>
+    </node>
+    <node id="&quot;爆破工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"爆破工程 encompasses the safety and technical standards for explosive operations in excavation, crucial for effective and safe geological exploration."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;探坑&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"探坑 is the process of excavating a pit, involving specific standards and techniques to ensure effective geological testing and evaluation."&lt;SEP&gt;"探坑 refers to shallow excavations made at the ground surface to investigate geological features, a standard practice in water resources and hydropower projects."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d&lt;SEP&gt;chunk-43a424d45a9372795ab457b07a0738b9</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 18}]</data>
+    </node>
+    <node id="&quot;探槽&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"探槽 is a similar excavation process but focuses on creating a trench, following specific guidelines to secure stability and quality."&lt;SEP&gt;"探槽 pertains to the trenching technique used in geological surveys to expose the underground structures and materials necessary for engineering assessments."&lt;SEP&gt;"探槽 represents a construction event involving excavation, stability, and support mechanisms to ensure safety and compliance with regulations."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d&lt;SEP&gt;chunk-43a424d45a9372795ab457b07a0738b9&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;探硐&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"探硐 denotes the excavation of burrows or tunnels aimed at inspecting geological conditions, specifically applied in hilly or mountainous regions for hydropower projects."&lt;SEP&gt;"探硐 refers to a construction event focused on underground excavation, requiring specific safety and environmental considerations."&lt;SEP&gt;"探硐 refers to the construction event of a tunnel, necessitating stability checks and support mechanisms for safety during construction."&lt;SEP&gt;"探硐 refers to the process of exploratory tunneling and excavation, crucial for geological testing and resource extraction."&lt;SEP&gt;"探硐 refers to the process or event of digging or drilling into the underground, often for geological exploration or resource extraction."&lt;SEP&gt;"探硐 refers to the specific geological site where excavation work is conducted, including safety measures for potential hazards."&lt;SEP&gt;"探硐是用于矿山勘探和开采的竖井，涉及矿石的开采和运输。"</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9&lt;SEP&gt;chunk-43a424d45a9372795ab457b07a0738b9&lt;SEP&gt;chunk-3ae93a2bc61b65682998adfaafa10320&lt;SEP&gt;chunk-4b7ed33f355c1d89aa8c2e63b792ec23&lt;SEP&gt;chunk-229f015c1a635754a76e3282c534c8cb&lt;SEP&gt;chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;探井&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"探井 involves drilling operations that are usually less than 10 meters deep to gather soil samples and analyze subsurface geology."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;施工安全&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工安全 emphasizes the importance of safety measures and responsibilities during construction activities to ensure safe practices."&lt;SEP&gt;"施工安全 encompasses the safety protocols and measures designed to protect workers during excavation projects."&lt;SEP&gt;"施工安全 focuses on the practices and measures employed to ensure safety during construction activities, particularly in excavation."&lt;SEP&gt;"施工安全 refers to the principles and regulations that ensure safety during construction activities, particularly in exploration and excavation projects."&lt;SEP&gt;"施工安全 refers to the safety protocols and measures that need to be followed during the construction process to prevent accidents."&lt;SEP&gt;"施工安全是指在进行沉井开挖和其他相关作业时，确保人员和设备的安全的一系列措施。"</data>
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a&lt;SEP&gt;chunk-7d5cdd3a45aa679abc872c5132a1502d&lt;SEP&gt;chunk-43a424d45a9372795ab457b07a0738b9&lt;SEP&gt;chunk-3ae93a2bc61b65682998adfaafa10320&lt;SEP&gt;chunk-dffa8118e05d67a5446722949ee5e9cc&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;质量验收&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量验收 pertains to the protocols and processes for evaluating the quality of construction works to ensure compliance with established standards."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;水利技术标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水利技术标准 encompasses the technical standards and regulations governing water resources engineering and construction practices for safety and efficiency."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;水工建筑物&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水工建筑物 refers to hydraulic structures built for managing and utilizing water resources, integral to the field of water conservancy."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;岩土分级&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"岩土分级 involves the classification of soil and rock types based on their physical properties, fundamental for accurate geological assessments."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;安全管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全管理 relates to the practices and principles ensuring the safety of operations, particularly in potentially hazardous construction environments."&lt;SEP&gt;"安全管理是确保矿山作业中人员和设备安全的重要措施和制度。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23&lt;SEP&gt;chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;铀矿地质勘查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"铀矿地质勘查 encompasses the exploration and surveying processes specifically aimed at identifying uranium ore deposits and assessing their viability."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;噪声及放射性防护&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"噪声及放射性防护 denotes the guidelines and measures taken to protect personnel from excessive noise and radiation exposure during construction and exploration activities."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;环境保护规定&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境保护规定 outlines the regulations designed to safeguard environmental quality and health in development projects, especially those involving excavation."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;深度不大于的坑&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"深度不大于的坑 defines the specifications for the maximum depth of excavations which are essential for safe geological surveying, particularly in hydropower projects."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;工程地质勘察规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程地质勘察规范 includes the standards and protocols for geological surveys in engineering projects, establishing quality control and methodology."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;施工记录表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工记录表 is a document used to record the details and progress of construction activities."&lt;SEP&gt;"施工记录表 is a documentation form used to record the details and progress of construction work to ensure accountability and quality control."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16&lt;SEP&gt;chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;施工质量验收表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工质量验收表 is a form utilized to evaluate and verify the quality of construction work against the established standards."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;全国现行标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"全国现行标准 refers to the set of currently enforced standards applicable across various engineering and construction projects in China."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;司富安&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"司富安 is identified as the technical head responsible for the review meetings related to the water pit exploration regulations."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;陈登毅&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陈登毅 is recognized as the reviewer of the format and structure of the water pit exploration regulations."</data>
+      <data key="d2">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </node>
+    <node id="&quot;爆破技术&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"爆破技术 refers to the technique of using explosives for excavation, crucial for the process of creating pits and trenches in the construction work."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;施工&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工 refers to the construction process that involves trench and pit excavation, adhering to guidelines to ensure quality and safety."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;施工准备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工准备 includes the necessary planning and gathering of materials before the actual construction work begins."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;最小抵抗线&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"最小抵抗线 refers to a theoretical line used in excavation that indicates the most efficient path of least resistance for blasting or digging."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;炮眼&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"炮眼 are specific drill holes created for the purpose of placing explosives during blasting operations for excavation."&lt;SEP&gt;"炮眼 involves the arrangement and setting of explosive holes for excavation processes, crucial for effective and safe blasting."&lt;SEP&gt;"炮眼 refers to drill holes created for blasting purposes, requiring careful measuring and safety protocols during operation."&lt;SEP&gt;"炮眼 refers to the drilled holes in the rock where explosives are placed during excavation, critical for controlled blasting."&lt;SEP&gt;"炮眼是爆破作业中的预设点，需精准处理以确保爆破效果。"</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d&lt;SEP&gt;chunk-e526ce4703af751d84c7999cbfcce348&lt;SEP&gt;chunk-4b7ed33f355c1d89aa8c2e63b792ec23&lt;SEP&gt;chunk-637fb3b8d27649aecdd9fde9f1fcd987&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;岩土体特征&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"岩土体特征 refers to the geological characteristics of soil and rock that are crucial for determining excavation methods."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;支护措施&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"支护措施 refers to support measures or methods employed to stabilize excavation walls during construction."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;施工组织设计&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工组织设计 is the planning document that outlines the organization and procedures for the construction project, including tasks, methods, and safety measures."&lt;SEP&gt;"施工组织设计 outlines the organizational plan for construction activities, emphasizing safety, environmental considerations, and efficiency during excavation processes."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7&lt;SEP&gt;chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;地质巡视&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地质巡视 involves monitoring geological conditions on-site to ensure safety and compliance with excavation standards."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;爆破材料&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"爆破材料 encompasses the explosives used in mining and construction, subject to strict management for safety."&lt;SEP&gt;"爆破材料 encompasses various materials, including explosives and detonators, required to follow strict regulations in preparation and use."&lt;SEP&gt;"爆破材料 refers to explosives used in demolition and testing, requiring careful handling and destruction procedures."&lt;SEP&gt;"爆破材料 refers to the explosives and blasting materials selected based on rock hardness and excavation requirements, including safety checks prior to use."&lt;SEP&gt;"爆破材料 refers to the explosives and materials used in blasting operations during excavation."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16&lt;SEP&gt;chunk-7d5cdd3a45aa679abc872c5132a1502d&lt;SEP&gt;chunk-14981994b44714f1e86e4fca12f919a3&lt;SEP&gt;chunk-dffa8118e05d67a5446722949ee5e9cc&lt;SEP&gt;chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;施工记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工记录 refers to documentation that details the activities and safety measures taken during construction, essential for accountability and safety compliance."&lt;SEP&gt;"施工记录 refers to the documentation and records kept throughout the excavation process to track compliance and performance."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d&lt;SEP&gt;chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;回填&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"回填 is the process of refilling an excavation with material after testing and data collection is complete."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;现场查勘&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场查勘 involves inspecting and surveying the site to gather necessary information for planning the excavation tasks."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;地形地质水文气象资料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"地形地质水文气象资料 includes crucial environmental data relevant to excavation planning and execution."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;碴土堆放&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"碴土堆放 is the process of managing and storing excavated earth and materials on-site during construction."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;施工标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工标准 refers to the technical and quality standards that all construction activities must adhere to ensure safety and effectiveness."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;施工说明&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工说明 includes documentation detailing the methods and procedures to be used during the excavation process."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;应急预案&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"应急预案 outlines the emergency responses and procedures in place to handle potential incidents during excavation."&lt;SEP&gt;"应急预案 refers to the comprehensive emergency plans established to respond to incidents during excavation."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d&lt;SEP&gt;chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;气象资料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"气象资料 refers to meteorological information relevant to the construction site that can affect excavation work."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;孤石&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"孤石 refers to isolated boulders that may be encountered during excavation and require specific techniques to manage."</data>
+      <data key="d2">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </node>
+    <node id="&quot;凿岩&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"凿岩 encompasses the operation of rock drilling, requiring proper machinery and adherence to operational regulations for safety and efficiency."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;岩体&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"岩体 refers to the geological body or structure being excavated, which plays a vital role in determining excavation techniques and safety measures."&lt;SEP&gt;"岩体 refers to the rock body being excavated, which requires careful assessment and support to prevent collapses during consideration of geological conditions."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;施工过程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工过程 refers to the overall process of construction activities, which must follow various regulations and safety protocols."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;支护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"支护 involves methods employed to support the excavation operations within the well, ensuring safety during the process."&lt;SEP&gt;"支护 involves the support mechanisms used during excavation to maintain stability and safety, crucial in unstable geological conditions."&lt;SEP&gt;"支护 refers to the support measures taken to ensure safety during excavation, influenced by slope and other parameters."&lt;SEP&gt;"支护 refers to the support mechanisms and practices necessary in excavation construction to ensure safety and stability in underground environments."&lt;SEP&gt;"支护指对工作面和轨道进行的结构支持，确保安全和稳定性。"</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348&lt;SEP&gt;chunk-3ae93a2bc61b65682998adfaafa10320&lt;SEP&gt;chunk-4b7ed33f355c1d89aa8c2e63b792ec23&lt;SEP&gt;chunk-dffa8118e05d67a5446722949ee5e9cc&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;稳定性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"稳定性 refers to the quality of being stable or secure, particularly in the context of geological structures during excavation activities."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;隔断&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"隔断 represents partitions or barriers implemented during construction to enhance stability and manage excavation risks."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;保护措施&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"保护措施 includes safety measures taken to ensure the safety of nearby structures during excavation processes."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;机械设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"机械设备 refers to the machinery used in the construction process, which must be maintained to ensure operational safety and efficiency."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;工序&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工序 refers to the series of steps or procedures that must be followed in construction to achieve desired outcomes effectively."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;岩石&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"岩石 refers to the rock formations being excavated and their properties, which impact construction techniques and safety protocols."&lt;SEP&gt;"岩石 refers to the rock formations where blasting operations may take place, affecting the type of explosives used."</data>
+      <data key="d2">chunk-14981994b44714f1e86e4fca12f919a3&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;岩性&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"岩性 describes the characteristics of the rock material involved in the construction process, essential for determining appropriate excavation methods."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;断面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"断面 refers to the cross-section of the excavation area, which is crucial for planning and implementing support measures to ensure structural integrity."&lt;SEP&gt;"断面 refers to the cross-sectional dimensions and shape of excavated areas, impacting the structural integrity of the excavation."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;爆破方法&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"爆破方法 pertains to the techniques used to execute blasting in excavations, critical for efficiency and safety."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;爆破&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"爆破 represents the event of detonating explosives in construction to facilitate excavation processes."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;松动岩石&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"松动岩石 indicates loose rock material that poses risks during excavation and requires careful handling."&lt;SEP&gt;"松动岩石 refers to loose rock formations that require careful management to prevent collapses during excavation activities."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;密集系数&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"密集系数 relates to the spatial arrangement and density of blast holes in excavation processes, affecting blasting effectiveness."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;孔口位置&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"孔口位置 refers to the location of drill holes in relation to the excavation area, essential for successful blasting operations."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;起爆顺序&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"起爆顺序 relates to the sequence in which explosives are detonated, critically impacting safety and effectiveness in blasting operations."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;间距&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"间距 specifies the spacing between drilling or blast holes, which is vital for ensuring effective blasting and minimizing risks."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;探槽壁土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"探槽壁土 refers to the soil or material making up the walls of an excavation, needing stability assessments for safety."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;施工规定&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工规定 encompasses the set of rules and guidelines that govern how construction activities should be conducted, ensuring compliance and safety."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;技术要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术要求 includes the technical specifications and criteria that need to be met during construction processes."&lt;SEP&gt;"技术要求 refers to the specifications and standards that must be met for drilling operations, ensuring safety and efficiency."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;清理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"清理 refers to the act of clearing debris or materials from excavation sites, essential for maintaining safety during construction activities."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;松动&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"松动 indicates the potential looseness of rock or soil that could become a safety hazard during excavation."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;环境影响&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境影响 considers the effects of construction activities on the surrounding environment, emphasizing the importance of sustainable practices."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;设备完好&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设备完好 stipulates the requirement for construction machinery to be in good working condition before commencing work."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;安全措施&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全措施 are protocols established to protect workers during探硐 from potential hazards."&lt;SEP&gt;"安全措施 encompasses the actions taken to ensure safety on construction sites, particularly during excavation activities."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;工作面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"工作面 refers to the active excavation area where construction activities occur during探硐."&lt;SEP&gt;"工作面 refers to the working surface of an excavation site where activities such as drilling or blasting occur."&lt;SEP&gt;"工作面是指矿山作业的具体区域，其中涉及各种爆破和运输活动。"</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb&lt;SEP&gt;chunk-4b7ed33f355c1d89aa8c2e63b792ec23&lt;SEP&gt;chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;岩层面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"岩层面 indicates the layering of rock structures that should be considered during excavation activities."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;上方支撑&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"上方支撑 refers to support mechanisms implemented from above in excavation sites to ensure the upper layers' stability."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;作业条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"作业条件 includes the environmental and situational factors influencing how construction work should be conducted, especially in excavation."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;测定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测定 refers to the process of measuring and assessing conditions or parameters during construction to ensure safety and compliance."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;进出口&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"进出口 refers to the entry and exit points of an excavation site, which are important for access and logistics."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;段落&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"段落 signifies different sections of regulations or guidelines that must be adhered to in the construction process."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"条件 refers to the specific requirements or situations that influence construction methods and safety practices."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;开眼作业&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"开眼作业 pertains to the activity of drilling or creating openings for explosive placement in construction."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;起爆&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"起爆 denotes the action of initiating an explosive event, vital for effective excavation and construction processes."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;顶邦眼&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"顶邦眼 specifies the placement of support or explosive holes at the top of an excavation site to ensure stability."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;底眼&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"底眼 indicates the holes drilled at the bottom of excavation areas, crucial for effective blasting operations."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;空间安排&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"空间安排 relates to the spatial organization of drilling or blast holes in relation to surrounding geological features."</data>
+      <data key="d2">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </node>
+    <node id="&quot;凿岩机械设备&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"凿岩机械设备 refers to the drilling machinery and auxiliary equipment used in rock excavation processes, requiring proper maintenance for safety."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;探硐掘进&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"探硐掘进 is an event that involves the excavation process of tunneling through rock, employing precise techniques and equipment to ensure safety and efficiency."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;岩体结构&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"岩体结构 describes the physical structure and characteristics of the rock that is being drilled through, which influences the excavation methods used."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;钎子&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"钎子 refers to the drilling rods that are used in conjunction with drilling machines, specifically designed for rock excavation with various specifications."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;水源&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水源 refers to the clean water sources required for the operation of drilling machinery, essential for maintaining operational integrity."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;导火线&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"导火线 is the fuse used to ignite explosives, requiring careful inspection for any damages prior to use."&lt;SEP&gt;"导火线 refers to fuses that are utilized for detonating explosives, with guidelines for their handling and condition."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987&lt;SEP&gt;chunk-14981994b44714f1e86e4fca12f919a3</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;雷管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"雷管 refers to detonators that need careful handling during transport and must not be stored with explosives."&lt;SEP&gt;"雷管 refers to the detonators used in blasting operations, which must be checked for insulation and functionality to ensure safe operations."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622&lt;SEP&gt;chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;供水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"供水 involves the provision and management of water necessary for drilling operations, affecting pressure and performance."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;钎头&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"钎头 refers to the tip of the drill, designed for various rock conditions, which directly impacts drilling effectiveness."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;风管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"风管 is the air hose used in pneumatic drills, requiring proper dimensions and integrity to function effectively."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;胶管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"胶管 refers to the rubber hoses used for water transport in drilling, which need to be maintained to avoid leaks and ensure safety."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;钻头&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"钻头 is the drill bit that performs the actual work of cutting into the rock, essential for effective drilling."</data>
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;炸药&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"炸药 is a type of explosive material that should be stored and transported separately from other explosive devices, adhering to strict safety protocols."&lt;SEP&gt;"炸药 refers to explosives used in blasting operations, subject to regulations regarding their condition such as moisture and quality."&lt;SEP&gt;"炸药是用于爆破作业的材料，性质和使用方法需遵循特定规定以确保安全和有效。"</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622&lt;SEP&gt;chunk-4b7ed33f355c1d89aa8c2e63b792ec23&lt;SEP&gt;chunk-14981994b44714f1e86e4fca12f919a3</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;电雷管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电雷管 refers to electric detonators that are used in blasting operations, needing to meet specific conditions for safety and effectiveness."&lt;SEP&gt;"电雷管 refers to electric detonators used in blasting operations, requiring careful handling and specific safety protocols."&lt;SEP&gt;"电雷管是用于爆破的装置，必须按照特定规定进行起爆，以确保安全性和有效性。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23&lt;SEP&gt;chunk-415dd3e2c0dbf51c4c8499b9a491d523&lt;SEP&gt;chunk-14981994b44714f1e86e4fca12f919a3</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;加工房&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"加工房 is a designated area for the safe processing of explosives, ensuring that specific safety precautions are in place."</data>
+      <data key="d2">chunk-14981994b44714f1e86e4fca12f919a3</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;作业人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"作业人员 are the workers involved in the handling and usage of explosives, required to follow safety regulations."</data>
+      <data key="d2">chunk-14981994b44714f1e86e4fca12f919a3</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;煤尘&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"煤尘 refers to coal dust that can create explosive hazards during blasting operations and impacts safety considerations."</data>
+      <data key="d2">chunk-14981994b44714f1e86e4fca12f919a3</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;瓦斯&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"瓦斯 refers to a flammable gas, specifically methane, that poses risks during underground construction and must be managed carefully."&lt;SEP&gt;"瓦斯 refers to flammable gas that poses risks in underground environments, requiring specific safety measures during construction."&lt;SEP&gt;"瓦斯 refers to gas that can pose dangers during blasting, influencing the choice of explosives and methods used."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb&lt;SEP&gt;chunk-415dd3e2c0dbf51c4c8499b9a491d523&lt;SEP&gt;chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </node>
+    <node id="&quot;水炮眼&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水炮眼 refers to blasting holes that contain water, which requires special handling techniques for explosives."</data>
+      <data key="d2">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </node>
+    <node id="&quot;防水处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防水处理 refers to procedures for protecting explosives from water, ensuring their effectiveness and safety in damp conditions."</data>
+      <data key="d2">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </node>
+    <node id="&quot;粘土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"粘土 is a material used in blasting operations, particularly for blocking or increasing friction resistance."</data>
+      <data key="d2">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </node>
+    <node id="&quot;乳胶炸药&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"乳胶炸药 is a type of explosive that can be used in environments without explosive gases, indicating its specific application."</data>
+      <data key="d2">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </node>
+    <node id="&quot;号号硝铵&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"号号硝铵 refers to ammonium nitrate explosives suitable for specific geological conditions."</data>
+      <data key="d2">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </node>
+    <node id="&quot;起爆药&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"起爆药 refers to the initiatory substances used to explode explosives, essential for the blasting operation."</data>
+      <data key="d2">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </node>
+    <node id="&quot;药卷&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"药卷 refers to explosive charges rolled into specific shapes for controlled use in blasting operations."&lt;SEP&gt;"药卷是爆破过程中使用的药剂形式，其直径等参数需符合特定要求。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23&lt;SEP&gt;chunk-14981994b44714f1e86e4fca12f919a3</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;爆破效果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"爆破效果是指在爆破后评估的结果，需在炮烟散去后进行检查。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;瞎炮&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"瞎炮是指未成功爆破的情况，需按照特定规定进行处理。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;露天爆破&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"露天爆破涉及在开放区域进行的爆破作业, 需控制炸药用量和方向以确保周边安全。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;轨道铺设&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"轨道铺设是煤矿作业中固定运输轨道的过程，以保证矿车的安全运输。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;导爆管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"导爆管是一种用于爆破的导线，适用于特殊情况下的起爆作业。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;火雷管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"火雷管 is an explosive device that is strictly prohibited in井内施工 due to safety risks associated with detonations."&lt;SEP&gt;"火雷管是常规起爆器材，文中强调了禁止使用。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23&lt;SEP&gt;chunk-e526ce4703af751d84c7999cbfcce348</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;电桥&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电桥是一种安全检查工具，用于爆破前检查电力线路以确保安全。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;爆破员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"爆破员是负责进行爆破作业的专业人员，需亲自架设线路和处理问题。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;危险距离&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"危险距离是指在爆破作业中，为确保周边安全而需保持的最小距离。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;安全距离&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全距离是在进行爆破作业时确保人员和设备避免伤害的距离标准。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;矿车&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"矿车 refers to mining carts used for transporting materials within excavation sites, requiring careful handling for safety."&lt;SEP&gt;"矿车是用于运输矿石的车辆，其运行必须遵循操作规范以确保安全。"</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc&lt;SEP&gt;chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;机械装岩&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"机械装岩 refers to the mechanized operations for rock loading, enhancing efficiency in excavation work."&lt;SEP&gt;"机械装岩是使用机械设备进行矿石开采和运输的操作过程。"</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc&lt;SEP&gt;chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;人工装岩&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"人工装岩是使用人力进行矿石采集和运输的传统操作方式。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;卸渣道&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"卸渣道是矿石运输后的处理区域，需保持适当坡度以便排渣。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;活动轨道&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"活动轨道是连接固定钢轨与工作面，便于矿车的进出和运输。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;固定钢轨&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"固定钢轨是用于稳定矿车运输轨道的基本设施。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;短路开关&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"短路开关是在电力线路中用来确保安全的重要装置。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;岩堆&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"岩堆是爆破后形成的石头堆，需进行后续处理以保证作业安全。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;安全警戒&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全警戒是用于控制矿车穿越公路时的安全措施，以防发生事故。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;工作安全规定&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工作安全规定是确保矿山作业安全的重要法律和行业标准。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;炮泥&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"炮泥是用于枪口的材料，需小心处理以保证起爆安全。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;电力线路&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电力线路是传输电力以供起爆设备使用的重要设施。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;高差&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"高差是指轨道之间的高度差，影响矿车的运行安全和稳定性。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;测量工具&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"测量工具是用于检查和确保作业区域安全和精确度的设备。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;工作班&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工作班由特定人员组成，负责具体的工矿操作和安全管理。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;炮工&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"炮工是负责爆破作业的人员，需具备专业知识和技能执行任务。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;爆破器材&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"爆破器材 encompasses all materials and equipment designed for explosive purposes, requiring safe handling and disposal."&lt;SEP&gt;"爆破器材 refers to explosives and related materials that must be handled according to safety regulations during inspection, transportation, storage, and destruction."&lt;SEP&gt;"爆破器材 refers to explosives and related materials used in demolition and mining operations, managed under strict regulations for safety."&lt;SEP&gt;"爆破器材是进行各种爆破作业所需的器具和材料，需妥善管理。"</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622&lt;SEP&gt;chunk-4b7ed33f355c1d89aa8c2e63b792ec23&lt;SEP&gt;chunk-562b2cf14e57df610a632e8b47326b16&lt;SEP&gt;chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;轨道接头&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"轨道接头是轨道系统中的连接部位，需保持平整以确保车辆运行安全。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;电绝缘&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电绝缘是在爆破作业中防止电流意外流动的重要手段。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;延期雷管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"延期雷管是一种起爆材料，使用时需遵循特定的顺序和规定。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;串联要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"串联要求是在电雷管使用中需遵循的电压和线路标准。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;电流要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电流要求是在电力系统中操作时需满足的电流强度标准。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;管道铺设&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"管道铺设是矿山作业中设置传输管线的过程，以确保资源的有效运输。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;延迟爆破&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"延迟爆破是指在特定时间后进行爆破的方式，以达到更好的效果。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;反向起爆&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"反向起爆是爆破作业中的一种方法，以特定的方式引爆炸药。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;光面爆破&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"光面爆破是在特定表面进行的爆破作业，需遵循详细的技术标准。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;爆破方向&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"爆破方向是指在进行爆破时需控制的炸药发力方向，影响爆破效果。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;维护&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"维护是在爆破过程中对设备和设施进行的保养与管理。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;静电&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"静电在爆破作业中可能造成安全隐患，因此需采取措施进行控制。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;接地&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"接地是爆破设备安全使用中防止电击的重要措施。"</data>
+      <data key="d2">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </node>
+    <node id="&quot;锚杆支护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"锚杆支护 refers to anchor bolt support methods used to stabilize rock formations during excavation activities."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 21}]</data>
+    </node>
+    <node id="&quot;支架支护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"支架支护 refers to the use of supports such as frame structures to maintain stability in tunneling projects."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;木质支架&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"木质支架 refers to wooden supports used in excavation support systems, important for maintaining safety in tunnels."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;完全支架&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"完全支架 refers to a full supporting framework designed to provide stability in more demanding excavation environments."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </node>
+    <node id="&quot;金属组合支架&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"金属组合支架 represents a type of support structure made from metal components, used for enhanced durability in excavation."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;混凝土支架&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"混凝土支架 involves the use of concrete structures as a method of support in excavation works, providing high strength and stability."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;锚固力&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"锚固力 describes the anchoring force applied to secure support systems against geological pressures."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 21}]</data>
+    </node>
+    <node id="&quot;安全要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全要求 outlines the safety standards that must be adhered to during excavation and support implementation."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;支护材料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"支护材料 involves the various materials used for supports in excavation, crucial for operational efficiency and safety."</data>
+      <data key="d2">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </node>
+    <node id="&quot;硅酸盐水泥&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"硅酸盐水泥 is a type of cement used in construction, with specific ratios and properties relevant to its application in anchoring systems."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;氧气&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"氧气 is a gas that is essential for respiration, monitored in the context of the construction to ensure safe working conditions."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;风筒&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"风筒 is a ventilation device used to ensure air circulation in underground spaces, described with specific installation guidelines."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;通风机&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"通风机 is a ventilation machine employed to facilitate air movement and maintain safe oxygen levels during excavation."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;防护措施&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"防护措施 includes methodologies or equipment put in place to ensure the safety of workers during potentially dangerous operations."&lt;SEP&gt;"防护措施 refers to protective actions and equipment used to safeguard workers against potential hazards during excavation."&lt;SEP&gt;"防护措施 refers to safety measures taken to protect workers from harmful gases, dust, and noise in the construction environment."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb&lt;SEP&gt;chunk-e021f510d1f75dfb3edb339e01384de9&lt;SEP&gt;chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;锚杆&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"锚杆 is a structural element used in excavation to stabilize walls and prevent collapses during探硐."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;施加预应力&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施加预应力 refers to the application of tension in anchors to enhance stability and support underground structures."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;砂浆&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"砂浆 is a mixture used for binding materials together, important in the context of anchoring during探硐."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;回收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"回收 refers to the process of retrieving materials or equipment after their use, specifically in the context of支架 during探硐."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;粉尘&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"粉尘 refers to dust particles that are regulated in construction environments to prevent respiratory issues for workers during excavation."&lt;SEP&gt;"粉尘 relates to airborne particles that can pose health risks and must be monitored during探硐 to ensure safety."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb&lt;SEP&gt;chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;噪声&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"噪声 refers to noise pollution generated during excavation that requires monitoring and mitigation to protect workers' hearing."&lt;SEP&gt;"噪声 refers to sounds that can be harmful to workers and must be controlled during探硐."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb&lt;SEP&gt;chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;人均吸入新鲜空气量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"人均吸入新鲜空气量 refers to the required amount of fresh air each worker must receive for safe working conditions during探硐."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;空气流通&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"空气流通 is essential for ensuring worker safety in underground conditions by maintaining adequate oxygen levels."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;温度&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"温度 must be kept at safe levels during探硐 to prevent heat-related illnesses in workers."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;机械通风&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"机械通风 refers to the use of mechanical systems to circulate air in underground spaces, especially when natural methods are insufficient."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;自然通风&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"自然通风 is the process of allowing fresh air to enter underground areas without mechanical assistance."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;通风方式&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"通风方式 refers to the strategies implemented for ensuring adequate ventilation during探硐 operations."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;工作面回风&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"工作面回风 refers to the airflow that returns from the excavation site, impacting air quality and safety."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;有害气体&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"有害气体 are dangerous gases that must be monitored and controlled during探硐 to ensure worker safety."&lt;SEP&gt;"有害气体 refers to harmful gases that must be monitored during excavation work to ensure worker safety and compliance with health standards."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb&lt;SEP&gt;chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;气体含量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"气体含量 refers to the levels of gases in the air which must be assessed to maintain a safe working environment during探硐."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;施加空气流量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施加空气流量 indicates the volume of air supplied to workers, crucial for maintaining safety in underground settings."</data>
+      <data key="d2">chunk-229f015c1a635754a76e3282c534c8cb</data>
+    </node>
+    <node id="&quot;探硐施工&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"探硐施工 refers to excavation and tunneling work that involves monitoring for harmful gases, dust, noise, and radiation, taking necessary protective measures during the process."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;采样器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"采样器 is a device used for measuring and collecting samples of harmful gases and dust in the construction site for safety monitoring."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;氧气呼吸器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"氧气呼吸器 is a type of self-rescue equipment used in environments with harmful gases, ensuring safety for workers during excavation activities."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;施工单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"施工单位 is the organization responsible for executing construction projects, including excavation and tunneling."&lt;SEP&gt;"施工单位 refers to the construction organization responsible for carrying out the excavation work while ensuring the safety measures are met."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9&lt;SEP&gt;chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;国家&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"国家 refers to the country whose standards regulate the safety measures concerning radiation exposure and harmful gases that workers must comply with during excavation."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;放射性气体&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"放射性气体 refers to radioactive gases that may be present in some geological conditions and must be tested for safety during excavation."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;救护应急预案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"救护应急预案 refers to emergency response plans established to protect workers in scenarios of hazardous exposure during excavation."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;监测仪器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"监测仪器 encompasses various devices used to measure levels of harmful gases, dust, and radiation during construction."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;施工保健&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工保健 refers to health and safety measures implemented for workers during excavation to monitor their physical condition."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;测定仪器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"测定仪器 includes tools used for assessing the presence of harmful gases and dust during excavation activities."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;自救器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"自救器 is a self-rescue device used by workers to ensure safety in environments with hazardous gases."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;火成岩地区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"火成岩地区 refers to areas with igneous rock formations where excavation may pose specific risks related to radioactive hazards."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;个人剂量监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"个人剂量监测 involves the monitoring of individual radiation exposure levels for workers during their activities in high-risk areas."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;通风管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"通风管 is part of the ventilation system used to ensure safe air quality during tunneling work."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;声学监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"声学监测 involves the assessment of noise levels at construction sites to ensure they remain within safe limits for workers."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;安全自动报警系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"安全自动报警系统 is an automatic safety alarm system designed to alert workers of hazardous conditions during excavation."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;排水设施&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"排水设施 refers to drainage systems set up to remove excess water from excavation sites and prevent hazards."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;流量流速&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流量流速 refers to the movement and speed of water in relation to excavation areas, which can impact safety and stability."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;最大冰冻&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"最大冰冻 refers to the maximum depth of freezing that can occur in a geographical area, affecting excavation conditions."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;河床横断面&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"河床横断面 refers to the cross-section of a riverbed, important for understanding the geology and hydrology during excavation."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;救护装备&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"救护装备 refers to rescue equipment maintained by construction units to ensure worker safety during hazardous conditions."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;矽肺及体格检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"矽肺及体格检查 involves regular health assessments for workers to monitor their lung health and physical condition."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;防爆照明灯&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"防爆照明灯 is specialized lighting used in hazardous environments to prevent explosions."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;光学瓦斯检定器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"光学瓦斯检定器 is a device used in monitoring and detecting gas concentrations in the air on excavation sites."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;液压凿岩机&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"液压凿岩机 refers to hydraulic rock drilling equipment that reduces dust and enhances safety during excavation."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;喷雾器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"喷雾器 is used for applying water to minimize dust during demolition and excavation work."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;防护耳塞&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"防护耳塞 are protective earplugs used by workers to limit noise exposure during excavation activities."</data>
+      <data key="d2">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </node>
+    <node id="&quot;河底平硐&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河底平硐 is an event stage in which excavation is conducted at the riverbed, focusing on preparing and managing water drainage and geological conditions."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;浅井&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"浅井 refers to the process of creating shallow wells used for geological investigations or resource access, with detailed specifications for construction and materials."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;竖井&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竖井 is a specific excavation event that involves creating vertical shafts for access or drainage, following strict safety and geological criteria."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;防洪防凌圈&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"防洪防凌圈 is a protective structure or measure established to prevent flooding and ice interference during excavation work."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;水文地质资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文地质资料 refers to hydrological and geological data collected that is essential for assessing the conditions at the excavation site, including water flow and geological structure."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;河流&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"河流 refers to bodies of water that must be avoided when destroying explosive materials to ensure safety."&lt;SEP&gt;"河流 refers to the river being considered in the excavation processes, influencing design decisions such as drainage and structural support due to flooding or ice."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16&lt;SEP&gt;chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;地质剖面图&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地质剖面图 is a geological profile map that illustrates the underground structures and conditions necessary for planning excavation work."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;钻孔柱状图&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"钻孔柱状图 is a type of diagram that shows the drilling data and information regarding soil layers, crucial for construction planning."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;岩层产状&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"岩层产状 refers to the characteristics and positioning of rock layers at the excavation site, impacting construction methods and safety measures."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;围岩变形&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"围岩变形 relates to the deformation of surrounding rock due to excavation activities, which must be monitored for safety compliance."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;备用电源&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"备用电源 denotes backup power systems set up to ensure safety during construction, especially in emergencies such as water influx or power outages."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;防护圈&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"防护圈 is a protective ring established around the excavation site to enhance safety and prevent accidents."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;监测系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监测系统 refers to the system set up for monitoring geological changes and water conditions throughout the excavation process."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;施工期最高洪水位&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工期最高洪水位 refers to the maximum flood levels anticipated during the construction phase, critical for planning and safety."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;岩土体结构特征&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"岩土体结构特征 entails the structural characteristics of soil and rock at the site, influencing excavation techniques and materials used."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;安全硐&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"安全硐 is a secure area or chamber created within the excavation site for emergency refuge during sudden geological events like water influx."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;加固措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"加固措施 are reinforcement measures taken to strengthen the excavation site against unexpected geological events or structural weaknesses."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;器材库&quot;">
+      <data key="d0">"ORGANISATION"</data>
+      <data key="d1">"器材库 serves as a storage facility for construction tools and equipment needed for excavation operations."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;警示标志&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"警示标志 are warning signs placed around the excavation site to ensure safety and inform individuals of potential hazards."&lt;SEP&gt;"警示标志 are warning signs that indicate potential hazards, vital for ensuring worker safety."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc&lt;SEP&gt;chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;铺设规则&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"铺设规则 refers to the guidelines followed for laying out construction plans and ensuring effectively organized excavation sequences."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;沟通联络系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"沟通联络系统 is a communication system established to facilitate coordination among workers on the excavation site."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;最大冰冻雍高&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"最大冰冻雍高 refers to the highest levels of freeze that could affect the excavation process, important for planning safety measures."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;涌水量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"涌水量 denotes the volume of water expected to infiltrate the excavation area, critical for determining drainage and safety strategies."</data>
+      <data key="d2">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;集水池&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"集水池 is a water collection facility established to manage excess water during exploratory drilling activities."&lt;SEP&gt;"集水池 is a water collection pond made within the excavation area to manage influx water and prevent flooding risks."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc&lt;SEP&gt;chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </node>
+    <node id="&quot;井口&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"井口 refers to the opening of a well, which requires protection and compliance with specific regulations regarding nearby structures."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;井筒&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"井筒 is the vertical shaft used in excavation processes that must be maintained properly for safety and efficiency."&lt;SEP&gt;"井筒 refers to the vertical shaft of a well, which must be safely constructed and maintained according to set safety standards."&lt;SEP&gt;"井筒是施工中用于垂直上下移动和材料传输的结构部分，其直径和深度对施工过程至关重要。"</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc&lt;SEP&gt;chunk-e526ce4703af751d84c7999cbfcce348&lt;SEP&gt;chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;沉井作业&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"沉井作业 refers to the process of creating a sinking well, adhering to specified dimensions and safety protocols."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 22}]</data>
+    </node>
+    <node id="&quot;岩石级别&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"岩石级别 refers to the classification of rock types that influence the excavation techniques utilized in the well."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 22}]</data>
+    </node>
+    <node id="&quot;有关部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"有关部门 refers to the relevant authorities that must approve construction activities around井口 for safety and compliance."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;矩形断面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"矩形断面 refers to the rectangular cross-section design required for the井筒 which enhances structural integrity during excavation."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;提升井架&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"提升井架 refers to the equipment used for raising materials within the井筒, critical for the operation and safety of the excavation."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </node>
+    <node id="&quot;安全隔板&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"安全隔板 refers to safety partitions installed between the提升间 and ladders to prevent accidents and ensure worker safety."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </node>
+    <node id="&quot;木梁&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"木梁 refers to wooden beams used in井口的 construction to provide structural support and stability."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </node>
+    <node id="&quot;钢筋&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"钢筋 refers to reinforcing bars used in various支护 techniques to enhance the strength and stability of structures within the井筒."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </node>
+    <node id="&quot;坚硬木材&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"坚硬木材 refers to the durable wood required for constructing插板, ensuring structural integrity in the井筒 excavation."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </node>
+    <node id="&quot;垂线&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"垂线 is a tool used to measure vertical alignment during井框的 installation to ensure proper placement and balance."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </node>
+    <node id="&quot;井框&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"井框 is a structural frame placed within the井筒 to ensure safety and support during excavation operations."</data>
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </node>
+    <node id="&quot;井靴&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"井靴是一个重要的地下施工元素，其角度和材质对施工过程至关重要，尤其在卵砾石和砂砾石地层的作业中。"</data>
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;沉井&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"沉井施工是指采用特定技术在地下进行的开挖作业，并涉及确保施工垂直和排水措施。"</data>
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </node>
+    <node id="&quot;导井&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"导井是沉井施工中的一个步骤，旨在确保施工的深度和稳定性，通常在深度超过10米的情况下使用。"</data>
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </node>
+    <node id="&quot;水泵&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水泵是用来排水和控制涌水的一种装置，其能力必须大于预测涌水量，以确保施工安全。"</data>
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </node>
+    <node id="&quot;提升作业&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"提升作业是指在施工中，人员和物资的上下移动，涉及到一系列的安全检查和规范。"</data>
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;人行道&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"人行道 refers to sidewalks that must meet width specifications and slope requirements in construction projects."&lt;SEP&gt;"人行道是井口周围的结构，宽度需要满足一定标准，以确保施工期间人员的安全。"</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc&lt;SEP&gt;chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </node>
+    <node id="&quot;钢绳&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"钢绳是提升作业中使用的关键组件，需定期检查以确保其安全性和完好性。"</data>
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;粒径&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"粒径是指沉井施工中材料的大小，影响施工方法的选择和效能。"</data>
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </node>
+    <node id="&quot;降水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"降水是指在施工过程中采取的措施，用于防止水源影响作业，确保施工安全。"</data>
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </node>
+    <node id="&quot;混凝土&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"混凝土是一种常用的施工材料，需符合特定标号，以确保井筒的结构强度和稳定性。"</data>
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;探井峻工&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"探井峻工 refers to the completion of exploratory drilling activities, requiring cleanup and geological recording."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 18}]</data>
+    </node>
+    <node id="&quot;电工炮工&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"电工炮工 refers to specialized personnel who must hold certifications to operate certain machinery and perform explosive tasks safely."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;水泵房&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水泵房 is a facility designed for the management of water pump operations, ensuring effective drainage during exploratory procedures."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 18}]</data>
+    </node>
+    <node id="&quot;铁轨&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"铁轨 refers to the railway tracks that are critical in transport and construction operations, needing specific installation regulations."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </node>
+    <node id="&quot;坡度&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"坡度 represents the slope of surfaces in excavation, impacting method and safety protocols during operations."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </node>
+    <node id="&quot;基础支架&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"基础支架 are foundational supports used in construction to stabilize structures during and after excavation."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </node>
+    <node id="&quot;特种作业人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"特种作业人员 are specialized workers who are required to handle specific tasks, such as electrical work and explosives."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </node>
+    <node id="&quot;安全标志&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全标志 refers to safety signs established to enhance awareness and precautions in construction sites."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </node>
+    <node id="&quot;试验样品&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"试验样品 refers to samples taken during geological surveys for testing and analysis."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </node>
+    <node id="&quot;土壤&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土壤 represents the soil conditions that must be monitored during excavation to ensure stability and safety."</data>
+      <data key="d2">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </node>
+    <node id="&quot;监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监测 is the process of observing and ensuring safety conditions during excavation work, especially in hazardous environments like mines."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;爆破作业&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"爆破作业 refers to controlled explosions conducted to facilitate construction processes, such as excavation or removal of rock."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;安全检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全检查 involves systematic checking of safety conditions before, during, and after construction work, ensuring compliance with safety standards."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;井硐&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"井硐 is a term referring to the underground tunnels or shafts used in mining and excavation activities, where safety measures are paramount."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;洪水位&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"洪水位 refers to the flood level which is a vital consideration in construction site planning and safety, indicating areas that should not be developed."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;危岩&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"危岩 refers to unstable or dangerous rock formations that pose a risk to construction activities."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;山洪&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"山洪 refers to mountain floods, which are sudden and can be devastating, necessitating precautions during construction."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;冲洪积扇&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"冲洪积扇 refers to alluvial fans formed by sediment deposits from floods, areas which can be hazardous for construction."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;个人防护用品&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"个人防护用品 includes gear that workers must wear to protect themselves from hazardous conditions during construction."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;特殊试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"特殊试验 refers to specific testing procedures used to assess material properties or safety conditions during construction."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;安全预案&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全预案 is a safety plan created to address potential emergencies and ensure worker safety during construction projects."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;竣工验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竣工验收 is the final inspection and acceptance of the construction work, determining if it meets specified quality and safety standards."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;防爆电器设备&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"防爆电器设备 are explosion-proof electrical devices designed to be used in hazardous environments to prevent ignition of flammable gases."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;装药量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"装药量 relates to the quantity of explosives used in a blast, which must be controlled to prevent mishaps and ensure safety."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;检查与销毁&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检查与销毁 describes the procedure for inspecting and properly disposing of unused explosives or materials in compliance with safety regulations."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;运输&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"运输 refers to the process of moving explosives and related materials, which must be conducted under strict guidelines to ensure safety."&lt;SEP&gt;"运输 refers to the process of transporting explosives and related materials, which must follow specific safety protocols to prevent accidents."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622&lt;SEP&gt;chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;地质人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"地质人员 are individuals specialized in geology, responsible for assessing and managing geological risks during construction projects."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;施工环境&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工环境 encompasses the various conditions and factors affecting safety and operations at a construction site."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;主要材料消耗&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"主要材料消耗 refers to the tracking of primary material usage during construction, vital for budgeting and resource management."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;施工方法&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工方法 refers to the techniques and procedures employed in carrying out construction activities, essential for safety and efficiency."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;后期安全管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"后期安全管理 involves ongoing safety practices and evaluations after construction is completed to ensure long-term safety."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;陡坡&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"陡坡 refers to steep slopes which present potential hazards in construction and excavation activities."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;反应速度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"反应速度 pertains to the quickness with which workers must respond to hazards or emergencies during construction."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;材料质量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"材料质量 refers to the quality standards and specifications that materials must meet to be used safely in construction."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;施工任务书&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"施工任务书 is a document outlining the details, objectives, and requirements for a construction project, used as a reference for compliance."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;施工总结报告&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"施工总结报告 summarizes the outcomes and findings of a construction project, including challenges faced and solutions implemented."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;岩土样品&quot;">
+      <data key="d0">"MATERIAL"</data>
+      <data key="d1">"岩土样品 refers to samples of soil or rock collected during construction for analysis, critical in determining material characteristics."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;承包单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"承包单位 is the contracting entity responsible for carrying out specified construction tasks, including safety protocols and quality assurance."</data>
+      <data key="d2">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </node>
+    <node id="&quot;工地&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"工地 is a construction site where explosives are used, necessitating regulated practices for safety."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;储存&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"储存 pertains to the storage of explosives, requiring adherence to safety norms to ensure secure handling and prevent deterioration of materials."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;监管部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监管部门 is the regulatory authority overseeing the safety and proper handling of explosive materials, ensuring compliance with regulations."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;工人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"工人 are individuals who handle explosive materials at construction sites, requiring professional training and certification for safety."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;发放领用&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"发放领用 involves the issuance and transfer of explosives, which must follow strict guidelines to ensure accountability and safety."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"试验 refers to the testing of explosives to determine their performance and safety prior to use or disposal."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;警戒&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"警戒 involves establishing safety measures during the testing and destruction of explosives to prevent accidents."&lt;SEP&gt;"警戒 refers to the alertness or safety measures required during demolition and testing procedures."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622&lt;SEP&gt;chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </node>
+    <node id="&quot;技术人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"技术人员 are qualified professionals who guide the destruction of explosives and ensure safe practices are followed."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;爆破法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"爆破法 is the method of destroying explosives that must be conducted under controlled conditions to ensure safety."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;安全墙&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"安全墙 is a safety structure used to separate different types of explosives during storage to prevent hazardous interactions."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;药包&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"药包 refers to the packaging of explosive materials, which requires careful handling and management during use and disposal."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;消防措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"消防措施 are the fire safety protocols that must be in place when dealing with explosive materials to prevent fire hazards."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;变质失效&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"变质失效 refers to the condition of explosives that have deteriorated or expired, which must be disposed of in a safe manner."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;焊接&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"焊接 involves processes that must be managed carefully around explosive materials to prevent accidental ignition."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;爆破员作业证&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"爆破员作业证 certifies personnel who are authorized to handle explosives safely and effectively."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;保管员作业证&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"保管员作业证 certifies individuals responsible for the storage and management of explosive materials."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;雷雨天气&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"雷雨天气 signifies conditions under which the transportation of explosives is prohibited due to safety concerns."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;环境因素&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境因素 refers to external conditions that can affect the safe handling and storage of explosive materials."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;溶解&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"溶解 refers to the condition that can compromise the integrity of explosive materials, making them unsafe for use."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;危害评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"危害评估 involves evaluating the risks associated with handling and storing explosives to ensure safety compliance."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;当地法规&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"当地法规 encompasses the local laws that regulate the handling and transportation of explosive materials in the area."</data>
+      <data key="d2">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </node>
+    <node id="&quot;湖泊&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"湖泊 refers to lakes that are also to be avoided during the disposal of explosives to prevent contamination and danger."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;质量验收表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量验收表 is a form used to document quality assurance checks and acceptance of construction work."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 18}]</data>
+    </node>
+    <node id="&quot;交班班长&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"交班班长 refers to the individual responsible for taking over duties during a shift, ensuring a smooth transition of responsibilities."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </node>
+    <node id="&quot;班长&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"班长 is a leadership role overseeing the team or group during operations, responsible for management and coordination."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </node>
+    <node id="&quot;项目负责人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"项目负责人 refers to the individual in charge of overseeing a project, ensuring that goals and standards are met."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </node>
+    <node id="&quot;验收组长&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"验收组长 is the lead individual in a verification team, responsible for quality checks and ensuring compliance with standards."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </node>
+    <node id="&quot;坑探值班员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"坑探值班员 refers to the on-duty individual overseeing the excavation and testing process, ensuring safety and protocol adherence."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </node>
+    <node id="&quot;监理&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监理 refers to the supervising body or individuals overseeing the engineering projects, ensuring quality and compliance with regulations."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </node>
+    <node id="&quot;残余雷管炸药&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"残余雷管炸药 refers to leftover explosive materials that must be dealt with properly to prevent danger."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;试验和销毁&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"试验和销毁 is an event involving the testing and disposal of explosives, critical for safety and compliance."</data>
+      <data key="d2">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </node>
+    <node id="&quot;凿岩作业&quot;">
+      <data key="d2">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+      <data key="d1">"技术要求 guides the procedures in 凿岩作业, ensuring safety and operational efficiency."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;提升间&quot;">
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+      <data key="d1">"安全隔板 protects workers in the提升间 from potential hazards, ensuring safe operations within the井筒."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;插板&quot;">
+      <data key="d2">chunk-e526ce4703af751d84c7999cbfcce348</data>
+      <data key="d1">"坚硬木材 is used to construct插板, essential for providing stability in井筒 excavation operations."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;砂砾石地层&quot;">
+      <data key="d2">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+      <data key="d1">"粒径的大小决定了在砂砾石地层中的施工方法和技术选择，对施工效果有直接影响。"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水利水电工程坑探规程&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"中华人民共和国水利部 has approved the 水利水电工程坑探规程, which establishes standards for pit exploration in hydropower engineering."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;水利水电工程坑探规程&quot;" target="&quot;杨计申&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"杨计申 is one of the primary authors of the 水利水电工程坑探规程, contributing to its formulation."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;水利水电工程坑探规程&quot;" target="&quot;贾国臣&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"贾国臣 contributed to the drafting of the 水利水电工程坑探规程, playing a significant role in its development."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;水利水电工程坑探规程&quot;" target="&quot;罗继勇&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"罗继勇 was involved in creating the 水利水电工程坑探规程, contributing vital insights and expertise."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;水利水电工程坑探规程&quot;" target="&quot;张奇伟&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"张奇伟 is noted as a primary author on the 水利水电工程坑探规程, indicating significant involvement in its creation."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;水利水电工程坑探规程&quot;" target="&quot;杜长青&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"杜长青 is listed as a primary author for the 水利水电工程坑探规程, showcasing contribution to its standards."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;水利水电工程坑探规程&quot;" target="&quot;朱珍燕&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"朱珍燕's work as a primary author of the 水利水电工程坑探规程 reflects her role in standardizing pit exploration practices."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;水利水电工程坑探规程&quot;" target="&quot;武登云&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"武登云 is recognized as a primary author of the 水利水电工程坑探规程, involved in setting its guidelines."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;水利水电工程坑探规程&quot;" target="&quot;高义军&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"高义军's involvement as a primary author of the 水利水电工程坑探规程 indicates his role in formulating its technical content."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;水利水电工程坑探规程&quot;" target="&quot;广西壮族自治区水利电力勘测设计研究院&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"广西壮族自治区水利电力勘测设计研究院 participated in the development of the 水利水电工程坑探规程, demonstrating collaboration in standard creation."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;水利水电工程坑探规程&quot;" target="&quot;北京市水利规划设计研究院&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"北京市水利规划设计研究院 contributed to the water pit exploration standard, highlighting stakeholder involvement."</data>
+      <data key="d6">chunk-43a424d45a9372795ab457b07a0738b9</data>
+    </edge>
+    <edge source="&quot;坑探工程&quot;" target="&quot;施工&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"坑探工程 encompasses the entire construction process, which includes various events such as excavation and technology application."</data>
+      <data key="d6">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </edge>
+    <edge source="&quot;坑探工程&quot;" target="&quot;探坑&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"探坑 is a critical event within the larger framework of 坑探工程, directly contributing to its objectives and successful execution."</data>
+      <data key="d6">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </edge>
+    <edge source="&quot;坑探工程&quot;" target="&quot;探槽&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"探槽 is another essential activity within the scope of 坑探工程, aimed at specific excavation needs and requirements."</data>
+      <data key="d6">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </edge>
+    <edge source="&quot;坑探工程&quot;" target="&quot;探井峻工&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"探井峻工 is a specific event that forms part of the larger坑探工程 operations, highlighting a critical phase in the exploration process."</data>
+      <data key="d6">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </edge>
+    <edge source="&quot;坑探工程&quot;" target="&quot;施工安全&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"安全 protocols are established as part of坑探工程 to ensure all activities adhere to the principles of施工安全."</data>
+      <data key="d6">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </edge>
+    <edge source="&quot;坑探工程&quot;" target="&quot;质量验收表&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"坑探工程 outputs are documented in a quality verification form, establishing a direct relationship between the project and the accountability measures."</data>
+      <data key="d6">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </edge>
+    <edge source="&quot;探坑&quot;" target="&quot;探槽&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"探坑 and 探槽 are related excavation processes, both part of the overall methodology in civil engineering for site evaluation."</data>
+      <data key="d6">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </edge>
+    <edge source="&quot;探槽&quot;" target="&quot;探硐&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"探槽 and 探硐 are related as both represent stages in the excavation construction process, focusing on stability and compliance."</data>
+      <data key="d6">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </edge>
+    <edge source="&quot;探槽&quot;" target="&quot;岩体&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"岩体's stability is critical to 안전 during the 探槽 process, impacting how excavation is carried out."</data>
+      <data key="d6">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </edge>
+    <edge source="&quot;探槽&quot;" target="&quot;炮眼&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"炮眼布置 must be considered within the 探槽 context to ensure effective blasting and safety during excavation."</data>
+      <data key="d6">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </edge>
+    <edge source="&quot;探硐&quot;" target="&quot;岩体&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"岩体 characteristics influence the procedures adopted during the 探硐 construction activity."</data>
+      <data key="d6">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </edge>
+    <edge source="&quot;探硐&quot;" target="&quot;炮眼&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"炮眼 arrangements are crucial for the safe blasting activities associated with the 探硐 construction."</data>
+      <data key="d6">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </edge>
+    <edge source="&quot;探硐&quot;" target="&quot;支护&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"探硐 requires支护 for safety during excavation activities, making支护 integral to the process."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;探硐&quot;" target="&quot;河底平硐&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"河底平硐 involves the excavation of the riverbed which is an essential part of the overall 探硐 process for geological surveying."</data>
+      <data key="d6">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </edge>
+    <edge source="&quot;探硐&quot;" target="&quot;竖井&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"竖井 is a crucial phase that supports the 探硐 activities by providing vertical access for drainage and monitoring during excavations."</data>
+      <data key="d6">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </edge>
+    <edge source="&quot;施工安全&quot;" target="&quot;支护&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"施工安全 is a critical component of支护 practices, guiding safe methods in excavation activities."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;施工安全&quot;" target="&quot;提升作业&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"提升作业需遵循一系列施工安全标准，以保证现场人员的安全和施工的顺利进行。"</data>
+      <data key="d6">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </edge>
+    <edge source="&quot;施工安全&quot;" target="&quot;电工炮工&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"电工炮工 must comply with施工安全 regulations, underscoring their role in maintaining safety standards during operations."</data>
+      <data key="d6">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </edge>
+    <edge source="&quot;爆破技术&quot;" target="&quot;施工&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"爆破技术 is a vital technique applied during the 施工 phase to facilitate construction goals, particularly in excavation operations."</data>
+      <data key="d6">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </edge>
+    <edge source="&quot;施工&quot;" target="&quot;施工准备&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"施工 is largely dependent on the preparation steps that ensure readiness and compliance with standards before excavation begins."</data>
+      <data key="d6">chunk-7d5cdd3a45aa679abc872c5132a1502d</data>
+    </edge>
+    <edge source="&quot;炮眼&quot;" target="&quot;凿岩&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"炮眼 and 凿岩 are interconnected as the preparation of explosive holes is essential for successful rock drilling operations."</data>
+      <data key="d6">chunk-4d3a45eaed64b4ae3e8f80254fe71e5b</data>
+    </edge>
+    <edge source="&quot;炮眼&quot;" target="&quot;爆破材料&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"炮眼 is where the 爆破材料 is placed, directly linking them in the blasting process during excavation operations."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;炮眼&quot;" target="&quot;火雷管&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"炮眼 require strict safety measures and the prohibition of火雷管 to ensure a safe working environment during blasting."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;施工组织设计&quot;" target="&quot;浅井&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"浅井 work is conducted under an organized plan that ensures compliance with geological and safety requirements during construction."</data>
+      <data key="d6">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </edge>
+    <edge source="&quot;施工组织设计&quot;" target="&quot;防洪防凌圈&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The construction organization plan includes the establishment of 防洪防凌圈 to ensure safety against flooding during excavation."</data>
+      <data key="d6">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </edge>
+    <edge source="&quot;施工组织设计&quot;" target="&quot;河底平硐&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"河底平硐 activities are guided by the construction organization design to manage the excavation safely and effectively."</data>
+      <data key="d6">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </edge>
+    <edge source="&quot;爆破材料&quot;" target="&quot;探硐掘进&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"爆破材料 is critical during the 探硐掘进 event for addressing rock conditions and ensuring safe excavations."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;爆破材料&quot;" target="&quot;导火线&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"导火线 ignites the 爆破材料, establishing a strong relationship in the context of controlled blasting."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;爆破材料&quot;" target="&quot;雷管&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"雷管 is used to initiate the 爆破材料, making their connection critical for effective blasting operations."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;爆破材料&quot;" target="&quot;电雷管&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"电雷管 are part of the category of 爆破材料, integral for detonating explosives in compliance with safety regulations."</data>
+      <data key="d6">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </edge>
+    <edge source="&quot;爆破材料&quot;" target="&quot;加工房&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"爆破材料 are processed within the 加工房, making it crucial for the production and handling of explosives."</data>
+      <data key="d6">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </edge>
+    <edge source="&quot;爆破材料&quot;" target="&quot;河流&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"It is stated that explosive materials must not be destroyed in rivers, indicating a safety relationship concerning handling dangerous materials."</data>
+      <data key="d6">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </edge>
+    <edge source="&quot;爆破材料&quot;" target="&quot;湖泊&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Similar to rivers, explosive materials must not be disposed of in lakes, again highlighting safety concerns."</data>
+      <data key="d6">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </edge>
+    <edge source="&quot;爆破材料&quot;" target="&quot;残余雷管炸药&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"残余雷管炸药 is a type of explosive material that must be disposed of safely alongside common 爆破材料."</data>
+      <data key="d6">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </edge>
+    <edge source="&quot;岩体&quot;" target="&quot;支护&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The condition of岩体 directly influences the methods and effectiveness of支护, establishing dependency in excavation practices."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;支护&quot;" target="&quot;工作面&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"支护是在工作面进行的以确保其稳定性的重要作业."</data>
+      <data key="d6">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </edge>
+    <edge source="&quot;支护&quot;" target="&quot;锚杆支护&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"锚杆支护 is a specific method within the broader context of支护, showing a direct relationship in excavation safety protocols."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;支护&quot;" target="&quot;支架支护&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"支架支护 is another specific method that falls under the general practices of支护, thus closely related."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;支护&quot;" target="&quot;松动岩石&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"松动岩石 is a critical factor that impacts the design and implementation of支护, necessitating careful assessment."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;支护&quot;" target="&quot;木质支架&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"木质支架 is a specific form of支护 that provides stability in excavation environments, reflecting its direct role in safety."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;支护&quot;" target="&quot;金属组合支架&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"金属组合支架 is directly utilized as a支护 method, showcasing its importance in excavation stability."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;支护&quot;" target="&quot;混凝土支架&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"混凝土支架 serves as a robust support structure within支护 systems, indicating its integral role in excavation safety."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;支护&quot;" target="&quot;安全要求&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"安全要求 must be considered in the implementation of支护, ensuring that construction practices meet necessary safety standards."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;支护&quot;" target="&quot;井筒&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"井筒 requires支护 to ensure stability during the excavation process, linking construction techniques to safety measures."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;支护&quot;" target="&quot;沉井作业&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"支护 plays a crucial role in the安全 of沉井作业, especially with respect to excavation techniques."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;岩石&quot;" target="&quot;炸药&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"岩石 types determine the kind of 炸药 to be used for effective blasting, linking geological characteristics to explosives."</data>
+      <data key="d6">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </edge>
+    <edge source="&quot;技术要求&quot;" target="&quot;凿岩作业&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"技术要求 guides the procedures in 凿岩作业, ensuring safety and operational efficiency."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;工作面&quot;" target="&quot;电雷管&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"电雷管用于工作面进行爆破作业，是确保爆破安全的关键."</data>
+      <data key="d6">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </edge>
+    <edge source="&quot;工作面&quot;" target="&quot;爆破效果&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工作面在爆破后需检查爆破效果，以评估作业的成功与否."</data>
+      <data key="d6">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </edge>
+    <edge source="&quot;工作面&quot;" target="&quot;瞎炮&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"瞎炮问题会在工作面影响正常作业，因此需要及时处理以防止工作延误."</data>
+      <data key="d6">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </edge>
+    <edge source="&quot;工作面&quot;" target="&quot;露天爆破&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"露天爆破在工作面进行，需考虑周边安全和爆破效果."</data>
+      <data key="d6">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </edge>
+    <edge source="&quot;工作面&quot;" target="&quot;轨道铺设&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"轨道铺设与工作面连接，确保矿车能够安全接入作业区域."</data>
+      <data key="d6">chunk-4b7ed33f355c1d89aa8c2e63b792ec23</data>
+    </edge>
+    <edge source="&quot;凿岩机械设备&quot;" target="&quot;探硐掘进&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"凿岩机械设备 is essential for the successful execution of the 探硐掘进 event, enabling effective drilling operations."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;凿岩机械设备&quot;" target="&quot;钎子&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"钎子 is an integral part of the 凿岩机械设备, working together to execute effective drilling operations."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;凿岩机械设备&quot;" target="&quot;水源&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水源 is necessary to maintain the functionality of 凿岩机械设备, providing essential cooling and hydraulic pressure."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;凿岩机械设备&quot;" target="&quot;供水&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"供水 is vital for the operation of 凿岩机械设备, impacting the performance of drilling activities."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;凿岩机械设备&quot;" target="&quot;风管&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"风管 supplies air to 凿岩机械设备, ensuring proper operation of pneumatic drills."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;探硐掘进&quot;" target="&quot;岩体结构&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"岩体结构 determines the techniques and equipment choices necessary for the 探硐掘进 event, influencing operational procedures."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;钎子&quot;" target="&quot;钎头&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"钎头 attaches to 钎子, working together to penetrate rocks effectively during drilling operations."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;钎子&quot;" target="&quot;钻头&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"钻头 is affixed to 钎子 and is critical for executing drilling tasks, contributing to overall drilling effectiveness."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;导火线&quot;" target="&quot;炸药&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"炸药 requires 导火线 for detonation, linking their use in blasting operations."</data>
+      <data key="d6">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </edge>
+    <edge source="&quot;雷管&quot;" target="&quot;炸药&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"炸药 and 雷管 must be transported and stored separately to prevent accidents, highlighting their interrelated safety requirements."</data>
+      <data key="d6">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </edge>
+    <edge source="&quot;供水&quot;" target="&quot;胶管&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"胶管 is used to transport water to drilling operations, essential for maintaining proper conditions during activity."</data>
+      <data key="d6">chunk-637fb3b8d27649aecdd9fde9f1fcd987</data>
+    </edge>
+    <edge source="&quot;炸药&quot;" target="&quot;作业人员&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"作业人员 handle and manage 炸药, ensuring it meets safety standards before use."</data>
+      <data key="d6">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </edge>
+    <edge source="&quot;炸药&quot;" target="&quot;爆破器材&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"爆破器材 includes various explosive materials like 炸药, which must be managed according to strict regulations."</data>
+      <data key="d6">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </edge>
+    <edge source="&quot;电雷管&quot;" target="&quot;煤尘&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"煤尘 presence can influence the choice and method of using 电雷管 to ensure safety in blasting operations."</data>
+      <data key="d6">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </edge>
+    <edge source="&quot;加工房&quot;" target="&quot;作业人员&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"作业人员 are responsible for the activities conducted within the 加工房, ensuring the safe processing of explosives."</data>
+      <data key="d6">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </edge>
+    <edge source="&quot;作业人员&quot;" target="&quot;药卷&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"作业人员 are responsible for the handling and proper insertion of 药卷 in blasting operations, ensuring safety and compliance."</data>
+      <data key="d6">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </edge>
+    <edge source="&quot;瓦斯&quot;" target="&quot;乳胶炸药&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"瓦斯 conditions determine the use of 乳胶炸药, which is safe for use in potentially explosive gas environments."</data>
+      <data key="d6">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </edge>
+    <edge source="&quot;瓦斯&quot;" target="&quot;安全检查&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"瓦斯 needs to be monitored during 安全检查 to avoid dangerous gas-related incidents in construction sites."</data>
+      <data key="d6">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </edge>
+    <edge source="&quot;水炮眼&quot;" target="&quot;防水处理&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水炮眼 necessitates 防水处理 measures to ensure explosives are not compromised by water exposure."</data>
+      <data key="d6">chunk-14981994b44714f1e86e4fca12f919a3</data>
+    </edge>
+    <edge source="&quot;爆破器材&quot;" target="&quot;防护措施&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Proper handling and management of 爆破器材 require specific 防护措施 to prevent accidents during explosive operations."</data>
+      <data key="d6">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </edge>
+    <edge source="&quot;爆破器材&quot;" target="&quot;工地&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"工地 is the location where 爆破器材 is used, necessitating safety measures for their handling."</data>
+      <data key="d6">chunk-f4fdeb30872bcb6ebe8d7873facf4622</data>
+    </edge>
+    <edge source="&quot;锚杆支护&quot;" target="&quot;锚固力&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"锚杆支护 relies on锚固力 to ensure stability, establishing a strong connection between supporting techniques and geological integrity."</data>
+      <data key="d6">chunk-3ae93a2bc61b65682998adfaafa10320</data>
+    </edge>
+    <edge source="&quot;探硐施工&quot;" target="&quot;采样器&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"采样器 is essential for monitoring during 探硐施工 to ensure the working environment is safe from harmful gases and dust."</data>
+      <data key="d6">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </edge>
+    <edge source="&quot;探硐施工&quot;" target="&quot;氧气呼吸器&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"氧气呼吸器 is utilized during 探硐施工 to protect workers in case of harmful gas exposure."</data>
+      <data key="d6">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </edge>
+    <edge source="&quot;探硐施工&quot;" target="&quot;施工单位&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"施工单位 carries out 探硐施工 while implementing safety measures to monitor and manage environmental hazards."</data>
+      <data key="d6">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;国家&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工单位 must comply with national regulations regarding safety standards during excavation work to protect their workers from harmful exposure."</data>
+      <data key="d6">chunk-e021f510d1f75dfb3edb339e01384de9</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;爆破作业&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工单位 is responsible for carrying out 爆破作业 as part of their construction and excavation tasks."</data>
+      <data key="d6">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </edge>
+    <edge source="&quot;浅井&quot;" target="&quot;竖井&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"浅井 and 竖井 are both events related to excavation but differ in their depth and methods of construction, influencing overall strategy in探硐."</data>
+      <data key="d6">chunk-0eb5b4d41ba3b80b2209a9a23dddb4e7</data>
+    </edge>
+    <edge source="&quot;井口&quot;" target="&quot;井筒&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"井口 serves as the entry point to the井筒, where adherence to regulations about construction is essential."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;井口&quot;" target="&quot;有关部门&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"有关部门 is responsible for approving the construction around the井口, linking regulatory oversight to safety compliance."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;井筒&quot;" target="&quot;矩形断面&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"矩形断面 design is crucial for the construction of a井筒 to ensure stability and safety during excavation."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;井筒&quot;" target="&quot;混凝土&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"混凝土用于构造井筒，以保证其结构的安全性和稳定性，尤其在深井施工中。"</data>
+      <data key="d6">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </edge>
+    <edge source="&quot;沉井作业&quot;" target="&quot;岩石级别&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"沉井作业 techniques depend on岩石级别, which dictates the necessary safety measures and methods of excavation."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;提升井架&quot;" target="&quot;木梁&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"提升井架 is supported by木梁 during operations, ensuring safety and functionality of the well excavation process."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;安全隔板&quot;" target="&quot;提升间&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"安全隔板 protects workers in the提升间 from potential hazards, ensuring safe operations within the井筒."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;坚硬木材&quot;" target="&quot;插板&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"坚硬木材 is used to construct插板, essential for providing stability in井筒 excavation operations."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;垂线&quot;" target="&quot;井框&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"垂线 assists in the accurate placement of井框 during installation, ensuring proper structural alignment."</data>
+      <data key="d6">chunk-e526ce4703af751d84c7999cbfcce348</data>
+    </edge>
+    <edge source="&quot;井靴&quot;" target="&quot;提升作业&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"提升作业需要使用井靴，以确保在地下工作者的安全，特别是在排水和材料搬运时。"</data>
+      <data key="d6">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </edge>
+    <edge source="&quot;沉井&quot;" target="&quot;导井&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"导井是沉井施工的一部分，旨在提高作业深度和安全性，防止潮湿和不稳定. "</data>
+      <data key="d6">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </edge>
+    <edge source="&quot;沉井&quot;" target="&quot;水泵&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水泵用于沉井施工过程中排水，确保施工不受涌水影响，影响施工安全和效率。"</data>
+      <data key="d6">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </edge>
+    <edge source="&quot;沉井&quot;" target="&quot;人行道&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"人行道的设置需要符合沉井施工的要求，以便进行安全的上下通行和施工作业。"</data>
+      <data key="d6">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </edge>
+    <edge source="&quot;沉井&quot;" target="&quot;降水&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"降水是沉井施工中的重要步骤，旨在控制水位并确保施工过程中不受涌水影响。"</data>
+      <data key="d6">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </edge>
+    <edge source="&quot;提升作业&quot;" target="&quot;钢绳&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"钢绳是提升作业的关键设备，确保物资和人员安全上下。"</data>
+      <data key="d6">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </edge>
+    <edge source="&quot;粒径&quot;" target="&quot;砂砾石地层&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"粒径的大小决定了在砂砾石地层中的施工方法和技术选择，对施工效果有直接影响。"</data>
+      <data key="d6">chunk-66391251e2f79c42f93c4f7dc42a390a</data>
+    </edge>
+    <edge source="&quot;探井峻工&quot;" target="&quot;水泵房&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水泵房 supports探井峻工 operations by managing water drainage effectively, which is crucial during the completion of drilling activities."</data>
+      <data key="d6">chunk-dffa8118e05d67a5446722949ee5e9cc</data>
+    </edge>
+    <edge source="&quot;监测&quot;" target="&quot;井硐&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"监测 is crucial in井硐 to ensure safe working conditions due to potential hazards like gas or collapses."</data>
+      <data key="d6">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </edge>
+    <edge source="&quot;爆破作业&quot;" target="&quot;安全检查&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"安全检查 must be conducted before 爆破作业 to identify and mitigate risks associated with explosions."</data>
+      <data key="d6">chunk-415dd3e2c0dbf51c4c8499b9a491d523</data>
+    </edge>
+    <edge source="&quot;警戒&quot;" target="&quot;试验和销毁&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"警戒 measures are crucial during the 试验和销毁 process to ensure safety and prevent accidents."</data>
+      <data key="d6">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </edge>
+    <edge source="&quot;交班班长&quot;" target="&quot;班长&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The role of 交班班长 complements that of 班长 in ensuring smooth operational transitions."</data>
+      <data key="d6">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </edge>
+    <edge source="&quot;项目负责人&quot;" target="&quot;验收组长&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The 项目负责人 collaborates with the 验收组长 to ensure project standards are upheld during and after construction."</data>
+      <data key="d6">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </edge>
+    <edge source="&quot;坑探值班员&quot;" target="&quot;监理&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The 坑探值班员 works under the guidance of 监理 to ensure safety and compliance during excavation work."</data>
+      <data key="d6">chunk-562b2cf14e57df610a632e8b47326b16</data>
+    </edge>
+  </graph>
+</graphml>

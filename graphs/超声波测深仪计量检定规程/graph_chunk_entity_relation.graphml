@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is the governmental authority responsible for water resources in China, approving regulations and overseeing water measurement standards."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;超声波测深仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"超声波测深仪 is a technological device used for measuring the depth of water bodies through the emission and reception of ultrasonic waves."&lt;SEP&gt;"超声波测深仪是一种测量深度的设备，通过发送声波并测量反射来确定水深，具有精确的测量能力。"&lt;SEP&gt;"超声波测深仪是一种用于测量水深的设备，通过发射声波并接收其反射来计算水深。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5&lt;SEP&gt;chunk-e2106d8c36d91b25f1c65d26e424159b&lt;SEP&gt;chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;超声波测深仪检定规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"超声波测深仪检定规程 is a regulatory framework established to verify and standardize the use of ultrasonic sounders in measuring water depth, effective from January 1, 2010."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;江苏水利水文自动化研究所&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"南京水利水文自动化研究所 is an institution involved in research related to water resource automation and hydrometry, participating in the drafting of verification regulations."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;长江水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"长江水利委员会 is an administrative organization responsible for managing and protecting the Yangtze River, involved in the drafting process of regulations."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;张玉成&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"张玉成 is a primary author involved in drafting the verification regulation for ultrasonic sounders, representing the water measurement authority."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;石明华&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"石明华 is one of the contributors involved in the drafting of verification regulations, affiliated with the 南京水利水文自动化研究所."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;陈华康&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陈华康 is a contributor participating in the drafting of ultrasonic sounder verification regulations, connected to the 长江水利委员会."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;鲍良钝&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"鲍良钝 is a contributor involved in the drafting of the verification regulations, affiliated with 南京水利水文自动化研究所."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;赵越&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"赵越 is a key participant in drafting the verification regulations, associated with the supervision and testing quality center of the 水利部."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水利部水文仪器及岩土工程仪器质量监督检验测试中心&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This center under the Ministry of Water Resources focuses on the quality supervision and inspection of hydrological and geotechnical instruments."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;水深测量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水深测量 refers to the process of measuring water depth, particularly in rivers, lakes, and coastal areas using devices like ultrasonic sounders."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;结构组成&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"结构组成 refers to the components that make up the ultrasonic sounder, including the transducer and control devices that facilitate depth measurement."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;工作原理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工作原理 describes the principle by which ultrasonic sounders operate, utilizing sound wave reflection to determine water depth."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;计量性能要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"计量性能要求 outlines the performance standards that ultrasonic sounders must meet for accurate depth measurement."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;测量误差&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测量误差 refers to the potential inaccuracies in depth measurements made by ultrasonic sounders, necessitating specific performance criteria."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;盲区&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"盲区 indicates the minimum depth range within which measurements cannot be reliably made, a critical consideration for the effective use of depth measurement technologies."&lt;SEP&gt;"盲区指的是超声波测深仪在一定深度范围内无法有效测量的区域，通常为最小有效测量距离。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b&lt;SEP&gt;chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;允许缺陷限制&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"允许缺陷限制 specifies the acceptable limits for imperfections in the functionality of ultrasonic depth measuring instruments."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;检定方法&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"检定方法 refers to the specific procedures used to verify and validate the performance standards of ultrasonic sounders."&lt;SEP&gt;"检定方法是对超声波测深仪进行准确度评估和验证的具体操作流程。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b&lt;SEP&gt;chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;检定周期&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"检定周期 indicates the frequency at which ultrasonic sounders must be tested and verified to maintain compliance with regulatory standards."&lt;SEP&gt;"检定周期是指在正常使用情况下，超声波测深仪需重新进行检定的时间间隔，通常为2年。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b&lt;SEP&gt;chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;附录A检定测试记录表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"附录A检定测试记录表 is the record form used during the verification testing of ultrasonic sounders, documenting test results and compliance."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;附录B检定证书格式&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"附录B检定证书格式 outlines the format for certificates issued upon successfully verifying ultrasonic sounders."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;附录C 检定结果通知书格式&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"附录C 检定结果通知书格式 specifies the format for notifications regarding the results of ultrasonic sounder verifications."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;超声波换能器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"超声波换能器 is a component of the ultrasonic sounder that emits and receives ultrasonic waves for depth measurement."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;测控装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"测控装置 is the control unit within the ultrasonic sounder that manages the operation of the transducer and processes received signals."&lt;SEP&gt;"测控装置是超声波测深仪的一部分，用于数据的监测和控制，确保测量的准确性。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b&lt;SEP&gt;chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;水体&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水体 refers to bodies of water, such as rivers, lakes, and reservoirs, where depth measurements using ultrasonic sounders are conducted."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;首次检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"首次检定 refers to the initial verification process for ultrasonic sounders to ensure they meet established measurement standards."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;后续检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"后续检定 indicates the subsequent verification processes for ultrasonic sounders throughout their operational life to confirm continued compliance with standards."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;使用中检验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"使用中检验 refers to the checks performed on ultrasonic sounders while in use, ensuring ongoing accuracy and functionality."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;外观&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"外观 refers to the visible condition and markings on the ultrasonic sounder, which must meet specific aesthetic and identification criteria."</data>
+      <data key="d2">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </node>
+    <node id="&quot;流速仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"流速仪是一种设备用于测量液体流动速度，可以用来检定水槽中的超声波测深仪。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;激光测距仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"激光测距仪是一种测量距离的设备，用于在检定过程中测量换能器与反射面的准确距离。"&lt;SEP&gt;"激光测距仪是一种通过激光技术精确测量距离的设备，用于校准超声波测深仪。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5&lt;SEP&gt;chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;检定设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"检定设备是指用于确保测量仪器准确性的设备集合，包括超声波测深仪、水槽等。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;检定原理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定原理是指通过特定方法和设备对超声波测深仪进行验证其测量准确性的过程。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;室内环境条件&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"室内环境条件是指进行设备检定时所需的温度、湿度等条件，以确保测试的准确性。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;反射板&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"反射板是一种平整的表面，用于反射超声波以获取水深测量，是超声波测深仪的重要组成部分。"&lt;SEP&gt;"反射板用于在超声波测深仪的检定过程中反射声波，与换能器配合工作，确保测量的准确性。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5&lt;SEP&gt;chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;水槽&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"水槽是用于检定超声波测深仪的容器，提供一个可控的环境进行水深测量。"&lt;SEP&gt;"水槽用于提供一个固定的水深环境，以便对超声波测深仪进行检定，确保测量的准确性。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5&lt;SEP&gt;chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;换能器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"换能器是超声波测深仪的核心组件，用于发射声波并接收其反射信号，从而计算水深。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;检定项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定项目是针对超声波测深仪进行的各项测试指标，用于验证仪器性能和准确度。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;室内常温&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"室内常温指进行超声波测深仪检定时要求的室内温度条件，以保持设备性能稳定。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+    </node>
+    <node id="&quot;水温计&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"水温计用于测量水槽中的水温，确保在检定过程中水温符合标准要求。"</data>
+      <data key="d2">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;检定车&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"检定车是一种用于放置和移动超声波测深仪进行水深检定的装置。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;检定证书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定证书 is a formal document that verifies the results of inspections and assessments."&lt;SEP&gt;"检定证书是发给符合检定要求的超声波测深仪的正式证明，表明其可用性和准确性。"</data>
+      <data key="d2">chunk-fda8e73e17cf2fa0a4cebf998757da1a&lt;SEP&gt;chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;检定结果通知书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定结果通知书发给不符合检定要求的超声波测深仪，告知其不合格项目。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;钢卷尺&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"钢卷尺用于辅助测量，确保在检定超声波测深仪时获取精准的距离。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;测深范围&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测深范围指的是超声波测深仪能够有效测量的深度区间，包括盲区。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;有效数字&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"有效数字是指在进行超声波测深仪的数据记录和计算时需要遵循的数字表示规则。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;记录人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"记录人员负责在检定过程中记录测量数据和结果，确保数据的可靠性与真实性。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;检测周期要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检测周期要求是关于超声波测深仪在规定时间内定期检定的标准和规定。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;测量准确度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测量准确度是评估超声波测深仪在测量水深时的误差范围和准确性标准。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;重复性误差&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"重复性误差用于评估超声波测深仪在不同测量中产生的误差的稳定性。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;采集数据&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"采集数据是超声波测深仪在测定水深时记录数值的过程，确保数据的准确性与有效性。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;初次测点&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"初次测点是进行数据采集时第一个被测量的位置，作为后续计算的零点。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;平均水温&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"平均水温是通过在水槽两端测量水温并取平均值，以调整超声波测深仪的测量参数。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;测定结果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测定结果是超声波测深仪在检定后得出的是否符合标准的数据结果。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;准则要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"准则要求定义了操作过程中所有检定超声波测深仪所需遵循的标准和规范。"</data>
+      <data key="d2">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;仪器编号&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"仪器编号 refers to the identification number for the instrument that is being inspected or certified."&lt;SEP&gt;"仪器编号是超声波测深仪的唯一识别标识，有助于在检定过程中跟踪和记录。"</data>
+      <data key="d2">chunk-fda8e73e17cf2fa0a4cebf998757da1a&lt;SEP&gt;chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;生产单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"生产单位 refers to the organization responsible for producing the instrument that is being inspected."&lt;SEP&gt;"生产单位是指超声波测深仪的制造商，其信息必须在检定报告中包含。"</data>
+      <data key="d2">chunk-fda8e73e17cf2fa0a4cebf998757da1a&lt;SEP&gt;chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </node>
+    <node id="&quot;检定单位名称&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"检定单位名称 is the name of an organization involved in the inspection and certification process."</data>
+      <data key="d2">chunk-fda8e73e17cf2fa0a4cebf998757da1a</data>
+    </node>
+    <node id="&quot;证书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"证书 refers to a certificate that is issued following the inspection and certification process, indicating compliance or results."</data>
+      <data key="d2">chunk-fda8e73e17cf2fa0a4cebf998757da1a</data>
+    </node>
+    <node id="&quot;检定日期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定日期 refers to the date on which the inspection was conducted or the results were verified."</data>
+      <data key="d2">chunk-fda8e73e17cf2fa0a4cebf998757da1a</data>
+    </node>
+    <node id="&quot;检定结果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定结果 indicates the outcome of the inspection process, detailing whether the instrument passed or failed."</data>
+      <data key="d2">chunk-fda8e73e17cf2fa0a4cebf998757da1a</data>
+    </node>
+    <node id="&quot;校核&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"校核 is a role in the inspection process responsible for verifying the results."</data>
+      <data key="d2">chunk-fda8e73e17cf2fa0a4cebf998757da1a</data>
+    </node>
+    <node id="&quot;批准&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"批准 is a role in the inspection process responsible for officially approving the results."</data>
+      <data key="d2">chunk-fda8e73e17cf2fa0a4cebf998757da1a</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;超声波测深仪检定规程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The water ministry approved the verification regulation for ultrasonic sounders, indicating its authoritative role in standardizing water measurement technology."</data>
+      <data key="d6">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;超声波测深仪检定规程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The ultrasonic sounder is subject to the verification regulation, which standardizes its performance and usage for depth measurement."</data>
+      <data key="d6">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;流速仪&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"流速仪被用来检定超声波测深仪的准确性，通过比较测量结果来确保其功能正常。"</data>
+      <data key="d6">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;激光测距仪&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"激光测距仪用于测量与反射板的距离，从而校准超声波测深仪的测量。"</data>
+      <data key="d6">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;检定设备&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"检定设备的作用是确保超声波测深仪在使用过程中的准确度和有效性。"</data>
+      <data key="d6">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;检定原理&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"检定原理为超声波测深仪的校准提供了理论基础和实际操作步骤。"</data>
+      <data key="d6">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;室内环境条件&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"超声波测深仪的检定需在特定的室内环境条件下进行，以避免外部因素影响结果。"</data>
+      <data key="d6">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;换能器&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"换能器是超声波测深仪的核心部件，负责进行声波的发射和接收。"</data>
+      <data key="d6">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;水温计&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水温计用于监测水槽中的水温，以确保检定过程中条件的符合性。"</data>
+      <data key="d6">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;检定项目&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"检定项目是针对超声波测深仪性能的测试指标，确保其测量的精确度。"</data>
+      <data key="d6">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;检定车&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"超声波测深仪被放置在检定车上进行水深检定，因此两者之间存在直接的工作关系。"</data>
+      <data key="d6">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;检定结果通知书&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"如果超声波测深仪未能通过检定，将会发给检定结果通知书，说明其不合格性。"</data>
+      <data key="d6">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </edge>
+    <edge source="&quot;超声波测深仪&quot;" target="&quot;检定周期&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"检定周期是超声波测深仪必须在一定时间内重新进行检定的规定，确保其长期准确性。"</data>
+      <data key="d6">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </edge>
+    <edge source="&quot;超声波测深仪检定规程&quot;" target="&quot;江苏水利水文自动化研究所&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The research institute contributed to drafting the verification regulation, showing its role in ensuring the quality of water measurement instruments."</data>
+      <data key="d6">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </edge>
+    <edge source="&quot;超声波测深仪检定规程&quot;" target="&quot;长江水利委员会&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Yangtze River Committee participated in the drafting of the verification regulation, indicating its involvement in regional water management standards."</data>
+      <data key="d6">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </edge>
+    <edge source="&quot;超声波测深仪检定规程&quot;" target="&quot;张玉成&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"As the primary author of the regulation, 张玉成 directly contributed to its formulation and establishment."</data>
+      <data key="d6">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </edge>
+    <edge source="&quot;超声波测深仪检定规程&quot;" target="&quot;石明华&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"石明华's involvement as a contributor underlines his role in shaping water measurement regulations."</data>
+      <data key="d6">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </edge>
+    <edge source="&quot;超声波测深仪检定规程&quot;" target="&quot;陈华康&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"陈华康's participation as a contributor emphasizes the collaborative effort in the regulations' drafting."</data>
+      <data key="d6">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </edge>
+    <edge source="&quot;超声波测深仪检定规程&quot;" target="&quot;鲍良钝&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"鲍良钝's contribution to the regulation illustrates his role in enhancing quality standards for water measurement."</data>
+      <data key="d6">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </edge>
+    <edge source="&quot;超声波测深仪检定规程&quot;" target="&quot;赵越&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"赵越 was involved in drafting the regulation as part of the quality supervision framework, highlighting the regulatory oversight in water measurement."</data>
+      <data key="d6">chunk-67ec3bd5ae3fa699b4ff29f5d8d7f14a</data>
+    </edge>
+    <edge source="&quot;检定周期&quot;" target="&quot;检定证书&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"检定周期的长度影响检定证书的有效性，确保超声波测深仪在规定的周期内保持准确性。"</data>
+      <data key="d6">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </edge>
+    <edge source="&quot;检定设备&quot;" target="&quot;水槽&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水槽是检定设备的一部分，为超声波测深仪的校准提供必要的水环境。"</data>
+      <data key="d6">chunk-1f63de7e6c0dbe1042d8c70fd3e2cac5</data>
+    </edge>
+    <edge source="&quot;检定车&quot;" target="&quot;检定证书&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"通过检定车检定的超声波测深仪符合标准后会获得检定证书，表示检定车用于确保超声波测深仪的合规性。"</data>
+      <data key="d6">chunk-e2106d8c36d91b25f1c65d26e424159b</data>
+    </edge>
+    <edge source="&quot;检定单位名称&quot;" target="&quot;证书&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"检定单位名称 issues the certificate as a result of its inspection process."</data>
+      <data key="d6">chunk-fda8e73e17cf2fa0a4cebf998757da1a</data>
+    </edge>
+  </graph>
+</graphml>

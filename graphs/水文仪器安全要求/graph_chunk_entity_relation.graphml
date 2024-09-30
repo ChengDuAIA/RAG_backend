@@ -1,0 +1,1007 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国是一个国家，负责发布国家标准，并且涉及水文仪器的技术要求和安全标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;水文仪器安全要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文仪器安全要求是中国国家标准的一个重要标准，规定了水文仪器的通用安全要求与技术规格。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部是负责提出水文仪器安全要求标准的机构，参与国家标准的制定和修订。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;全国水文标准化技术委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"全国水文标准化技术委员会是一个负责水文仪器标准化工作的职业组织，归口审定水文仪器安全标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;南京水利水文自动化研究所&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"南京水利水文自动化研究所负责起草水文仪器安全要求标准，是该领域的重要研究机构。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;石明华&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"石明华是水文仪器安全要求标准的主要起草人之一，参与标准的制定过程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;徐海峰&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"徐海峰是水文仪器安全要求标准的主要起草人之一，参与标准的制定过程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;王志毅&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王志毅是水文仪器安全要求标准的主要起草人之一，参与标准的制定过程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;陆旭&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陆旭是水文仪器安全要求标准的主要起草人之一，参与标准的制定过程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;国家质量监督检验检疫总局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"国家质量监督检验检疫总局是中华人民共和国负责国家标准的监督和检验的机构，确保产品和服务的合规性。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;环境污染&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境污染指的是对自然环境造成的有害影响，特别是在水文仪器中被提及，以确保其对周围环境不产生负面影响。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;人身健康&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"人身健康是标准中的关键考虑因素，指的是在使用水文仪器过程中保护操作者和周围人的健康。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;软件及数据安全要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"软件及数据安全要求 refers to the requirements for securing software and data against accidental operations and errors."&lt;SEP&gt;"软件及数据安全要求是新增加的内容，涉及水文仪器在数据处理和存储方面的安全标准。"</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1&lt;SEP&gt;chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;电气安全等级分类&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电气安全等级分类是标准中对水文仪器电气部分的具体安全要求分类和定义。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;介电强度试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"介电强度试验是水文仪器安全标准中提到的一种测试，用以检测设备在电气强度上的安全性。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;安全特低电压&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全特低电压指的是设计上为了确保设备和人身安全而限制的电压范围。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;稳定性和机械危险&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"稳定性和机械危险是水文仪器安全标准中需要注意的两大方面，确保仪器在使用过程中不会造成伤害。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;热力学性能&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"热力学性能在文档中提及，涉及水文仪器在不同温度条件下的安全和性能表现。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;长期无人值守仪器&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"长期无人值守仪器是指在没有人值守的情况下自动运行的仪器，标准中对此提出了安全要求。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;极端水流条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"极端水流条件 refers to strong currents that instruments must withstand during underwater operations."&lt;SEP&gt;"极端水流条件是水文仪器在设计和使用时必须考虑的环境因素，确保设备在这些条件下的安全与可靠性。"</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259&lt;SEP&gt;chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;作业标记&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"作业标记是为了提醒过往车船等，保障操作与安全而在施测过程中配置的标识。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;机械强度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"机械强度 refers to the strength of materials and structures used in instruments to withstand harsh conditions and operational stresses."&lt;SEP&gt;"机械强度指的是水文仪器在使用中能够抵御各种外力而不发生结构性损坏的能力。"</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259&lt;SEP&gt;chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;电磁辐射&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电磁辐射是指使用水文仪器过程中可能释放的能量，对于操作者的健康和安全有必要加以控制。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;检测条款&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检测条款是水文仪器标准中用以验证仪器符合各项安全要求的条款。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;基本安全标志表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"基本安全标志表以前用于水文仪器的安全标准，现在已被文字叙述所替代，以提供更清晰的指导。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;电气设备的安全要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电气设备的安全要求是标准中规定的修订部分，旨在提高水文仪器的电气安全性。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;工作状态磁场干扰&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工作状态磁场干扰是电磁兼容性测试规范的一部分，旨在保护水文仪器在电磁环境中的性能。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;辐射干扰试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"辐射干扰试验是测试水文仪器抗干扰能力的关键环节，确保其在各种外部环境中的稳定工作。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;安全要求的条文&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全要求的条文是有关水文仪器的技术和安全标准中所包含的具体条款。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;水文仪器术语&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文仪器术语定义了规范中使用的专业术语，确保咨询和实施时的统一理解。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;适用范围&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"适用范围是指水文仪器安全标准的适用对象，明确该标准的使用场景和规范。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;工作条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工作条件是设计水文仪器时必须考虑的因素，以确保其在实际使用中保持安全与有效。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;条款内容&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"条款内容指的是水文仪器安全标准中具体的技术和安全要求，以保证设备的安全性。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;说明书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"说明书是仪器使用指导，需明确标识任何对操作者健康可能产生的影响。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;显著的警示标识&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"显著的警示标识在仪器上用于提示使用者注意潜在的危险或注意事项。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;设计及构造&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设计及构造是指南水文仪器在技术上保证正常运作和安全性的基本要求。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;正常运行条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"正常运行条件是指设备在日常使用中应当确保安全无危害的状态。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;可能的故障或误操作条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"可能的故障或误操作条件是设计中需要考虑的，确保即使发生意外也不会对人身或环境造成危险。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;随即出现的机械危险&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"随即出现的机械危险在使用水文仪器时可能导致的意外风险，要求对机械部分进行保护。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;外壳或防护罩&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"外壳或防护罩是水文仪器设计的重要部分，旨在保护内部组件免受外部环境影响。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;机械危险的运动部件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"机械危险的运动部件指的是可能引起伤害的运动部件，要求提供保护装置以避免危险。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;提手或把手&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"提手或把手是水文仪器的设计元素之一，用于便于移动和操作仪器。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;显著的特殊功能要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"显著的特殊功能要求是针对特定用途设计的安全标准，以确保设备在特殊情况下的安全性。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;操作与维护人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"操作与维护人员是负责使用和维护水文仪器的人员，必须接受相关的安全培训。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;给人造成伤害的因素&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"给人造成伤害的因素是指在仪器使用中可能产生的风险，需要在设计中加以控制。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;水文仪器的安全要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文仪器的安全要求是一个整体标准，涵盖了对该类设备的所有安全性要求。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;能源释放 &quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"能源释放涉及水文仪器使用过程中可能引发的健康安全担忧，要求相关说明。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;有害影响&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"有害影响是指水文仪器使用时对操作者和环境可能造成的负面效应，需要加以监管和管理。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;限制电压&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"限制电压是水文仪器标准中所提及的重要参数，确保设备在安全电压范围内操作。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;水流条件的特殊要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水流条件的特殊要求是针对在特定环境下使用水文仪器的安全标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;设备图形符号&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备图形符号是在说明书和设备面板中使用的标识，用于识别设备功能和安全性。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;信息交流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"信息交流指的是在水文仪器使用过程中，涉及的所有相关标准和信息的传递与理解。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;控制与管理标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"控制与管理标准是指导水文仪器安全性评估和标准实施的重要文献。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;水文监测技术&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文监测技术是此标准涉及的领域，要求设备符合最新的技术进步和安全性标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;技术内容&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术内容指的是为确保水文仪器的正确使用和维护而规定的原则和技术指标。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;安全管理措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全管理措施是为确保水文仪器安全操作而制定的具体管理标准和实施步骤。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;国家标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"国家标准是指由国家机关发布的制造和服务的技术要求、管理规定和相关要求。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;环境要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境要求是水文仪器的安全标准中关注的一个方面，确保产品在使用中不造成污染。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;功能与安全性能标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"功能与安全性能标准是指针对水文仪器实际操作的安全性和效果制定的标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;数据保密与加密措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据保密与加密措施是确保水文仪器在数据处理方面的安全性标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;安全标志&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全标志是用于提醒用户和操作人员注意设备风险的视觉标识。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;长期维护标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"长期维护标准规定了水文仪器在长期使用过程中的维护规范，确保其持续的安全性。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;电气工程师&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"电气工程师负责确保水文仪器的电气安全和符合相关电气标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;环境科学家&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"环境科学家参与评估水文仪器对环境影响的研究，以确保遵循安全标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;仪器制造商&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"仪器制造商负责生产符合水文仪器安全标准的设备，确保优质和安全。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;审查与批准程序&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"审查与批准程序是确保水文仪器安全标准得到落实和执行的重要步骤。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;专业培训&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"专业培训是针对操作人员进行的培训，以确保其了解水文仪器的安全和正确使用方式。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;技术审核&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术审核是对水文仪器标准内容进行评估和修订的重要过程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;技术规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术规范是对水文仪器及其相关技术要求的详细描述和说明。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;数据监控&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据监控是水文仪器运营的重要组成部分，确保数据收集和分析的准确性。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;国家标准的发布与修订&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"国家标准的发布与修订是确保水文仪器安全与性能的法规过程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;国际标准化组织&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"国际标准化组织是负责制定和推广国际统一标准的机构，其相关标准会被参考和采纳。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;国家安全需求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"国家安全需求是制定水文仪器标准的基础之一，以确保国家对水资源的合理利用和管理。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;监测过程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监测过程指的是对水文环境进行持续观察和记录的活动，以确保符合安全标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;实施效果评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实施效果评估是对水文仪器标准应用的结果进行分析和总结的过程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;标准满足情况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标准满足情况是监控水文仪器遵循历史标准和新要求的持续过程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;政策指导&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"政策指导指的是上级机构对水文仪器相关标准的执行和优化提出的指导意见。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;新技术应用情况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"新技术应用情况评估是确保水文仪器根据最新技术发展的重要标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;行业法规&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"行业法规是指对水文仪器生产和使用的法律法规要求，保护公众安全。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;合规性检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合规性检查是对水文仪器使用情况的评估，以确保其符合国家和行业标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;行业标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"行业标准是水文仪器领域内广泛认可的标准，对设备安全性和性能提出指导。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;技术交流会议&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术交流会议是行业内相关专家就水文仪器进行交流和讨论的重要场合。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;设备管理规定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备管理规定是确保水文仪器运营的标准操作程序和管理要求。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;标准的国际化 &quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标准的国际化是水文仪器标准与国际最佳实践对接的流程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;环境保护措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护措施指的是在水文仪器使用和维护过程中所采取的保护措施。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;数据完整性检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据完整性检查是用于确保水文仪器数据收集和处理过程中没有丢失或错误的规定。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;法规更新&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"法规更新是对水文仪器相关法律法规进行修订和调整的重要过程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;安全检查标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全检查标准是针对水文仪器进行安全评估的方法和规范。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;设计与运行简化 &quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设计与运行简化是确保水文仪器使用和维护更为便捷的策略。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;质量控制标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量控制标准是对水文仪器过程中所涉及的材料和操作提出的标准，以确保其质量。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;相关职能部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"相关职能部门负责监督和检查水文仪器的安全和规范，确保符合标准要求。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;操作手册&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"操作手册是指导使用水文仪器的详细说明书，确保操作者了解相关的注意事项和操作流程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;实验室检测要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实验室检测要求确保水文仪器在使用前经过专业审查和测试。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;行业内技术交流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"行业内技术交流与合作是提升水文仪器开发和应用能力的重要步骤。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;风险评估标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"风险评估标准是评估和管理水文仪器使用中可能出现的潜在安全风险的指导。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;改进措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"改进措施表示在检测与评估后为提高水文仪器设计和使用提出的改进计划。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;国家质量监督&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"国家质量监督是对水文仪器和产品进行质量检测和认证的过程，确保其符合安全标准。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;科技人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"科技人员为水文仪器的研究和开发做出贡献，确保其技术符合最新进展。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;公众意识&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"公众意识提升是指通过教育和宣传来增强对水文仪器安全和环境要求的理解。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;登记与备案制度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"登记与备案制度是确保水文仪器的使用和生产合规的重要措施。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;事故处理程序&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"事故处理程序是针对水文仪器使用过程中出现的意外情况进行处理的标准程序。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;维护手册&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"维护手册提供对水文仪器的日常维护和安全检查的详细指导。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;产业合作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"产业合作是各界共同推进水文仪器技术和标准发展的过程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;相关研究结果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"相关研究结果将影响水文仪器的设计和标准的修订。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;公共服务&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"公共服务要求确保水文仪器能为社会提供可靠的数据和服务。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;建设标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建设标准是指导水文仪器安装和使用环境的规范。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;事后评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"事后评估是在水文仪器使用后，针对其性能及安全性进行的总结与改进。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;国际合作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"国际合作涉及与其他国家在水文仪器标准和技术领域的合作与交流。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;标准化流程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标准化流程是制定和实施水文仪器安全标准的关键步骤。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;市场需求分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"市场需求分析用于评估水文仪器的应用前景和发展方向。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;检验与测试流程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检验与测试流程确定水文仪器在出厂前和使用中的质量和安全性。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;监督检查机制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监督检查机制确保水文仪器在生产和使用过程中的合规性和安全性。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;数据共享与透明性&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据共享与透明性是对水文仪器使用数据进行公开和可追溯的重要要求。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;行业评审&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"行业评审是对水文仪器行业的整体评估，旨在提高行业标准和认知。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;标准的更新和迭代&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标准的更新和迭代是为了反映最新的技术进步和市场需求而进行的流程。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;应急响应计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"应急响应计划是针对水文仪器可能引起的突发事件进行的应对策略。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;内审机制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"内审机制是为了确保水文仪器各个部门的标准执行情况进行自查和改进。"</data>
+      <data key="d2">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </node>
+    <node id="&quot;无&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"无 is a placeholder for an unspecified organization involved in the context of equipment specifications and safety measures."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;仪器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"仪器 refers to a type of equipment designed with various safety features and operational guidelines suitable for harsh environmental conditions."&lt;SEP&gt;"仪器是操作和测量收集数据的设备，具备多种安全和保护措施以确保数据的完整性和设备的正常运行。"</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259&lt;SEP&gt;chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;电气安全要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电气安全要求 deals with the regulations and guidelines ensuring the safe operation of electrical instruments and equipment, particularly against shock and faults."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;防潮防尘防昆虫侵入&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"防潮防尘防昆虫侵入 refers to protective measures that prevent moisture, dust, and insect intrusion, essential for the reliability of underwater instruments."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;水下使用的仪器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"水下使用的仪器 are instruments specifically designed for use in underwater environments, featuring sealed structures to endure high pressure."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;桥测的车辆&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"桥测的车辆 are vehicles equipped with mechanical safety devices to ensure stability during bridge measurements and assessments."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;恶劣气候&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"恶劣气候 refers to extreme weather conditions that instruments must endure during their operation."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;固定装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"固定装置 refers to the mounting mechanisms that secure instruments to various surfaces or vehicles, ensuring stability during operation."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;防触电保护&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"防触电保护 encompasses safety features designed to prevent accidental electric shock to users while operating the instruments."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;熔断器电路断路器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"熔断器电路断路器 are safety devices used in electrical systems to prevent overcurrent and manage electrical faults."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;紧急指令的操作机构&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"紧急指令的操作机构 are controls designed for issuing urgent instructions, strategically located for quick access."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;电源插座&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电源插座 are electrical outlets used for powering instruments, designed with safety mechanisms to prevent misuse."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;安全标记&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全标记 refers to the various safety labels and signs placed on instruments to inform users of potential hazards."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;低压直流电源&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"低压直流电源 are electrical power sources that operate at low voltage and direct current, commonly used in instruments."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;保护接地端&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"保护接地端 refers to grounding terminals important for electrical safety in instruments, ensuring all exposed conductive parts are safely grounded."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;接地线&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"接地线 is a wire that connects the safety ground to electrical equipment, providing a path for electrical faults."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;插座&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"插座 refers to sockets used for connecting various electrical devices or instruments, ensuring proper electrical connections."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;测试 和条的测试方法&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测试 和条的测试方法 are testing methods used to verify the performance and safety of instruments according to standards."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;标刻&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"标刻 refers to the marking of instruments with symbols, figures, and other indicators required by relevant standards."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;旋钮&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"旋钮 are knobs used on instruments for controlling functions, often color-coded for easy identification."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;数字标志&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"数字标志 are numeric indicators used on instruments to display measurements or operational statuses."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;物理量和计量单位符号&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"物理量和计量单位符号 refer to physical quantities and units of measurement that must comply with established standards."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;可见标记&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"可见标记 are noticeable labels used to provide information regarding safety and operational procedures on instruments."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;指示灯&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"指示灯 are light indicators on instruments that convey information about the operational status or alerts."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;操作区域&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"操作区域 refers to zones where operators interact with instruments, often designed for efficient and safe use."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;常用操作区域&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"常用操作区域 refers to frequently used areas on instruments where controls are placed for ease of access and usability."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;机械安全装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"机械安全装置 are safety mechanisms in equipment designed to prevent mechanics from failure during operation."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;外壳&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"外壳 refers to the outer protective casing of instruments, important for safeguarding internal components from external elements."</data>
+      <data key="d2">chunk-5f5f978289e363fc60ac392527812259</data>
+    </node>
+    <node id="&quot;安全仪器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"安全仪器 refers to protective grounding safety devices that can withstand strong corrosion and provide earthing protection."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;电池供电仪器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"电池供电仪器 are devices powered by batteries that need to prevent battery leakage and flammable gas accumulation."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;各种工业性电磁干扰&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"各种工业性电磁干扰 refers to industrial electromagnetic interference that devices must be shielded against."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;基本安全测试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"基本安全测试 includes tests for insulation resistance, leakage current, and dielectric strength to ensure device safety."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;潮湿处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"潮湿处理 involves placing instruments in a humidity-controlled environment for testing purposes."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;接地端类安全仪器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"接地端类安全仪器 is a category of safety instruments that provide grounding protection and are resistant to corrosion."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;接地端子&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"接地端子 refers to the terminal connections used in grounding systems that ensure safety and functionality."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;电源&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"电源 refers to the power source supplying energy to the instruments, crucial for their operation and testing."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;绝缘电阻&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"绝缘电阻 refers to the resistance measure that ensures proper insulation of electrical devices to prevent faults."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;泄漏电流&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"泄漏电流 is the current that flows through an unintended path, requiring monitoring to ensure safety in devices."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;介电强度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"介电强度 indicates the ability of a material to withstand electric stress without breaking down or failing."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;电源插头&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"电源插头 is the plug that connects to the power source, important for the integrity of electrical systems."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;测量仪&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"测量仪 refers to measuring instruments that assess various parameters of electrical and electronic devices."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;黄绿双色&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"黄绿双色 refers to the yellow-green coloring used for insulation in grounding wires to indicate safety compliance."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;强雷击区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"强雷击区 defines geographical areas prone to severe lightning strikes, affecting grounding requirements for devices."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;交变湿热试验箱&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"交变湿热试验箱 is a testing chamber used to simulate humid and temperature-variable conditions for device testing."</data>
+      <data key="d2">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </node>
+    <node id="&quot;程序系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"程序系统用于控制仪器的应用，通过特定的存储技术和安全措施，防止程序丢失或误操作。"</data>
+      <data key="d2">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;数据&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"数据是由仪器采集和存储的信息，必须经过安全和保护措施以避免丢失或误操作。"</data>
+      <data key="d2">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;密码设置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"密码设置用来保护系统数据和仪器参数的安全，防止未授权的访问和误操作。"</data>
+      <data key="d2">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+    </node>
+    <node id="&quot;程序存储器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"程序存储器是用于固化应用软件的存储设备，确保程序在写入后不会丢失。"</data>
+      <data key="d2">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;防护功能&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"防护功能是仪器设计中的重要特性，旨在防止意外操作失误和逻辑上的混乱。"</data>
+      <data key="d2">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;看门狗电路&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"看门狗电路是确保仪器正常运行的重要硬件组件，能在软件出现故障时进行自动重启。"</data>
+      <data key="d2">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;容错功能&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"容错功能允许系统在出现错误时自动处理问题，确保测量数据的准确性和仪器的有效性。"</data>
+      <data key="d2">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;安全要求&quot;">
+      <data key="d2">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+      <data key="d1">"程序系统必须满足特定的安全要求，以防止数据丢失和仪器故障，确保操作的顺利进行。"</data>
+      <data key="d0">"UNKNOWN"</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <edge source="&quot;中华人民共和国&quot;" target="&quot;水文仪器安全要求&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"中华人民共和国负责发布水文仪器安全要求标准，确保水文仪器的安全和合规性."</data>
+      <data key="d6">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;水利部&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利部提出了水文仪器安全要求的标准，显示其在该标准制定中的重要角色."</data>
+      <data key="d6">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;全国水文标准化技术委员会&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"全国水文标准化技术委员会负责审定和归口管理水文仪器安全要求标准。"</data>
+      <data key="d6">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;南京水利水文自动化研究所&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"南京水利水文自动化研究所负责起草水文仪器安全要求标准，直接参与其内容的制定。"</data>
+      <data key="d6">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;石明华&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"石明华是主要起草人之一，直接参与水文仪器安全要求的制定过程。"</data>
+      <data key="d6">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;徐海峰&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"徐海峰是主要起草人之一，直接参与水文仪器安全要求的制定过程。"</data>
+      <data key="d6">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;王志毅&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"王志毅是主要起草人之一，直接参与水文仪器安全要求的制定过程。"</data>
+      <data key="d6">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </edge>
+    <edge source="&quot;水文仪器安全要求&quot;" target="&quot;陆旭&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"陆旭是主要起草人之一，直接参与水文仪器安全要求的制定过程。"</data>
+      <data key="d6">chunk-8f380cc7f0e9a7151d56f97584f864db</data>
+    </edge>
+    <edge source="&quot;软件及数据安全要求&quot;" target="&quot;安全仪器&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"安全仪器 must adhere to 软件及数据安全要求 to ensure the integrity of its software and data."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;无&quot;" target="&quot;仪器&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"无 is expected to play a role in providing or regulating the specifications and safety standards for the instruments discussed."</data>
+      <data key="d6">chunk-5f5f978289e363fc60ac392527812259</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;电气安全要求&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The specifications and safety measures outlined for the instruments must adhere to the电气安全要求 to ensure safe operations."</data>
+      <data key="d6">chunk-5f5f978289e363fc60ac392527812259</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;程序系统&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"仪器依赖程序系统进行操作，二者之间有着紧密的功能关系，且程序系统的安全性影响仪器的正常工作。"</data>
+      <data key="d6">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;数据&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"仪器收集和存储的数据是其功能的重要组成部分，仪器的性能直接影响数据的准确性和可靠性。"</data>
+      <data key="d6">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;防护功能&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"仪器的防护功能确保其在面对操作失误时能够保持正常工作，因此二者相辅相成。"</data>
+      <data key="d6">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;看门狗电路&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"看门狗电路为仪器提供了必要的硬件保护，以防止死机并保证其持续运作。"</data>
+      <data key="d6">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+    </edge>
+    <edge source="&quot;接地线&quot;" target="&quot;黄绿双色&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"黄绿双色 is used in 接地线 to indicate compliance with safety standards in electrical installations."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;安全仪器&quot;" target="&quot;基本安全测试&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"安全仪器 must undergo 基本安全测试 to ensure their reliability and safety during use."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;安全仪器&quot;" target="&quot;潮湿处理&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"安全仪器 may undergo 潮湿处理 as part of the testing process to assess functionality under humidity conditions."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;安全仪器&quot;" target="&quot;各种工业性电磁干扰&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"安全仪器 are designed to protect against 各种工业性电磁干扰 during operation."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;安全仪器&quot;" target="&quot;介电强度&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"安全仪器 must meet certain 介电强度 standards to ensure their reliability in operational environments."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;电池供电仪器&quot;" target="&quot;基本安全测试&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"电池供电仪器 must also pass 基本安全测试 to prevent risks associated with battery leakage."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;接地端类安全仪器&quot;" target="&quot;接地端子&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"接地端类安全仪器 utilizes 接地端子 for proper grounding, ensuring safety and effectiveness."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;接地端类安全仪器&quot;" target="&quot;电源插头&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"电源插头 provides the necessary power to 接地端类安全仪器 for operation and testing."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;接地端类安全仪器&quot;" target="&quot;强雷击区&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"接地端类安全仪器 requires specific grounding measures when used in 强雷击区 to enhance safety."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;泄漏电流&quot;" target="&quot;测量仪&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"测量仪 are essential for accurately assessing 泄漏电流 during safety tests of electrical devices."</data>
+      <data key="d6">chunk-4b0363e74aef1320a18f9386e00dd8f1</data>
+    </edge>
+    <edge source="&quot;程序系统&quot;" target="&quot;安全要求&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"程序系统必须满足特定的安全要求，以防止数据丢失和仪器故障，确保操作的顺利进行。"</data>
+      <data key="d6">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+    </edge>
+    <edge source="&quot;程序系统&quot;" target="&quot;容错功能&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"程序系统中的容错功能确保操作在出现问题时仍然能有效运行，减少系统故障的影响。"</data>
+      <data key="d6">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+    </edge>
+    <edge source="&quot;数据&quot;" target="&quot;程序存储器&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"程序存储器用于存储应用软件，确保数据正确存取，因此二者关系紧密。"</data>
+      <data key="d6">chunk-df7a015a08b82d7c93cae9bab36c1aaa</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,1439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is the governmental body responsible for water resources in China, overseeing the implementation of water-related standards and regulations."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;水利行业标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利行业标准 refers to the standards established for the field of water resources and hydropower engineering, ensuring quality and compliance in construction and management."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;中水淮河工程有限责任公司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中水淮河工程有限责任公司 is a company involved in the management and design of water projects, noted as a primary drafting organization for water industry standards."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;水利水电建设工程验收规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利水电建设工程验收规程 outlines the procedures and criteria for the acceptance of hydropower construction projects, ensuring compliance and quality assurance."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;水利建设与管理总站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利建设与管理总站 is a management organization under the Ministry of Water Resources, contributing to the construction and management of water resources projects."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;唐涛&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"唐涛 is identified as one of the principal authors of the water industry standards, indicating significant expertise and involvement in the development of these regulations."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;水利工程建设项目验收管理规定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利工程建设项目验收管理规定 outlines the management regulations for the acceptance of water engineering construction projects, establishing procedural integrity and oversight."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;水利水电工程技术研究中心&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利水电工程技术研究中心 is a research institute focused on technological advancements and standards in hydropower engineering."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;司毅军&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"司毅军 is identified as one of the primary authors of the water industry standards, indicating significant expertise in the field of water management."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;韦志立&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"韦志立 is identified as one of the primary authors of the water industry standards, playing a key role in the development of regulations."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;江瑞勇&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"江瑞勇 is recognized as a principal author of the standards, contributing to the establishment of guidelines in water resources management."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;何建新&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"何建新 is one of the principal authors, contributing expertise to the creation of water industry standards."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;宋崇能&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"宋崇能 is a key figure among the principal authors of the standards for water resources, indicating significant involvement in their development."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;王韶华&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王韶华 is noted as a principal author, contributing to the writing of the standards governing water engineering practices."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;宋彦刚&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"宋彦刚 is acknowledged as one of the main authors of water industry standards, indicating involvement in regulatory development."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;张忠生&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"张忠生 is identified as one of the principal authors, suggesting his expertise in water management standards."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;窦以松&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"窦以松 is the format reviewer for the standard, responsible for ensuring compliance with official guidelines and presentation."</data>
+      <data key="d2">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </node>
+    <node id="&quot;水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部 is a governmental organization responsible for the supervision and management of water resources engineering projects nationwide in China."</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;地方人民政府&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"地方人民政府 may be involved in acceptance processes and discussions regarding engineering projects."&lt;SEP&gt;"地方人民政府 refers to the local government authorities responsible for the supervision and management of water resources engineering projects within their administrative jurisdictions in China."</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;流域管理机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"流域管理机构 are regional management entities authorized by the 水利部 to oversee the supervision and management of water resources engineering projects within specific river basins."&lt;SEP&gt;"流域管理机构是涉及特定流域的管理单位，参与竣工验收并提供技术支持。"</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf&lt;SEP&gt;chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;法人验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"法人验收 is a verification event where the acceptance of construction projects is conducted by the project owner in accordance with regulatory criteria."</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;工程验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程验收 involves the overall acceptance inspection of engineering projects to ensure they meet approved designs and standards."</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;工程建设项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程建设项目 refers to specific construction projects that are under supervision and require acceptance inspection by relevant regulatory bodies."&lt;SEP&gt;"工程建设项目是指由项目法人组织实施的具体工程，例如水利工程、河道疏浚工程等。"</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf&lt;SEP&gt;chunk-309bf10b8bc1edce029593c15d977dde</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;验收委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"验收委员会 is a committee established to oversee the acceptance process of engineering projects, consisting of representatives from relevant agencies and experts."&lt;SEP&gt;"验收委员会 is the committee responsible for the acceptance and evaluation process of the engineering project, including signing off on various reports and conclusions."</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf&lt;SEP&gt;chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;项目法人&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"项目法人 denotes the project entity responsible for the management and oversight of the construction and operational phases of the hydroelectric project."&lt;SEP&gt;"项目法人 is an organization responsible for overseeing and managing project acceptance and quality assurance."&lt;SEP&gt;"项目法人 is the legal entity responsible for a project, involved in the entire process, including contract management and completion of engineering tasks."&lt;SEP&gt;"项目法人 is the legal entity responsible for managing a construction project and ensuring compliance with requirements during the验收 process."&lt;SEP&gt;"项目法人 is the legal entity responsible for the engineering project, overseeing its execution and compliance."&lt;SEP&gt;"项目法人 refers to the legal entity responsible for the construction and management of the water conservancy project, overseeing compliance and execution."&lt;SEP&gt;"项目法人是指负责主导和主持工程验收的单位，具备相应的管理责任和权利。"&lt;SEP&gt;"项目法人是负责提出工程质量抽样检测项目内容和数量的单位，并需向竣工验收主持单位报送检测报告。"&lt;SEP&gt;"项目法人是负责组织、监督和管理工程竣工验收的主体，确保验收流程的合规性和完整性。"</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b&lt;SEP&gt;chunk-4ff9120ff28d34d71f8eadd1ba602b16&lt;SEP&gt;chunk-cb6cf37ed5835ff65a2c06a0d3c667cc&lt;SEP&gt;chunk-309bf10b8bc1edce029593c15d977dde&lt;SEP&gt;chunk-8e4e0ba8c5a69a7c635222a5a1a03925&lt;SEP&gt;chunk-5a44114a0dfe52f78b090250f01b0abf&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a&lt;SEP&gt;chunk-a0bc0a58f0d74eab695f9812c518d2b4&lt;SEP&gt;chunk-ed23a599e865335fc286140de316ad15</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;工程验收监督管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程验收监督管理 refers to the administrative process and oversight involved in the acceptance of engineering projects, ensuring all regulations are adhered to."</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;工程质量检验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程质量检验 is the evaluation process that assesses the quality of construction work against established standards before acceptance."</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;工程维修支持&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程维修支持 involves ongoing maintenance support for engineering projects post-acceptance to ensure continuous compliance and functionality."</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </node>
+    <node id="&quot;施工合同&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工合同 is the contract that outlines the responsibilities and obligations of parties involved in the construction of a project."</data>
+      <data key="d2">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;监理单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监理单位 is the supervising entity that ensures that construction adheres to agreed standards and regulations."&lt;SEP&gt;"监理单位负责监督和检查工程质量，确保施工单位按标准完成工程建设。"</data>
+      <data key="d2">chunk-24e8aa0a7255dfe26e0a472152d59c2a&lt;SEP&gt;chunk-ed23a599e865335fc286140de316ad15</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;质量监督机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"质量监督机构 is the authority that verifies and provides feedback on acceptance quality conclusions and related materials."&lt;SEP&gt;"质量监督机构是负责监督和审核工程质量的部门，确保工程符合国家标准与行业规定。"&lt;SEP&gt;"质量监督机构负责核备验收质量结论，确保工程符合设计标准和合同要求。"</data>
+      <data key="d2">chunk-309bf10b8bc1edce029593c15d977dde&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a&lt;SEP&gt;chunk-ed23a599e865335fc286140de316ad15</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;分部工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"分部工程是指大型工程中独立的部分，需进行验收以确认其施工质量和合规性。"</data>
+      <data key="d2">chunk-ed23a599e865335fc286140de316ad15</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;单位工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"单位工程是指已完工的工程部分，其验收和质量评定是依据其独立性进行的。"</data>
+      <data key="d2">chunk-ed23a599e865335fc286140de316ad15</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;施工单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"施工单位 is the construction entity that applies for project acceptance when conditions are met."&lt;SEP&gt;"施工单位 is the construction unit responsible for carrying out the engineering tasks and may be involved in the quality assurance of completed works."&lt;SEP&gt;"施工单位是实施工程建设的单位，负责具体的施工工作并保证工程质量。"</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a&lt;SEP&gt;chunk-ed23a599e865335fc286140de316ad15</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;大型枢纽工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"大型枢纽工程指的是规模巨大、技术复杂的工程项目，通常涉及多个分部工程的验收。"</data>
+      <data key="d2">chunk-ed23a599e865335fc286140de316ad15</data>
+    </node>
+    <node id="&quot;主要设备制造供应商&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"主要设备制造供应商 is the organization that supplies key equipment required for the construction project."&lt;SEP&gt;"主要设备制造供应商负责提供施工过程中的重要设备，确保工程能够顺利进行。"</data>
+      <data key="d2">chunk-24e8aa0a7255dfe26e0a472152d59c2a&lt;SEP&gt;chunk-ed23a599e865335fc286140de316ad15</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;相关责任单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"相关责任单位是指在工程建设和验收中承担责任的单位，有义务参与质量监督和验收工作。"</data>
+      <data key="d2">chunk-ed23a599e865335fc286140de316ad15</data>
+    </node>
+    <node id="&quot;验收申请报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收申请报告 is a document prepared by the施工单位 to request acceptance of the construction work upon completion."&lt;SEP&gt;"验收申请报告是在施工单位完成工程后，向项目法人提交的请求进行验收的正式文件。"</data>
+      <data key="d2">chunk-24e8aa0a7255dfe26e0a472152d59c2a&lt;SEP&gt;chunk-ed23a599e865335fc286140de316ad15</data>
+    </node>
+    <node id="&quot;验收质量结论&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收质量结论 refers to the conclusions drawn from the acceptance check regarding the quality and compliance of the construction work."&lt;SEP&gt;"验收质量结论是对工程验收结果的正式记录，包含质量评定和合规性判断。"</data>
+      <data key="d2">chunk-24e8aa0a7255dfe26e0a472152d59c2a&lt;SEP&gt;chunk-ed23a599e865335fc286140de316ad15</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;档案资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"档案资料是验收过程中所需的工程记录和相关文件，支持质量检查和审查。"</data>
+      <data key="d2">chunk-ed23a599e865335fc286140de316ad15</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;遗留问题处理情况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"遗留问题处理情况是指在验收过程中遗留问题的整改及其结果，影响到后续的质量评定。"</data>
+      <data key="d2">chunk-ed23a599e865335fc286140de316ad15</data>
+    </node>
+    <node id="&quot;质量评定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量评定 is the evaluation of the quality of construction work and materials against established standards."&lt;SEP&gt;"质量评定是针对工程施工作业成果的评价，决定工程的合格与否。"</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc&lt;SEP&gt;chunk-ed23a599e865335fc286140de316ad15</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;合同工程完工验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合同工程完工验收 is the event marking the final acceptance check of construction projects to ensure they meet contractual obligations."&lt;SEP&gt;"合同工程完工验收是项目法人与施工单位在工程完成后进行的评估和确认过程。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+    </node>
+    <node id="&quot;阶段验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"阶段验收 is the event for inspecting projects at different stages of completion, ensuring compliance with conditions."&lt;SEP&gt;"阶段验收 is the process of acceptance that occurs at different stages of the project to ensure compliance with specifications and regulations."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+    </node>
+    <node id="&quot;枢纽工程导截流验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"枢纽工程导截流验收 is a specific type of acceptance check performed on diversion works before they become operational."</data>
+      <data key="d2">chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+    </node>
+    <node id="&quot;工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程 refers to a construction or project process that undergoes various evaluation stages, including acceptance and inspection processes."&lt;SEP&gt;"工程 refers to construction projects that are subject to various acceptance and quality inspections as per contractual agreements."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+    </node>
+    <node id="&quot;合同&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"合同 is a legal document that outlines the terms and agreements related to construction projects and their acceptance processes."</data>
+      <data key="d2">chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+    </node>
+    <node id="&quot;验收鉴定书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收鉴定书 is a formal document prepared at the conclusion of acceptance checks, certifying the quality and compliance of the completed work."&lt;SEP&gt;"验收鉴定书 is a formal document that certifies the acceptance and evaluation results of the engineering project."&lt;SEP&gt;"验收鉴定书是竣工验收委员会根据工程检查结果形成的书面报告，确认工程验收合格。"</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b&lt;SEP&gt;chunk-8e4e0ba8c5a69a7c635222a5a1a03925&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+    </node>
+    <node id="&quot;工程质量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程质量 refers to the standards and specifications that construction projects must meet to be deemed acceptable."&lt;SEP&gt;"工程质量指的是建筑工程的构造、材料及施工的合格程度，是竣工验收的重要评价标准。"</data>
+      <data key="d2">chunk-309bf10b8bc1edce029593c15d977dde&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;施工现场&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"施工现场 is the physical location where construction activities take place and inspections are conducted."</data>
+      <data key="d2">chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+    </node>
+    <node id="&quot;工程参建单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程参建单位 refers to the various parties involved in the construction project, including subcontractors and suppliers."&lt;SEP&gt;"工程参建单位是参与工程建设的单位，需派代表参加竣工验收及解答相关问题。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+    </node>
+    <node id="&quot;验收遗留问题&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"验收遗留问题 are unresolved issues identified during acceptance checks that need addressing before final approval."&lt;SEP&gt;"验收遗留问题 refers to the outstanding issues that may affect the normal operation of the project, which need to be addressed."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc&lt;SEP&gt;chunk-24e8aa0a7255dfe26e0a472152d59c2a</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;流设计&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"流设计 is an organization involved in the planning and execution of hydraulic engineering projects, focusing on flood control measures and water management."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;防汛指挥部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"防汛指挥部门 is an authoritative body responsible for approving flood control measures and overseeing flood management strategies."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;水库&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水库 refers to a reservoir that is significant for storing water and managing flood control operations, requiring various inspections and safety measures."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;引调排水工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"引调排水工程 is a project involving diversion and drainage of water, requiring strict acceptance criteria before and after implementation."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;机组启动验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"机组启动验收 is a critical process involving the inspection and testing of power plant units before they are put into operation."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;移民搬迁安置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"移民搬迁安置 involves relocating residents affected by flood control projects, ensuring safety and compliance with regulations."&lt;SEP&gt;"移民搬迁安置 refers to the arrangements made for relocating individuals affected by the engineering project."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b&lt;SEP&gt;chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;库底清理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"库底清理 refers to the process of clearing out the bottom of a reservoir, which is crucial for maintaining water quality and operational efficiency."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;泄水建筑物&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"泄水建筑物 are the structures designed to manage and control the release of water from a reservoir after flooding."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;调度运用方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"调度运用方案 details the operational plan for managing water flow and reservoir use, ensuring everything aligns with ongoing projects."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;阶段验收鉴定书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"阶段验收鉴定书 is a documentation that certifies the completion and inspection of various construction phases related to flood control and reservoir management."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;施工质量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工质量 refers to the quality of construction work, which is critical for the safety and functionality of hydraulic structures."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;水电站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水电站 refers to a hydroelectric power station that produces power using the flow of water, related to the various projects described in the text."&lt;SEP&gt;"水电站 refers to a hydroelectric power station where the machines operate under specified load conditions for effective energy generation."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4&lt;SEP&gt;chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;工程分期&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程分期 involves conducting projects in phases to ensure that each portion meets regulatory and safety standards before proceeding."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;通水验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"通水验收 is a critical acceptance testing phase for verifying that water diversion and drainage systems are functioning correctly."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;防汛措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防汛措施 details various strategies implemented to manage and mitigate flooding risks."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;障碍物清理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"障碍物清理 refers to the removal of physical obstacles in water pathways to facilitate effective drainage."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;空载试运行&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"空载试运行 is the testing phase of power generation equipment without load, to ensure that systems are functioning properly."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;充水试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"充水试验 is done to verify that the water containing structures can hold and manage the expected water levels safely."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;试运行工作组&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"试运行工作组 is a team organized by the project owner to oversee and carry out the testing and trial phases of projects."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;机组带负荷运行&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"机组带负荷运行 indicates the operation of power generation units under normal load conditions, which must meet specific performance criteria."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;竣工验收主持单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"竣工验收主持单位 is the unit that oversees the final acceptance inspection of a construction project, ensuring it meets all regulations."&lt;SEP&gt;"竣工验收主持单位是负责组织竣工验收过程的单位，需审核项目法人提交的检测报告。"</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6&lt;SEP&gt;chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;专家&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"专家 refers to experts who provide guidance and support during the inspection and testing phases of water management projects."</data>
+      <data key="d2">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </node>
+    <node id="&quot;机组&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"机组 indicates a group of interconnected machinery responsible for generating power, requiring specific operational conditions and requirements to function effectively."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;验收工作报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收工作报告 is the formal procedure for verifying that the machinery and infrastructure meet all conditions and standards prior to operation."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;泵站&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"泵站 refers to a pumping station involved in the management and transfer of water, ensuring operational efficiency for the hydroelectric system."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;金属结构及启闭设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"金属结构及启闭设备 includes metal structures and control equipment that are crucial for the operation and management of the machinery within the 水电站."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;消防系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"消防系统 refers to the fire protection system installed to ensure safety and compliance during the operation of the machinery and infrastructure."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;压力容器和压力管道&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"压力容器和压力管道 encompasses the pressure vessels and piping systems integral to the operation and safety of the hydroelectric project."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;运行管理人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"运行管理人员 are the operational management personnel responsible for overseeing the daily functions and ensuring compliance with safety regulations in the hydroelectric system."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;调度运行方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"调度运行方案 is a plan that outlines the operational schedule and management of the hydroelectric plant to optimize production and safety."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;度汛方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"度汛方案 is a flood control plan approved by relevant authorities to manage water levels and ensure the safe operation of the hydroelectric facility."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;初步设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"初步设计 includes the foundational design plans and proposals that guide the project from concept to execution."&lt;SEP&gt;"初步设计 refers to the preliminary design documentation required to initiate construction and operational readiness of the hydroelectric project."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16&lt;SEP&gt;chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;工程竣工验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程竣工验收 is the final acceptance process to certify that all construction and operational guidelines have been met before the facility becomes operational."&lt;SEP&gt;"工程竣工验收是指在工程建设项目完全完成并满足运行条件后进行的验收程序，评估项目的质量标准和完成情况。"</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4&lt;SEP&gt;chunk-309bf10b8bc1edce029593c15d977dde</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;专项验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"专项验收 refers to specialized acceptance processes that verify compliance with specific regulatory standards prior to overall project completion."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;工程施工质量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程施工质量 pertains to the quality of construction work, which is evaluated during the acceptance process to ensure safety and functionality."</data>
+      <data key="d2">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;工程质量检测单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程质量检测单位依据技术标准进行工程质量检测，并对检测结论负责，需按时提交检测报告。"&lt;SEP&gt;"工程质量检测单位负责对工程项目的质量进行抽样检测，并提出检测报告，确保工程达到合格标准。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925&lt;SEP&gt;chunk-309bf10b8bc1edce029593c15d977dde</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 18}]</data>
+    </node>
+    <node id="&quot;设备制造供应商&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"设备制造供应商为项目提供必要的设备和材料，成为工程建设的一部分，影响工程质量和进度。"</data>
+      <data key="d2">chunk-309bf10b8bc1edce029593c15d977dde</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;竣工技术预验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竣工技术预验收 is the preliminary acceptance process that evaluates the technical aspects of a project before formal completion."&lt;SEP&gt;"竣工技术预验收是工程竣工验收的一个阶段，指在正式验收前对工程技术方面进行的初步审核与评估。"&lt;SEP&gt;"竣工技术预验收是由专家组进行的技术检查，目的是核实工程是否达到设计要求，检查质量隐患。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925&lt;SEP&gt;chunk-5636486c89746c9aa19bfc56aaa67b5c&lt;SEP&gt;chunk-309bf10b8bc1edce029593c15d977dde</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;竣工审计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竣工审计是对工程项目完成后的财务状况进行审核，以确认财务决算的准确性和合规性。"</data>
+      <data key="d2">chunk-309bf10b8bc1edce029593c15d977dde</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;河道疏浚工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河道疏浚工程是为了改善河道的排水能力、减少淤积而进行的工程，该工程需要在竣工验收中进行评估。"</data>
+      <data key="d2">chunk-309bf10b8bc1edce029593c15d977dde</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;大型水利工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"大型水利工程是指规模较大的水利设施，在竣工验收前需进行严格的技术鉴定。"</data>
+      <data key="d2">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </node>
+    <node id="&quot;自查工作报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"自查工作报告是项目法人在验收自查时生成的文件，记录检查结果与整改措施。"</data>
+      <data key="d2">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </node>
+    <node id="&quot;整改报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"整改报告是项目法人对审计意见中所提问题的处理方案和进度的记录。"</data>
+      <data key="d2">chunk-309bf10b8bc1edce029593c15d977dde</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;运行管理单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"运行管理单位是负责工程投入使用后管理和维护的单位，需与项目法人签订移交协议。"&lt;SEP&gt;"运行管理单位负责工程的日常运营和维护，确保工程正常运行。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925&lt;SEP&gt;chunk-309bf10b8bc1edce029593c15d977dde</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;工程质量抽样检测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程质量抽样检测是项目法人根据监督机构审核后的要求进行的质量检测过程。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 18}]</data>
+    </node>
+    <node id="&quot;竣工验收会议&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竣工验收会议是进行现场检查和审核通过竣工验收鉴定书的会议，涉及各相关单位的报告和讨论。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;专家组&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"专家组是负责进行竣工技术预验收的专家团队，成员需具备高级技术职称或相应执业资格。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </node>
+    <node id="&quot;各专业工作组&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"各专业工作组负责进行竣工技术预验收的具体检查，并形成各自的意见。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </node>
+    <node id="&quot;质量隐患&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量隐患是指在工程检查中发现的可能影响工程安全运行的问题，需要及时处理。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </node>
+    <node id="&quot;工程移交&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程移交 refers to the formal transfer of project assets and documents, ensuring that all aspects of the project are accounted for as per initial design and other approval documents."&lt;SEP&gt;"工程移交 signifies the formal transfer of project ownership and responsibility from the construction team to the regulatory or operational body after completion."&lt;SEP&gt;"工程移交是项目法人在工程通过验收后将工程及相关资料移交给运行管理单位的过程。"</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16&lt;SEP&gt;chunk-cb6cf37ed5835ff65a2c06a0d3c667cc&lt;SEP&gt;chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;工程质量保修书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程质量保修书是施工单位在工程交接时递交给项目法人的文件，内容涉及保修条件。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </node>
+    <node id="&quot;水行政主管部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水行政主管部门是参与竣工验收委员会的单位之一，负责相关水利工程的监督与管理。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </node>
+    <node id="&quot;工程投资方&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程投资方是为项目提供资金支持的单位，参与竣工验收过程中的决策和反馈。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </node>
+    <node id="&quot;项目审批文件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目审批文件是对工程建设各项工作进行批准的正式文档，确保工程按规定进行。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </node>
+    <node id="&quot;工程建设资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程建设资料是与工程建设相关的纸质或数字化文件，供各方查阅与审核。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </node>
+    <node id="&quot;尾工处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"尾工处理 involves addressing any remaining work or issues that need to be resolved after the main construction project is completed."&lt;SEP&gt;"尾工处理是指在竣工验收后对未完成项进行的补救措施，确保工程达到验收标准。"</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc&lt;SEP&gt;chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;现场检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场检查是竣工验收过程中的重要步骤，涉及对工程状态的具体观察和评估。"</data>
+      <data key="d2">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </node>
+    <node id="&quot;验收成果性文件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收成果性文件 refers to the documents produced as a result of the验收 process, which confirm the completion and quality of the project."&lt;SEP&gt;"验收成果性文件是记录验收过程中发现的问题和检查结果的文件，为后续处理提供依据。"</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc&lt;SEP&gt;chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </node>
+    <node id="&quot;竣工验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竣工验收 is the final acceptance process to verify that a construction project meets all requirements before a completion certificate is issued."&lt;SEP&gt;"竣工验收 refers to the completion acceptance of a project, where various criteria are assessed to ensure the project meets expected standards."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc&lt;SEP&gt;chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;工程质量保修期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程质量保修期 refers to the warranty period after project completion during which quality issues need to be addressed by the responsible parties."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;工程档案资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程档案资料 refers to the project files and records that must be properly managed and transferred during the 工程移交 process."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;固定资产&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"固定资产 includes the physical assets of the project that are subject to transfer during the 工程移交 process."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;法定代表人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"法定代表人 is the legal representative of an organization, responsible for signing documents and ensuring compliance with regulations during the 项目."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;竣工证书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竣工证书 is the completion certificate issued to the施工单位 upon successful verification of project fulfillment."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;合同工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合同工程 refers to the construction project undertaken as per the contract, encompassing various stages of planning, execution, and completion."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </node>
+    <node id="&quot;验收范围&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收范围 refers to the scope of the审查 conducted during acceptance to verify project compliance."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </node>
+    <node id="&quot;建设内容&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建设内容 defines the key activities and components completed as part of the construction project."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </node>
+    <node id="&quot;工程运行管理单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程运行管理单位 is the organization responsible for managing the operational phase of the completed project."</data>
+      <data key="d2">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;技術大綱&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"技術大綱 refers to the technical guidelines used in evaluating the project's compliance with safety and operational standards."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;工程品質評定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程品質評定 refers to the assessment of the quality of the completed engineering project, including checking the compliance with specified indicators."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;施工單位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"施工單位 refers to the construction unit responsible for executing the engineering project and fulfilling its milestones."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;工程基本情况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程基本情况 outlines the fundamental details and specifications of the engineering project, providing a foundation for further evaluation processes."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;验收条件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收条件 refers to the criteria that need to be met for the project to be accepted successfully during inspection."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;验收准备工作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收准备工作 involves the preparations made prior to the acceptance inspection, ensuring that everything is in place for evaluation."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;施工期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工期 refers to the duration and timeline in which the construction activities of the工程 are carried out."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;项目设计简况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目设计简况 summarizes the design aspects and approvals related to the engineering project."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;安全鉴定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全鉴定 pertains to the safety evaluations that must be completed before project acceptance."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;存在的问题及处理意见&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"存在的问题及处理意见 outlines the challenges encountered during the project and recommendations for resolution."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;完成工程量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"完成工程量 indicates the quantity of work completed in relation to the overall project goals."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;工程质量检测情况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程质量检测情况 describes the conditions and outcomes of quality testing performed during project evaluation."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;结论&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"结论 summarizes the outcomes and final evaluations deriving from the inspection and assessment processes."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;建议&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建议 includes recommendations made based on evaluations for improving the project or the process of acceptance."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;竣工验收自查工作报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竣工验收自查工作报告 is a self-examination report prepared to ensure compliance and readiness for project acceptance."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;工程建设管理工作报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程建设管理工作报告 details the management practices and oversight of the engineering construction activities."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;主要建设单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"主要建设单位 includes the key organizations involved in the construction process, contributing critical resources and expertise."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;技术问题处理情况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术问题处理情况 refers to the methods and strategies employed to address significant technical issues during the project."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;环境保护工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护工程 focuses on the environmental mitigation measures taken during the engineering project."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </node>
+    <node id="&quot;水土保持设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水土保持设施 outlines the structures implemented to prevent soil erosion and maintain environmental integrity during construction."&lt;SEP&gt;"水土保持设施 refers to measures implemented to prevent soil erosion and manage water resources effectively during project execution."</data>
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b&lt;SEP&gt;chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;水利工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利工程 represents a significant construction and implementation project, encompassing design, monitoring, and evaluation throughout its lifecycle."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;工程建设大事记&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程建设大事记 is a record of important events and milestones in the construction process, including approvals, inspections, and major changes."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;工程质量监督报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程质量监督报告 details the monitoring and evaluation of the quality of construction materials and methods, ensuring adherence to standards."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;工程施工管理工作报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程施工管理工作报告 outlines the management strategies, methods, and outcomes of the construction phase of the project."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;工程设计工作报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程设计工作报告 includes the details of planning, design considerations, and approvals for the engineering project."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;工程初期运行及效益&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程初期运行及效益 refers to the initial operational phase and effectiveness of a project, assessing performance and outcomes during the early stages."&lt;SEP&gt;"工程初期运行及效益 refers to the initial performance and benefits assessed during the early stages of the water conservancy project, providing critical feedback for future phases."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16&lt;SEP&gt;chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;监理机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监理机构 is the supervisory body overseeing the construction project's compliance with engineering standards and regulations."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;监理过程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监理过程 involves the series of evaluations and checks performed by the supervision organization to ensure construction adheres to planned specifications."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;监理效果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监理效果 refers to the overall impact and results of the supervision process on the construction quality and adherence to standards."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;安全监督工作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全监督工作 involves monitoring safety regulations and practices during construction to prevent accidents and ensure worker safety."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;工程质量检测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程质量检测 includes the systematic evaluation of materials and methods used in construction to confirm they meet predefined quality standards."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;设计变更&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设计变更 refers to modifications made to the original engineering plans, often reflecting new requirements or challenges encountered during construction."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;施工期度汛抢险&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工期度汛抢险 is the procedure followed during construction to address urgent flooding threats, ensuring the project's integrity and safety during adverse conditions."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;附件项目法人&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"附件项目法人 refers to the additional documents and organizations related to the main entity responsible for the project, providing further legal and operational context."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;经验与建议&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"经验与建议 encompasses the lessons learned and recommendations derived from the construction processes, aimed at improving future projects."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;质量结论意见&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量结论意见 are the formal assessments made regarding the quality of the engineering work upon project completion, including certifications and findings."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;工程验收鉴定情况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程验收鉴定情况 refers to the status and results of the acceptance tests conducted to ensure the project meets all criteria before handover."</data>
+      <data key="d2">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </node>
+    <node id="&quot;六工程运行管理&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"六工程运行管理 is an organization focused on the management and oversight of six engineering projects, ensuring effective operation and completion."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;规划设计情况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"规划设计情况 details the planning and design aspects of projects, ensuring proper execution and adherence to standards."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;财务审计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"财务审计 deals with the financial examination of the project's expenditures and funding, ensuring transparency and accountability."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;质量保修责任终止证书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量保修责任终止证书 certifies that the warranty period for construction quality has ended, indicating the completion of obligations under the contract."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;主要问题&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"主要问题 refers to the significant issues raised during various acceptance processes and assessments throughout the projects."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;工程档案&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程档案 entails the documentation and records related to the engineering projects, ensuring compliance and maintaining historical data."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;环境保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护 involves the strategies and actions taken to safeguard the environment during the engineering projects."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;消防设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"消防设施 encompasses the fire protection measures put in place within the projects to ensure safety and compliance with regulations."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;竣工财务决算报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竣工财务决算报告 is the final financial settlement report completed upon project completion, summarizing all expenditures and fiscal outcomes."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;意见和建议&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"意见和建议 refers to the feedback and recommendations provided after project assessments to improve future endeavors."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;投资计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投资计划 outlines the financial strategies and fund allocations for the engineering projects, crucial for planning and execution."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;验收依据&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收依据 are the criteria and guidelines used to assess the completion and quality of engineering projects."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;工程质量监督&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程质量监督 is the oversight entity responsible for monitoring the quality standards of the engineering projects throughout their lifecycle."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;资金到位&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"资金到位 refers to the verification process ensuring that all financial resources are allocated and available for the project's needs."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;重大设计变更&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"重大设计变更 describes critical alterations made to the project design that could affect outcomes and compliance."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;技术经济指标&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术经济指标 are the technical and economic benchmarks established to evaluate project success and efficiency."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;移民安置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"移民安置 refers to the processes involved in relocating and resettling individuals affected by the engineering projects."</data>
+      <data key="d2">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </node>
+    <node id="&quot;工程&quot;&gt;">
+      <data key="d2">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+      <data key="d1">施工單位 is directly involved in the execution and completion of the工程, playing a critical role in its progress."</data>
+      <data key="d0">"UNKNOWN"</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水利行业标准&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Ministry of Water Resources is responsible for the approval and issuance of water industry standards, indicating a direct role in their establishment."</data>
+      <data key="d6">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;唐涛&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"唐涛, as a principal author, directly collaborates with the Ministry of Water Resources to draft and revise standards in the water sector."</data>
+      <data key="d6">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;司毅军&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"司毅军 collaborates with the Ministry of Water Resources to develop and refine water industry standards, showcasing a direct involvement and expertise."</data>
+      <data key="d6">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;江瑞勇&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"江瑞勇 works alongside the Ministry of Water Resources in drafting regulations that govern water engineering standards."</data>
+      <data key="d6">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </edge>
+    <edge source="&quot;水利行业标准&quot;" target="&quot;宋崇能&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"宋崇能 plays a significant role in the writing of the water industry standards, ensuring their relevance and applicability."</data>
+      <data key="d6">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </edge>
+    <edge source="&quot;中水淮河工程有限责任公司&quot;" target="&quot;水利水电建设工程验收规程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中水淮河工程有限责任公司 is recognized as the leading drafting unit for standards pertaining to water and hydropower construction projects, playing a crucial role in shaping the guidelines."</data>
+      <data key="d6">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </edge>
+    <edge source="&quot;水利水电建设工程验收规程&quot;" target="&quot;水利水电工程技术研究中心&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利水电工程技术研究中心 participates in the process of establishing the acceptance regulations, supporting technical research and development."</data>
+      <data key="d6">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </edge>
+    <edge source="&quot;水利水电建设工程验收规程&quot;" target="&quot;王韶华&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"王韶华’s contributions as a principal author directly influence the regulations for hydropower construction acceptance."</data>
+      <data key="d6">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </edge>
+    <edge source="&quot;水利水电建设工程验收规程&quot;" target="&quot;张忠生&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"张忠生 contributes as a principal author to the acceptance regulations for hydropower engineering projects."</data>
+      <data key="d6">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </edge>
+    <edge source="&quot;水利水电建设工程验收规程&quot;" target="&quot;窦以松&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"窦以松 reviews the structural and formatting aspects of the regulations, ensuring conformity with regulatory standards."</data>
+      <data key="d6">chunk-7ea040f5b4da19333ab4e2eb9a748686</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;流域管理机构&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利部 authorizes 流域管理机构 to manage and supervise water resources engineering projects in designated basins."</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;地方人民政府&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"地方人民政府 operates under the oversight of 水利部 to manage and supervise local water resources projects."</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;工程验收&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"水利部 oversees the process and criteria by which 工程验收 is conducted, ensuring projects meet required standards before completion."</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;地方人民政府&quot;" target="&quot;工程建设项目&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"地方人民政府 is responsible for managing the工程建设项目 within their jurisdictions, ensuring compliance with local regulations."</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;流域管理机构&quot;" target="&quot;法人验收&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"流域管理机构 are involved in overseeing the process of 法人验收, ensuring compliance with regulations during acceptance events."</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;流域管理机构&quot;" target="&quot;工程验收&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"流域管理机构 participates in and supervises the 工程验收 for projects within their jurisdiction to ensure compliance."'</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;流域管理机构&quot;" target="&quot;验收委员会&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"流域管理机构 collaborates with the 验收委员会 during the验收 to ensure that engineering projects comply with necessary standards."</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;工程验收&quot;" target="&quot;验收委员会&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"验收委员会 is responsible for conducting the 工程验收 process, ensuring all standards and protocols are followed."</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;工程验收&quot;" target="&quot;工程验收监督管理&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"工程验收监督管理 oversees the 工程验收 process to ensure that all legal and quality standards are met before project acceptance."</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;工程验收&quot;" target="&quot;工程质量检验&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"工程质量检验 is a prerequisite for 工程验收, providing assurance that the project meets required quality standards before acceptance."</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;工程建设项目&quot;" target="&quot;河道疏浚工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"河道疏浚工程是工程建设项目的一部分，涉及改善水体的自然流动性。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;验收委员会&quot;" target="&quot;施工單位&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工单位 submits reports and findings to the验收委员会 for the acceptance evaluation process."</data>
+      <data key="d6">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </edge>
+    <edge source="&quot;验收委员会&quot;" target="&quot;竣工验收&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The验收委员会 oversees the竣工验收 process, ensuring all engineering standards are met before project completion."</data>
+      <data key="d6">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;施工合同&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"项目法人 is bound by the terms of the 施工合同, which governs their responsibilities in the project and acceptance process."</data>
+      <data key="d6">chunk-5a44114a0dfe52f78b090250f01b0abf</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;监理单位&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"项目法人负责主持验收工作，而监理单位提供监督，确保施工质量."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;质量监督机构&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"项目法人将验收质量结论和相关资料报送质量监督机构以完成备案手续."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;单位工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"项目法人主持单位工程的验收，以确保所有条件满足相关标准."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;施工单位&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"施工单位应向项目法人提交验收申请报告以请求进行工程验收."&lt;SEP&gt;"项目法人 oversees the activities of the 施工单位 to ensure that engineering tasks are completed as per contractual obligations."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc&lt;SEP&gt;chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;主要设备制造供应商&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"项目法人需要与主要设备制造供应商沟通以确保设备的质量符合验收标准."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;验收工作报告&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"项目法人 is responsible for preparing and overseeing the 验收工作报告 to ensure compliance with operational standards."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;初步设计&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"初步设计 is coordinated by the 项目法人 as part of the planning phase for the construction and operational readiness of the water infrastructure."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;工程竣工验收&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"项目法人组织和主持工程竣工验收，确保验收申请和报告合规。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;设备制造供应商&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"项目法人依赖设备制造供应商提供的设备支持工程实施，影响工程质量。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;工程质量检测单位&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"项目法人负责与工程质量检测单位签订检测合同，确保工程质量检测的进行。"&lt;SEP&gt;"项目法人负责组织工程质量检测单位进行质量检测，并对其结果负责。"</data>
+      <data key="d6">chunk-8e4e0ba8c5a69a7c635222a5a1a03925&lt;SEP&gt;chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;竣工技术预验收&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"项目法人负责组织竣工技术预验收，确保工程在正式验收前符合技术上的要求。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;竣工审计&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"项目法人在完成竣工财务决算后，将其报送进行审计，并对审计提出的问题进行整改。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;整改报告&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"项目法人需撰写并提交整改报告，以回应审计中的问题并列出整改措施。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;竣工验收主持单位&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"项目法人需向竣工验收主持单位报送质量检测报告，二者在竣工验收流程中有直接的互动和责任关系。"</data>
+      <data key="d6">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;工程移交&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"项目法人 is responsible for facilitating the 工程移交 process, including the documentation and transfer of project assets."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;竣工验收&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"项目法人 participates in the 竣工验收 process to validate that all project requirements have been met."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;法定代表人&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"项目法人 requires the 法定代表人 to verify documents and ensure legal compliance throughout the project."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;水利工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"项目法人 oversees and manages the construction of 水利工程, ensuring its successful implementation."</data>
+      <data key="d6">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </edge>
+    <edge source="&quot;监理单位&quot;" target="&quot;分部工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"监理单位在分部工程验收中起着关键的监督和评估作用."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;监理单位&quot;" target="&quot;单位工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"监理单位参与单位工程的验收，检查其施工质量和相关记录."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;质量监督机构&quot;" target="&quot;分部工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"质量监督机构负责核备分部工程的验收质量结论，以维护工程质量标准."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;质量监督机构&quot;" target="&quot;单位工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"质量监督机构在单位工程通过验收后负责核定质量意见并反馈项目法人."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;质量监督机构&quot;" target="&quot;验收质量结论&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"质量监督机构对验收质量结论的核定影响工程的最终验收结果."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;质量监督机构&quot;" target="&quot;工程竣工验收&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"质量监督机构负责审核和监督工程竣工验收的合规性，确保质量标准的实施。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;质量监督机构&quot;" target="&quot;工程质量检测单位&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"质量监督机构审核工程质量检测单位提供的检测报告，以确保工程质量符合标准。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;质量监督机构&quot;" target="&quot;运行管理单位&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"质量监督机构对运行管理单位进行监督，以确保工程的质量和运行规范。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;单位工程&quot;" target="&quot;档案资料&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"档案资料是单位工程验收中必要的文件，记录工程施工情况及质量评估."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;验收遗留问题&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"施工单位 must address any 验收遗留问题 before the project can be accepted as complete."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;工程质量保修期&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工单位 is responsible for addressing any quality defects that arise during the 工程质量保修期."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;竣工证书&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"施工单位 receives the 竣工证书 upon successfully passing the 竣工验收 process."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;相关责任单位&quot;" target="&quot;遗留问题处理情况&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"相关责任单位需对遗留问题处理情况进行汇报，以确保工程质量符合标准."</data>
+      <data key="d6">chunk-ed23a599e865335fc286140de316ad15</data>
+    </edge>
+    <edge source="&quot;质量评定&quot;" target="&quot;竣工验收&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"质量评定 is an essential part of the 竣工验收 process to ensure project standards are met."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;阶段验收&quot;" target="&quot;合同工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"阶段验收 is applied at different points in the 合同工程 lifecycle to ensure that each phase meets quality criteria."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;工程&quot;" target="&quot;工程品質評定&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The工程 undergoes工程品質評定 to ascertain that its specifications and quality standards are met during acceptance."</data>
+      <data key="d6">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </edge>
+    <edge source="&quot;工程&quot;" target="&quot;技術大綱&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"技術大綱 provides the standards and guidelines for the evaluation of the工程 during various phases of its acceptance."</data>
+      <data key="d6">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </edge>
+    <edge source="&quot;工程质量&quot;" target="&quot;运行管理单位&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"运行管理单位直接负责确保工程质量达到合格标准，并进行日常维护和管理。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;验收遗留问题&quot;" target="&quot;尾工处理&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"尾工处理 is performed in relation to any验收遗留问题 that need to be finalized before project acceptance."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;流设计&quot;" target="&quot;防汛指挥部门&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"流设计 needs to obtain approval from 防汛指挥部门 for flood management strategies and construction plans."</data>
+      <data key="d6">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </edge>
+    <edge source="&quot;流设计&quot;" target="&quot;水库&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"流设计 is responsible for creating flood control plans that directly affect the operation and safety of 水库."</data>
+      <data key="d6">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </edge>
+    <edge source="&quot;流设计&quot;" target="&quot;机组启动验收&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"流设计 must ensure that all systems and processes meet requirements before the 机组启动验收 is approved."</data>
+      <data key="d6">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </edge>
+    <edge source="&quot;防汛指挥部门&quot;" target="&quot;水库&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"防汛指挥部门 oversees and approves various flood control measures related to the management and safety of 水库."</data>
+      <data key="d6">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </edge>
+    <edge source="&quot;水库&quot;" target="&quot;引调排水工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水库 is integral to the 引调排水工程, as it provides the necessary water management solutions required for the project."</data>
+      <data key="d6">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </edge>
+    <edge source="&quot;引调排水工程&quot;" target="&quot;机组启动验收&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"引调排水工程 must be properly managed to ensure that water flow meets operational requirements for the 机组启动验收 process."</data>
+      <data key="d6">chunk-d83ba705eeb9cded37c11aa4e8fa07b6</data>
+    </edge>
+    <edge source="&quot;水电站&quot;" target="&quot;机组&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"机组 operates within the 水电站, where it generates power according to specific operational guidelines."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;水电站&quot;" target="&quot;验收工作报告&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"验收工作报告 is crucial for the proper functioning of the 水电站 to certify that all operational conditions are met."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;水电站&quot;" target="&quot;泵站&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"泵站 supports and enhances the functionality of the 水电站 by managing water supply and flow rates necessary for energy generation."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;水电站&quot;" target="&quot;金属结构及启闭设备&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"金属结构及启闭设备 is essential for the operational integrity of the 水电站, facilitating control over water and machinery operations."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;水电站&quot;" target="&quot;消防系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"消防系统 is critical for the safety of the 水电站, ensuring that fire hazards are effectively managed throughout operations."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;水电站&quot;" target="&quot;运行管理人员&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"运行管理人员 are responsible for the daily management and operational oversight of the 水电站 to ensure efficiency and safety."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;水电站&quot;" target="&quot;调度运行方案&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"调度运行方案 facilitates the organized operation and optimization of resources within the 水电站."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;水电站&quot;" target="&quot;度汛方案&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"度汛方案 ensures the安全 operation of the 水电站 during adverse weather conditions, protecting infrastructure and operations."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;竣工验收主持单位&quot;" target="&quot;竣工验收会议&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"竣工验收主持单位负责组织和主持竣工验收会议，审议有关的竣工报告和相关单位的工作。"</data>
+      <data key="d6">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </edge>
+    <edge source="&quot;机组&quot;" target="&quot;验收工作报告&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"机组 must adhere to the stipulations outlined in the 验收工作报告 before it can be certified for operation."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;机组&quot;" target="&quot;压力容器和压力管道&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"压力容器和压力管道 are crucial components of the 机组, affecting its operational performance and safety measures."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;验收工作报告&quot;" target="&quot;工程施工质量&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程施工质量 is assessed during the 验收工作报告 to ensure compliance with safety and operational standards."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;工程竣工验收&quot;" target="&quot;专项验收&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"专项验收 is a necessary step that must be completed before the final 工程竣工验收 can take place."</data>
+      <data key="d6">chunk-a0bc0a58f0d74eab695f9812c518d2b4</data>
+    </edge>
+    <edge source="&quot;工程质量检测单位&quot;" target="&quot;工程质量抽样检测&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程质量检测单位负责根据规定进行质量抽样检测，确认工程质量符合标准。"</data>
+      <data key="d6">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </edge>
+    <edge source="&quot;竣工技术预验收&quot;" target="&quot;竣工验收会议&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"竣工技术预验收的结果会在竣工验收会议中进行讨论并决定是否通过竣工验收。"</data>
+      <data key="d6">chunk-8e4e0ba8c5a69a7c635222a5a1a03925</data>
+    </edge>
+    <edge source="&quot;竣工技术预验收&quot;" target="&quot;质量保修责任终止证书&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The preliminary acceptance process (竣工技术预验收) leads to the issuance of the warranty termination certificate, marking the conclusion of quality responsibilities."</data>
+      <data key="d6">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </edge>
+    <edge source="&quot;竣工技术预验收&quot;" target="&quot;规划设计情况&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The planning and design situation impacts the outcomes evaluated during the preliminary acceptance process, as they determine project viability."</data>
+      <data key="d6">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </edge>
+    <edge source="&quot;大型水利工程&quot;" target="&quot;自查工作报告&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"大型水利工程在竣工验收前需要编制自查工作报告，以记录工程各方面的完成情况。"</data>
+      <data key="d6">chunk-309bf10b8bc1edce029593c15d977dde</data>
+    </edge>
+    <edge source="&quot;工程移交&quot;" target="&quot;竣工验收&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程移交 must be completed before the 竣工验收 can take place to confirm the project's readiness for use."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;工程移交&quot;" target="&quot;工程档案资料&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程档案资料 must be included in the 工程移交 process to provide complete project documentation."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;工程移交&quot;" target="&quot;固定资产&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"固定资产 must be transferred during the 工程移交 process as part of the project handover."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;竣工验收&quot;" target="&quot;工程运行管理单位&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程运行管理单位 participates in the 竣工验收 to take over the operational management of the project."</data>
+      <data key="d6">chunk-cb6cf37ed5835ff65a2c06a0d3c667cc</data>
+    </edge>
+    <edge source="&quot;施工單位&quot;" target="&quot;工程&quot;&gt;">
+      <data key="d4">8.0</data>
+      <data key="d5">施工單位 is directly involved in the execution and completion of the工程, playing a critical role in its progress."</data>
+      <data key="d6">chunk-8ae011f5c60029eeb2194622c8a6401b</data>
+    </edge>
+    <edge source="&quot;水利工程&quot;" target="&quot;工程建设大事记&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程建设大事记 documents the significant events and milestones of 水利工程, providing insights into its progress."</data>
+      <data key="d6">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </edge>
+    <edge source="&quot;水利工程&quot;" target="&quot;工程质量监督报告&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"工程质量监督报告 assesses and ensures the quality of the constructions undertaken in 水利工程."</data>
+      <data key="d6">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </edge>
+    <edge source="&quot;水利工程&quot;" target="&quot;工程施工管理工作报告&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程施工管理工作报告 includes the management aspects and performance results specific to 水利工程's construction phase."</data>
+      <data key="d6">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </edge>
+    <edge source="&quot;水利工程&quot;" target="&quot;工程设计工作报告&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程设计工作报告 encompasses all planning and design elements crucial to the effectiveness of 水利工程."</data>
+      <data key="d6">chunk-4ff9120ff28d34d71f8eadd1ba602b16</data>
+    </edge>
+    <edge source="&quot;工程初期运行及效益&quot;" target="&quot;六工程运行管理&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"六工程运行管理 oversees the initial operational phase and effectiveness of the project, ensuring its performance metrics are met."</data>
+      <data key="d6">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </edge>
+    <edge source="&quot;六工程运行管理&quot;" target="&quot;规划设计情况&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"六工程运行管理 is responsible for ensuring that the planning and design aspects of the projects align with operational stages."</data>
+      <data key="d6">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </edge>
+    <edge source="&quot;六工程运行管理&quot;" target="&quot;财务审计&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The financial audit evaluates the funding and expenditures managed by 六工程运行管理, ensuring fiscal responsibility in engineering projects."</data>
+      <data key="d6">chunk-5636486c89746c9aa19bfc56aaa67b5c</data>
+    </edge>
+  </graph>
+</graphml>

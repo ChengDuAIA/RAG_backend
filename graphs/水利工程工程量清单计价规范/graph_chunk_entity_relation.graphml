@@ -1,0 +1,2693 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国 refers to the People's Republic of China, the country regulating and establishing standards for engineering projects."&lt;SEP&gt;"中华人民共和国, or the People's Republic of China, is a sovereign state in East Asia known for its vast geography, rich history, and significant global influence."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a&lt;SEP&gt;chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部, or the Ministry of Water Resources, is responsible for water resources management, flood control, and regulating water supply in China."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;建设部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"建设部, or the Ministry of Housing and Urban-Rural Development, is involved in urban construction and planning, ensuring quality standards in construction projects."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The standard refers to a set of guidelines or rules that govern the design and execution of construction projects, specifically in water conservancy engineering."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;北京峡光经济技术咨询有限责任公司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"北京峡光经济技术咨询有限责任公司 is a consulting firm involved in economic and technical consultancy for water resources projects."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;长江流域水利建设工程造价定额管理站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"长江流域水利建设工程造价定额管理站 is responsible for cost estimation and management in water conservation projects within the Yangtze River basin."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;中华人民共和国建设部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国建设部 is one of the key governmental bodies in the People's Republic of China, responsible for developing and implementing construction policies and standards."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;中华人民共和国国家质量监督检验检疫总局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This bureau is responsible for quality supervision, inspection, and quarantine services in China, ensuring compliance with national standards in various sectors."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;工程量清单计价规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程量清单计价规范 refers to a standard specification governing the preparation and pricing of engineering quantity lists in construction projects."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;水利工程技术咨询公司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利工程技术咨询公司 specializes in providing technical consultation specific to water engineering projects and initiatives."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;中国建设工程造价管理协会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This association is involved in the management and regulation of construction costs, promoting best practices in cost estimation and project management."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;长江水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The 长江水利委员会 is responsible for the management of water resources and flood control in the Yangtze River basin in China."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;黄河水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The 黄河水利委员会 oversees the management and protection of water resources in the Yellow River basin, focusing on sustainable development."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;淮河水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This committee is tasked with managing the water resources and ensuring flood control strategies around the Huai River in China."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;海河水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The 海河水利委员会 manages water resources and related projects in the Hai River basin, contributing to regional development and flood prevention."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;珠江水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The 珠江水利委员会 is responsible for the management of water resources and flood control measures in the Pearl River basin in southern China."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;松辽水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This committee focuses on the management and sustainable use of water resources in the Songhua-Liao River basin."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;水利水电规划设计总院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This institution specializes in planning and designing water conservancy and hydropower projects, providing technical research and expertise."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;水利建设经济定额站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This station works on establishing economic and cost normatives for water construction projects across the nation."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;水利部建设与管理司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The department is responsible for the management and oversight of construction activities related to water resources projects."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;李治平&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"李治平 is a principal drafter involved in the development of water engineering regulations and standards in China."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;席建国&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"席建国 is one of the main authors responsible for the drafting and establishment of water resource management guidelines."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;王业伟&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王业伟 is a key contributor to the preparation of standards related to hydropower and water construction projects."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;张金华&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"张金华 is involved in drafting and reviewing regulations for water resource and construction activities in China."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;刘伟平&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"刘伟平 provides expertise in the establishment of water project standards and regulations."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;黄士芩&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"黄士芩 participates in the deliberation and formulation of guidelines for water construction projects."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;刘六宴&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"刘六宴 has expertise in water regulations and contributes to drafting essential standards for quality management."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;水利枢纽&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利枢纽 indicates various water conservancy projects which have significant impacts on regional development and flood mitigation efforts."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;水力发电&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水力发电 refers to hydropower generation through sustainable practices, a key focus in China's energy strategy."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;河湖整治&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河湖整治 involves managing and restoring rivers and lakes to maintain ecological balance and meet water resource needs."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;堤防&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"堤防 relates to the construction and management of levees and dikes for flood protection and land reclamation."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;国家标准编号&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"国家标准编号 is a formal designation for the standards set by the national bodies to ensure regulatory compliance in construction."</data>
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </node>
+    <node id="&quot;叶森&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"叶森 is mentioned as one of the individuals involved in the context of the text, contributing to a discussion or activity regarding water engineering standards."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;宛明&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"宛明 is another individual linked to the context, likely involved in water engineering standards or practices."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;张汝石&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"张汝石 is also associated with the context, presumably participating in discussions on water engineering regulations."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;徐勤勤&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"徐勤勤 is named among individuals relevant to the topic of water engineering standards and regulations."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;胡玉强&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"胡玉强 is part of the group mentioned, involved in the water engineering standards discussions."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;王艳君&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王艳君 is referenced in the text, indicating participation in engineering standards."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;刘满敬&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"刘满敬 is mentioned as an individual involved in the context of water engineering projects."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;江辉&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"江辉 is included among individuals likely contributing to the water engineering standards."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;陈纪伦&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陈纪伦 is another identified individual in the context of standards for engineering."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;陈维栋&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陈维栋 appears among names related to discussions surrounding water engineering standards."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;徐尚阁&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"徐尚阁 is involved in discussions regarding water engineering standards and protocols."&lt;SEP&gt;"徐尚阁 is part of the group contributing to standards in water engineering."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;袁纯山&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"袁纯山 is mentioned as an individual contributing to the water engineering standards."&lt;SEP&gt;"袁纯山 is named in connection with the standards pertaining to water engineering."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;沈荫鑫&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"沈荫鑫 is mentioned in the context of water engineering standards."&lt;SEP&gt;"沈荫鑫 is referenced in the context of water engineering standards and practices."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;周德荣&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"周德荣 is among the individuals linked to discussions of water engineering standards."&lt;SEP&gt;"周德荣 is another individual involved in the context related to engineering regulations."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;梁见诚&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"梁见诚 is named as a participant in the context of engineering regulations."&lt;SEP&gt;"梁见诚 is part of the group related to the water engineering standards."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;王立选&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王立选 appears among individuals connected to the water engineering context."&lt;SEP&gt;"王立选 is referenced in connection with the standards of water engineering."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;孙钊&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"孙钊 is included among individuals relevant to water engineering discussions."&lt;SEP&gt;"孙钊 is mentioned as part of discussions on water engineering standards."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;王江珍&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王江珍 is listed among individuals relevant to water engineering matters."&lt;SEP&gt;"王江珍 is mentioned in the context of engineering standards and practices."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;刘才高&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"刘才高 is another individual mentioned in the context of engineering standards."&lt;SEP&gt;"刘才高 is associated with discussions on water engineering standards."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;匡林生&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"匡林生 is identified as a contributor to the dialogue on water engineering projects."&lt;SEP&gt;"匡林生 is involved in the discussions surrounding water engineering standards."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;邓莉&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"邓莉 is among those referenced in relation to water engineering activities."&lt;SEP&gt;"邓莉 is mentioned as relevant to the context of water engineering standards and practices."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;尹丹丹&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"尹丹丹 is included in the text as an individual associated with the water engineering standards."&lt;SEP&gt;"尹丹丹 is involved in discussions about water engineering regulations."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;建设部标准定额司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"建设部标准定额司 is the department responsible for drafting standards and regulations for water engineering projects in China."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;水利工程工程量清单编制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利工程工程量清单编制 describes the activity of preparing bills of quantities for water engineering projects, essential for tendering and regulations."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;工程量清单&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程量清单 is an event that entails the preparation of detailed accounting for engineering projects, specifying tasks, equipment, and costs."&lt;SEP&gt;"工程量清单 refers to the bill of quantities for construction projects, used in the context of water engineering for tendering and cost estimation."&lt;SEP&gt;"工程量清单 refers to the bill of quantities that includes all required details for the bidding process and must be filled out according to specific regulations."&lt;SEP&gt;"工程量清单是用于招标工程的文件，列出了所有相关的工程项目和计量单位，以及如何进行计价和结算。"&lt;SEP&gt;"工程量清单用于详细列出安装工程的各项内容和数量，确保预算准确。"</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784&lt;SEP&gt;chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-c7ebead2279266eec734bc6c5c4cdc0a&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c&lt;SEP&gt;chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;水利建筑工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利建筑工程 describes a category of construction projects related to water resource management."&lt;SEP&gt;"水利建筑工程 refers to organizations involved in hydraulic construction engineering, ensuring adherence to relevant engineering standards."&lt;SEP&gt;"水利建筑工程 refers to the category of construction projects focused on water conservation and management in engineering standards."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231&lt;SEP&gt;chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;水利安装工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利安装工程 encompasses the installation projects related to water engineering, governed by specific standards and regulations."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;招标投标法&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"招标投标法 is the bidding and tendering law that regulates the norms for construction and engineering projects in China."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;国家标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"国家标准 refers to the national standards established for various engineering practices."</data>
+      <data key="d2">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;工程数量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程数量 signifies the quantity of work or materials needed for engineering projects, important for accurate bidding and project management."&lt;SEP&gt;"工程数量是指根据相关规定计算出的项目在招标清单中的数量，用于后续的计价和结算。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </node>
+    <node id="&quot;招标人&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"招标人 is an organization responsible for providing project details and requirements in the bidding process."&lt;SEP&gt;"招标人 refers to the entity responsible for issuing the tender and providing relevant project details and specifications to bidders."&lt;SEP&gt;"招标人 refers to the party issuing the bidding documents and responsible for overseeing the procurement of materials and services."&lt;SEP&gt;"招标人是负责编制和提供招标文件的组织，确保招标程序符合规定并满足工程需求。"</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;投标人&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"投标人 is an organization involved in the bidding process for construction projects, represented by a legal representative or proxy."&lt;SEP&gt;"投标人 is the entity submitting a proposal in response to the tender, responsible for providing pricing and project management details."&lt;SEP&gt;"投标人 is the organization or individual submitting a bid for the project, preparing all necessary documentation as per the requirements set by the招标人."&lt;SEP&gt;"投标人是参与竞标的组织或个人，根据招标人提供的工程量清单来制定自己的报价。"</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;措施项目清单&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"措施项目清单 contains a list of specific measures or tasks that need to be taken during the project, used for planning and bidding."&lt;SEP&gt;"措施项目清单是依据招标工程的具体情况而列出的一部分项目清单，用于保障工程的顺利进行。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;其他项目清单&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"其他项目清单包含未列出的项目以及预留金，需根据招标工程的具体情况进行补充。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;零星工作项目清单&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"零星工作项目清单 includes minor tasks or items that are not part of the main project but still require documentation and pricing."&lt;SEP&gt;"零星工作项目清单列出可能出现的变更或新增加的项目，包含人工、材料和机械的计量单位。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;招标工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"招标工程是一个具体的工程项目，通过规范的招标流程确定承包商，以进行工程建设。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;计量单位&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"计量单位 is the unit of measure used in the project to quantify materials, labor, and equipment for accurate pricing."&lt;SEP&gt;"计量单位 refers to the units of measurement utilized in the construction quantity takeoffs and calculations."&lt;SEP&gt;"计量单位是用于在工程量清单中描述各种工程数量和材料的标准单位，如平方米、立方米等。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;合同&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合同 refers to the legal agreement between the 投标人 and 招标人 governing the terms of the project."&lt;SEP&gt;"合同是招标过程中与选定的投标人签订的法律文件，规定了工程执行的条款和条件。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;技术条款&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术条款是招标文件中规定的标准和要求，确保工程按一定的技术规范进行。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;市场价格&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"市场价格是影响投标人报价的一项重要因素，依据社会生产力水平和当前市场情况变化。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;施工方案&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工方案是详细描述工程实施过程的计划，确保各项工作顺利进行。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;分类分项工程量清单&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"分类分项工程量清单是在工程量清单中按不同类别和项目细分的清单，便于项目管理和报价。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;编制人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"编制人是负责制作和编制招标文件及工程量清单的专业人员，确保资料的准确性和合规性。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;标底&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"标底是招标人根据工程的预算和市场情况制定的合理价格标准。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;投标报价&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投标报价是投标人依据工程量清单和招标文件规定，提出的用于竞标的价格。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;施工机械&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工机械 refers to construction machinery involved in the projects, including budgeting and operational aspects."&lt;SEP&gt;"施工机械 refers to the construction machinery that may be provided by the招标人 for the project's execution, detailed in the相关表格."&lt;SEP&gt;"施工机械是指在工程施工过程中使用的设备和机器，影响工程的顺利进展。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;预留金&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"预留金是针对不可预见费用而保留的一部分资金，确保工程更改时的灵活性。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;项目编码&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"项目编码 indicates the project code used for identifying different construction activities and specifications."&lt;SEP&gt;"项目编码 is a code assigned to each project for identification and tracking purposes within bidding documentation."&lt;SEP&gt;"项目编码 refers to the systematic classification and coding of various project components, used for clarity in construction documentation."&lt;SEP&gt;"项目编码是工程量清单中用于标识每一项目的编号，便于管理和查找。"</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd&lt;SEP&gt;chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;社会平均生产力水平&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"社会平均生产力水平是影响建设成本和报价的一项重要经济指标。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;估算金额&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"估算金额是招标人根据项目具体情况对其他项目清单进行的预估，为后续的报价提供参考。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;资质&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"资质是指承包商在参与招标过程中所需具备的法律、技术能力凭证和资格认证。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;材料预算价格&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"材料预算价格 represents the estimated cost for materials required in the工程项目, calculated for bid purposes."&lt;SEP&gt;"材料预算价格是指根据市场行情、材料种类等因素，计算出的建设材料的预估成本。"</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;规程&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"规程是指在招标和施工过程中应遵循的操作规范和程序，确保工程合规执行。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;工程设计文件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程设计文件是描述工程实施过程中所需的设计蓝图和技术要求的重要文档。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;附录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"附录是招标文件中补充说明和规定的部分，为工程量清单提供额外的信息和细节。"</data>
+      <data key="d2">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </node>
+    <node id="&quot;中介机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中介机构 refers to an agency involved in the bidding process, signing and stamping necessary documents to validate the contract."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;造价工程师&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"造价工程师 is a certified professional who prepares cost estimation documents and is responsible for signing off on project pricing."&lt;SEP&gt;"造价工程师 is a cost engineer involved in analyzing and calculating the costs associated with the工程项目."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;合同编号&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合同编号 is a reference to the contract number necessary for identifying and managing project-related documents during the bidding process."&lt;SEP&gt;"合同编号 refers to the contract number associated with construction bidding, a vital part of the documentation process."&lt;SEP&gt;"合同编号 refers to the unique contract number assigned to the specific construction project, critical for identification and record-keeping."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;招标项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"招标项目 refers to the specific project for which bids are being solicited, encompassing various tasks and specifications."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;设施表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设施表 refers to the document listing the facilities being provided for the project, which the招标人 must supply, ensuring they meet the project needs."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;设备表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备表 is a document detailing the construction equipment provided for the project, including specifications and conditions for use by the投标人."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;项目名称&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"项目名称 refers to the name of the construction project being tendered, essential for clarity and reference in documentation."&lt;SEP&gt;"项目名称 refers to the specific name assigned to the project within the bidding documents, crucial for identification and clarity."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;计价表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"计价表 is the pricing table that outlines the costs associated with various project tasks as part of the bidding process."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;材料价格表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"材料价格表 is a document listing the prices of materials provided by the招标人, which must be accounted for in bids."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;投标金额&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投标金额 is the total amount proposed by the投标人 in their bid submission, representing the costs as calculated in the相关表格."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;单位&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"单位 refers to the organization or company submitting the bid, providing their identification and details in the tender submission."&lt;SEP&gt;"单位 refers to the unit of measurement used in project documentation, crucial for accurately quantifying work and materials."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;法定代表人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"法定代表人 is the legal representative of an organization, whose signature is required on bidding documents to validate them."&lt;SEP&gt;"法定代表人 is the legal representative of the organization, responsible for signing the contractual documents."&lt;SEP&gt;"法定代表人 refers to the legal representative of the 投标人, responsible for signing and approving the bid documents."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;代理人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"代理人 is an authorized individual acting on behalf of the法定代表人, responsible for signing documents in the bidding process."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;月日&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"月日 indicates the date on which certain documents need to be signed or submitted, important for maintaining deadlines in the bidding process."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;盖章&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"盖章 refers to the act of stamping documents to officially validate and authenticate the materials submitted in the bidding process."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;材料供应的边界条件&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"材料供应的边界条件 outlines the conditions and limitations regarding the supply of materials for the project, crucial for understanding constraints."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;签字&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"签字 signifies the act of signing documents as a formal acknowledgment of agreement and responsibility in the bidding process."</data>
+      <data key="d2">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </node>
+    <node id="&quot;投标总价&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投标总价 is the overall total proposed bid amount, including all costs and considerations made by the投标人."&lt;SEP&gt;"投标总价 represents the total amount proposed by the 投标人 for the工程项目, encompassing all associated costs and fees."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;工程项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程项目 refers to the specific construction project that is subject to the tendering process."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;混凝土配合比材料费&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"混凝土配合比材料费 refers to the materials cost associated with the concrete mix used in the project."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;电风水砂石基础单价&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电风水砂石基础单价 refers to the unit cost associated with the foundation construction using sand and gravel for electrical works."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;工程单价计算表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程单价计算表 is a table detailing the pricing calculations for various components of the construction project."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;分类分项工程量清单计价表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"分类分项工程量清单计价表 is a detailed pricing table listing categorized components of the工程项目 for bidding purposes."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;措施项目清单计价表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"措施项目清单计价表 is a pricing table specifically for measures and actions outlined in the tender documents."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;其他项目清单计价表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"其他项目清单计价表 is a pricing table for other miscellaneous items related to the工程项目."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </node>
+    <node id="&quot;零星工作项目计价表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"零星工作项目计价表 refers to a pricing table for small, sporadic tasks associated with the工程项目."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;工程单价费税率汇总表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程单价费税率汇总表 is a summary table of the pricing rates and applicable taxes for the工程项目."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;施工机械台时班&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工机械台时班 refers to the hourly cost or usage fee for construction machinery, applicable within the tender documentation."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </node>
+    <node id="&quot;投标总价小写&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投标总价小写 is the written representation of the total bid price in lowercase format, necessary for formal documentation."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </node>
+    <node id="&quot;投标总价大写&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投标总价大写 is the written representation of the total bid price in uppercase format, often required for legal reasons."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </node>
+    <node id="&quot;项目分解表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目分解表 refers to the breakdown table of the project items for better clarity and analysis during the bidding process."</data>
+      <data key="d2">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;土方开挖工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土方开挖工程 is an event related to the excavation of earth materials, detailed in project specifications, and requires adherence to various regulations."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;石方开挖工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"石方开挖工程 refers to the excavation of rock materials, which is calculated and measured according to specific engineering standards."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;疏浚和吹填工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"疏浚和吹填工程 involves the excavation and filling processes, used in construction and landscaping, subject to specific project rules."&lt;SEP&gt;"疏浚和吹填工程涉及对江河水库港湾湖泊等场所的泥沙进行排泥和吹填，具有重要的工程量计算要求和设计规定。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;投标项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投标项目 signifies the specific bidding project that the 投标人 is responding to with their proposal."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;工程名称&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程名称 identifies the name of the engineering project involved in the bidding process, crucial for distinguishing different projects."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;单位元&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"单位元 refers to a unit of measurement or financial unit in the context of construction cost estimating."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;委托代理人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"委托代理人 represents the appointed agent authorized to act on behalf of the 投标人 in the bidding process."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;主要材料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"主要材料 pertains to the primary materials utilized in the construction process and their budgeting."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;土石方填筑工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土石方填筑工程 refers to the engineering work involved in filling and compacting earth and stone materials."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;工程量计算规则&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程量计算规则 defines the rules and standards used to calculate the quantities of work in construction projects."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;土类分级&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土类分级 relates to the classification of soil types used in the context of excavation and construction."&lt;SEP&gt;"土类分级是根据土壤特性进行分类的重要标准，对施工方法和设计要求有直接影响。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;招标设计图示&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"招标设计图示 refers to the bidding design plans and specifications that guide construction activities and measurements."&lt;SEP&gt;"招标设计图示 refers to the design drawings associated with the bidding process, providing specifications for construction."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;超挖量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"超挖量 indicates the additional excavation quantities beyond the originally estimated amounts encountered during construction."&lt;SEP&gt;"超挖量指在施工过程中实际挖掘超过设计要求的体积，这一指标影响工程费用和资源配置。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;附加量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"附加量 pertains to additional quantities that may arise in the construction process due to unforeseen circumstances."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;土石料的松实系数&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土石料的松实系数 determines the relationship between the volume of loose and compacted material in earthworks."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;编码&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"编码 refers to the process of creating a systematic identification code for various project items."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;工程单价&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程单价 indicates the unit price for the different construction activities involved in the project."&lt;SEP&gt;"工程单价 refers to the unit price of construction work based on effective measurements and incurred costs."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;排水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"排水 refers to the drainage processes planned and executed during excavation and construction."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;土方开挖工程工程量清单&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土方开挖工程工程量清单 is a detailed list of quantities and measurements for earth excavation works."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;石方开挖工程工程量清单&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"石方开挖工程工程量清单 details the quantities and specifications for rock excavation work."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;施工图纸&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工图纸 are the detailed construction drawings needed for guiding the building process."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;主要工作内容&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"主要工作内容 outlines the key tasks and activities involved in specific construction projects."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;技术规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术规程 refers to the technical regulations that govern the standards and practices in construction."</data>
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;风险管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"风险管理 involves identifying and mitigating potential risks that could impact construction projects."&lt;SEP&gt;"风险管理 involves identifying and mitigating the potential risks associated with construction projects."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </node>
+    <node id="&quot;砌筑工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"砌筑工程包括对建筑物的有效砌筑体积进行计算和相应费用的处理，遵循招标设计图示尺寸。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;锚喷支护工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"锚喷支护工程注重对锚杆和锚索的钻孔、加工及安装的计量和费用控制，符合招标设计要求。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;钻孔和灌浆工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"钻孔和灌浆工程包括岩石层的钻孔，需按规定的岩石分级执行并计算相关工程量。"&lt;SEP&gt;"钻孔和灌浆工程涉及工程量清单、项目编码、计量单位、工程量计算规则及主要工作内容。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06&lt;SEP&gt;chunk-523f665bfe461a902631275a9e2de2be</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;水力冲挖机组&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水力冲挖机组被用于土类分级，强调其在疏浚和吹填工程中的重要性。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;江河&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"江河是进行疏浚工程的地理位置，涉及排泥和水域工程的实施。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;水库&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水库是疏浚及吹填工程的实施场所，影响泥沙排淤工作。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;港湾&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"港湾是疏浚工程的一部分，涉及排泥作业和水位控制。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;湖泊&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"湖泊是进行疏浚工程的重要环境，涉及泥沙处理和水体管理。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;招标设计文件&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"招标设计文件 outlines the specifications and requirements for bidding processes in engineering projects."&lt;SEP&gt;"招标设计文件提供了疏浚、砌筑以及锚喷支护等工程的标准和规范，为施工提供指导。"</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784&lt;SEP&gt;chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;水下有效自然方体积&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水下有效自然方体积是计算疏浚工程量的重要指标，影响计价和施工策略。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;有效工程量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"有效工程量是基于实际工作量计算的工程量，影响项目预算和管理。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;辅助工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"辅助工程包括为主工程提高施工效率和安全性所需的附加作业，如障碍物清除和排水等。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </node>
+    <node id="&quot;钢筋铅丝石笼&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"钢筋铅丝石笼在砌筑工程中用于提供结构支持，提高建筑物的稳定性。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;施工期自然回淤量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工期自然回淤量指在施工过程中，因水流和沉淀物影响而自然累积的泥沙量。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </node>
+    <node id="&quot;喷浆混凝土&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"喷浆混凝土是用于锚喷支护工程的一种施工技术，增强了结构的稳固性。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;钢支撑&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"钢支撑是一种用于支撑建筑物或桥梁结构的材料，确保施工的安全性和稳固性。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;木支撑&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"木支撑用于临时支撑结构，在施工阶段提供必要的稳定性。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;装修工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"装修工程针对建筑完成后的内部空间进行改造和美化，提升功能和美观。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;基础处理工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"基础处理工程确保建筑物稳定基础的施工，包括土壤改良和加固方法。"</data>
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;基础防渗和地基加固工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"基础防渗和地基加固工程包括涉及计量单位、工程量计算规则及主要工作内容的项目。"</data>
+      <data key="d2">chunk-523f665bfe461a902631275a9e2de2be</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;岩石层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"岩石层是地质结构的一部分，相关于钻孔和灌浆工程的施工类型。"</data>
+      <data key="d2">chunk-523f665bfe461a902631275a9e2de2be</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;砂砾石层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"砂砾石层是另一种地质结构，影响工程量计算及方法。"</data>
+      <data key="d2">chunk-523f665bfe461a902631275a9e2de2be</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;水泥&quot;">
+      <data key="d0">"MATERIAL"</data>
+      <data key="d1">"水泥是用于灌浆的主要材料，涉及有效灌浆长度和干耗量的计算。"</data>
+      <data key="d2">chunk-523f665bfe461a902631275a9e2de2be</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;灌浆管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"灌浆管与灌浆过程直接相关，包括预埋和检查的技术参数。"</data>
+      <data key="d2">chunk-523f665bfe461a902631275a9e2de2be</data>
+    </node>
+    <node id="&quot;高压钢管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"高压钢管用于回填灌浆及连接灌浆系统，是施工的重要技术设备。"</data>
+      <data key="d2">chunk-523f665bfe461a902631275a9e2de2be</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;化学灌浆&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"化学灌浆涉及特别的化学材料和试验，按设计总重量计量。"</data>
+      <data key="d2">chunk-523f665bfe461a902631275a9e2de2be</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;混凝土&quot;">
+      <data key="d0">"MATERIAL"</data>
+      <data key="d1">"混凝土 is a composite material commonly used in construction, created from cement, water, and aggregates."&lt;SEP&gt;"混凝土是一种常用建筑材料，多个工程相关部分中都有提及。"</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39&lt;SEP&gt;chunk-523f665bfe461a902631275a9e2de2be</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;钻孔的岩石分级&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"钻孔的岩石分级建立了岩石层的分类标准，以便合理施工和计量。"</data>
+      <data key="d2">chunk-523f665bfe461a902631275a9e2de2be</data>
+    </node>
+    <node id="&quot;地下连续墙&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"地下连续墙是防渗作业中的关键结构，涉及喷射注浆工艺。"</data>
+      <data key="d2">chunk-523f665bfe461a902631275a9e2de2be</data>
+    </node>
+    <node id="&quot;混凝土工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"混凝土工程 describes various construction processes and calculations involving concrete in engineering projects, detailing operational losses and pricing rules."&lt;SEP&gt;"混凝土工程 encompasses all construction work involving concrete, detailing costs and volume measurements."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39&lt;SEP&gt;chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;孔长度计量&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"孔长度计量 refers to measurements and calculations related to drilling depths for construction purposes, emphasizing operational costs associated with it."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;制作运输清基&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"制作运输清基 involves the preparation and transportation of concrete materials, focusing on construction efficiency and adherence to designs."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;振冲桩&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"振冲桩 refers to a construction method involving vibrating piles to enhance foundation stability, with costs associated with the process."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;温控混凝土&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"温控混凝土 describes temperature-controlled concrete with specific engineering price rules, relevant to seasonal construction practices."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;损耗&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"损耗 refers to the operational losses incurred during various construction processes, impacting overall project costs and efficiency."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;钢筋笼&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"钢筋笼 is a structural component made of steel bars used in concrete construction to provide reinforcement and stability."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;桩顶设计高程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"桩顶设计高程 involves the design specifications for the top of a concrete pile, which is critical for construction measurements and assessments."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;沉井&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"沉井 refers to the construction method of sinking a concrete shaft underwater, typically used for creating foundations or sewers."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;防渗心墙&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防渗心墙 is an engineering method used to create impermeable barriers, relevant in dam and water management projects."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;灌注混凝土&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"灌注混凝土 refers to the process of pouring concrete into forms for construction, emphasizing the importance of proper mixing and handling."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;地质复勘检验试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地质复勘检验试验 involves geological re-investigations and testing to ensure the suitability of the land for construction."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </node>
+    <node id="&quot;施工过程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工过程 encompasses all activities involved in constructing a building, including planning, execution, and monitoring."&lt;SEP&gt;"施工过程 signifies the entire phase of construction where various activities occur to realize the project goals."</data>
+      <data key="d2">chunk-67ce2a74babf2e1ca992eda1bf877a39&lt;SEP&gt;chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </node>
+    <node id="&quot;单价&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"单价 refers to the pricing in construction, particularly in relation to effective project volume and costs incurred during various construction processes."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;二期混凝土&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"二期混凝土 refers to the specific phase of concrete work in a construction project, focusing on precise measurements and associated costs."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;沥青混凝土&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"沥青混凝土 refers to asphalt concrete used in construction, including its effective volume calculations and associated costs in the project."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;止水工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"止水工程 involves water-stopping measures in construction, emphasizing effective length measurement and incurred costs."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;伸缩缝&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"伸缩缝 refers to expansion joints measured and accounted for in construction, along with their operational costs."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;模板工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"模板工程 involves formwork in construction, focusing on effective areas calculated and operational costs involved."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;钢筋钢构件加工及安装工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"钢筋钢构件加工及安装工程 refers to projects involving the processing and installation of steel components in construction, detailing measurement and cost rules."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;预制混凝土工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"预制混凝土工程 pertains to projects involving precast concrete components, including effective volume calculations and regulations."&lt;SEP&gt;"预制混凝土工程 refers to a construction project involving the prefabrication of concrete components, with specific requirements for calculating quantities and costs."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd&lt;SEP&gt;chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;招标设计&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"招标设计 refers to the bidding design specifications that dictate how construction projects should be measured and executed."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;有效实体方体积&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"有效实体方体积 signifies the effective volume of entities used in construction, which is vital for accurate cost calculations."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;操作损耗&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"操作损耗 indicates the operational losses incurred during construction processes, which impact overall project costs."&lt;SEP&gt;"操作损耗 refers to the material and resource waste that occurs during the installation and processing phases in construction projects."&lt;SEP&gt;"操作损耗是指在设备安装和施工过程中，由于各种因素导致的效率损失。"</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd&lt;SEP&gt;chunk-4ebe2192fda24f00f4db8c29a0cff314&lt;SEP&gt;chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;模板周转使用费&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"模板周转使用费 covers the costs associated with the use and reuse of templates in construction."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;施工架立筋搭接焊接套筒连接&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工架立筋搭接焊接套筒连接 encompasses various techniques used in construction for joining reinforcement steel, crucial for structural integrity."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;预制混凝土构件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"预制混凝土构件 refers to prefabricated concrete components that are produced in a controlled environment before being installed on-site."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;室内试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"室内试验 involves various tests conducted indoors as part of quality assurance in construction projects."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;现场试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场试验 comprises tests conducted at the construction site to ensure construction materials meet required standards."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;生产性试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生产性试验 refers to productive testing processes that ensure the operational effectiveness of construction practices."</data>
+      <data key="d2">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </node>
+    <node id="&quot;原料开采及加工工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"原料开采及加工工程 encompasses the processes of extracting and processing raw materials, with calculated methods for measuring project quantities."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;其他建筑工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"其他建筑工程 includes various construction projects that are not covered by other categories, involving unique rules and calculations."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;机电设备安装工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"机电设备安装工程 involves the installation of electromechanical equipment, including turbines, pumps, and transformers, with detailed calculation rules."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;设备本体&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设备本体 refers to the main body of equipment in a construction project, which includes various mechanical and electrical systems."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;混凝土价格&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"混凝土价格 refers to the cost associated with prefabricated concrete, which includes all expenses incurred during its production and installation."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;土方开挖&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土方开挖 refers to the process of excavating soil for construction purposes, which requires specific measurements and classifications."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;石方开挖&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"石方开挖 involves excavating rock materials during construction, requiring categorization based on rock types."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;天然砂石料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"天然砂石料 refers to naturally occurring aggregates used in construction, measured by effective product volume and weight."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;粘性土料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"粘性土料 pertains to clay soils used in construction, which have specific measuring requirements based on project specifications."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;厂房装修工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"厂房装修工程 refers to renovation projects for industrial buildings, focusing on various improvements."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;水土保持&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水土保持 encompasses conservation efforts to prevent soil erosion and maintain environmental health during construction."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;环境保护工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护工程 consists of projects aimed at preserving ecological balance during construction activities."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;机电主要设备&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"机电主要设备 includes essential machines and devices used in construction, integrating various mechanical and electrical elements."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;辅助设备&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"辅助设备 refers to support machinery used alongside main equipment to enhance operational efficiency in construction."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;厂用电系统&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"厂用电系统 involves the electricity supply infrastructure within a construction site, ensuring power distribution."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;照明系统&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"照明系统 refers to the installation of lighting components for construction sites and buildings, necessary for safety and functionality."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;混凝土半成品料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"混凝土半成品料 denotes semi-finished concrete products used in various construction phases, measured by specific project requirements."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;试验费用&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"试验费用 refers to costs associated with sampling and testing materials during construction to ensure quality and compliance."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;埋件钢筋&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"埋件钢筋 pertains to embedded reinforcement bars used in concrete structures to improve strength and stability."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;锚索及附件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"锚索及附件 includes tensioning elements used in construction to stabilize structures, integrated into the concrete pour."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;桥式起重机&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"桥式起重机 denotes overhead cranes utilized in construction for lifting and moving heavy materials."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;发电机&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"发电机 is a device that converts mechanical energy into electrical energy, essential for construction site operations."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;高低压开关柜&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"高低压开关柜 refers to electrical switchgear used to control and distribute electric power in construction."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;防雷器&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"防雷器 is a protective device installed in construction to prevent damage from lightning strikes."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;电流互感器&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电流互感器 refers to instruments used to measure and monitor electrical currents in construction equipment."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;电压互感器&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电压互感器 pertains to devices used to measure voltage levels, crucial for ensuring safe operations at construction sites."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;控制保护设备&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"控制保护设备 represents various safety and control devices used in construction to ensure operational efficiency and prevent hazards."&lt;SEP&gt;"控制保护设备用于电力系统的监控和保护，确保设备的安全运行及故障管理。"</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd&lt;SEP&gt;chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;提水设备&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"提水设备 refers to systems and equipment used for pumping water in construction projects, particularly in emergencies or routine operations."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;压气设备&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"压气设备 includes tools and machinery used for air compression in construction applications."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;消防用水设备&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"消防用水设备 pertains to equipment designated for fire protection, facilitating effective emergency responses at construction sites."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;排水渗漏设备&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"排水渗漏设备 refers to systems employed to manage water drainage and prevent flooding during construction."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;透平油绝缘油&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"透平油绝缘油 are specialized oils used for insulation in electrical and mechanical systems, essential for safety and efficiency."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;充水低压压气&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"充水低压压气 involves low-pressure water filling and pneumatic applications used for certain types of construction activities."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;高压压气&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"高压压气 pertains to high-pressure air systems used in construction processes, enhancing operational performance."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;主变压器&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"主变压器 is a transformer that adjusts voltage levels, crucial for providing proper electrical supply on construction sites."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;电动机&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电动机 denotes electric motors that drive machinery and equipment in construction, vital for productivity."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;变频启动装置&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"变频启动装置 refers to variable frequency drives used to control motor speeds in construction applications."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;滑触线&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"滑触线 represents a conductive rail system for mobile cranes and equipment in construction environments."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;起重设备&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"起重设备 pertains to lifting devices used in construction to handle heavy materials safely."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;轨道安装&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"轨道安装 refers to the process of setting up tracks for cranes and other machinery in construction."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;安全保障&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全保障 encompasses measures and protocols implemented to ensure safety on the construction site."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;操作效率&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"操作效率 pertains to the effectiveness and productivity of work processes and systems in construction."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;设备安装的细则&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设备安装的细则 outlines the specific rules and guidelines for equipment installation in construction projects."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;安装过程中的技术规范&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安装过程中的技术规范 refers to the technical standards that must be adhered to during installation in construction."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;项目管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"项目管理 involves overseeing the various aspects of construction projects to ensure timely and efficient completion."&lt;SEP&gt;"项目管理涉及对电力安装工程的整体规划、执行和监控，确保工程顺利进行。"</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd&lt;SEP&gt;chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;质量控制&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量控制 refers to processes and procedures implemented to maintain standards and quality during construction."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;成本控制&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"成本控制 involves monitoring and managing expenses to stay within budget during construction."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;合同管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"合同管理 pertains to the administration of contracts related to construction projects, ensuring compliance and performance."&lt;SEP&gt;"合同管理确保各方权利和义务明确，为项目的正常推进提供法律保障。"</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd&lt;SEP&gt;chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;人员管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"人员管理 refers to the oversight and coordination of workforce resources in construction projects."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;设备维护&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设备维护 includes regular upkeep and repairs of machinery and tools used in construction to maintain operational efficiency."&lt;SEP&gt;"设备维护是确保设备长期稳定运行的重要措施。"</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd&lt;SEP&gt;chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;现场安全&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"现场安全 encompasses safety measures and protocols established to protect workers and reduce accidents on site."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;施工日志&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工日志 is a formal record of daily construction activities, providing documentation and accountability for progress."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;进度控制&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"进度控制 pertains to tracking and managing the timeline of construction projects to ensure timely completion."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;付款管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"付款管理 refers to the processes involved in handling payments to contractors and suppliers in construction."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;合同评审&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"合同评审 refers to the review and analysis of contracts before signing to ensure terms are favorable and compliant."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;进度评估&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"进度评估 involves assessing the current status of the project timeline against planned objectives."</data>
+      <data key="d2">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </node>
+    <node id="&quot;电力公司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"电力公司是负责电力设备安装、维护以及相关服务的组织，涉及多个电气系统的建设和管理。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;发电站&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"发电站是电力系统中的重要设施，负责电力的生产和分配。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;柴油发电机组&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"柴油发电机组是一种核心设备，用于产生电力，涉及到多个安装和维护过程。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;光缆&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"光缆是一种用于数据传输的高科技材料，在电力和通信系统中至关重要。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;高压电气设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"高压电气设备是在电力传输和分配过程中使用的重要组件，涉及到多个安装配置。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;安全监测设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全监测设备 refers to organizations involved in the procurement and installation of safety monitoring equipment, ensuring compliance with engineering standards."&lt;SEP&gt;"安全监测设备是在电气系统中用于保证安全运行的重要设备。"</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784&lt;SEP&gt;chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;直流配电屏柜&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"直流配电屏柜用于分配直流电力，是电气系统中关键的组成部分。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电气试验室&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"电气试验室用于进行各类电气设备的测试和验证，确保设备符合安全和功能标准。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;气体灭火装置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"气体灭火装置是用于电气设备火灾安全保护的重要设施，防止火灾的发生。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;消防系统&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"消防系统包括火灾报警及控制系统，确保在火灾发生时进行有效干预。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;机修设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"机修设备用于对大型电气机械进行修理和维护，确保设备的可靠性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;供电系统&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"供电系统涵盖了电力的生产、传输和分配，是整个电力架构的核心。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;光缆通信系统&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"光缆通信系统是一种高效的数据传输解决方案，用于电力系统的信息管理。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;变压器&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"变压器用于电压的升降，是电力传输的关键设备，确保电力的有效分配。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电梯设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电梯设备涉及到厂房内的人员和物资的垂直运输，确保操作的便捷性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;风机&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"风机用于通风和空气流通，确保设备工作环境的适宜性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;工厂&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"工厂是进行电力设备制造和安装的场所，承载多个电气工程项目。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;监控系统&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监控系统用于实时监控电气设备的运行状态，确保系统的安全性和效率。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电缆安装&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电缆安装是电力设备设置中关键环节，确保电力和数据的稳定传输。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;开关柜&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"开关柜是电力分配系统的一部分，用于控制和保护电气设备。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;分电箱&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"分电箱用于分配电力到各个区域，是建筑电力系统的重要组件。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;安装工程费&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安装工程费 refers to the costs associated with installing equipment, including labor, equipment transportation, and quality checks."&lt;SEP&gt;"安装工程费涵盖了设备安装中所发生的各类费用，包括材料和劳动力。"</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784&lt;SEP&gt;chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;电工设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电工设备是进行电气设备安装和维护所需的工具和器具。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;警报系统&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"警报系统用于电力系统故障时的警示，保障人员安全。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;气候控制设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"气候控制设备用于调节厂房环境，确保设备和操作人员的舒适性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电气设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电气设施涵盖整个电力系统中的各种设备和设施，是能量传输的基础。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;母线&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"母线是电力分配中关键构件，用于连接和分配电流。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;钢结构设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"钢结构设备用于电气设施的坚固与安全，为电力系统提供结构支持。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电池组&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电池组提供备用电源，是保证电力系统稳定的重要部分。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电气设备安装工作内容&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电气设备安装工作内容包括设备的运输、组装、调试及验收。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备的运输&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备的运输在安装前至关重要，确保设备安全高效地到达安装地点。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备的调试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备的调试确保其功能正常，达到预定的性能标准。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;技术支持&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术支持为电气设备的安装和运行提供专业指导和解决方案。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;验收标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收标准是设备安装和调试后进行质量评估的依据。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;招标设计图&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"招标设计图为设备安装提供详细的方法和步骤，引导项目实施。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;质量检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量检查是确保安装工程达标的重要环节，防止潜在的安全隐患。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备保管&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备保管确保在运输和安装前设备的安全与完整。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;防腐油漆&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防腐油漆用于保护电气设备，延长其使用寿命，保持良好的工作状态。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;机电设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"机电设备是指机械和电气相结合的设备，广泛应用于电力安装工程中。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;整体设备及附属设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"整体设备及附属设备涵盖所有在项目中同时安装的主要和辅助设备。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;技术验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术验收是对电气设备的技术标准和功能进行确认的过程。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;移动电源&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"移动电源为设备的临时供电，确保在安装调试期间的正常运作。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备配件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备配件是安装电力设施时所需的附加组件，确保整体功能实现。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电机&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电机是转换电能为机械能的重要装置，广泛应用于电气工程中。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电缆桥架&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电缆桥架用于支撑和保护电缆，确保电缆的安全敷设与使用。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;系统集成&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"系统集成将不同的电气系统组合成一个整体，提高工作效率和安全性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;负荷计算&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"负荷计算是确定电气系统设计和标准的重要依据，确保供电稳定。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电气指标&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电气指标是评估电气设备性能和效率的重要标准。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备安装过程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备安装过程包括从设备采购到最终投入使用的一系列步骤。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电力供应&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电力供应确保设备和系统在整个运行周期内获得稳定的电能支持。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;现场管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场管理负责对施工现场的组织和协调，确保工程顺利进行。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备验收是对新设备在正式投入运行前的最后审核过程，确保设备合格。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;工程预算&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程预算是对项目所需资金进行的详细估算，影响项目的资金配置和执行。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;维护保养计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"维护保养计划确保电气设备在整个使用周期内的有效管理和定期检查。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;项目进度控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目进度控制旨在确保安装工程按期完成，避免延误。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;施工质量管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工质量管理是电气工程中确保安装质量和安全的重要措施。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;系统优化&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"系统优化旨在提升电力系统的整体运行效率和稳定性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;数据传输&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据传输是电力系统中信息传递的基础，确保设备管理与监控的实时性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;服务支持&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"服务支持为设备的安装、调试和后续运行提供必要的技术保证。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;规划设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"规划设计是电力项目初期的重要步骤，影响后续安装和运行。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;安全规定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全规定是确保电力设备安装过程中人员和设备安全的重要指引。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;工程实施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程实施涵盖了设备安装的执行过程，确保项目按计划完成。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;施工团队&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"施工团队负责项目的现场施工，是安装工程的主要执行者。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;电气系统维护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电气系统维护确保电力设施稳定运行，防止事故发生。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;项目总结&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目总结为完成项目后的评估和反思，吸取经验教训，以提升未来工程的效率。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;客户反馈&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"客户反馈用于改善服务和产品质量，影响后续项目实施方向。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;技术交流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术交流为行业内专业人士提供互相学习与分享经验的平台。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;行业标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"行业标准是对电气施工和设备安装的规范，确保行业的整体水平。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;新技术应用&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"新技术应用在电力系统中尝试新设备和技术，以提高工作效率和安全性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;法律法规&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"法律法规确保电力行业的运作合规，保障人员及环境安全。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;工程记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程记录用于整理和保存项目过程中的所有数据，确保透明管理。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;供应链管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"供应链管理确保项目所需物资的及时供应，避免因物资短缺造成的施工延误。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;产品验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"产品验收是保证项目设备质量的必要环节，确保设备符合要求。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;证书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"证书是对完成单位在电气安装方面合规性和专业能力的认可。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备选型&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备选型是根据工程需求确定合适设备的过程，以确保功能匹配。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;办公室&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"办公室用于项目管理和协调，是所有决策和计划的中心。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;客户需求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"客户需求影响项目规划和执行的方向，需要被重视和满足。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;实地检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实地检查是确保施工质量和安全的重要环节，避免潜在问题。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;工程实施方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程实施方案为项目的各阶段提供指导，确保按步骤进行。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备清单&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备清单列出了项目所需的所有设备，有助于采购和管理。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;融资方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"融资方案是为项目提供资金支持的途径，确保工程实施的顺利进行。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;工程移交&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程移交是项目完成后的正式转交，为后续使用打下基础。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;质量控制体系&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量控制体系是确保在整个工程过程中保持高标准的重要保障。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;安全培训&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全培训是对项目参与人员进行必要的安全意识和操作规范教育。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;调整方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"调整方案用于应对项目实施中的问题与变更，以确保目标达成。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;项目评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目评估是对项目整体表现和实施效果进行分析和总结的过程。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;市场调研&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"市场调研为项目规划和产品开发提供必要的行业数据和趋势分析。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;审计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"审计确保项目资金使用合规，提高管理的透明度和公信力。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;新材料研发&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"新材料研发推动电力设备的更新换代，提升运行效率和安全性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;环保标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环保标准确保电力设备的安装和运行符合环境保护的要求。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;工程监督&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程监督确保项目在实施过程中遵循合规性和安全性标准。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;维护记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"维护记录是对设备维护和保养过程进行的详细记录，帮助追踪设备状态。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;能效评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"能效评估是对电力系统及设备效率的分析，以促进能耗降低和运行成本节约。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备列表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备列表提供项目中所有设备的详细信息，有助于管理和调度。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;盈利模型&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"盈利模型分析电力项目的经济效益，为资金使用提供依据。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;行业协会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"行业协会负责制定行业标准，促进技术交流和产业发展。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;科学研究&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"科学研究为电力行业提供创新思维和技术支持，推动行业进步。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;法规遵循&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"法规遵循是确保项目合法合规的重要措施，防止法律风险。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备性能优化&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备性能优化是通过各种手段提升电力设备使用效率的重要环节。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;技术规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术规范为设备选择与安装提供基本标准，确保施工的规范性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;行业动态&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"行业动态影响电力项目的市场走向和决策方向，需时刻关注。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;合同事项&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合同事项确定项目参与各方的权利和义务，确保项目顺利推进。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;明确分工&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"明确分工确保每个项目参与人员了解其职责，提升工作效率。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;技术鉴定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术鉴定对项目中涉及的技术方案进行评估，确保其可行性与安全性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;资源整合&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"资源整合提升项目实施的效率，确保所需资源高效使用。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;运营方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"运营方案为电力项目投入使用后的管理和运营提供指导。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;发电设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"发电设备是用于将其他形式的能量转换为电能的重要装置。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;监测设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监测设备用于实时监控电力系统的性能与安全状态。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;人力资源管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"人力资源管理在项目实施中负责人员的招聘、培训与管理。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;创新技术&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"创新技术在电力行业推动了新的工作流程和理念的变化。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设施安全评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设施安全评估是对电力系统中所有设备进质量管理及安全检查的过程。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;通信协议&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"通信协议在电力系统的不同设备之间确保信息的有效传输。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;维护预算&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"维护预算为设备的后期维护提供资金支持，确保操作的顺利进行。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;设备更新&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备更新是为了替换老旧设备，提高系统的运行效率与安全性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;人员培训&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"人员培训是对技术和安全进行教育，以提升员工对设备的管理能力。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;环境影响评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境影响评估分析项目对环境的潜在影响，以确保遵循可持续发展理念。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;法律责任&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"法律责任确保项目参与方遵循相关法律法规，保障工程的合法性。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;市场需求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"市场需求指引产品和服务的方向，是影响项目成功的重要因素。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;投资回报分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投资回报分析帮助评估项目的经济效益，确保可持续发展。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;变电站&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"变电站是电力系统的重要组成部分，负责电能的转换与分配。"</data>
+      <data key="d2">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </node>
+    <node id="&quot;施工过程中仪表设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工过程中仪表设备 relates to events that involve monitoring instrument equipment during construction, addressing potential losses and maintenance."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"设备 refers to the machinery and tools utilized in construction and installation projects, integral to various engineering tasks."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </node>
+    <node id="&quot;涂装&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"涂装 involves the application of protective coatings to equipment during installation, ensuring durability and compliance with safety standards."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </node>
+    <node id="&quot;焊缝检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"焊缝检查 refers to the inspection process of weld seams to ensure structural integrity and safety in construction."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </node>
+    <node id="&quot;物流&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"物流 signifies the coordinating efforts to manage the transportation and storage of materials and equipment during a project."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </node>
+    <node id="&quot;验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收 is the acceptance process where completed work is evaluated against the project specifications and safety standards."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </node>
+    <node id="&quot;维护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"维护 encompasses the activities undertaken to preserve and maintain equipment before project handover, ensuring functionality."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </node>
+    <node id="&quot;规范&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"规范 refers to the regulations and standards that must be adhered to during construction and engineering projects."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;保管&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"保管 involves the storage and safeguarding of equipment and materials during the course of an engineering project."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </node>
+    <node id="&quot;工程工程量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程工程量 refers to the quantification of work done in engineering projects, essential for project budgeting and progress tracking."</data>
+      <data key="d2">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </node>
+    <node id="&quot;国家质量监督检验检疫总局&quot;">
+      <data key="d2">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+      <data key="d1">"中华人民共和国建设部 collaborates with the Quality Supervision Bureau to ensure construction projects meet national quality standards."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;岩石级别&quot;">
+      <data key="d2">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+      <data key="d1">"岩石级别 categorizes the types of rock in 石方开挖工程 for excavation work guidelines."</data>
+      <data key="d0">"UNKNOWN"</data>
+      <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;疏浚工程&quot;">
+      <data key="d2">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+      <data key="d1">"辅助工程如障碍物清除为疏浚工程提供必要条件，提升施工安全和效率。"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;中华人民共和国&quot;" target="&quot;水利部&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中华人民共和国 oversees the operations of the Ministry of Water Resources, which manages water resources and related projects."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;中华人民共和国&quot;" target="&quot;建设部标准定额司&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"建设部标准定额司 operates under the regulations set forth by the People's Republic of China regarding water engineering standards."</data>
+      <data key="d6">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </edge>
+    <edge source="&quot;中华人民共和国&quot;" target="&quot;水利工程工程量清单编制&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The activity of preparing water engineering bills of quantities is governed by laws and standards established by the People's Republic of China."</data>
+      <data key="d6">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;建设部&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"建设部 collaborates with the Ministry of Water Resources to ensure the standards and regulations for construction and water resource management are upheld."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;标准&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Ministry of Water Resources is responsible for establishing and enforcing standards for water engineering projects."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;北京峡光经济技术咨询有限责任公司&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The consulting firm provides technical support and consultancy services to the Ministry of Water Resources for water projects."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;长江流域水利建设工程造价定额管理站&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"This management station works under the Ministry of Water Resources to manage project costs in water engineering within the Yangtze River region."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;中国建设工程造价管理协会&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Ministry of Water Resources works with the Construction Cost Management Association to regulate project costs in water engineering."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;长江水利委员会&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Yangtze River Committee operates under the Ministry of Water Resources to manage the river's water resources and associated projects."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;李治平&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"李治平 plays a significant role in the Ministry of Water Resources by drafting essential guidelines for water management."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;席建国&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"席建国 contributes to the Ministry of Water Resources' objectives by offering expertise in developing water resource standards."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;标准&quot;" target="&quot;国家标准编号&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"国家标准编号 is a formal identifier essential for ensuring compliance with the established standards in construction projects."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;长江流域水利建设工程造价定额管理站&quot;" target="&quot;长江水利委员会&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"This management station supports the efforts of the Yangtze River Committee by providing essential cost regulations for water projects."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;中华人民共和国建设部&quot;" target="&quot;国家质量监督检验检疫总局&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中华人民共和国建设部 collaborates with the Quality Supervision Bureau to ensure construction projects meet national quality standards."</data>
+      <data key="d6">chunk-b0fee9158d08b285e0b5f2624a6f6c2a</data>
+    </edge>
+    <edge source="&quot;叶森&quot;" target="&quot;建设部标准定额司&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"叶森 is involved in discussions or activities related to the department responsible for water engineering standards."</data>
+      <data key="d6">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </edge>
+    <edge source="&quot;王艳君&quot;" target="&quot;建设部标准定额司&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"王艳君 participates in the discourse surrounding the standards set by the department for water engineering projects."</data>
+      <data key="d6">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </edge>
+    <edge source="&quot;建设部标准定额司&quot;" target="&quot;水利工程工程量清单编制&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"建设部标准定额司 is responsible for the preparation and regulation of water engineering bills of quantities."</data>
+      <data key="d6">chunk-3c5a432ced625fdfc6e28273a8402dcf</data>
+    </edge>
+    <edge source="&quot;工程量清单&quot;" target="&quot;投标人&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程量清单是投标人报价的依据，投标人需要根据清单内容进行报价。"</data>
+      <data key="d6">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </edge>
+    <edge source="&quot;工程量清单&quot;" target="&quot;措施项目清单&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"措施项目清单是工程量清单的一部分，主要用于说明额外所需措施以妥善执行工程。"</data>
+      <data key="d6">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </edge>
+    <edge source="&quot;工程量清单&quot;" target="&quot;其他项目清单&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"其他项目清单补充了工程量清单中未列出的项目，为投标人提供完整信息以便报价。"</data>
+      <data key="d6">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </edge>
+    <edge source="&quot;工程量清单&quot;" target="&quot;零星工作项目清单&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"零星工作项目清单提供了工程实施过程中可能需要的额外项目，反映在工程量清单之内。"</data>
+      <data key="d6">chunk-87b1f14fe96a162ddf31348cc88c9855</data>
+    </edge>
+    <edge source="&quot;工程量清单&quot;" target="&quot;造价工程师&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"造价工程师 prepares and verifies the工程量清单 which is essential for the bidding process."</data>
+      <data key="d6">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </edge>
+    <edge source="&quot;工程量清单&quot;" target="&quot;招标项目&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"工程量清单 includes all details related to the招标项目, outlining the specifications needed for bids."</data>
+      <data key="d6">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </edge>
+    <edge source="&quot;工程量清单&quot;" target="&quot;安全监测设备&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"安全监测设备 is involved in the engineering account list that outlines tasks and associated costs for safety monitoring projects."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+    <edge source="&quot;工程量清单&quot;" target="&quot;安装工程费&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"工程量清单 details the costs related to installation efforts detailed in the account list, illustrating budgetary allocations."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+    <edge source="&quot;水利建筑工程&quot;" target="&quot;安全监测设备&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利建筑工程 must comply with regulations outlined by organizations involved in safety monitoring projects, ensuring safety standards in site management."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+    <edge source="&quot;招标人&quot;" target="&quot;投标人&quot;">
+      <data key="d4">25.0</data>
+      <data key="d5">"投标人 is engaged in a contractual relationship with the 招标人 during the bidding process for construction projects."&lt;SEP&gt;"招标人 provides the necessary specifications and materials lists that the 投标人 must use to prepare their bid."&lt;SEP&gt;"招标人提供招标文件和工程量清单供投标人参考，投标人则根据这些文件制定报价。"</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-87b1f14fe96a162ddf31348cc88c9855&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;招标人&quot;" target="&quot;造价工程师&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"招标人 provides the project details that the造价工程师 must evaluate and sign, ensuring compliance with bidding regulations."</data>
+      <data key="d6">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </edge>
+    <edge source="&quot;招标人&quot;" target="&quot;中介机构&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"中介机构 acts on behalf of招标人 to facilitate and validate the bidding process, ensuring all documents are properly signed and stamped."</data>
+      <data key="d6">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </edge>
+    <edge source="&quot;招标人&quot;" target="&quot;土方开挖工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"招标人 oversees and regulates the 土方开挖工程, ensuring compliance with project specifications."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;招标人&quot;" target="&quot;石方开挖工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"招标人 ensures the 石方开挖工程 adheres to the specified standards and project requirements."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;招标人&quot;" target="&quot;施工机械&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"招标人 regulates the use and budgeting of 施工机械 in the project scope."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;招标人&quot;" target="&quot;合同&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"合同 binds the 投标人 and 招标人, defining the terms of their collaboration."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;工程项目&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"投标人 is submitting a bid for the工程项目 as part of the tendering process."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;工程单价计算表&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"投标人 must reference the工程单价计算表 to ensure that their pricing aligns with the project's cost expectations."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;投标总价&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"投标总价 is proposed by the投标人, reflecting total expected costs for the工程项目."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;法定代表人&quot;">
+      <data key="d4">19.0</data>
+      <data key="d5">"法定代表人 represents the投标人, ensuring the validity of the tender documents by signing them."&lt;SEP&gt;"法定代表人 signs contractual documents on behalf of the 投标人, confirming their representation in the process."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673&lt;SEP&gt;chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;造价工程师&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"造价工程师 assists the投标人 in preparing accurate cost estimates for the工程项目."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;分类分项工程量清单计价表&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"投标人 completes the分类分项工程量清单计价表 to detail their pricing structure for the工程项目."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;措施项目清单计价表&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"投标人 fills out the措施项目清单计价表 to specify additional measures included in their bid."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;工程单价费税率汇总表&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"投标人 must adhere to the工程单价费税率汇总表 to ensure accurate calculation of their bid prices."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;材料预算价格&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"投标人 calculates the材料预算价格 to provide an accurate estimate of material costs for the工程项目."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;项目分解表&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"投标人 utilizes the项目分解表 for detailed itemization and analysis of their bid proposal."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;土方开挖工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"投标人 is responsible for the execution and budgeting of 土方开挖工程 as part of their bidding documents."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;石方开挖工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"投标人 prepares to undertake 石方开挖工程 as part of their project bid."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;委托代理人&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"委托代理人 acts on behalf of the 投标人 and is involved in the bidding process as a representative."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;投标人&quot;" target="&quot;主要材料&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"投标人 prepares budgets based on the主要材料 needed for the construction project."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;项目编码&quot;" target="&quot;主要工作内容&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"项目编码 organizes and identifies the various 主要工作内容 within the project specifications."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;项目编码&quot;" target="&quot;机电设备安装工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"机电设备安装工程 requires specific coding for project components to maintain organizational clarity."</data>
+      <data key="d6">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </edge>
+    <edge source="&quot;项目编码&quot;" target="&quot;设备本体&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"项目编码 aids in clarifying the specifications and details of the equipment body, ensuring accurate implementation."</data>
+      <data key="d6">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </edge>
+    <edge source="&quot;合同编号&quot;" target="&quot;招标项目&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"合同编号 is crucial in identifying the specific招标项目 associated with a bidding process."</data>
+      <data key="d6">chunk-1ddfca3bfb0b6622b23e41f5eedc630c</data>
+    </edge>
+    <edge source="&quot;合同编号&quot;" target="&quot;工程项目&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"合同编号 uniquely identifies the工程项目 and is critical for documentation and reference purposes."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;工程项目&quot;" target="&quot;混凝土配合比材料费&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"混凝土配合比材料费 is a specific cost component relevant to the施工 of the工程项目."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;工程项目&quot;" target="&quot;电风水砂石基础单价&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"电风水砂石基础单价 is relevant to the construction phase of the工程项目, influencing overall costs."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;工程项目&quot;" target="&quot;零星工作项目计价表&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"零星工作项目计价表 details specific minor tasks that contribute to the overall工程项目 cost."</data>
+      <data key="d6">chunk-4a281886f615b3d7aacf6d2d2ba9e673</data>
+    </edge>
+    <edge source="&quot;土方开挖工程&quot;" target="&quot;疏浚和吹填工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Both events are related as they deal with earth and material manipulation in construction projects, influencing overall project planning."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;土方开挖工程&quot;" target="&quot;工程量计算规则&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程量计算规则 is applied to estimate and measure 土方开挖工程 accurately."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;土方开挖工程&quot;" target="&quot;土类分级&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"土类分级 is relevant for determining the conditions and requirements for 土方开挖工程."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;石方开挖工程&quot;" target="&quot;疏浚和吹填工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The events of 疏浚和吹填工程 and 石方开挖工程 are interconnected in project execution, often occurring sequentially in construction processes."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;石方开挖工程&quot;" target="&quot;工程量计算规则&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程量计算规则 is necessary for determining the quantities involved in 石方开挖工程."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;石方开挖工程&quot;" target="&quot;岩石级别&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"岩石级别 categorizes the types of rock in 石方开挖工程 for excavation work guidelines."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;疏浚和吹填工程&quot;" target="&quot;土石方填筑工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"疏浚和吹填工程 is part of the processes involved in 土石方填筑工程 as material handling techniques."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;疏浚和吹填工程&quot;" target="&quot;砌筑工程&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"疏浚和吹填工程与砌筑工程都涉及重要的施工过程和费用计算，这是其共同点。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;疏浚和吹填工程&quot;" target="&quot;水力冲挖机组&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水力冲挖机组在疏浚和吹填工程中起到关键作用，关系非常紧密。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;疏浚和吹填工程&quot;" target="&quot;江河&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"疏浚和吹填工程在江河进行，影响水域管理和工程实施。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;疏浚和吹填工程&quot;" target="&quot;水库&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水库位置影响疏浚工程的复杂性及管理需求。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;疏浚和吹填工程&quot;" target="&quot;港湾&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"港湾内的疏浚操作直接关系到港口使用和保障。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;疏浚和吹填工程&quot;" target="&quot;湖泊&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"湖泊作为施工地点，影响泥沙处理的有效性与水质管理。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;疏浚和吹填工程&quot;" target="&quot;水下有效自然方体积&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水下有效自然方体积是计算疏浚工程量的关键指标，直接关系到工程成本。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;主要材料&quot;" target="&quot;工程单价&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程单价 reflects the cost considerations of the 主要材料 used in construction work."</data>
+      <data key="d6">chunk-fd23e99a8d9624adf5c5fd8d7062f231</data>
+    </edge>
+    <edge source="&quot;土类分级&quot;" target="&quot;水力冲挖机组&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"土类分级由水力冲挖机组来执行，是疏浚工程中的关键技术。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;招标设计图示&quot;" target="&quot;混凝土工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"招标设计图示 outlines the specifications and guidelines that must be followed in混凝土工程."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;超挖量&quot;" target="&quot;砌筑工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"超挖量在砌筑工程中需要精确控制，以避免成本超支。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;工程单价&quot;" target="&quot;操作损耗&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"操作损耗 is included in the determination of 工程单价, affecting final pricing in construction work."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;工程单价&quot;" target="&quot;室内试验&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"室内试验 ensures that the components and materials used meet standards that can influence 工程单价."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;砌筑工程&quot;" target="&quot;锚喷支护工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"砌筑工程与锚喷支护工程均遵循招标设计规定，涉及相似的工程计量和费用处理。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;砌筑工程&quot;" target="&quot;招标设计文件&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"招标设计文件提供了砌筑工程施工的标准与规范，确保质量和成本控制。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;砌筑工程&quot;" target="&quot;钢筋铅丝石笼&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"钢筋铅丝石笼在砌筑工程中应用于增强结构的稳定性，属于重要构件。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;砌筑工程&quot;" target="&quot;钢支撑&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"钢支撑用于砌筑工程中提供安全支撑，确保其施工稳定性。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;砌筑工程&quot;" target="&quot;木支撑&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"木支撑在砌筑工程中作为临时支撑，提高施工过程中稳定性。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;砌筑工程&quot;" target="&quot;装修工程&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"装修工程与砌筑工程的合作关系确保建筑质量和美观性。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;锚喷支护工程&quot;" target="&quot;钻孔和灌浆工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"锚喷支护工程与钻孔和灌浆工程均强调对钻孔和基础处理的精确计量，有密切关联。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;锚喷支护工程&quot;" target="&quot;有效工程量&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"有效工程量是对锚喷支护工程量计算的基础，影响后续的费用管理。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;锚喷支护工程&quot;" target="&quot;喷浆混凝土&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"喷浆混凝土为锚喷支护工程提供基础支撑和保护，影响施工质量。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;锚喷支护工程&quot;" target="&quot;基础处理工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"基础处理工程为锚喷支护工程提供稳定的施工基础，确保其有效性。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;钻孔和灌浆工程&quot;" target="&quot;基础防渗和地基加固工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"两者都是涉及土木工程项目的工作内容，且都遵循项目编码和计量单位等管理规则。"</data>
+      <data key="d6">chunk-523f665bfe461a902631275a9e2de2be</data>
+    </edge>
+    <edge source="&quot;钻孔和灌浆工程&quot;" target="&quot;岩石层&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"岩石层是钻孔和灌浆工程的一部分，提供施工背景和需求。"</data>
+      <data key="d6">chunk-523f665bfe461a902631275a9e2de2be</data>
+    </edge>
+    <edge source="&quot;钻孔和灌浆工程&quot;" target="&quot;砂砾石层&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"砂砾石层同样影响钻孔和灌浆的施工类型和计量方法。"</data>
+      <data key="d6">chunk-523f665bfe461a902631275a9e2de2be</data>
+    </edge>
+    <edge source="&quot;钻孔和灌浆工程&quot;" target="&quot;水泥&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水泥作为灌浆主要材料，涉及施工费和计算规则。"</data>
+      <data key="d6">chunk-523f665bfe461a902631275a9e2de2be</data>
+    </edge>
+    <edge source="&quot;招标设计文件&quot;" target="&quot;规范&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"规范 outlines the standards that must be adhered to in the preparations found within the 招标设计文件."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+    <edge source="&quot;辅助工程&quot;" target="&quot;疏浚工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"辅助工程如障碍物清除为疏浚工程提供必要条件，提升施工安全和效率。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;施工期自然回淤量&quot;" target="&quot;疏浚工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工期自然回淤量在疏浚工程中影响整体泥沙处理过程和设计变更。"</data>
+      <data key="d6">chunk-289cd3ed6607bf9615e006f595bcdd06</data>
+    </edge>
+    <edge source="&quot;基础防渗和地基加固工程&quot;" target="&quot;高压钢管&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"高压钢管在基础防渗和地基加固工程中，起回填灌浆和连接作用。"</data>
+      <data key="d6">chunk-523f665bfe461a902631275a9e2de2be</data>
+    </edge>
+    <edge source="&quot;基础防渗和地基加固工程&quot;" target="&quot;化学灌浆&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"化学灌浆涉及在基础防渗和地基加固项目中的特殊材料使用。"</data>
+      <data key="d6">chunk-523f665bfe461a902631275a9e2de2be</data>
+    </edge>
+    <edge source="&quot;基础防渗和地基加固工程&quot;" target="&quot;混凝土&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"混凝土是用于基础防渗及加固施工中不可或缺的材料。"</data>
+      <data key="d6">chunk-523f665bfe461a902631275a9e2de2be</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;孔长度计量&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"混凝土工程 includes the calculations related to孔长度计量 used to determine operational losses during construction."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;制作运输清基&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"制作运输清基 is a specific process within混凝土工程, focusing on preparing and transporting concrete materials."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;振冲桩&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"振冲桩 methods are part of the overall construction processes covered in the larger context of混凝土工程."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;温控混凝土&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"温控混凝土 is a specific methodology discussed under混凝土工程, addressing special conditions in concrete work."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;损耗&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"损耗 is a significant factor considered in the calculations and pricing rules of混凝土工程."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;钢筋笼&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"钢筋笼 is integrated into混凝土工程 to enhance the structural integrity of concrete structures."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;沉井&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"沉井 techniques are relevant construction methods discussed within the scope of混凝土工程."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;防渗心墙&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"防渗心墙 is a specific engineering application within混凝土工程 that addresses waterproofing needs."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;灌注混凝土&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"灌注混凝土 processes are fundamental to the execution of混凝土工程 projects."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;地质复勘检验试验&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"地质复勘检验试验 ensures the land's viability for projects within混凝土工程."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;施工过程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"施工过程 details the practical execution of tasks related to混凝土工程."</data>
+      <data key="d6">chunk-67ce2a74babf2e1ca992eda1bf877a39</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;止水工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"止水工程 is a part of混凝土工程 that focuses on preventing water ingress, making it a subcategory of concrete work."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;伸缩缝&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"伸缩缝 are integral features in 混凝土工程 that allow for expansion and contraction, thus they are related in construction practices."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;模板工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"模板工程 provides the necessary formwork for mixed concrete works, thus directly related to the overall construction."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;钢筋钢构件加工及安装工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"钢筋钢构件加工及安装工程 supplies essential reinforcement for 混凝土工程, linking both processes tightly together."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;预制混凝土工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"预制混凝土工程 is a specialized subset of 混凝土工程 that focuses on pre-manufactured concrete components, establishing a direct relationship."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;预制混凝土构件&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"预制混凝土构件 are integral to the execution of 混凝土工程, streamlining construction processes."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;混凝土工程&quot;" target="&quot;现场试验&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"现场试验 is a critical part of ensuring the quality and performance of materials used in 混凝土工程."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;施工过程&quot;" target="&quot;工程工程量&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"施工过程 involves the detailed assessment of工程工程量 to ensure all tasks align with the project budget and timeline."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+    <edge source="&quot;二期混凝土&quot;" target="&quot;沥青混凝土&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Both 二期混凝土 and 沥青混凝土 are types of concrete work in construction, involving detailed measurement and cost analysis."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;模板工程&quot;" target="&quot;模板周转使用费&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"模板周转使用费 is a component of costs accounted for in 模板工程, impacting overall project budgeting."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;钢筋钢构件加工及安装工程&quot;" target="&quot;施工架立筋搭接焊接套筒连接&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"施工架立筋搭接焊接套筒连接 are methods utilized within the framework of 钢筋钢构件加工及安装工程, ensuring structural reliability."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;钢筋钢构件加工及安装工程&quot;" target="&quot;生产性试验&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"生产性试验 validates the processes and materials utilized in 钢筋钢构件加工及安装工程, ensuring effective implementation."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;预制混凝土工程&quot;" target="&quot;原料开采及加工工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"预制混凝土工程 relies on raw materials sourced and processed through raw material extraction and processing efforts."</data>
+      <data key="d6">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </edge>
+    <edge source="&quot;预制混凝土工程&quot;" target="&quot;其他建筑工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"其他建筑工程 may include projects that utilize prefabricated concrete elements, thereby linking their objectives."</data>
+      <data key="d6">chunk-f8c123ed17f061588ec75bcdeadfbabd</data>
+    </edge>
+    <edge source="&quot;招标设计&quot;" target="&quot;有效实体方体积&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"招标设计 sets the framework for calculating 有效实体方体积, essential for estimating project costs."</data>
+      <data key="d6">chunk-4ebe2192fda24f00f4db8c29a0cff314</data>
+    </edge>
+    <edge source="&quot;电力公司&quot;" target="&quot;发电站&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"电力公司负责发电站的电力设备安装与维护，使得电力生产高效稳定。"</data>
+      <data key="d6">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </edge>
+    <edge source="&quot;电力公司&quot;" target="&quot;柴油发电机组&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"电力公司的项目涉及柴油发电机组的安装和调试，以确保供电的稳定性。"</data>
+      <data key="d6">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </edge>
+    <edge source="&quot;电力公司&quot;" target="&quot;高压电气设备&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"电力公司负责高压电气设备的安装和维护，是安全、可靠供电的关键。"</data>
+      <data key="d6">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </edge>
+    <edge source="&quot;发电站&quot;" target="&quot;光缆&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"发电站与光缆系统的结合，能够提高电力管理和数据传输效率。"</data>
+      <data key="d6">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </edge>
+    <edge source="&quot;发电站&quot;" target="&quot;安全监测设备&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"安全监测设备确保发电站的安全操作，防止可能的故障和事故。"</data>
+      <data key="d6">chunk-c7ebead2279266eec734bc6c5c4cdc0a</data>
+    </edge>
+    <edge source="&quot;安全监测设备&quot;" target="&quot;安装工程费&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"安全监测设备 includes costs associated with their installation, emphasizing the financial aspects of procurement projects."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+    <edge source="&quot;安装工程费&quot;" target="&quot;施工过程中仪表设备&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"施工过程中仪表设备 relates to monitoring costs incurred during installation efforts, highlighting financial implications during construction."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+    <edge source="&quot;设备&quot;" target="&quot;涂装&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"设备 undergoes涂装 processes as part of preparation and installation to enhance their durability and compliance with quality standards."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+    <edge source="&quot;设备&quot;" target="&quot;物流&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"物流 management is crucial for the effective transportation and delivery of设备 to the construction site."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+    <edge source="&quot;焊缝检查&quot;" target="&quot;验收&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"焊缝检查 is a critical step that must be completed before the 验收 process, ensuring the quality of the construction work."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+    <edge source="&quot;验收&quot;" target="&quot;维护&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"维护 activities must be completed prior to the 验收 stage to ensure that all equipment is in full working order."</data>
+      <data key="d6">chunk-c28e2ccd70d88d0b691dd1c6939ac784</data>
+    </edge>
+  </graph>
+</graphml>

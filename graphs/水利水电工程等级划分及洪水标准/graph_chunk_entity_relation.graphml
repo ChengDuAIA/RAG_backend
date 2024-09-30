@@ -1,0 +1,2457 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is the government authority responsible for water resources in China, overseeing water and hydropower projects, as well as developing and implementing standards and regulations."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;SL252-2017&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SL252-2017 is a revised standard concerning the classification and flood protection criteria of water and hydropower projects, replacing the previous SL252-2000 standard and outlining technical contents and requirements."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;长江勘测规划设计研究有限责任公司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"长江勘测规划设计研究有限责任公司 is involved in the planning and design of water resources and hydropower projects, contributing expertise in developing relevant standards."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;中国水利水电出版社&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中国水利水电出版社 is the publishing house responsible for the dissemination of water resources and hydropower-related literature, including standards documents."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;仲志余&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"仲志余 is a key author involved in the development of the SL252-2017 standard, contributing significant expertise and knowledge in the field of water resources."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;温续余&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"温续余 is one of the principal authors of the SL252-2017 standard, playing a vital role in shaping its technical contents."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;黄建和&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"黄建和 is a key contributor to the SL252-2017 standard, indicating his expertise in the area of hydrology and engineering."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;洪水标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"洪水标准 are defined criteria for assessing flood risk and management practices, integral to the safety protocols of water conservancy projects."&lt;SEP&gt;"洪水标准 are guidelines or criteria established for designing flood-resistant structures, aiming to ensure safety and durability."&lt;SEP&gt;"洪水标准 are predefined metrics that define the criteria and safety measures for hydraulic structures in flood-prone areas."&lt;SEP&gt;"洪水标准 defines the criteria and guidelines used to assess flood levels and establish safety measures for hydraulic structures."&lt;SEP&gt;"洪水标准 emphasizes the flood safety of buildings, distinguishing it from the concept of flood protection targets."&lt;SEP&gt;"洪水标准 pertains to the established guidelines for flood management to ensure safety in hydraulic structures."&lt;SEP&gt;"洪水标准 refers to specific criteria set forth in the SL252-2017 standard regarding flood protection for water and hydropower projects."&lt;SEP&gt;"洪水标准 refers to the various criteria and regulations established to manage flood risks for different types of dams and reservoirs."&lt;SEP&gt;"洪水标准是指在设计水工建筑物时所依据的水流量标准，影响建筑物的安全级别和设计要求。"&lt;SEP&gt;"洪水标准是指对水工建筑物在洪水情况下的设计和安全标准，以预防和减轻洪水带来的损失和风险。"</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab&lt;SEP&gt;chunk-9824449f177ca00b6b5703f86fb28184&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1&lt;SEP&gt;chunk-e9ce6345d3b769427c8bdd74e970b59a&lt;SEP&gt;chunk-e372745f34e1e2c823734d821f8621ff&lt;SEP&gt;chunk-1d0ed995a8b9beceb1bea66fa49b1199&lt;SEP&gt;chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062&lt;SEP&gt;chunk-a8145e85b171a95242bbfdcd2ecac035&lt;SEP&gt;chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;水利水电工程等别&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水利水电工程等别 denotes the classification of water conservancy and hydropower engineering projects, aiming to standardize practices and responsibilities."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;洪水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水 refers to a natural disaster that involves the overflow of water onto normally dry land, which requires specific management procedures and standards."&lt;SEP&gt;"洪水 refers to occurrences of water overflow that affect water management projects, necessitating standards for protection and classification."&lt;SEP&gt;"洪水 refers to significant water flow events that can overwhelm structures such as dams, influencing engineering standards and reservoir design."&lt;SEP&gt;"洪水是指水量急剧增加，可能导致淹没陆地，并对人类活动造成影响的自然现象。"&lt;SEP&gt;"洪水是指河流或水体的水位超过了其常规水平时发生的自然现象，可能对周围环境和建筑物造成严重影响。"</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062&lt;SEP&gt;chunk-1ce49e7fb33aa7466b81ae203b8fc77e&lt;SEP&gt;chunk-c21ded03d842b553be2c2daf29199dcc&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;河闸&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"河闸 refers to barriers used in river management to control water flow, significant in flood management and engineering."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;灌溉工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"灌溉工程 encompasses irrigation projects designed for agricultural purposes, included within the standards of water engineering."&lt;SEP&gt;"灌溉工程 involves irrigation works aimed at providing water supply for agricultural activities and crop production."&lt;SEP&gt;"灌溉工程 involves systems and practices aimed at supplying water to agricultural lands, playing a vital role in food production and economic stability."&lt;SEP&gt;"灌溉工程是用于供给农田水源的基础设施，确保农业生产的水利需求。"</data>
+      <data key="d2">chunk-e372745f34e1e2c823734d821f8621ff&lt;SEP&gt;chunk-1b2c62801afb2a55c5355d791801cf6b&lt;SEP&gt;chunk-e9ce6345d3b769427c8bdd74e970b59a&lt;SEP&gt;chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;排水泵站&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"排水泵站 refers to drainage stations that manage excess water in various projects, ensuring effective water management."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;水电站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水电站 denotes facilities that generate electricity through hydropower, playing a crucial role in energy supply and efficiency."&lt;SEP&gt;"水电站 refers to hydropower stations involved in water management and energy production related to flood control."&lt;SEP&gt;"水电站 refers to hydropower stations responsible for generating electricity through water flow, significant in energy resource management."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1&lt;SEP&gt;chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;水工建筑物级别&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水工建筑物级别 indicates the classification levels assigned to hydraulic structures, influencing design and regulatory practices."&lt;SEP&gt;"水工建筑物级别是指根据建筑物的功能和抗洪能力划分的等级。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062&lt;SEP&gt;chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;水电工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水电工程 includes projects and construction related to hydropower generation, critical in managing water resources."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;防洪工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防洪工程 refers to flood control projects that are part of the broader category of water conservancy and hydropower initiatives, aimed at protecting populations and infrastructure from flooding."&lt;SEP&gt;"防洪工程 refers to flood control projects that are subject to specific hydraulic standards to ensure safety and efficiency in flood prevention."&lt;SEP&gt;"防洪工程 refers to flood prevention projects that aim to mitigate the impact of flood events on infrastructure and communities."&lt;SEP&gt;"防洪工程 refers to flood prevention works designed to protect areas from flooding and manage water levels effectively."&lt;SEP&gt;"防洪工程包括堤防和其他设施，旨在保护区域免受洪水影响，其建筑物级别依赖于防洪规划。"&lt;SEP&gt;"防洪工程包括多种设施，如防洪水库和堤防，旨在保护对象的防洪安全。"&lt;SEP&gt;"防洪工程是为防止洪水造成损害而设计和建造的基础设施，其级别由特定的防洪规划规定。"</data>
+      <data key="d2">chunk-78ef36634efc89b05bdd65790017f854&lt;SEP&gt;chunk-e9ce6345d3b769427c8bdd74e970b59a&lt;SEP&gt;chunk-e372745f34e1e2c823734d821f8621ff&lt;SEP&gt;chunk-1d0ed995a8b9beceb1bea66fa49b1199&lt;SEP&gt;chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-c8ae07389ecaf3f6954e36ac28c0ba5d&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;北京西城区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"北京西城区 is a district in Beijing, referenced as the communication address for the Water Resources Ministry, showing its administrative relevance."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </node>
+    <node id="&quot;国际合作与科技司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"国际合作与科技司 within the Water Resources Ministry is responsible for international relations and technological development related to water management."</data>
+      <data key="d2">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </node>
+    <node id="&quot;水利水电工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利水电工程 encompasses all hydraulic and hydroelectric projects which are governed by certain flood standards to protect both infrastructure and communities."&lt;SEP&gt;"水利水电工程 encompasses water conservancy and hydropower projects that involve various water-related infrastructure and activities."&lt;SEP&gt;"水利水电工程 refers to the broader category of hydraulic engineering projects, which includes flood control, irrigation, and hydropower generation."&lt;SEP&gt;"水利水电工程 refers to various water conservancy and hydropower projects that serve multiple functions such as flood control, irrigation, and power generation."&lt;SEP&gt;"水利水电工程 refers to water resources and hydropower projects classified according to their scale, benefits, and importance in the economy and society."&lt;SEP&gt;"水利水电工程是指综合利用水资源与水能的建设项目，包括多种功能的水工建筑物，如水库和水电站。"</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab&lt;SEP&gt;chunk-e9ce6345d3b769427c8bdd74e970b59a&lt;SEP&gt;chunk-e372745f34e1e2c823734d821f8621ff&lt;SEP&gt;chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-e87c6513c9d72c3747613c15ff4e1a25&lt;SEP&gt;chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;PERMANENT HYDRAULIC STRUCTURES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Permanent Hydraulic Structures encompass all long-lasting structures built for water conservation and hydropower, subject to rigorous safety evaluations."&lt;SEP&gt;"Permanent Hydraulic Structures encompass various types of engineering constructs designed to control water flow and manage flood risks over the long term."&lt;SEP&gt;"Permanent Hydraulic Structures refer to hydraulic structures designed for long-term use in water conservancy projects, emphasizing their importance in engineering."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a&lt;SEP&gt;chunk-bfcf25b84ccd01cf5df7ce5a47498020&lt;SEP&gt;chunk-e372745f34e1e2c823734d821f8621ff</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;TEMPORARY HYDRAULIC STRUCTURES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Temporary Hydraulic Structures are used only during the construction or maintenance period of engineering projects, highlighting their transitional nature."</data>
+      <data key="d2">chunk-e372745f34e1e2c823734d821f8621ff</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;FLOOD PROTECTION CRITERIA&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Flood Protection Criteria define the standards necessary to protect hydraulic structures from floods, ensuring safety and functionality."</data>
+      <data key="d2">chunk-e372745f34e1e2c823734d821f8621ff</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;HYDRAULIC STRUCTURES GRADE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Hydraulic Structures Grade refers to the classification of hydraulic structures based on their importance and function within a project."</data>
+      <data key="d2">chunk-e372745f34e1e2c823734d821f8621ff</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;拦河闸&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"拦河闸 refers to a type of dam or levee built to control river flow, highlighting its importance in flood management."&lt;SEP&gt;"拦河闸 refers to a type of hydraulic structure aimed at controlling river flow and managing water resources as part of water conservancy engineering."&lt;SEP&gt;"拦河闸是用于控制河流流量的永久性水工建筑物，其级别根据所属工程的等别进行确定。"&lt;SEP&gt;"拦河闸是重要的水工建筑物，属于某个工程系统中的一部分，与其他建筑物合作以发挥功能，其安全级别与所属工程的等级相关。"</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184&lt;SEP&gt;chunk-78ef36634efc89b05bdd65790017f854&lt;SEP&gt;chunk-c8ae07389ecaf3f6954e36ac28c0ba5d&lt;SEP&gt;chunk-e372745f34e1e2c823734d821f8621ff</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;治涝工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"治涝工程 encompasses engineering interventions designed to manage and alleviate flooding, contributing to the overall safety and functionality of regions vulnerable to water-related issues."&lt;SEP&gt;"治涝工程 focuses on flood drainage and water management to prevent waterlogging and enhance land usability."&lt;SEP&gt;"治涝工程 includes projects specifically aimed at flood control and management, incorporating various hydraulic standards."&lt;SEP&gt;"治涝工程 refers to flood control projects that manage excess water and are evaluated based on various technical indicators."&lt;SEP&gt;"治涝工程是为解决积水问题而设计的水工建筑设施，确保在降雨等情况下减少洪水影响。"&lt;SEP&gt;"治涝工程是设计用于排水与灌溉的水利设施，确保在水灾和干旱条件下的水安全管理。"</data>
+      <data key="d2">chunk-e9ce6345d3b769427c8bdd74e970b59a&lt;SEP&gt;chunk-e372745f34e1e2c823734d821f8621ff&lt;SEP&gt;chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-1b2c62801afb2a55c5355d791801cf6b&lt;SEP&gt;chunk-c21ded03d842b553be2c2daf29199dcc&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;供水工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"供水工程 encompasses projects designed to provide water supply for towns, industries, and agricultural lands, categorized based on importance and water volume."&lt;SEP&gt;"供水工程 encompasses water supply projects designed to deliver potable water to communities and industries."&lt;SEP&gt;"供水工程 includes infrastructure projects focused on providing water supply for residential and industrial use, crucial for urban and rural development."&lt;SEP&gt;"供水工程 refers to water supply projects that incorporate flood standards to ensure safety and efficiency in water delivery."&lt;SEP&gt;"供水工程是指为城市和城镇提供主要供水任务的基础设施项目，确保供水系统的有效性与安全性。"</data>
+      <data key="d2">chunk-e9ce6345d3b769427c8bdd74e970b59a&lt;SEP&gt;chunk-e372745f34e1e2c823734d821f8621ff&lt;SEP&gt;chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-1b2c62801afb2a55c5355d791801cf6b&lt;SEP&gt;chunk-c21ded03d842b553be2c2daf29199dcc</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;固定建筑物&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"固定建筑物 refers to the category of permanent structures within hydraulic engineering that are essential for long-term operation and safety."</data>
+      <data key="d2">chunk-e372745f34e1e2c823734d821f8621ff</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;安全区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"安全区指用于保护人口和财产不受洪水影响的区域，其级别依据防洪规划确定。"&lt;SEP&gt;"安全区是指为保护人口和财产而设立的区域，其堤防级别根据安置人口数量和设计流量进行划分。"</data>
+      <data key="d2">chunk-1b2c62801afb2a55c5355d791801cf6b&lt;SEP&gt;chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;蓄滞洪区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"蓄滞洪区是用于洪水调控的区域，能够在洪水期间储存多余水量，降低对下游的影响。"</data>
+      <data key="d2">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;永久性水工建筑物&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"永久性水工建筑物 are hydraulic structures that are used long-term during the operation of water projects and are divided into major and minor buildings based on their significance."&lt;SEP&gt;"永久性水工建筑物 includes permanent hydraulic structures designed to withstand specific flood conditions and serve various purposes in water management."&lt;SEP&gt;"永久性水工建筑物指在水利水电工程中使用的长期结构，而其级别根据功能和规模确定。"&lt;SEP&gt;"永久性水工建筑物是为了长久使用而设计的水利设施，具有相对稳定和可靠的结构。"&lt;SEP&gt;"永久性水工建筑物是指用于长期水利目的修建的设施，相对稳定，不易更改。"</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab&lt;SEP&gt;chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-1b2c62801afb2a55c5355d791801cf6b&lt;SEP&gt;chunk-c8ae07389ecaf3f6954e36ac28c0ba5d&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;水库&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水库是储存水资源的人工湖泊，通常与大坝相结合，用于水资源管理、发电和洪水控制。"&lt;SEP&gt;"水库是用于蓄水和调节水流的基础设施，其级别设计依据高度和重要性。"</data>
+      <data key="d2">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d&lt;SEP&gt;chunk-78ef36634efc89b05bdd65790017f854</data>
+    </node>
+    <node id="&quot;水坝&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水坝是重要的水工建筑物，用于储存和调节水流，其设计标准需根据结构高度进行审核。"</data>
+      <data key="d2">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </node>
+    <node id="&quot;河道整治工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"河道整治工程旨在改善河流的流动状态与防洪能力，其级别与堤防标准有关。"</data>
+      <data key="d2">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </node>
+    <node id="&quot;流域防洪规划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域防洪规划 involves flood management strategies and planning for specific river basins, guiding actions and interventions."&lt;SEP&gt;"流域防洪规划是为某一流域的洪水防御制定的战略，涵盖防洪措施和工程创造。"&lt;SEP&gt;"流域防洪规划是针对特定区域制定的防洪措施，包括对永久性水工建筑物的管理和设计要求。"</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-c8ae07389ecaf3f6954e36ac28c0ba5d&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;流量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流量 refers to the volume of water flow, a key parameter in assessing the operational ability of water engineering structures."&lt;SEP&gt;"流量是指单位时间内通过某一点的水量，常用于评估水工建筑物的能力与安全性。"</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25&lt;SEP&gt;chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </node>
+    <node id="&quot;堤防&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"堤防 are embankments created to hold back water and protect land from flooding."&lt;SEP&gt;"堤防 refers to levees or dikes built to protect against flooding and control water flow in various terrains."&lt;SEP&gt;"堤防是用于防止洪水侵袭的建筑物，具有保护特定区域的功能。"&lt;SEP&gt;"堤防是防止洪水对土地和建筑物造成损害的结构，至关重要于洪水控制和管理。"&lt;SEP&gt;"堤防是防洪工程中的关键结构，旨在阻止洪水入侵周边地区，其级别由设计标准确定。"</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062&lt;SEP&gt;chunk-c8ae07389ecaf3f6954e36ac28c0ba5d&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;设计标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设计标准是用于指导水工建筑物的制造和建设的规范，确保其安全和功能。"</data>
+      <data key="d2">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </node>
+    <node id="&quot;主管部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"主管部门 indicates the upper management or governing bodies responsible for approving and overseeing standards and practices in large-scale engineering projects."&lt;SEP&gt;"主管部门 refers to the governing bodies that supervise and approve standards in hydraulic engineering."&lt;SEP&gt;"主管部门是负责审批水工建筑物设计和建筑的机构，确保符合相关标准和法律。"</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1&lt;SEP&gt;chunk-e9ce6345d3b769427c8bdd74e970b59a&lt;SEP&gt;chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </node>
+    <node id="&quot;FLOOD CONTROL PLANNING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Flood Control Planning refers to the processes and methodologies established to manage and mitigate flooding risks through strategic planning and engineering."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;IRRIGATION ENGINEERING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Irrigation Engineering pertains to the design and implementation of systems for agricultural irrigation, ensuring efficient water distribution and management."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;WATER SUPPLY ENGINEERING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Water Supply Engineering involves designing infrastructure for the distribution of water to communities, ensuring access to clean and adequate water."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;EMERGENCY STRUCTURES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Emergency Structures are temporary water management constructs used during critical periods, requiring careful assessment based on specific criteria."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;DESIGN FLOW&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Design Flow is the anticipated volume of water that a hydraulic structure is designed to manage, influencing classifications and standards."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;FLOOD CONTROL STANDARDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Flood Control Standards refer to the guidelines and regulations that dictate the design and safety requirements for flood management structures and systems."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;FLOOD STORAGE AREAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Flood Storage Areas are designated regions that are established to temporarily hold excess water during flooding events to reduce the impact on surrounding areas."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;DRAINAGE ENGINEERING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Drainage Engineering involves the design and management of systems to remove excess water from land, preventing flooding and waterlogging."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;PUMPING STATIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Pumping Stations are facilities equipped with pumps that move water from one location to another, often used in flood control and irrigation processes."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;FLOOD MITIGATION STRATEGIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Flood Mitigation Strategies are proactive methods and practices aimed at reducing or preventing the impact of flooding on communities and infrastructure."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;WATERWAY DESIGN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Waterway Design refers to the planning and construction of channels for water flow to manage both natural and artificial water systems."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;HYDRAULIC STRUCTURE LEVELS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Hydraulic Structure Levels define the classification and rating of water management structures based on their design specifications and potential impacts."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;TEMPORARY FLOOD BARRIERS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Temporary Flood Barriers are structures made to protect areas from flooding during emergencies, designed to be quickly deployed and removed."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;DESIGN FLOW CHARTS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Design Flow Charts are visual tools used to guide the planning and design phases of hydraulic structures based on anticipated water flow conditions."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;FLOOD PUMP SYSTEMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Flood Pump Systems are infrastructure designed specifically for removing water from flooded areas, often comprising a network of pumps and drainage channels."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;HYDRAULIC ENGINEERING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hydraulic Engineering is the field of engineering concerned with the flow and conveyance of fluids, particularly water, as it relates to flood management and control."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;FLOOD RISK ASSESSMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Flood Risk Assessment is the process of evaluating the potential risks and impacts of flooding on a specific area or infrastructure."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;RESERVOIR DESIGN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Reservoir Design involves the planning and engineering of storage facilities aimed at managing water supply and mitigating flood risks."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;CIVIL ENGINEERING STANDARDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Civil Engineering Standards are sets of guidelines that dictate acceptable practices and requirements for construction and infrastructure development including flood management."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;STRUCTURAL SAFETY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Structural Safety pertains to the measures and standards ensuring that structures can withstand flood impacts without failure or significant damage."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;FLOOD EVENT DATA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Flood Event Data is collected information regarding past flooding incidents used to improve future flood management strategies and infrastructure design."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;RAINFALL INTENSITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Rainfall Intensity refers to the rate at which rain falls, which is a crucial factor in determining flood risk and the design of drainage systems."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;EMERGENCY RESPONSE PLANS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Emergency Response Plans are structured protocols for managing responses to flooding emergencies, ensuring prompt and effective action."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;WATER MANAGEMENT POLICIES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Water Management Policies are regulations and guidelines governing the use, conservation, and management of water resources to mitigate flooding."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;FLOODPLAIN MANAGEMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Floodplain Management refers to strategic planning and regulations aimed at reducing the impact of flooding on communities situated within flood-prone areas."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;HYDROLOGICAL STUDIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hydrological Studies involve the analysis of the movement, distribution, and quality of water in relation to the forecasting and management of flood risks."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;STORMWATER MANAGEMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Stormwater Management pertains to practices and strategies designed to control and manage runoff water from rainfall events to prevent flooding."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;WEATHER PATTERNS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Weather Patterns are the recurring characteristics of weather conditions over time, which play a significant role in predicting potential flooding events."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;FLOOD CONTROL INFRASTRUCTURE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Flood Control Infrastructure refers to the systems and structures built to prevent, manage, and control flooding events."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;FLOOD CLASSIFICATION LEVELS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Flood Classification Levels categorize different degrees of flood risk based on expected severity and frequency, informing planning and response initiatives."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;NATURAL WATERWAYS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Natural Waterways are rivers, streams, and other natural bodies of water that play a critical role in water flow and flood dynamics."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;FLOODPLAIN RESTORATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Floodplain Restoration involves efforts to restore and rehabilitate floodplains to improve natural flood management and ecological health."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;WATER QUALITY STANDARDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Water Quality Standards set the acceptable limits for various pollutants in water sources, which is essential during flood management to protect public health."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;SOIL SATURATION RATES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Soil Saturation Rates measure the amount of water that soil can hold before excess water contributes to runoff, playing a crucial role in flood predictions."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;FLOOD INSURANCE PROGRAMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Flood Insurance Programs are initiatives designed to provide coverage against losses from flooding, encouraging mitigation practices among property owners."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;DISASTER PREPAREDNESS FRAMEWORKS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Disaster Preparedness Frameworks outline strategies and protocols for efficiently managing and responding to flood-related disasters."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;COASTAL EROSION MANAGEMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Coastal Erosion Management involves strategies to combat the gradual loss of coastal land, often exacerbated by flooding and storms."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;WETLAND RESTORATION INITIATIVES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Wetland Restoration Initiatives focus on rehabilitating wetlands to enhance their natural ability to absorb floodwaters and provide biodiversity benefits."</data>
+      <data key="d2">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </node>
+    <node id="&quot;滨海区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"滨海区 is a coastal area subject to specific flood standards that pertain to hydraulic structures and flood management."&lt;SEP&gt;"滨海区 is a geographical area mentioned in the context of water reservoir engineering standards and flood management."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;山区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"山区 refers to mountainous regions where specific engineering flood standards are applied to permanent hydraulic structures."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;丘陵区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"丘陵区 denotes hilly areas also subject to particular standards in the design of permanent hydraulic constructions."&lt;SEP&gt;"丘陵区 refers to hilly regions that also contain water reservoir engineering projects."</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;水库工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水库工程 refers to reservoir engineering projects aimed at flood management and water resource planning."&lt;SEP&gt;"水库工程 refers to the construction and management of reservoirs, which includes measures for flood control."&lt;SEP&gt;"水库工程是指建设和管理水库的相关活动，包括对洪水控制的标准制定以及相关建筑物的设计和维护。"</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;永久性挡水建筑物&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"永久性挡水建筑物 refers to permanent barriers constructed to manage water flow and prevent flooding in reservoir engineering."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;土石坝&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"土石坝 refers to an earth-rock dam, which has different standards compared to concrete dams."&lt;SEP&gt;"土石坝 refers to earth-rock dams used in the construction of hydraulic projects, offering a specific flood management standard."&lt;SEP&gt;"土石坝 refers to earth-rock dams, a type of dam construction highlighted in various flood standards."</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1&lt;SEP&gt;chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;混凝土坝&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"混凝土坝 refers to a type of dam made of concrete, recognized for strength against overflowing floods."&lt;SEP&gt;"混凝土坝 refers to concrete dams, another dam construction method addressed in flood control standards."&lt;SEP&gt;"混凝土坝 signifies concrete dams that play a crucial role in the design and flood standard management of hydraulic structures."&lt;SEP&gt;"混凝土坝是一种常见的水坝结构，具有一定的抗洪能力，适用于多种地形条件。"</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062&lt;SEP&gt;chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;消能防冲洪水标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"消能防冲洪水标准 covers the standards for energy dissipation and erosion control in flood management systems."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;下游&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"下游 indicates the downstream areas that can be impacted by flooding from upper reservoir structures."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;泄水建筑物&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"泄水建筑物 are designed to control the release of water from a dam or reservoir to ensure safety during high water events."&lt;SEP&gt;"泄水建筑物 includes structures designed to release excess water to minimize flood risks in reservoirs."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;重现期10000年&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"重现期10000年 represents a standard for planning flood management based on a theoretical occurrence interval of once every ten thousand years."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;坝体&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"坝体 denotes the structure of a dam itself, vital for the management of water storage and flood control."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;导流泄水建筑物&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"导流泄水建筑物 is an infrastructure involved in flood management, particularly aimed at directing and discharging excess water during flood situations."&lt;SEP&gt;"导流泄水建筑物 refers to structures that manage the flow and release of water from reservoirs."&lt;SEP&gt;"导流泄水建筑物是用于控制水流和排泄水体的设施，在洪水管理中扮演关键角色。"</data>
+      <data key="d2">chunk-1ce49e7fb33aa7466b81ae203b8fc77e&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;临时性挡水建筑物&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"临时性挡水建筑物 represents temporary barriers erected during construction processes to manage water effectively."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;开关站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"开关站 refers to stations that control the electrical flow in hydropower plants, integrated with flood management systems."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;专项论证&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"专项论证 involves specialized assessments conducted to approve or adjust hydraulic engineering standards."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;项目标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"项目标准 refers to the specific project standards established for flood prevention and water management in reservoir engineering."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;安全裕度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全裕度 indicates the safety margin included in flood management designs to account for unforeseen events."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;工程运行&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程运行 denotes the operational aspects of hydraulic infrastructure aimed at effective flood management."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;潮汐河口段&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"潮汐河口段 refers to the tidal estuary section that is crucial for flood management and hydraulic engineering in coastal areas."&lt;SEP&gt;"潮汐河口段 refers to tidal river estuaries, which require specific standards for managing floodwaters."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;堤防、渠道上的闸、涵、泵站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"堤防、渠道上的闸、涵、泵站 includes various control structures that regulate water flow and levels in flood management."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;设计洪水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设计洪水 refers to the flood scenarios considered during the planning phase of hydraulic structures."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;校核洪水标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"校核洪水标准 signifies the validation standards applied to ensure structures can handle anticipated flood scenarios."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;混合坝型&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"混合坝型 indicates a type of dam composed of multiple materials, impacting hydraulic standards."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;封堵期间&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"封堵期间 refers to the time during which water flow is temporarily blocked as part of reservoir management practices."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;大坝施工高程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"大坝施工高程 specifies the construction elevation of a dam, which influences flood management standards."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;洪水漫顶&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水漫顶 describes a flood scenario where water overtops a dam, causing significant risk."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;局部破坏&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"局部破坏 refers to localized damage that can occur during extreme flood events but does not compromise overall structural integrity."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;影响评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"影响评估 involves assessing the potential impacts of flood management practices on surrounding environments."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;设计泄洪能力&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设计泄洪能力 specifies the capacity of a hydraulic structure to release water safely during flood events."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;上游&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"上游 refers to areas upstream that affect flood dynamics and management responses."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;技术标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术标准 encompasses the technical guidelines governing hydraulic engineering practices."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;环境影响&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境影响 pertains to the broader ecological and social repercussions of water management practices."</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </node>
+    <node id="&quot;风险管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"风险管理 highlights the strategies employed to minimize the adverse outcomes of flooding events."&lt;SEP&gt;"风险管理是指为了减少失事带来的后果而采取的一系列措施和方法。"</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;气候变化&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"气候变化 reflects the larger environmental changes that can affect water management and flood standards."&lt;SEP&gt;"气候变化指的是气候现象的长期变化，对水资源和洪水管理有直接影响。"</data>
+      <data key="d2">chunk-2092e0eba7ebae989b1cc049f45d82e1&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;长江水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"长江水利委员会 is a significant organization responsible for water management and planning in the Yangtze River area, contributing to standards in hydraulic engineering."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;徐麟祥&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"徐麟祥 is one of the main authors of the hydraulic engineering standard and plays a key role in its development and revision."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;陈鉴&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陈鉴 is a noted contributor to the hydraulic engineering standard, involved in drafting essential guidelines for water-related projects."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;王忠法&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王忠法 is facilitated the creation and organization of the hydraulic engineering standard, ensuring its relevance to current practices."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 20}]</data>
+    </node>
+    <node id="&quot;魏山忠&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"魏山忠 contributes to the drafting of the hydraulic engineering standard, emphasizing practical applications for water management."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </node>
+    <node id="&quot;临时性水工建筑物&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"临时性水工建筑物 are structures that serve temporary purposes during the construction or maintenance of permanent water structures."&lt;SEP&gt;"临时性水工建筑物 refers to temporary hydraulic structures that must adhere to different flood standards based on their intended use and location."&lt;SEP&gt;"临时性水工建筑物是在施工期间使用的水工设施，用于防水和导流，确保施工安全。"&lt;SEP&gt;"临时性水工建筑物是指为应对特定情况而建造的浮动设施，其使用期限较短。"&lt;SEP&gt;"临时性水工建筑物是指在特定情况下建立的水工建筑物，主要用于挡水、发电或通航，其级别和设计根据工程需要进行调整。"</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab&lt;SEP&gt;chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-1b2c62801afb2a55c5355d791801cf6b&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;防洪标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防洪标准 are flood control standards that guide the design and implementation of flood prevention measures in various regions."&lt;SEP&gt;"防洪标准是用于指导和规范水工建筑物在抗洪能力方面的设计标准。"&lt;SEP&gt;"防洪标准是针对特定防洪措施和设施设定的规范与要求。"</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;安全区堤防&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全区堤防 are protective embankments designed to safeguard safety zones against flood waters according to set standards."&lt;SEP&gt;"安全区堤防是用于保护人口的防洪结构，其级别根据人口安置情况及规划而确定。"</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-78ef36634efc89b05bdd65790017f854</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;排水工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"排水工程 comprises drainage projects designed following flood management standards for effective water removal."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </node>
+    <node id="&quot;泵站&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"泵站 refers to pump stations that are crucial in hydraulic engineering for managing water flow and must adhere to flood standards."&lt;SEP&gt;"泵站是水利工程中的重要组成部分，负责水的抽取和输送，确保水资源的供给和调配。"</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;建筑物级别&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"建筑物级别 establishes the classification system for hydraulic structures based on their design and safety requirements."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </node>
+    <node id="&quot;结构类型&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"结构类型 pertains to the type of structure being designed, which can affect the flood management standards applied."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </node>
+    <node id="&quot;历史最高潮水位&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"历史最高潮水位 refers to the maximum recorded flood level in history, serving as a benchmark for engineering standards."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </node>
+    <node id="&quot;流域&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"流域 refers to the geographical area contributing to the watershed, important for planning flood management and water use."&lt;SEP&gt;"流域是指水流集中并形成特定水文特征的区域，在水坝和防洪工程的设计中起着关键角色。"&lt;SEP&gt;"流域是指河流及其支流所汇集的区域，通常用于水资源管理和洪水规划。"</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d&lt;SEP&gt;chunk-78ef36634efc89b05bdd65790017f854</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;防洪体系&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防洪体系 represents the integrated system of flood control measures implemented to achieve designated safety standards."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;施工期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工期 denotes the construction period during which flood standards must be applied to temporary structures."&lt;SEP&gt;"施工期 refers to the construction period during which flood management measures are implemented and evaluated."&lt;SEP&gt;"施工期是指水利水电工程建设的过程，在此期间可能会采用临时性水工建筑物来防控水流。"</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184&lt;SEP&gt;chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;标准用词说明&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标准用词说明 provides an explanation of the terms and classifications used within hydraulic engineering standards."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </node>
+    <node id="&quot;标准历次版本编写者信息&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标准历次版本编写者信息 outlines the contributors and authors responsible for the development of the hydraulic standards over time."</data>
+      <data key="d2">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </node>
+    <node id="&quot;海河流域&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"海河流域 is a geographic area that encompasses various aspects of water management, including reservoir locations and their impact on regional safety and economy."</data>
+      <data key="d2">chunk-e9ce6345d3b769427c8bdd74e970b59a</data>
+    </node>
+    <node id="&quot;三峡工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"三峡工程 is a major hydropower project in China, significant for its scale and the flood control measures it provides, with associated safety standards that exceed typical requirements."&lt;SEP&gt;"三峡工程是中国一个重要的水利发电项目，包含了对长江流域的综合治理和水资源的有效利用。"</data>
+      <data key="d2">chunk-e9ce6345d3b769427c8bdd74e970b59a&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;发电工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"发电工程 refers to power generation projects that utilize water resources, particularly in the context of hydropower, to create electricity."</data>
+      <data key="d2">chunk-e9ce6345d3b769427c8bdd74e970b59a</data>
+    </node>
+    <node id="&quot;水工建筑物&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水工建筑物 are engineered structures used in water management projects, such as dams, sluices, and reservoirs, essential for the functioning of various water conservancy projects."&lt;SEP&gt;"水工建筑物 refers to hydraulic structures essential for water resource management, categorized as either permanent or temporary based on their usage and significance."&lt;SEP&gt;"水工建筑物是指用于水资源调控、洪水防治和发电的各种建筑结构。"</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab&lt;SEP&gt;chunk-e9ce6345d3b769427c8bdd74e970b59a&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;国家经济政策&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"国家经济政策 constitutes governmental economic strategies guiding actions related to infrastructure development and resource management within the country."</data>
+      <data key="d2">chunk-e9ce6345d3b769427c8bdd74e970b59a</data>
+    </node>
+    <node id="&quot;技术政策&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"技术政策 refers to the guidelines and directives that shape technological advancements and applications in engineering and infrastructure projects."</data>
+      <data key="d2">chunk-e9ce6345d3b769427c8bdd74e970b59a</data>
+    </node>
+    <node id="&quot;经济社会发展水平&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"经济社会发展水平 reflects the state of economic and social growth in a given area, influencing water management standards and policies."</data>
+      <data key="d2">chunk-e9ce6345d3b769427c8bdd74e970b59a</data>
+    </node>
+    <node id="&quot;当量经济规模&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"当量经济规模 is an economic indicator reflecting the relative economic scale of a protection area based on per capita GDP and population size."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;库容指标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"库容指标 refers to the storage capacity standards for hydropower projects, established for flood safety assessment."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;GB50201—2014&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GB50201—2014 is a revised standard that adjusts flood protection and water supply indicators for hydropower projects in China."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;主要建筑物&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"主要建筑物 refers to significant permanent hydraulic structures whose failure can lead to downstream disasters or severe impacts on project effectiveness."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;次要建筑物&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"次要建筑物 refers to less critical permanent hydraulic structures that, when failing, do not cause downstream disasters and are easier to restore."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;水利部水利水电规划设计总院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部水利水电规划设计总院 is a governmental institution responsible for planning and designing water conservancy and hydropower projects in China."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;20世纪70年代&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"20世纪70年代 marks a significant period of economic reform in China that influenced water resource management practices."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;工程统计管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程统计管理 refers to the statistical management of engineering projects to ensure consistency in hydro-engineering assessments."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;灾害&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"灾害 refers to catastrophic events, particularly those related to failures in hydraulic structures affecting downstream areas."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;失事的大坝&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"失事的大坝 refers to the incidents of dam failures that occurred in China between 1954 and 1980, highlighting issues in construction quality and flood calculations."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;发电建筑物&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"发电建筑物 are the facilities within hydropower projects specifically designed for electricity generation."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;挡水建筑物&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"挡水建筑物 are structures created to block water flow, essential for managing water levels and safety in hydraulic projects."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;引(取)水建筑物&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"引(取)水建筑物 are systems utilized for diverting or extracting water for use in various applications such as irrigation or power generation."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;消能防冲建筑物&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"消能防冲建筑物 are hydraulic structures designed to dissipate the energy of flowing water and prevent erosion, crucial for dam safety."&lt;SEP&gt;"消能防冲建筑物 are structures built to dissipate energy from rushing water to prevent erosion and damage downstream."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab&lt;SEP&gt;chunk-9824449f177ca00b6b5703f86fb28184</data>
+    </node>
+    <node id="&quot;河道整治建筑物&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"河道整治建筑物 include various structures built for the purpose of river channel management and flood control."</data>
+      <data key="d2">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </node>
+    <node id="&quot;河南板桥水库&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"河南板桥水库 is a large reservoir in China that was completed in 1953, designed based on a 100-year flood recurrence interval but tested against significantly higher flood flows."&lt;SEP&gt;"河南板桥水库 is a location mentioned in the context of dam failure, which caused severe disasters downstream."</data>
+      <data key="d2">chunk-c21ded03d842b553be2c2daf29199dcc&lt;SEP&gt;chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;《水利水电工程设计基本技术规范》&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"《水利水电工程设计基本技术规范》 is a technical standard established in China in 1959 that includes flood control as a separate engineering classification metric."</data>
+      <data key="d2">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;王国安&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王国安 is an author who wrote about reservoir design and flood standards in China, contributing to the discourse on water management."</data>
+      <data key="d2">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </node>
+    <node id="&quot;洪峰流量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"洪峰流量 refers to peak water flow rates during flood events, crucial for designing reservoirs to ensure they can withstand extreme flooding."</data>
+      <data key="d2">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </node>
+    <node id="&quot;工程建设体制和管理体制改革&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程建设体制和管理体制改革 refers to the reforms in engineering and management systems within China that aim to improve the capabilities of large reservoirs."</data>
+      <data key="d2">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </node>
+    <node id="&quot;水文资料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水文资料 refers to hydrological data, which is essential for accurate flood analysis and the design of water management structures."</data>
+      <data key="d2">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </node>
+    <node id="&quot;防洪库容指标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"防洪库容指标 indicates the flood control capacity of a reservoir, defining how much water it can safely hold during flood events."</data>
+      <data key="d2">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </node>
+    <node id="&quot;农田面积防洪指标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"农田面积防洪指标 measures the flood protection needs concerning the farmland in the surrounding areas, affecting the design of flood management systems."</data>
+      <data key="d2">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </node>
+    <node id="&quot;城市防护区和乡村防护区&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"城市防护区和乡村防护区 refer to urban and rural flood protection zones, assessed for flood resilience during the design of water management infrastructure."</data>
+      <data key="d2">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </node>
+    <node id="&quot;常住人口和当量经济规模指标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"常住人口和当量经济规模指标 evaluate the importance of protected areas by measuring resident population and economic scale, influencing flood control standards."</data>
+      <data key="d2">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </node>
+    <node id="&quot;GB50201 — 2014&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GB50201 — 2014 is a standard that governs the design and evaluation criteria for water supply engineering projects, central to the regulations in the document."&lt;SEP&gt;"GB50201 — 2014 is a standard that regulates flood protection levels for urban and rural areas in China, replacing older criteria to better match current needs."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25&lt;SEP&gt;chunk-c21ded03d842b553be2c2daf29199dcc</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;水对象&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水对象 refers to organizations involved in water supply and engineering, responsible for ensuring water distribution and management systems."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;SL430 — 2008&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SL430 — 2008 is a referenced standard that relates to water engineering design guidelines, utilized for adjusting water supply indicators."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;灌排泵站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"灌排泵站 are drainage and irrigation pump stations that play a key role in managing water flow and levels for agricultural and flood control purposes."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;拦河水闸&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"拦河水闸 are dam structures used to manage river flow, playing an integral part in flood control and irrigation."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;水利工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利工程 encompasses projects related to water management, including construction and regulation of water systems for irrigation, flood control, and supply."&lt;SEP&gt;"水利工程是指为了管理水资源而修建的各种工程设施，包括堤防、灌溉系统等。"</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;年引水量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"年引水量 refers to the annual volume of water diverted, which is an essential performance indicator for assessing water supply systems."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;引水流量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"引水流量 is the flow rate of water diverted, a critical metric for the efficacy of water supply projects."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;GB50265 — 2010&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GB50265 — 2010 is a standard which provides guidelines for the design of pump stations, crucial for water management systems."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;工业供水泵站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工业供水泵站 refers to industrial water supply pump stations that provide water resources for manufacturing and industrial processes."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;表4&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"表4 contains specific regulations regarding water supply engineering classes, serving as a guideline for project standards."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;表5&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"表5 focuses on classification criteria and indicators for hydropower stations that reflect advancements in engineering technology."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;表6&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"表6 provides specific rules for the classification of dam-related engineering projects based on their flow capacity."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;表7&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"表7 outlines the classification for irrigation and drainage pump stations based on installed power and flow capacity."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;单项建筑物&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"单项建筑物 refers to individual constructions in water engineering that can be classified independently based on their functions and scales."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;施工规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工规范 are guidelines or standards pertaining to the construction processes within water resource management projects."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;供水对象&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"供水对象 consists of the facilities or units receiving water supply, critical for assessing water distribution effectiveness."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;防洪能力&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防洪能力 describes the capacity of a system to manage and prevent flooding, crucial in water management projects."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;灌溉系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"灌溉系统 refers to irrigation systems designed to enhance agricultural productivity through controlled water supply."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;治涝&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"治涝 refers to the mitigation of waterlogging issues within agricultural or urban settings, integral to water resource management."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;排水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"排水 pertains to systems designed for the removal of excess water, vital for agricultural and urban areas to maintain water balance."</data>
+      <data key="d2">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </node>
+    <node id="&quot;GB50288&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GB50288 is a set of design regulations for irrigation and drainage engineering in China, currently being revised to enhance safety standards."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;WATER CONSERVANCY AND HYDROPOWER ENGINEERING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Water Conservancy and Hydropower Engineering encompasses various constructions and projects aimed at utilizing water resources effectively."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"China is a country notable for its extensive infrastructure projects, including large dams, many of which exceed 200 meters in height."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;YANGTZE RIVER BASIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Yangtze River Basin is a significant geographic area in China that houses many large dam projects, including those exceeding 200 meters in height."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;DAMS OVER 200M&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Dams Over 200m refers to a category of major dam constructions that pose unique safety challenges and concerns due to their height."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;HIGH FILL CHANNELS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"High Fill Channels refer to permanent hydraulic structures with significant challenges in repair and increased design safety standards, specifically those with heights over 15 meters."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;LARGE SPANNING BRIDGES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Large Spanning Bridges are hydraulic structures characterized by spans over 40 meters, requiring special design considerations and classifications."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;HIGH HEAD SIPHONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"High Head Siphons are hydraulic infrastructures that handle water heads exceeding 50 meters, necessitating careful structural evaluation."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;2-3 LEVEL DAMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2-3 Level Dams are categorized based on height and structural safety, with specific criteria for evaluating safety standards."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;EXPERTS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Experts are specialists consulted during the revision process for the GB50288 standard, offering insights and recommendations regarding large dam safety protocols."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;SPECIAL IMPORTANT DAMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Special Important Dams refer to high-stakes dam projects that require tailored evaluations to ensure safety and structural integrity."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;FLOOD STANDARDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Flood Standards pertain to safety regulations concerning the handling and assessment of flooding risks associated with hydraulic structures."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;SAFETY DESIGN STANDARDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Safety Design Standards outline the parameters and criteria employed to ensure safe construction and operation of hydraulic structures."</data>
+      <data key="d2">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </node>
+    <node id="&quot;水电站厂房&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水电站厂房是作为水工建筑物的一部分，承担挡水功能的企业，涉及保障水坝安全与发电功能的复杂工程。"</data>
+      <data key="d2">chunk-78ef36634efc89b05bdd65790017f854</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"标准在此文中指的是关于水工建筑物安全和结构级别的规定与要求，确保建筑物的安全性和功能性。"</data>
+      <data key="d2">chunk-78ef36634efc89b05bdd65790017f854</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;坝&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"坝是作为水工建筑物的核心构件，其高度、设计和安全性对下游区域的安全至关重要。"</data>
+      <data key="d2">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </node>
+    <node id="&quot;溃坝&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"溃坝是指坝体出现破坏，导致大量水流失，可能造成严重的下游灾害与影响。"</data>
+      <data key="d2">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </node>
+    <node id="&quot;工程等别&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程等别是用以划分和确定水工建筑物安全性级别的标准，依据不同的设计要求和实际情况。"</data>
+      <data key="d2">chunk-78ef36634efc89b05bdd65790017f854</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;长江流域&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"长江流域是中国最大的流域之一，其防洪规划和水资源管理对全国水工程建设有重要影响。"</data>
+      <data key="d2">chunk-78ef36634efc89b05bdd65790017f854</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;黄河流域&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"黄河流域是中国第二大流域，对防洪和水资源调配有其独特的规划和要求，是水工建筑设计的重要参考。"</data>
+      <data key="d2">chunk-78ef36634efc89b05bdd65790017f854</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 17}]</data>
+    </node>
+    <node id="&quot;水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部是负责国家水资源管理和水工程建设的主管行政机构，制定相关标准与规定。"</data>
+      <data key="d2">chunk-78ef36634efc89b05bdd65790017f854</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 19}]</data>
+    </node>
+    <node id="&quot;长江三峡水利枢纽&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"长江三峡水利枢纽是一个大型水利工程，特指三峡大坝附近的水利设施，具有重要的发电和航运功能。"&lt;SEP&gt;"长江三峡水利枢纽是一个重要的水利工程项目，涉及水电的开发和管理，通常被视为中国的一个象征性工程。"</data>
+      <data key="d2">chunk-1b2c62801afb2a55c5355d791801cf6b&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;分洪口门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"分洪口门是用于控制洪水流入安全区的水工设施，确保在洪水来袭时降低风险。"</data>
+      <data key="d2">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;水闸&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水闸是水利工程中的重要设施，用于调节水位和控制水流，防止洪水侵害。"</data>
+      <data key="d2">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </node>
+    <node id="&quot;排水渠&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"排水渠是用于将积水排放到安全区域外的水工设施，保障城市水系的安全。"</data>
+      <data key="d2">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </node>
+    <node id="&quot;控制工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"控制工程是设计用来管理洪水和水流的一系列水利建筑，确保水资源的合理利用。"</data>
+      <data key="d2">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </node>
+    <node id="&quot;分洪闸&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"分洪闸是一种防洪设施，用于控制洪水的分流，保护周边地区免受洪涝灾害。"</data>
+      <data key="d2">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </node>
+    <node id="&quot;设计流量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设计流量是指在水工建筑中根据科学数据计算出的，确保设施安全和功能有效的水量标准。"</data>
+      <data key="d2">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </node>
+    <node id="&quot;我国&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"我国 refers to the country being discussed, indicating it has a history of engineering practices in dam construction and flood management."&lt;SEP&gt;"我国指的是中国，是一个具有丰富水资源和复杂地形的国家，有着重要的水利工程建设需求。"</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;山区丘陵区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"山区丘陵区指的是具有复杂地形和独特气候条件的地区，通常与水库和水工建筑物的设计密切相关。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;平原滨海区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"平原滨海区指的是地势较为平坦的地区，该区域在水工建筑物设计中有其特定的洪水标准和应对措施。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;消能防冲工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"消能防冲工程是用于减少水流冲击力和防止水库或其他结构物损坏的工程，主要在洪水发生时发挥作用。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;土坝&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"土坝是一种由土壤构筑的水坝，主要用于蓄水和洪水管理，但在洪水时风险较高。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;堆石坝&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"堆石坝由砾石和土石混合而成，功能类似于土坝，但在设计上考虑了更强的抗洪能力。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;工程标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程标准是指建筑和水工工程设计时所遵循的规范和安全标准，确保工程的有效性和安全性。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;沟渠工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"沟渠工程涉及水流引导和管理，通常用于水资源的分配和洪水控制。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水利工程建设&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利工程建设是指进行水资源管理、分配和洪水防治的工程活动，包括各类水工设施的建造与维护。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;梯级水库&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"梯级水库是指在同一河流上按梯次布置的多个水库，用于水资源管理和防洪。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;安全规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全规范用于指导和确保建造水工建筑物的过程中，减少事故和损失的标准和参数。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;监督部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监督部门负责对水工工程的建设和管理进行审核与监督，确保工程的安全与合规。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;批复&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"批复是指相关主管部门对工程计划或标准进行审核后，给予的正式批准。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;局限性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"局限性是指某一工程或规范在实际应用中可能遇到的限制和条件。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;技术经济论证&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术经济论证是指在工程决策过程中对项目的技术可行性和经济性进行的评估和分析。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;失事&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"失事指的是在水工建筑物出现故障或事故时，可能带来的损失和灾害。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;地质条件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地质条件是指特定区域的土壤、岩石和水文特征，对于水工建筑物的设计有着重要影响。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;影响&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"影响是指某一工程或决策所带来的结果和后果，在水利工程中尤为重要。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;风险&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"风险是指潜在的损失或危险，在水利工程的设计和实施中需要特别注意。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;工程修订&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程修订是指在工程实施过程中，根据实际情况对设计或标准进行的修改。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;洪水特性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"洪水特性指的是与洪水相关的各种因素，例如流量、持续时间等，对水利工程设计有直接影响。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;编制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"编制是指对各种标准和规范的制定过程，确保其适合实际工程的需要。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;审查讨论意见&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"审查讨论意见是指对工程计划或者方案在审核过程中产生的反馈和建议。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;环境影响评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境影响评估是对工程项目可能造成的环境变化和影响进行的系统分析。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;实施方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实施方案是指在项目建设过程中具体的操作步骤和计划，以确保顺利实施。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;工程决策&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程决策是对水工工程建设过程中做出的重要选择，包括设计和建设方向。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;涉及的法律&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"涉及的法律是为了规范水利工程建设和管理所需遵循的法律法规。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;法规&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"法规是规定水利工程建设的法律条款，为工程的实施提供法律保障。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;工法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工法是指在施工过程中使用的技术和方法，直接影响工程的安全和进度。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;规范性文件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"规范性文件是指导水工建筑物建设过程中必须遵循的标准和规定。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;建筑物安全性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"建筑物安全性是指其在正常及极端天气情况下运营的能力，关乎洪水等自然灾害的响应等。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;风险评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"风险评估是对工程可能面临的各种风险进行分析的过程，以减少潜在的损失。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;干砌石坝&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"干砌石坝是一种用石材干砌成的水坝，具有良好的抗洪能力，适用于多种施工环境。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;浆砌石坝&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"浆砌石坝是指用水泥浆和石材结合而成的水坝，具备较高的抗冲击能力。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;生态影响&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"生态影响是指工程实施后对周围生态环境造成的变化，包括生物多样性等。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;城市化&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"城市化是指人类向城市集聚的过程，对水资源的需求和管理造成了重大影响。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;防洪和排水系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"防洪和排水系统是用于应对洪水和管理水资源的综合设施。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水环境保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水环境保护是为了维护水体质量和生态安全所采取的措施和行动。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;市政设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"市政设施是指为城市提供基本服务的各种公共设施，包括排水和供水系统。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;基础设施建设&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"基础设施建设是指为提升城市管理和环境质量所进行的公共设施建设活动。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;公共安全&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"公共安全是指维持社会稳定和保护居民生命财产安全的措施，尤其涉及到洪水和灾害管理。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水体监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水体监测是对水资源情况进行评估和检测的活动，以便及时发现异常。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;灾害应急机制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"灾害应急机制是应对突发事件和洪水等自然灾害的管理体系，确保及时反应和救援。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;公众参与&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"公众参与是指在水工建设和管理决策中，让居民和社区积极表达意见和建议。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;政策支持&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"政策支持是指政府通过法律或财政安排，为水利工程提供必要的资助和保障。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水资源规划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水资源规划是对水资源进行合理配置和使用的过程，以满足社会和经济发展需求。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;科学研究&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"科学研究是对水利工程和环境影响进行深入分析和探索，以提高技术水平和管理效率。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;行业标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"行业标准 refers to the specific standards and regulations governing practices within the engineering and construction industry in China."&lt;SEP&gt;"行业标准是为某个特定领域建立的通用规范，确保工程质量和安全。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062&lt;SEP&gt;chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </node>
+    <node id="&quot;生态恢复&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态恢复是针对水利工程实施后需要进行的环境修复工作，保护自然生态。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;国际合作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"国际合作是指不同国家或区域在水利工程及资源管理维度上的协作与支持。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;农村基础设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"农村基础设施是改善农村水利及生活质量的各种公共设施和服务。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;城市水务&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"城市水务是城市及其周边地区对水资源管理的战略和政策方案。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;公共卫生&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"公共卫生是涉及到水质监控和防止水传播疾病的措施。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;洪水防治&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水防治是通过提前的策划和应对措施来减少洪水带来的潜在损失和风险。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;河流治理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河流治理是通过各种工程和管理手段对河流进行综合管理的活动。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水文监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文监测是对水位、流量等水文数据进行实时采集和分析，以便及时预警。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水资源管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水资源管理是指对水资源进行整合、使用和保护的科学方法和程序。"&lt;SEP&gt;"水资源管理是确保水资源的可持续利用与保护的活动。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d&lt;SEP&gt;chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水利法规&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利法规是指定义水资源管理和水利工程建设的法律和标准。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;淹水风险&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"淹水风险是指由于洪水或其它原因导致土地和建筑物被水淹没的潜在危险。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水利数据&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利数据是对水质、流量及其他水相关参数的记录和分析，为决策提供参考。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;防洪项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防洪项目是实施防止洪水及其影响的具体工程和活动。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水利学习&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利学习是关于水利工程及其管理的学习与研究，以提升专业知识和管理能力。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;应急响应计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"应急响应计划是为应对洪水和其他突发事件而制定的应急行动方案。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水利工程风险&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利工程风险是开展水利工程过程中面临的各种挑战和不确定性。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;集水区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"集水区是指特定区域内的水流汇集的地理区域，对水资源管理至关重要。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水文特征&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水文特征是指影响水流和洪水特性的各种因素，如降水、蒸发等。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;区域规划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"区域规划是对某一地理区域的合理开发和使用的总体设计和安排。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水安全&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水安全是指确保水资源的可获取性和安全性，保障公共健康和生态的要求。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;流域管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域管理是对流域内的水资源进行综合管理的策略与行动。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水生态系统&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水生态系统是由水体及其周围环境相互作用形成的生态环境，提供重要生态服务。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;气候适应策略&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"气候适应策略是应对气候变化影响的措施与计划，包括水资源管理中的应用。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水务法律&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水务法律是专门针对水资源管理、分配与保护的法律法规。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;风暴水流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"风暴水流是指因风暴引发的水流变化，对特定区域的洪水风险产生重要影响。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水利工程评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利工程评估是对水利工程进行的系统性分析与评价。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水资源保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水资源保护是通过各种措施维护水资源质量和数量的努力。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水类项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水类项目是指特定于水资源管理与使用的工程项目。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水务基础设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水务基础设施是支持公共供水、排水和污水处理的建设与管理。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水厂&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水厂是负责水资源处理和供应的重要设施，保障居民用水安全。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;绿地和水体&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"绿地和水体是指城市区域内用于生态保护和居民休闲的重要组成部分。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;生态系统健康&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"生态系统健康是判定生态系统功能强大的衡量指标，包括生物多样性、土壤和水质。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;公众意识&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"公众意识是指对水资源管理和保护的社会认知程度，影响政策的实施。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;水权&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水权是指对于水资源的合法使用和管理权利，是水资源分配的重要依据。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;自然灾害&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"自然灾害是指由自然力量引起的灾害，如洪水、干旱等，影响到社会和环境。"</data>
+      <data key="d2">chunk-b8165b7601962a39797e140b36166062</data>
+    </node>
+    <node id="&quot;SDJ12-78&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SDJ12-78 is a standard enacted in 1978 that outlines the flood control measures and criteria for various types of dams in China."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </node>
+    <node id="&quot;GB50201-94&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GB50201-94 is a standard issued in 1994 that revises the flood control standards for various engineering constructions in China."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </node>
+    <node id="&quot;平原、滨海区水库&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"平原、滨海区水库 refers to reservoirs located in plains and coastal areas, with specific flood standards different from mountainous areas."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;2~5级土石坝&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"2~5级土石坝 refers to a classification of earth-rock dams in terms of their design and flood standards, indicating varying levels of safety and performance."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;1级混凝土坝&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"1级混凝土坝 refers to the highest standard of concrete dams, which has experienced significant changes in flood standards."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;3级混凝土坝&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"3级混凝土坝 is a classification of concrete dams that maintain previous flood standards, indicating stable regulations."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;4~5级混凝土坝&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"4~5级混凝土坝 refers to the concrete dams of lower classification which recently have seen substantial increases in flood standards."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;非常运用洪水&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"非常运用洪水 denotes the extreme flood conditions used to assess the safety and structural integrity of dams."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </node>
+    <node id="&quot;正常运用洪水&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"正常运用洪水 refers to the standard operational flood conditions anticipated during the normal functioning of water structures."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </node>
+    <node id="&quot;设计洪水标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设计洪水标准 pertains to the specified flood criteria established for the design and construction of water control structures."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </node>
+    <node id="&quot;防洪措施&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"防洪措施 encompasses the various strategies and actions taken to mitigate flood risks and protect infrastructure."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </node>
+    <node id="&quot;水利水电工程建设&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利水电工程建设 refers to the construction of hydraulic and hydropower engineering projects, which are subject to strict flood management standards."</data>
+      <data key="d2">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </node>
+    <node id="&quot;平原区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"平原区 refers to a geographical area with typically worse geological conditions for reservoir construction."</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184</data>
+    </node>
+    <node id="&quot;重现期洪水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"重现期洪水 refers to the statistical measure of flood occurrence, indicating the likelihood of a flood event happening within a specified timeframe."</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184</data>
+    </node>
+    <node id="&quot;挡潮闸&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"挡潮闸 refers to tidal barriers that protect areas from storm surges and high tides, essential in coastal flood prevention."</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184</data>
+    </node>
+    <node id="&quot;委主管部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"委主管部门 refers to the regulatory authority responsible for approving flood design standards and engineering practices."</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184</data>
+    </node>
+    <node id="&quot;最大洪水标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"最大洪水标准 represents the highest permissible flood levels that structures are designed to withstand, ensuring safety against extreme events."</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184</data>
+    </node>
+    <node id="&quot;库容&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"库容 refers to the storage capacity of a reservoir, an important factor in flood control and management strategies."</data>
+      <data key="d2">chunk-9824449f177ca00b6b5703f86fb28184</data>
+    </node>
+    <node id="&quot;潮汐河口段水利工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"潮汐河口段水利工程是涉及分析潮汐与江河洪水影响的水利设施，旨在制定潮水标准。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 18}]</data>
+    </node>
+    <node id="&quot;滨海区水利工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"滨海区水利工程主要分析水暴潮及其与天文潮的关系，提出有效的防潮标准。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 18}]</data>
+    </node>
+    <node id="&quot;潮水标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"潮水标准是根据观测站数据制定的，涉及对潮位和洪水的科学分析与计算。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 6}, {"level": 1, "cluster": 18}]</data>
+    </node>
+    <node id="&quot;水暴潮&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水暴潮是由气象和海洋现象引起的异常海水上升，可能导致海岸地区洪水。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;自然高地&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"自然高地是未经过人类工程改造的高地，能够提供天然防洪作用。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;历史最高暴潮水位&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"历史最高暴潮水位是记录到的异常海水上升的最高点，用于评估水利工程的标准。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;区域防洪规划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"区域防洪规划是针对特定区域设定的洪水防控方案，旨在提高抗洪能力。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;安全加高&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全加高是指在设计过程中对结构安全性进行提升，以应对极端水位情况。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;潮位观测站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"潮位观测站是设置在沿海地区，用于监测潮水变化的设施，可以为潮水标准的制定提供数据。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;水暴增水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水暴增水指海面因气象条件的异常升高而发生的水位上升，可能影响沿海地域。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;防潮标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防潮标准是制定以防止潮汐及海洋影响形成的洪水而定的技术规范。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;堤顶高程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"堤顶高程是指堤防的实际高度，关键在于防止洪水漫过堤防造成损失。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;政策层面&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"政策层面涉及政府或管理机构制定的法规与指导方针，影响水利工程的实施与标准。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;工程安全要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程安全要求是指在建设水利设施过程中必须遵循的安全标准与规范。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;应急预案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"应急预案 refers to emergency plans that are established to manage situations during floods and other disasters, ensuring preparedness and response."&lt;SEP&gt;"应急预案是指在面临突发洪水等紧急情况时，为保护安全而制定的预防或应对方案。"</data>
+      <data key="d2">chunk-1ce49e7fb33aa7466b81ae203b8fc77e&lt;SEP&gt;chunk-deba001ecf882de356e2be6281abc13d</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;设计水位&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设计水位是指在水利工程设计中，根据预设条件确定的水位标准。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;校核洪(潮)水位&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"校核洪(潮)水位是为验证水利设施抗洪能力而设定的水位标准。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;流域防洪能力要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域防洪能力要求是为某一流域内员所需具备的防洪能力标准。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;流域防洪规划要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域防洪规划要求是指在设计和建设水利设施时需遵循的规划条款。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;超标准洪水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"超标准洪水是指超过预期或设计标准的洪水，通常造成更大的损失和影响。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;特殊重要工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"特殊重要工程是指在特定情况下承担重要防洪任务的水利设施。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;历史最高潮位&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"历史最高潮位是指历史记录中的最高海水位，是防潮标准的一个参考值。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;工程设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程设施是包括各种水利作品的总称，涵盖不同类型的水利工程，如堤防、灌溉系统。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;气象条件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"气象条件是指天气状况及相关现象，可能对水位变化和洪水形成产生影响。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;监测技术&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"监测技术是指用于观测和分析水位变化的技术手段，支撑水利工程的管理和评估。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;气象数据&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"气象数据是通过气象监测收集的信息，有助于对洪水和水资源进行预测与决策。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;水位监测系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水位监测系统用于实时跟踪和记录水位，为防洪管理提供基础数据。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;标准制定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标准制定是指在水利工程中，为确保安全和有效性而设立的各类标准与规范。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;水文数据&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文数据是指与水体流动、分布及运动规律相关的信息，用于科学分析和决策支持。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;建筑物安全标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建筑物安全标准是规划和建设水利设施时必须遵循的安全规范。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;结构安全性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"结构安全性是指建筑物在面对极端条件时仍能保持稳定的能力。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;非常规洪水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"非常规洪水是指在特定情况下，因不可预见因素导致的洪水。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;流域安全性评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域安全性评估是对某一流域在洪水条件下抵御能力的综合分析与评估。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;河道整治&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河道整治指为改善河流行进和防洪能力而进行的各种工程和措施。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;实时监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实时监测是指在水利管理中对水位和水位变化进行即时跟踪与反馈的过程。"</data>
+      <data key="d2">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </node>
+    <node id="&quot;临时挡水设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"临时挡水设施 are temporary flood control structures used during the construction and maintenance phases to prevent water overflow during flood events."</data>
+      <data key="d2">chunk-1ce49e7fb33aa7466b81ae203b8fc77e</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;出口围堰&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"出口围堰 refers to a type of barrier or levee constructed at the exit points of drainage systems to control water flow during flooding situations."</data>
+      <data key="d2">chunk-1ce49e7fb33aa7466b81ae203b8fc77e</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;汛期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"汛期 is the flood season characterized by heavy rainfall and elevated water levels, impacting the management of water flow and flood risks."</data>
+      <data key="d2">chunk-1ce49e7fb33aa7466b81ae203b8fc77e</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;重现期&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"重现期 refers to the recurrence interval of flood events, used to determine the standards for flood management designs and controls."</data>
+      <data key="d2">chunk-1ce49e7fb33aa7466b81ae203b8fc77e</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;SL252-2017&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The中华人民共和国水利部 published the SL252-2017 standard, thereby defining regulations for water and hydropower projects."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;SL252-2017&quot;" target="&quot;长江勘测规划设计研究有限责任公司&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"长江勘测规划设计研究有限责任公司 contributed to the drafting of the SL252-2017 standard, reflecting its involvement in water resources planning and design."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;SL252-2017&quot;" target="&quot;中国水利水电出版社&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"中国水利水电出版社 is the publishing house that issues the SL252-2017 standard, thus playing a crucial role in its distribution."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;SL252-2017&quot;" target="&quot;仲志余&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"仲志余, as a principal author, significantly contributed to the technical aspects of the SL252-2017 standard."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;SL252-2017&quot;" target="&quot;温续余&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"温续余 played a vital role in developing the SL252-2017 standard, contributing specialized knowledge."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;SL252-2017&quot;" target="&quot;黄建和&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"黄建和 is recognized as a key figure in drafting the SL252-2017 standard, indicating his expertise in the area."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;SL252-2017&quot;" target="&quot;洪水标准&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The SL252-2017 standard outlines specific criteria that establish 洪水标准 for flood protection in engineering projects."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;SL252-2017&quot;" target="&quot;水利水电工程等别&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"SL252-2017 defines the categorization of water conservancy projects (水利水电工程等别), facilitating standardization and regulation."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;防洪工程&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"洪水标准 set guidelines for 防洪工程 to ensure structures can withstand anticipated flood conditions."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;治涝工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"洪水标准 also apply to 治涝工程 to maintain effective drainage and flood control measures."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;灌溉工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"洪水标准 inform灌溉工程 to safeguard agricultural areas against flooding risks."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;供水工程&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"供水工程 are designed following 洪水标准 to ensure integrity and functionality under flood conditions."&lt;SEP&gt;"洪水标准 ensure the safety of供水工程 by setting criteria for water sourcing during flood events."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;拦河闸&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"拦河闸的级别和设计受到洪水标准的影响，因此二者存在直接关系。"</data>
+      <data key="d6">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;安全区&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"安全区的级别设计依赖于防洪标准，且标准影响其防洪能力。"</data>
+      <data key="d6">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;蓄滞洪区&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"蓄滞洪区的作用是根据洪水标准存储洪水，因此与洪水标准有直接关系。"</data>
+      <data key="d6">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;水工建筑物&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"洪水标准 is crucial for assessing the safety of water engineering buildings, thus directly impacting their design and usage."</data>
+      <data key="d6">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;当量经济规模&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"当量经济规模 provides economic factors that influence flood protection importance, aligning with flood safety measures."</data>
+      <data key="d6">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;长江三峡水利枢纽&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"长江三峡水利枢纽遵循特定的洪水标准，以确保工程的安全性和有效性。"</data>
+      <data key="d6">chunk-b8165b7601962a39797e140b36166062</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;水库工程&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"水库工程的设计和建设必须遵循洪水标准，以保证建筑物在洪水情况下的安全性和功能的有效发挥。"</data>
+      <data key="d6">chunk-b8165b7601962a39797e140b36166062</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;2~5级土石坝&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The flood standards for 2~5级土石坝 are indicated to have increased over time due to evolving safety criteria."</data>
+      <data key="d6">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;1级混凝土坝&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The flood standards for 1级混凝土坝 have experienced significant reductions, highlighting changes in safety assessments."</data>
+      <data key="d6">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;3级混凝土坝&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The flood standards for 3级混凝土坝 have remained stable, indicating consistent safety regulations over time."</data>
+      <data key="d6">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </edge>
+    <edge source="&quot;洪水标准&quot;" target="&quot;4~5级混凝土坝&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The flood standards for 4~5级混凝土坝 have seen notable increases, reflecting updated safety measures and approaches."</data>
+      <data key="d6">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;水电工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"洪水 influences the planning and design of 水电工程, affecting their safety and effectiveness."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;排水泵站&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"排水泵站 plays a crucial role in managing 洪水 by controlling excess water, thus protecting allocated areas from flooding."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;河南板桥水库&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"河南板桥水库 was designed to withstand floods, but encountered much larger flood flows during an actual event, impacting its reliability and standards."</data>
+      <data key="d6">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;《水利水电工程设计基本技术规范》&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"《水利水电工程设计基本技术规范》 was created in response to flood risks, establishing standards that engineering projects must adhere to."</data>
+      <data key="d6">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;治涝工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"洪水 directly influences the design and implementation of 治涝工程, guiding the standards and measures required to manage flood risks."</data>
+      <data key="d6">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;供水工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"洪水 events can affect the operations and standards of 供水工程, necessitating adjustments in supply strategies to ensure safety and availability."</data>
+      <data key="d6">chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;导流泄水建筑物&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"导流泄水建筑物 is designed to manage and control洪水 during flood events, ensuring safety and proper drainage."</data>
+      <data key="d6">chunk-1ce49e7fb33aa7466b81ae203b8fc77e</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;应急预案&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"应急预案 outlines the strategies and procedures to effectively manage 洪水 events, ensuring a coordinated response."</data>
+      <data key="d6">chunk-1ce49e7fb33aa7466b81ae203b8fc77e</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;临时挡水设施&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"临时挡水设施 are utilized specifically to mitigate the effects of 洪水 by preventing water overflow during critical periods."</data>
+      <data key="d6">chunk-1ce49e7fb33aa7466b81ae203b8fc77e</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;出口围堰&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"出口围堰 are implemented to control the flow of water at drainage exit points during 洪水 events, enhancing flood management efforts."</data>
+      <data key="d6">chunk-1ce49e7fb33aa7466b81ae203b8fc77e</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;汛期&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"汛期 often brings about 洪水 due to increased precipitation, necessitating robust flood management strategies."</data>
+      <data key="d6">chunk-1ce49e7fb33aa7466b81ae203b8fc77e</data>
+    </edge>
+    <edge source="&quot;洪水&quot;" target="&quot;重现期&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"重现期 is a crucial metric in flood management to determine the expected frequency and intensity of 洪水 events."</data>
+      <data key="d6">chunk-1ce49e7fb33aa7466b81ae203b8fc77e</data>
+    </edge>
+    <edge source="&quot;河闸&quot;" target="&quot;防洪工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"河闸 structures are essential components in 防洪工程 to regulate water levels and prevent flood damage."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;灌溉工程&quot;" target="&quot;水工建筑物级别&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"灌溉工程 often determine the 水工建筑物级别, which outlines design and operational standards."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;灌溉工程&quot;" target="&quot;水利水电工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"灌溉工程 supports agricultural initiatives within the framework of 水利水电工程 projects."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;灌溉工程&quot;" target="&quot;治涝工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"灌溉工程与治涝工程可能在水资源管理方面相互协作，保证水的合理分配."</data>
+      <data key="d6">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </edge>
+    <edge source="&quot;水电站&quot;" target="&quot;防洪工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水电站 often incorporate 防洪工程 techniques to safeguard their operations from potential flood risks."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;水电站&quot;" target="&quot;水库工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水电站 operates in coordination with reservoir engineering projects to ensure flood control and energy production."</data>
+      <data key="d6">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;水利水电工程&quot;">
+      <data key="d4">15.0</data>
+      <data key="d5">"Both 防洪工程 and 水利水电工程 are subject to similar hydraulic standards, indicating their interrelated nature in project planning and execution."&lt;SEP&gt;"防洪工程 is integrated into 水利水电工程 as a fundamental aspect of flood prevention and management."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217&lt;SEP&gt;chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;堤防&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"堤防是防洪工程的一部分，其设计目的在于保护区域免受洪水影响。"</data>
+      <data key="d6">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;流域防洪规划&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"流域防洪规划为防洪工程提供方向和标准，以减少洪水对区域的影响。"</data>
+      <data key="d6">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;长江水利委员会&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"长江水利委员会 is responsible for establishing standards for 防洪工程, ensuring they meet safety and design requirements."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;流域&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"防洪工程为了应对流域内的水流变化而建立，与流域水文特性密切相关。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;标准&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"标准在防洪工程的设计和评估中起到指导作用，以确保工程的安全性和有效性。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;长江流域&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"长江流域的防洪工程设计及实施受流域特性的影响，确保洪水时的安全性。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;黄河流域&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"黄河流域依据其独特的水文特征制定防洪对策，影响水工建筑的安全标准。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;治涝工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"防洪工程和治涝工程共同作为水利设施，确保在洪涝期间的水安全管理。"</data>
+      <data key="d6">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;潮水标准&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"防洪工程的标准制定依赖于潮水标准来满足保护对象的防洪能力要求。"</data>
+      <data key="d6">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </edge>
+    <edge source="&quot;防洪工程&quot;" target="&quot;滨海区水利工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"滨海区水利工程与防洪工程互相配合，共同解决水暴潮和洪水带来的安全问题。"</data>
+      <data key="d6">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </edge>
+    <edge source="&quot;北京西城区&quot;" target="&quot;国际合作与科技司&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"北京西城区 hosts the International Cooperation and Technology Division of the Water Resources Ministry, indicating its administrative significance."</data>
+      <data key="d6">chunk-1d0ed995a8b9beceb1bea66fa49b1199</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;PERMANENT HYDRAULIC STRUCTURES&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利水电工程 encompasses the concept of Permanent Hydraulic Structures, which are vital components of such projects."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;TEMPORARY HYDRAULIC STRUCTURES&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利水电工程 includes Temporary Hydraulic Structures designed for short-term use during construction phases."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;拦河闸&quot;">
+      <data key="d4">17.0</data>
+      <data key="d5">"拦河闸 is a critical component of 水利水电工程, focusing on managing river flow within this scope."&lt;SEP&gt;"水利水电工程中可能包含多种设施，其中包括拦河闸，用于水流控制。"</data>
+      <data key="d6">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d&lt;SEP&gt;chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;治涝工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"治涝工程 is an essential part of the overall strategy in 水利水电工程 for effective water management."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;供水工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"供水工程 ensures communities receive water resources as part of the broader 水利水电工程 initiatives."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;水工建筑物&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利水电工程 includes various types of hydraulic structures, which are critical for its implementation."</data>
+      <data key="d6">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;GB50201—2014&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"GB50201—2014 governs the classification and standards for water resources and hydropower projects, ensuring adherence to regulatory measures."</data>
+      <data key="d6">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;库容指标&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"库容指标 is a fundamental criterion for assessing water resources projects, especially for their flood safety design."</data>
+      <data key="d6">chunk-99a306fd2e1b9e1135b0afca4dc33eab</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;灌排泵站&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"灌排泵站 are integral components of water conservancy and hydropower projects, contributing to their operational effectiveness."</data>
+      <data key="d6">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;拦河水闸&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"拦河水闸 are part of water conservancy engineering projects and essential for managing water resources."</data>
+      <data key="d6">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </edge>
+    <edge source="&quot;PERMANENT HYDRAULIC STRUCTURES&quot;" target="&quot;FLOOD PROTECTION CRITERIA&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Flood Protection Criteria ensure the safety and effectiveness of Permanent Hydraulic Structures against flooding risks."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;PERMANENT HYDRAULIC STRUCTURES&quot;" target="&quot;HYDRAULIC STRUCTURES GRADE&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Hydraulic Structures Grade determines the classification and importance of Permanent Hydraulic Structures within water conservancy engineering."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;PERMANENT HYDRAULIC STRUCTURES&quot;" target="&quot;固定建筑物&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"固定建筑物 include Permanent Hydraulic Structures, emphasizing their role in long-term engineering projects."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;PERMANENT HYDRAULIC STRUCTURES&quot;" target="&quot;FLOOD CONTROL PLANNING&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Flood Control Planning outlines the necessary guidelines for the construction and maintenance of Permanent Hydraulic Structures to mitigate floods."</data>
+      <data key="d6">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </edge>
+    <edge source="&quot;PERMANENT HYDRAULIC STRUCTURES&quot;" target="&quot;EMERGENCY STRUCTURES&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Emergency Structures must adhere to certain standards related to Permanent Hydraulic Structures, as they both function to manage water flow under various conditions."</data>
+      <data key="d6">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </edge>
+    <edge source="&quot;PERMANENT HYDRAULIC STRUCTURES&quot;" target="&quot;DESIGN FLOW&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Design Flow is a critical parameter in determining the specifications and classifications of Permanent Hydraulic Structures in flood control engineering."</data>
+      <data key="d6">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </edge>
+    <edge source="&quot;PERMANENT HYDRAULIC STRUCTURES&quot;" target="&quot;LARGE SPANNING BRIDGES&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Large Spanning Bridges are classified under Permanent Hydraulic Structures, indicating significant safety and design requirements."</data>
+      <data key="d6">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </edge>
+    <edge source="&quot;TEMPORARY HYDRAULIC STRUCTURES&quot;" target="&quot;HYDRAULIC STRUCTURES GRADE&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The Hydraulic Structures Grade also applies to Temporary Hydraulic Structures, influencing their designation and usage in projects."</data>
+      <data key="d6">chunk-e372745f34e1e2c823734d821f8621ff</data>
+    </edge>
+    <edge source="&quot;拦河闸&quot;" target="&quot;水电站厂房&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水电站厂房和拦河闸合作进行水流管理和防护，均涉及水库工程的安全。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;治涝工程&quot;" target="&quot;供水工程&quot;">
+      <data key="d4">13.0</data>
+      <data key="d5">"治涝工程 and 供水工程 are both types of water management infrastructure that are evaluated and regulated based on technical standards, indicating their interconnectedness in flood and water management."&lt;SEP&gt;"治涝工程与供水工程协调工作，共同保障水资源的有效利用和城市安全."</data>
+      <data key="d6">chunk-1b2c62801afb2a55c5355d791801cf6b&lt;SEP&gt;chunk-c21ded03d842b553be2c2daf29199dcc</data>
+    </edge>
+    <edge source="&quot;治涝工程&quot;" target="&quot;泵站&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"泵站是治涝工程中用来排水的重要设施，其效率直接关系到治涝的效果."</data>
+      <data key="d6">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </edge>
+    <edge source="&quot;供水工程&quot;" target="&quot;长江三峡水利枢纽&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"长江三峡水利枢纽的供水工程负责区域内的供水任务，确保大坝的水资源调配."</data>
+      <data key="d6">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </edge>
+    <edge source="&quot;供水工程&quot;" target="&quot;泵站&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"泵站在供水工程中承担着重要的水处理和输送职责，保持供水的持续性和稳定性."</data>
+      <data key="d6">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </edge>
+    <edge source="&quot;安全区&quot;" target="&quot;分洪口门&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"分洪口门用于控制洪水流入安全区，保障安全区域的安全性."</data>
+      <data key="d6">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </edge>
+    <edge source="&quot;永久性水工建筑物&quot;" target="&quot;流量&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"永久性水工建筑物的设计必须考虑流量，以确保其能有效应对可能的洪水风险。"</data>
+      <data key="d6">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </edge>
+    <edge source="&quot;永久性水工建筑物&quot;" target="&quot;防洪标准&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"永久性水工建筑物 are directly influenced by the 防洪标准, ensuring that they meet safety and operational requirements."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </edge>
+    <edge source="&quot;永久性水工建筑物&quot;" target="&quot;排水渠&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"永久性水工建筑物与排水渠共同作用于城市的水流控制和排水系统."</data>
+      <data key="d6">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </edge>
+    <edge source="&quot;水库&quot;" target="&quot;水坝&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水坝通常是水库的重要组成部分，负责水的储存和调节。"</data>
+      <data key="d6">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </edge>
+    <edge source="&quot;水库&quot;" target="&quot;坝&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水库的有效蓄水需依赖坝的设计与功能，二者密切相关，以确保安全与效益。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;流域防洪规划&quot;" target="&quot;防洪体系&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"流域防洪规划 contributes to the overall 防洪体系, ensuring comprehensive flood management in river basins."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </edge>
+    <edge source="&quot;设计标准&quot;" target="&quot;主管部门&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"主管部门负责制定和审批设计标准，以确保水工建筑物的安全和有效性。"</data>
+      <data key="d6">chunk-c8ae07389ecaf3f6954e36ac28c0ba5d</data>
+    </edge>
+    <edge source="&quot;IRRIGATION ENGINEERING&quot;" target="&quot;WATER SUPPLY ENGINEERING&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Irrigation Engineering and Water Supply Engineering both focus on the management of water resources but for different applications: agriculture and community supply."</data>
+      <data key="d6">chunk-bfcf25b84ccd01cf5df7ce5a47498020</data>
+    </edge>
+    <edge source="&quot;滨海区&quot;" target="&quot;水库工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水库工程 incorporates design standards specific to the flood management requirements of the 滨海区 geographical area."</data>
+      <data key="d6">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </edge>
+    <edge source="&quot;滨海区&quot;" target="&quot;潮汐河口段&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"潮汐河口段 is located within the滨海区 and is significant for flood management strategies in that region."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </edge>
+    <edge source="&quot;山区&quot;" target="&quot;水库工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水库工程 includes engineering practices that are standardized for the mountainous nature of the 山区 region."</data>
+      <data key="d6">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </edge>
+    <edge source="&quot;丘陵区&quot;" target="&quot;水库工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水库工程 features standards applied specifically to the hilly terrain found in the 丘陵区 region."</data>
+      <data key="d6">chunk-2092e0eba7ebae989b1cc049f45d82e1</data>
+    </edge>
+    <edge source="&quot;水库工程&quot;" target="&quot;我国&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"我国在洪水标准和水库工程建设方面具有丰富的经验和严格的规定，以适应不断变化的气候条件和水资源管理需求。"</data>
+      <data key="d6">chunk-b8165b7601962a39797e140b36166062</data>
+    </edge>
+    <edge source="&quot;土石坝&quot;" target="&quot;河南板桥水库&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The dam failure at 河南板桥水库 is associated with土石坝, emphasizing the hazards posed by earth-rock dams during flood events."</data>
+      <data key="d6">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </edge>
+    <edge source="&quot;土石坝&quot;" target="&quot;混凝土坝&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"土石坝 and 混凝土坝 are compared in terms of their flood resistance capabilities and safety standards in the context of flood management."</data>
+      <data key="d6">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </edge>
+    <edge source="&quot;土石坝&quot;" target="&quot;平原、滨海区水库&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The flood standards for 土石坝 in 平原、滨海区水库 are lower than those in mountainous regions due to the geographical characteristics of the area."</data>
+      <data key="d6">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </edge>
+    <edge source="&quot;长江水利委员会&quot;" target="&quot;徐麟祥&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"徐麟祥 plays a critical role in the long-term planning and implementation of hydraulic standards established by 长江水利委员会."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </edge>
+    <edge source="&quot;长江水利委员会&quot;" target="&quot;陈鉴&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"As a contributor to the standard, 陈鉴 is integral to the oversight and ongoing revisions set forth by 长江水利委员会."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </edge>
+    <edge source="&quot;长江水利委员会&quot;" target="&quot;王忠法&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"王忠法's involvement in the standard reflects the collaborative efforts within 长江水利委员会 to address hydraulic engineering challenges."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </edge>
+    <edge source="&quot;临时性水工建筑物&quot;" target="&quot;施工期&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"临时性水工建筑物 must adhere to flood standards specifically defined for the duration of the 施工期."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </edge>
+    <edge source="&quot;临时性水工建筑物&quot;" target="&quot;长江三峡水利枢纽&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"临时性水工建筑物用于长江三峡水利枢纽施工期间的防水和导流，具有临时性质."</data>
+      <data key="d6">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </edge>
+    <edge source="&quot;安全区堤防&quot;" target="&quot;流域&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"安全区堤防的级别与流域内的洪水管理规划及人口安置情况相关。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;安全区堤防&quot;" target="&quot;水电站厂房&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水电站厂房与安全区堤防共同参与水流控制与安全管理。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;建筑物级别&quot;" target="&quot;历史最高潮水位&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"历史最高潮水位 serves as a critical benchmark for determining 建筑物级别 and associated flood standards."</data>
+      <data key="d6">chunk-f7939f0d8cd5e9bd47b1b337f85bc217</data>
+    </edge>
+    <edge source="&quot;GB50201 — 2014&quot;" target="&quot;水对象&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水对象 is responsible for adhering to GB50201 — 2014 standards, impacting water supply and engineering regulations."</data>
+      <data key="d6">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </edge>
+    <edge source="&quot;GB50201 — 2014&quot;" target="&quot;SL430 — 2008&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"SL430 — 2008 is referenced in GB50201 — 2014, indicating its importance in modifying water supply indicators."</data>
+      <data key="d6">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </edge>
+    <edge source="&quot;水对象&quot;" target="&quot;灌排泵站&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水对象 are involved with the planning and management of 灌排泵站 for effective water resource allocation."</data>
+      <data key="d6">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </edge>
+    <edge source="&quot;水对象&quot;" target="&quot;拦河水闸&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水对象 oversee the implementation of regulations governing 拦河水闸 constructions as part of water management practices."</data>
+      <data key="d6">chunk-e87c6513c9d72c3747613c15ff4e1a25</data>
+    </edge>
+    <edge source="&quot;GB50288&quot;" target="&quot;WATER CONSERVANCY AND HYDROPOWER ENGINEERING&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"GB50288 provides guidelines that affect the standards and safety evaluations within Water Conservancy and Hydropower Engineering projects."</data>
+      <data key="d6">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </edge>
+    <edge source="&quot;GB50288&quot;" target="&quot;EXPERTS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Experts provide critical insights during the revision of GB50288 to address safety adaptations in contemporary large dam engineering."</data>
+      <data key="d6">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </edge>
+    <edge source="&quot;CHINA&quot;" target="&quot;DAMS OVER 200M&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"China is notable for constructing a significant number of Dams Over 200m, accounting for a major portion of such dams worldwide."</data>
+      <data key="d6">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </edge>
+    <edge source="&quot;YANGTZE RIVER BASIN&quot;" target="&quot;DAMS OVER 200M&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Yangtze River Basin is home to 13 of the 25 major Dams Over 200m in China, highlighting its importance in large-scale water projects."</data>
+      <data key="d6">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </edge>
+    <edge source="&quot;HIGH FILL CHANNELS&quot;" target="&quot;2-3 LEVEL DAMS&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"High Fill Channels are assessed alongside 2-3 Level Dams to determine safety standards appropriate for their height and construction type."</data>
+      <data key="d6">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </edge>
+    <edge source="&quot;FLOOD STANDARDS&quot;" target="&quot;SAFETY DESIGN STANDARDS&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Safety Design Standards are evaluated in conjunction with Flood Standards to mitigate risks associated with dam failures during extreme weather events."</data>
+      <data key="d6">chunk-e8bffb06a60a926a9f48f65e09c67b4a</data>
+    </edge>
+    <edge source="&quot;标准&quot;" target="&quot;工程等别&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程等别依据标准进行确认，具体指导各水工建筑物的设计和安全等级。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;坝&quot;" target="&quot;溃坝&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"坝的高度和设计直接影响到溃坝的风险，一旦发生将对下游造成重大影响。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;工程等别&quot;" target="&quot;水利部&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利部负责制定和修订工程等别的标准，对各类水工建筑物进行监督和管理。"</data>
+      <data key="d6">chunk-78ef36634efc89b05bdd65790017f854</data>
+    </edge>
+    <edge source="&quot;长江三峡水利枢纽&quot;" target="&quot;我国&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"长江三峡水利枢纽的建设与我国的水利发展密切相关，是中国水利基础设施的重要组成部分。"</data>
+      <data key="d6">chunk-b8165b7601962a39797e140b36166062</data>
+    </edge>
+    <edge source="&quot;水闸&quot;" target="&quot;分洪闸&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水闸和分洪闸都是水利设施，控制水流并有效应对洪水挑战."</data>
+      <data key="d6">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </edge>
+    <edge source="&quot;控制工程&quot;" target="&quot;设计流量&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"控制工程的效果受到设计流量的影响，确保水工建筑物能安全有效运行."</data>
+      <data key="d6">chunk-1b2c62801afb2a55c5355d791801cf6b</data>
+    </edge>
+    <edge source="&quot;行业标准&quot;" target="&quot;水利水电工程建设&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利水电工程建设 projects are governed by specific 行业标准 to ensure compliance with safety and operational guidelines."</data>
+      <data key="d6">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </edge>
+    <edge source="&quot;SDJ12-78&quot;" target="&quot;GB50201-94&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"GB50201-94 modifies the earlier standards set by SDJ12-78, reflecting changes in flood management practices over time."</data>
+      <data key="d6">chunk-a8145e85b171a95242bbfdcd2ecac035</data>
+    </edge>
+    <edge source="&quot;潮汐河口段水利工程&quot;" target="&quot;潮水标准&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"潮汐河口段水利工程通过分析潮水标准来应对潮汐与江河洪水的影响。"</data>
+      <data key="d6">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </edge>
+    <edge source="&quot;滨海区水利工程&quot;" target="&quot;潮水标准&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"滨海区水利工程依据潮水标准来评估和提出防潮措施。"</data>
+      <data key="d6">chunk-deba001ecf882de356e2be6281abc13d</data>
+    </edge>
+  </graph>
+</graphml>

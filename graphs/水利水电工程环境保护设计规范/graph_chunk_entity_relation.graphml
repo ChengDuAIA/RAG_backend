@@ -1,0 +1,1663 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is the governmental authority responsible for water and hydraulic standards in China, overseeing environmental protection guidelines."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;水利水电工程环境保护设计规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利水电工程环境保护设计规范 refers to a specific regulation document that sets standards for environmental protection in hydraulic and hydropower engineering projects."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;环境保护法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护法 is a legal framework that governs environmental protection measures and standards in construction projects in China."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;水法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水法 is a legal statute that governs water resources and their use in China, influencing water-related standards and protocols."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;黄河勘测规划设计有限公司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"黄河勘测规划设计有限公司 is a company responsible for survey and planning design in the Yellow River basin, involved in developing these water management standards."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;中国水利水电出版社&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中国水利水电出版社 is the publishing house for water resources and hydropower standards in China, responsible for issuing relevant documents and guidelines."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;朱党生&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"朱党生 is a key contributor and primary author of the environmental protection design standards document, involved in its development and publication."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;水利行业标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利行业标准 refers to a regulatory framework governing practices and standards in the water resources sector in China."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;水利部水利水电规划设计管理局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部水利水电规划设计管理局 is a division within the Ministry of Water Resources focused on planning and managing water resources and hydropower projects in China."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;环境影响评价法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境影响评价法 is a legal statute that assesses the environmental impacts of proposed projects, guiding water conservation practices."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;水利工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利工程 refers to hydraulic projects aimed at managing and utilizing water resources efficiently and sustainably."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;公共健康保障&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"公共健康保障 within environmental standards aims to ensure the protection of public health during water resource projects and initiatives."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;声环境保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"声环境保护 encompasses measures aimed at controlling noise pollution resulting from construction and hydropower projects."&lt;SEP&gt;"声环境保护 encompasses measures designed to control noise pollution generated by construction activities and protect sensitive noise targets."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d&lt;SEP&gt;chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;移民安置环境保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"移民安置环境保护 pertains to environmental protection measures for communities relocated due to water resource development projects."&lt;SEP&gt;"移民安置环境保护指的是在移民过程中对环境和生态进行必要的保护措施，以减少影响。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e&lt;SEP&gt;chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;环境影响报告书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境影响报告书 is a report that outlines the potential environmental effects of a project and suggests mitigation measures."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </node>
+    <node id="&quot;景观保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"景观保护 involves measures taken to preserve natural and historical landscapes during construction projects."&lt;SEP&gt;"景观保护 refers to the practices aimed at preserving and enhancing the visual and ecological quality of landscapes affected by water management."&lt;SEP&gt;"景观保护是在工程进行中尽量减少对自然景观和美观影响的措施。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02&lt;SEP&gt;chunk-b07b901b66e6c632dff7e2b5d7216a74&lt;SEP&gt;chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;固体废物处置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"固体废物处置 involves guidelines and practices for the disposal of solid waste generated from water projects to minimize environmental impacts."&lt;SEP&gt;"固体废物处置 involves the treatment and management of solid waste generated during construction, following principles of resource recovery and reduction."</data>
+      <data key="d2">chunk-b07b901b66e6c632dff7e2b5d7216a74&lt;SEP&gt;chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;土壤环境保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土壤环境保护 encompasses measures aimed at preventing land degradation and addressing bottom sediment pollution."&lt;SEP&gt;"土壤环境保护 includes measures to prevent soil degradation and contamination resulting from water management activities."&lt;SEP&gt;"土壤环境保护涉及对土壤质量的监测与治理，确保不受工程建设影响。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02&lt;SEP&gt;chunk-b07b901b66e6c632dff7e2b5d7216a74&lt;SEP&gt;chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;大气环境保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"大气环境保护 addresses the standards and practices aimed at preventing air pollution from water-related projects."&lt;SEP&gt;"大气环境保护 refers to the measures taken to prevent and control atmospheric pollution during construction activities and maintain air quality."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d&lt;SEP&gt;chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;水库&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水库 refers to a water reservoir that plays a crucial role in water resource management and ecological balance."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;美国&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"美国 is mentioned in the context of environmental regulation but is not extensively detailed in the text."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;生态修复工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态修复工程 encompasses various projects aimed at restoring ecological balance in areas affected by environmental damage."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水质保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水质保护 refers to measures and regulations aimed at safeguarding water quality for environmental health and human consumption."&lt;SEP&gt;"水质保护是通过一系列措施来确保水体不受污染的重要工作。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02&lt;SEP&gt;chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水环境监测规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水环境监测规范 outlines standards and protocols for monitoring water quality and flow in water bodies."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;工程废污水处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程废污水处理 is focused on the methods and protocols for treating wastewater generated from construction activities."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;污染控制标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"污染控制标准 refers to regulations established to manage and mitigate pollution from various sources, particularly in hazardous waste management."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;危险废物焚烧&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"危险废物焚烧 involves the incineration of hazardous wastes to reduce their volume and toxicity, complying with environmental standards."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;地下水监测规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地下水监测规范 establishes guidelines and procedures for monitoring groundwater quality and levels."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;河流流量测验规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河流流量测验规范 provides standards for measuring and monitoring the flow rates of rivers to ensure ecological balance."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水利水电工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利水电工程 encompasses projects related to water conservancy and hydropower, focusing on sustainable management of water resources."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水源地保护管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水源地保护管理 involves the strategies for managing the protection zones around water sources to safeguard their quality."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;环境影响评价技术导则&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境影响评价技术导则 outlines technical regulations for assessing the environmental impacts of proposed projects."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水库调度运行方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水库调度运行方案 details the operational framework for managing the release and storage of water in reservoirs."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;生态与环境需水保障措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态与环境需水保障措施 refers to strategies designed to ensure sufficient water flow for ecological and environmental needs."&lt;SEP&gt;"生态与环境需水保障措施是扮演重要角色的措施，确保水资源的可持续使用与生态保护。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02&lt;SEP&gt;chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;浊水处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"浊水处理 refers to various methods employed to treat and clarify dirty or polluted water before it is released into the environment."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;流域保护措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域保护措施 are actions taken to protect entire river basins from pollution and degradation of ecosystems."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;湿地生态修复&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"湿地生态修复 includes efforts for restoring the ecological functions of wetlands that have been disturbed or degraded."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;生态基流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态基流 refers to the minimal flow required to maintain the healthy functioning of ecosystems in rivers and streams."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水源保护区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水源保护区 are designated areas around water sources intended to limit contamination and preserve water quality."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水环境监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水环境监测 involves various techniques used to assess the condition and quality of water bodies over time."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水土保持措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水土保持措施 are strategies aimed at preventing soil erosion and maintaining soil quality in relation to water bodies."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;泥浆处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"泥浆处理 refers to the processes used to manage and treat slurry produced during various construction or industrial activities."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;放流设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"放流设施 are structures used to regulate the release of water from reservoirs for ecological and agricultural purposes."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;分层取水工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"分层取水工程 refers to the engineering techniques employed to extract water at different layers from a reservoir, optimizing water quality."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;生物隔离措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生物隔离措施 involve using biological methods to create barriers that protect sensitive areas from pollution."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;污染源治理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"污染源治理 includes specific actions taken to mitigate pollution from identified sources, such as industrial wastewater."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;危害识别&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"危害识别 involves identifying potential hazards in a given environment to implement appropriate safety measures."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;环境监控设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境监控设施 are installations designed to continuously monitor environmental conditions, particularly in relation to pollution control."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水利设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利设施 refers to all infrastructure related to water management, including dams, levees, and irrigation systems."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水质标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水质标准 refers to specific criteria that must be met to ensure water quality for various uses, including drinking and recreation."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;生态功能区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"生态功能区 are regions designated for preserving ecological functions and the services they provide to the environment."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;洪水控制措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水控制措施 are strategies designed to manage and mitigate the impacts of flooding in vulnerable areas."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;环保法规&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环保法规 includes laws and regulations established to protect the environment from pollution and degradation."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水资源管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水资源管理 encompasses all strategies and activities aimed at overseeing water resources sustainably."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;治理方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"治理方案 refers to the specific plans devised to tackle environmental issues and pollution control."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;农业流域管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"农业流域管理 pertains to practices aimed at ensuring sustainable agricultural activities within river basins."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;污染源监测技术&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"污染源监测技术 focuses on the methodologies and technologies used to detect and assess pollution sources."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;水体交换&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水体交换 refers to the dynamic processes involving the movement of water between different environmental compartments."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;流域调度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域调度 refers to the coordinated management of water resources within a river basin to meet various demands."</data>
+      <data key="d2">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </node>
+    <node id="&quot;废水处理系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Wastewater treatment systems refer to the comprehensive set of processes and devices used for treating wastewater, ensuring compliance with environmental regulations."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;沉淀池&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sedimentation tanks are structures designed for the settling of suspended solids from wastewater, playing a crucial role in the treatment process."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;基坑水&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pit water refers to water that accumulates in excavated areas during construction, requiring specific treatment methods."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;生态保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Ecological protection involves measures taken to preserve endangered species and natural habitats, ensuring environmental sustainability."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;陆生植物&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Terrestrial plants refer to plant species that grow on land, with conservation efforts focusing on rare and endangered types."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;浓度要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Concentration requirements refer to specific guidelines for the amounts of chemicals needed in various wastewater treatment processes."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;机械脱水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Mechanical dewatering is a process used to reduce the water content in sludge, allowing for easier handling and disposal."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;絮凝剂&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Flocculants are substances used to promote the clumping of particles in wastewater, aiding in sedimentation and purification processes."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;泥浆脱水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Sludge dewatering is the process of removing water from sludge, making it more manageable for disposal or further treatment."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;油水分离装置&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Oil-water separators are systems designed to remove oil and grease from wastewater, enhancing treatment efficiency."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;生活污水&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Domestic wastewater refers to wastewater derived from household activities and requires specific treatment methods."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;排水设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Drainage facilities are structures used to facilitate the removal of water from a given area, playing a key role in construction site management."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;灌溉措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Irrigation measures involve processes designed to manage water for agricultural or landscape purposes, especially in areas affected by construction."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;地下水&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Groundwater refers to water located beneath the earth's surface, which can be impacted by construction activities."</data>
+      <data key="d2">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </node>
+    <node id="&quot;陆生动物保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"陆生动物保护 is an event focused on the protection of rare, endangered, and economically valuable terrestrial wildlife and their habitats, including breeding and migration corridors."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;水生生物保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水生生物保护 is an event dedicated to the protection of rare, endangered, and economically significant aquatic wildlife and their habitats, ensuring the viability of spawning, feeding, and migrating environments."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;动物救护站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"动物救护站 refers to facilities established for the rescue and rehabilitation of animals, particularly those in need of protection in their natural habitats."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;新栖息地&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"新栖息地 refers to newly constructed habitats designed to provide safe living conditions for wildlife, particularly after reassessing their natural environments due to human impact."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;鱼道&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"鱼道 is a technological solution implemented to facilitate the migration of fish, designed to meet specific ecological and hydrodynamic requirements."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;鱼类增殖放流站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"鱼类增殖放流站 is an organization focused on the breeding and release of fish species into their natural habitats to support biodiversity and population recovery."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;珍稀濒危和有重要经济价值的野生动物&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"珍稀濒危和有重要经济价值的野生动物 refers to species classified as rare or endangered that possess significant ecological or economic value, necessitating protections and management measures."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;栖息地&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"栖息地 represents the natural environment where wildlife, both terrestrial and aquatic, live, which is crucial for their survival and reproduction."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;迁移通道&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"迁移通道 is the designated migration routes used by wildlife, essential for connecting habitats and supporting breeding and feeding."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;移栽引种繁殖保存物种种质&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"移栽引种繁殖保存物种种质 involves the transplantation and breeding of plant species to conserve genetic material and ensure biodiversity."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;保护范围&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"保护范围 delineates the specific areas designated for the protection of endangered species and their habitats."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;生态学特性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"生态学特性 refers to the ecological traits and behaviors of species that determine their interactions with the environment, critical for conservation strategies."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;水草&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水草 refers to aquatic plants that play a significant role in providing habitat and food for various aquatic species."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;底栖生物修复&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"底栖生物修复 is a process aimed at restoring the populations and habitats of organisms living on the bottom of aquatic ecosystems."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;工程措施&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程措施 involves the construction and engineering efforts taken to protect wildlife and their ecosystems during development activities."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;采集地点&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"采集地点 indicates the specific locations where biological samples or seeds are harvested for conservation purposes."</data>
+      <data key="d2">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </node>
+    <node id="&quot;设施人员&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"设施人员 refers to the group responsible for training and managing the operation of fish-catching facilities in the water control structures."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;湿地生态保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"湿地生态保护 involves maintaining the connectivity of wetlands with river and lake systems, ensuring ecological water quantity, and protecting and restoring important habitats."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;粉尘污染防治&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"粉尘污染防治 includes methods to control dust generated during construction activities and transportation, focusing on minimizing airborne particles."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;废气防治&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"废气防治 refers to the strategies to manage exhaust emissions from construction vehicles and other sources to ensure air quality standards."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;清洁能源&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"清洁能源 refers to energy sources that minimize environmental impact, mandated for construction sites to reduce pollution."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </node>
+    <node id="&quot;水文条件&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水文条件 refers to the hydrological conditions that influence the design and effectiveness of fish-catching facilities in water control structures."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </node>
+    <node id="&quot;河道&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"河道 refers to the river channels that are involved in the ecological protection and management of sediment and aquatic life."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;湖泊&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"湖泊 refers to the lakes that serve as habitats for aquatic organisms and are critical in wetland ecological management."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;保护对象&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"保护对象 refers to the species and habitats that require preservation measures according to ecological assessments."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </node>
+    <node id="&quot;生态修复&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态修复 involves actions taken to restore ecosystems to their natural conditions and enhance biodiversity."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </node>
+    <node id="&quot;施工机械&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"施工机械 refers to the construction machinery involved in various construction activities, which must adhere to noise control requirements."&lt;SEP&gt;"施工机械 refers to the machinery used in construction activities that contribute to environmental noise and dust."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d&lt;SEP&gt;chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;噪声敏感目标&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"噪声敏感目标 are locations such as residential areas, schools, and hospitals that need protection from construction noise pollution."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;环境影响评价&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境影响评价 is the assessment process used to evaluate the potential environmental effects of a proposed project."&lt;SEP&gt;"环境影响评价是工程项目开展前评估其对环境可能造成影响的重要过程。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02&lt;SEP&gt;chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;清洁煤&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"清洁煤 is a reference to low-sulfur coal that is encouraged for use in construction activities to reduce air pollution."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </node>
+    <node id="&quot;电拦防鱼设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"电拦防鱼设施 refers to electric fish barriers designed to prevent fish from passing through certain areas."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </node>
+    <node id="&quot;网拦防鱼设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"网拦防鱼设施 refers to net barrier systems that are used to control fish movement in waterways."</data>
+      <data key="d2">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </node>
+    <node id="&quot;声控制&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"声控制 is an organization focused on the control of noise pollution, establishing measures to address sensitive targets and manage noise sources during construction activities."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;敏感目标&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"敏感目标 refers to the sensitive targets that need protection from noise and vibration impact during construction activities."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;建筑垃圾处置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建筑垃圾处置 refers to the specific measures for handling construction waste generated from projects, emphasizing recycling and proper disposal."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;危险废物处置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"危险废物处置 involves the management and disposal procedures for hazardous waste produced during construction activities."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;噪声源&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"噪声源 refers to the sources of noise generated during construction activities that need to be controlled and managed to minimize impact on sensitive targets."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;施工区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"施工区 is the area where construction activities are taking place, requiring specific noise control measures to protect surrounding environments."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;混凝土拌和楼&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"混凝土拌和楼 is a facility involved in the mixing of concrete, which can be a significant noise source during construction."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;骨料制冷系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"骨料制冷系统 refers to a cooling system for aggregates used in construction, potentially contributing to noise pollution."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;空压站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"空压站 is a compressed air station that may produce high levels of noise during its operation."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;振动控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"振动控制 includes measures taken to address vibrations caused by machinery, ensuring minimal impact on sensitive targets."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;减振沟&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"减振沟 is a trench or pit designed to reduce vibrations from construction activities, protecting nearby sensitive targets."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;减振墙&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"减振墙 refers to a wall built to mitigate vibrations caused by construction operations, aimed at preserving nearby sensitive areas."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;声屏障&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"声屏障 is a noise barrier constructed to shield sensitive targets from construction noise.</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;绿化林带&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"绿化林带 is a green belt designed to absorb noise and enhance the aesthetics of construction areas while providing environmental benefits."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;生活垃圾处理设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"生活垃圾处理设施 is a facility dedicated to the collection and processing of household waste generated at construction sites."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;垃圾填埋场&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"垃圾填埋场 is a site where waste is disposed of, including household and construction waste, managed according to regulations."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;焚烧处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"焚烧处理 is a method for managing waste through incineration, involving specific design and operational considerations."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;堆肥法处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"堆肥法处理 involves composting waste, utilizing organic materials from construction sites and other sources."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;搬迁措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"搬迁措施 refers to relocation actions taken to protect sensitive targets when noise or vibration levels are too high."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;噪声影响&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"噪声影响 describes the effects of construction noise on sensitive targets, influencing the need for control measures."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;施工交通噪声控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工交通噪声控制 involves measures to manage noise from transportation activities related to construction, ensuring compliance with regulations."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;爆破噪声控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"爆破噪声控制 encompasses strategies to mitigate noise levels produced during blasting operations in construction contexts."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;延时爆破&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"延时爆破 is a technique used in blasting that delays explosions to reduce noise and vibration impact on surrounding areas."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;微差松动爆破&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"微差松动爆破 is a low-noise blasting method used to minimize the auditory impact of construction activities on nearby locations."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;工程量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程量 refers to the quantity of work involved in construction tasks, which can influence the types of control measures implemented."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;环境保护要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境保护要求 are the environmental regulations and standards governing construction activities to protect sensitive targets and minimize pollution."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;塑料化处理法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"塑料化处理法 refers to the methods used for handling and processing construction waste effectively and sustainably."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;垃圾处理设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"垃圾处理设施 denotes facilities where various types of waste are collected, sorted, and processed."</data>
+      <data key="d2">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </node>
+    <node id="&quot;建筑垃圾&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"建筑垃圾 refers to waste materials generated from construction activities, prioritized for resource utilization and proper disposal methods."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;危险废物&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"危险废物 includes various hazardous substances produced in construction that require special handling and disposal protocols."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;土地退化防治&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土地退化防治 includes strategies to combat soil degradation such as salinization and marshland restoration."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;人群健康保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"人群健康保护 refers to measures aimed at preventing health risks associated with environmental changes due to construction activities."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;饮用水安全&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"饮用水安全 involves ensuring the safety and quality of drinking water in construction and resettlement areas."&lt;SEP&gt;"饮用水安全是确保公众健康的重要因素，特别是在施工区域周围必须得到重视。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02&lt;SEP&gt;chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;渣土&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"渣土 refers to earth and soil removed during construction, which requires proper disposal methods to prevent environmental harm."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;废砖瓦&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"废砖瓦 includes bricks and tiles discarded during construction activities, necessitating recycling or safe disposal procedures."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;废混凝土&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"废混凝土 is the concrete waste generated from construction, which should be recycled or disposed of according to regulations."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;废木材&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"废木材 consists of wooden materials discarded after construction, needing to be treated as waste for recycling or disposal."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;废钢筋&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"废钢筋 refers to rebar waste from construction projects that requires appropriate recycling methods to reduce waste."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;疫情调查检疫计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"疫情调查检疫计划 outlines measures to monitor and control infectious diseases in construction zones and resettlement areas."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;自然疫源性疾病防治设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"自然疫源性疾病防治设计 involves strategies to prevent diseases transmitted by natural vectors, ensuring health safety in construction areas."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;虫媒传染病防治措施设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"虫媒传染病防治措施设计 describes plans aimed at controlling insect-borne diseases through various pest control measures in affected areas."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;环境卫生污染物清理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境卫生污染物清理 refers to actions taken to remove pollutants and ensure the hygiene of construction sites and surrounding areas."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;安全购水方式&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全购水方式 pertains to the procedures adopted to ensure safe water procurement for drinking in construction zones and settlements."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;施工区场地卫生清理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工区场地卫生清理 includes measures undertaken to maintain cleanliness and sanitary conditions in the construction site."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;食品卫生隔离治疗&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"食品卫生隔离治疗 describes methods to ensure food safety and prevent disease outbreaks associated with food contamination."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;工程生物和管理措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程生物和管理措施 refers to biological and administrative strategies implemented in construction to mitigate environmental impact."</data>
+      <data key="d2">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </node>
+    <node id="&quot;风景名胜区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"风景名胜区指的是具有自然或人文价值的区域，通常吸引游客，需通过保护措施来维护其景观及生态环境。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;自然保护区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"自然保护区是为了保护特定生态系统和生物多样性而设立的区域，通常禁止大规模开发活动。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;森林公园&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"森林公园是供公众游览和休闲的森林区域，保护其生态平衡并提供教育和娱乐的功能。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;地质公园&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地质公园是为了保护地质遗迹和自然景观而设立的区域，通常带有旅游和教育的功能。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;疗养区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"疗养区是提供健康和治疗功能的区域，通常包含温泉或自然疗法，吸引寻求康复的游客。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;城市园林建筑&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"城市园林建筑是城市区域内的景观设计和生态建设，旨在提供休闲空间和改善城市环境。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;环保措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环保措施是特定活动或计划的实施，旨在保护环境和景观，如恢复和协调措施。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;污水处理厂&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"污水处理厂是专门处理城市和工业污水的设施，旨在改善水质并保护水资源。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;城市&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"城市是人类文明的聚集地，涉及经济、文化和环境多个方面，同时也是施行环境保护政策的重点区域。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;渣场&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"渣场是废弃物和土壤的堆放区域，通常在施工或者矿业活动后形成，需进行环境保护管理。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;料场&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"料场是用于存放建筑或施工所需材料的场地，通常需要控制对周围景观的影响。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;生态农业&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态农业是指通过可持续方法进行的农业生产，旨在保护生态环境及生物多样性。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;迁建&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"迁建指的是因环境改善或开发要求而进行的城镇或集镇重新安置过程。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;管网布局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"管网布局是指城市排水和供水系统的结构设计，需符合环境保护要求。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;生活垃圾处理场&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"生活垃圾处理场是专门用于处理市民日常生活垃圾的设施，确保环境卫生和资源回收。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;监测系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监测系统是用于记录和分析环境参数的系统，支持环境管理和污染防治。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;重建措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"重建措施是指应对环境破坏后进行的恢复和再生措施，旨在改善生态条件。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;生态敏感区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"生态敏感区是对生态环境脆弱、易受影响的区域，需要特别保护。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;水质处理要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水质处理要求指的是对污水和排放水进行处理，以满足环境安全标准。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;土壤侵蚀&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土壤侵蚀是自然和人为因素导致土地肥力损失的过程，需要采取措施防止。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;植树造林&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"植树造林是通过人工种植树木来恢复和保护生态环境的重要措施。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;生态监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态监测 addresses the monitoring of ecological changes and the impacts of construction on natural habitats."&lt;SEP&gt;"生态监测是对自然环境和生物多样性状况进行长期观察和分析的活动。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e&lt;SEP&gt;chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;污废水监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"污废水监测是对工业和生活污水排放量及其污染物进行定期检测的流程。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;降雨系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"降雨系统设计用于有效引导和处理雨水，减少城市内涝和水污染。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;生活污水处理设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"生活污水处理设备是用于去除家庭生活废水中污染物的设施，旨在保护水资源。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;声环境监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"声环境监测是监测和评估噪声对环境和人类健康影响的过程。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;环境空气监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境空气监测是定期检测空气质量，确保满足环境标准的重要步骤。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;资源回收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"资源回收指的是对废弃物的再利用过程，旨在减少环境污染和资源浪费。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;风险管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"风险管理是识别和管理环境风险的流程，以防止潜在的环境灾害。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;生态多样性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"生态多样性是指生物物种的多样性及其栖息环境，对生态平衡极为关键。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;温泉&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"温泉是利用地下水加热自然形成的水源，常被用于疗养和休闲，具有自然保护意义。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;集中移民安置区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"集中移民安置区是针对迁移人群设立的居民聚集地，需进行环境保护管理。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;分散安置移民&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"分散安置移民是在不同地点安置迁移人群的过程，需考虑环境因素。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;监测点位&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"监测点位是在环境监测中选择的特定位置，用于采集数据和评估生态条件。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;管理规定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"管理规定是针对环境保护措施制定的政策和行动指南，确保合规执行。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;生态影响评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态影响评估是对开发活动可能产生的生态影响进行预测和分析的过程。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;滥用资源&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"滥用资源是指对自然资源的不当使用，导致环境和生态的严重后果。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;水质监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水质监测是评估水体清洁度和污染水平的重要活动，确保饮水安全。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;场地恢复&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"场地恢复是对受损或废弃土地进行复原和再利用的过程，旨在恢复生态功能。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;环境恢复&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境恢复是指通过系统的措施将受损环境修复至原有或接近的生态状态。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;生态系统服务&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"生态系统服务是自然生态系统提供给人类的各种益处，如清洁空气和水、土壤肥沃等。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;生物多样性保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生物多样性保护是指为确保生态系统健康而采取的各种措施。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;环境法规&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境法规是指保护环境和生态的法律法规，确保可持续发展。"</data>
+      <data key="d2">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </node>
+    <node id="&quot;珍稀濒危特有物种&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The term '珍稀濒危特有物种' refers to protected and rare species of terrestrial and aquatic organisms that need monitoring and conservation."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;施工期环境监控&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The '施工期环境监控' describes the environmental monitoring process that occurs during construction, focusing on various ecological factors and their management."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;环境管理&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The '环境管理' refers to the organization structure and processes set in place to ensure environmental protection during the project execution."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;环境监理&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The '环境监理' is responsible for overseeing environmental standards and practices during the construction and operational phases."&lt;SEP&gt;"环境监理是保证工程在建设与运行过程中防治环境污染的活动，包括监督施工单位的环境管理。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02&lt;SEP&gt;chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;监测项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The '监测项目' entails the various monitoring activities outlined in the text to assess environmental factors during the project."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;水生生物&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水生生物 refers to aquatic organisms that are monitored for their health and diversity during the environmental assessment."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;土壤环境监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土壤环境监测 involves tracking soil quality, degradation, and pollution throughout the construction process."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;地下水监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地下水监测 refers to the assessment of groundwater levels and quality to evaluate the impact of construction activities."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;空气质量监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"空气质量监测 involves assessing the air pollution levels to ensure compliance with environmental standards during construction."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;噪声监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"噪声监测 refers to the assessment of noise pollution in varying zones affected by the construction activities."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;水质自动在线监测系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The 水质自动在线监测系统 is a technology developed for real-time monitoring of water quality in key areas."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;施工场界区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"施工场界区 outlines the geographical boundaries of the construction site, crucial for pollution and impact assessments."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;交通运输区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"交通运输区 represents areas affected by construction-related transportation activities, which require noise and air quality monitoring."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;古树名木&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"古树名木 pertains to ancient trees that are significant and need monitoring for conservation efforts during the construction."</data>
+      <data key="d2">chunk-ba304add31f535f28b47613031d7775a</data>
+    </node>
+    <node id="&quot;环境管理机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"环境管理机构是负责实施环境监测与管理的机构，其任务是确保项目在工程运行期间符合环境保护标准并进行监控。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;工程建设&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程建设指建设活动持续至工程竣工验收的全过程，包括施工准备与实际施工。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;生态保护与补偿&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态保护与补偿是为维护环境质量和生物多样性所采取的措施，包括防止生态退化。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;环境保护资金&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护资金是根据环境保护的设计与措施所需的资金预算，以支持项目的环境保护活动。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;废污水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"废污水是指在工程建设过程中产生的有害液体，需要进行有效处理以防止污染。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;粉尘&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"粉尘是工程建设产生的一种固体废物，需采取措施以控制其对环境的影响。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;废气&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"废气是工程施工中排放的有害气体，必须进行治理以保护空气质量。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;噪声&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"噪声是指施工过程中产生的声音污染，需采取隔音措施以减少对周围环境的影响。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;垃圾&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"垃圾包括生活垃圾和建筑垃圾，需进行适当处理以减少环境负担。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;废渣&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"废渣是施工过程中产生的固体废弃物，需要进行妥善处理和处置。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;疏散区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"疏散区是指因工程建设需要进行移民安置的区域，必须保证该地区的环境保护。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;移民安置区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"移民安置区是施工过程中的特殊区域，涉及搬迁和临时安置居民的环境管理。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;监测指标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"监测指标是用来评估环境质量的标准，确保所有环境保护措施得到实施。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;信息管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"信息管理是在环境管理和监督过程中确保所有相关信息被有效记录和处理的系统。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;法律法规&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"法律法规为环境管理提供了规范和指导，确保所有施工活动遵循国家环保要求。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;政策文件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"政策文件是与环境保护相关的指导性文件，设定环境管理的战略和目标。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;技术标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术标准是施工中环境保护和质量控制所依赖的技术规范。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;施工期环境监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工期环境监测是指在施工期间对各项环境参数进行的监控活动，以及时发现和处理环境问题。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;运行期环境监控&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"运行期环境监控是对项目运营后对环境状况进行跟踪和管理的过程。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;预防传染病&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"预防传染病措施在工程建设中保障工人和周边居民的健康，特别是在公共卫生风险高的区域。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;监理方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监理方案是为有效实施环境监理而制定的具体计划和步骤。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;监督检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监督检查是确保施工单位遵循环境管理要求的重要活动，涉及定期的评估和报告。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;环境保护措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护措施是为减少施工对环境影响而实施的一系列具体行动和策略。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;建设单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"建设单位是负责工程建设实施的组织，需关注环境保护和管理。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;施工承包单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"施工承包单位是参与工程建设的公司，需按照环境管理的规定进行施工。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;环境保护设计篇章&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护设计篇章是对环境保护措施进行详细规划的文档，为施工提供参考。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;监理机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监理机构负责实施和监督环境管理措施，确保事项得到落实。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;环境保护目标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境保护目标是设定的具体要求，以引导施工中的环境管理行为。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;水环境保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水环境保护是在施工过程中采取的措施，以防止水体污染和生态破坏。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;噪声控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"噪声控制是施工过程中必须采取措施，以减少对周围居民的影响。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;生态用水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态用水指为维持生态平衡而需要保持的水资源供给。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;固体废物处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"固体废物处理是确保施工避免污染的重要环节，涉及分类和处置措施。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;健康保障措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"健康保障措施旨在确保工人和周围居民的健康，尤其针对潜在的卫生风险。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;项目环境影响报告书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目环境影响报告书是评估项目潜在环境影响并提出对策的官方文档。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;审批意见&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"审批意见是有关部门针对项目环境影响评价的反馈与指导。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;批复文件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"批复文件是项目审批过程中的正式文件，确认了环境保护措施的合规性。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <node id="&quot;设计依据&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设计依据是为实施环境保护设计所参考的法律法规和技术标准。"</data>
+      <data key="d2">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水利水电工程环境保护设计规范&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中华人民共和国水利部 is the authority that issued the environmental protection design standards in hydraulic engineering, thus directly linked to its publication."</data>
+      <data key="d6">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;环境保护法&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中华人民共和国水利部 enforces the environmental protection law, which informs its standards and regulations in water management."</data>
+      <data key="d6">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </edge>
+    <edge source="&quot;水利水电工程环境保护设计规范&quot;" target="&quot;环境保护法&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The water and hydropower engineering environmental protection standards are developed based on the principles outlined in the environmental protection law."</data>
+      <data key="d6">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </edge>
+    <edge source="&quot;水利水电工程环境保护设计规范&quot;" target="&quot;黄河勘测规划设计有限公司&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"黄河勘测规划设计有限公司 played a key role in drafting these standards, indicating their involvement in the regulatory process."</data>
+      <data key="d6">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </edge>
+    <edge source="&quot;水利水电工程环境保护设计规范&quot;" target="&quot;中国水利水电出版社&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中国水利水电出版社 is responsible for publishing the environmental protection design standards, thus ensuring their distribution and accessibility."</data>
+      <data key="d6">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </edge>
+    <edge source="&quot;水利部水利水电规划设计管理局&quot;" target="&quot;环境影响评价法&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利部水利水电规划设计管理局 implements the environmental impact assessment law to guide water resource projects."</data>
+      <data key="d6">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </edge>
+    <edge source="&quot;环境影响评价法&quot;" target="&quot;水利工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利工程 is subject to the provisions of the environmental impact assessment law to ensure sustainable practices."</data>
+      <data key="d6">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </edge>
+    <edge source="&quot;水利工程&quot;" target="&quot;土壤环境保护&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Water engineering projects incorporate soil protection strategies to prevent contamination and degradation."</data>
+      <data key="d6">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </edge>
+    <edge source="&quot;声环境保护&quot;" target="&quot;固体废物处置&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"声环境保护 measures are included in waste management practices to mitigate project impacts on noise levels."</data>
+      <data key="d6">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </edge>
+    <edge source="&quot;声环境保护&quot;" target="&quot;粉尘污染防治&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Sound pollution and dust control are both mandatory considerations during construction, ensuring a safer environment for surrounding communities."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;声环境保护&quot;" target="&quot;噪声敏感目标&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Noise-sensitive targets require specific measures to mitigate noise pollution generated by construction activities."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;移民安置环境保护&quot;" target="&quot;环境影响报告书&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The environmental impact report includes provisions for protecting communities displaced by water resource development."</data>
+      <data key="d6">chunk-b07b901b66e6c632dff7e2b5d7216a74</data>
+    </edge>
+    <edge source="&quot;移民安置环境保护&quot;" target="&quot;污水处理厂&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"移民安置环境保护要求污水处理设施的建设，以确保生活垃圾和污水有效处理。"</data>
+      <data key="d6">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </edge>
+    <edge source="&quot;固体废物处置&quot;" target="&quot;建筑垃圾处置&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"固体废物处置 encompasses the practices involved in managing 建筑垃圾, ensuring proper treatment according to regulations."</data>
+      <data key="d6">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </edge>
+    <edge source="&quot;固体废物处置&quot;" target="&quot;危险废物处置&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"固体废物处置 addresses various types of waste, including 危险废物, which require special handling procedures."</data>
+      <data key="d6">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </edge>
+    <edge source="&quot;固体废物处置&quot;" target="&quot;敏感目标&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"保护 from noise is crucial for 敏感目标 when managing waste disposal at construction sites."</data>
+      <data key="d6">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </edge>
+    <edge source="&quot;土壤环境保护&quot;" target="&quot;建筑垃圾&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"建筑垃圾 management is critical to ensuring soil environmental protection, as improper disposal can lead to soil pollution."</data>
+      <data key="d6">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </edge>
+    <edge source="&quot;土壤环境保护&quot;" target="&quot;土地退化防治&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Soil environmental protection is directly linked to land degradation prevention efforts, as they both aim to maintain soil integrity."</data>
+      <data key="d6">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </edge>
+    <edge source="&quot;大气环境保护&quot;" target="&quot;设施人员&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"设施人员 manage the emission controls and pollution prevention measures related to air quality during construction projects."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;大气环境保护&quot;" target="&quot;废气防治&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Both air environment protection and exhaust gas prevention are key elements in ensuring compliance with air quality regulations during construction."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;水库&quot;" target="&quot;生态修复工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Ecological restoration projects often involve water reservoirs as critical components in their planning and execution."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水库&quot;" target="&quot;水质保护&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The quality of water in reservoirs is essential for effective water quality protection strategies."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水库&quot;" target="&quot;洪水控制措施&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Reservoirs are crucial to implementing flood control strategies within river systems."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水库&quot;" target="&quot;生态与环境需水保障措施&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The ecological and environmental water guarantees are essential for maintaining the health of reservoirs."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;生态修复工程&quot;" target="&quot;水质保护&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Ecological restoration projects often include objectives related to water quality improvement and habitat restoration."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;生态修复工程&quot;" target="&quot;水利水电工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Water conservancy projects often incorporate ecological restoration processes to maintain healthy water habitats."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水质保护&quot;" target="&quot;水环境监测规范&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Water quality protection measures are guided by the monitoring protocols outlined in the water environment monitoring norms."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水质保护&quot;" target="&quot;工程废污水处理&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Construction wastewater management is integral to maintaining overall water quality and environmental standards."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水质保护&quot;" target="&quot;水环境监测&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Water quality protection efforts are informed and enhanced by ongoing water environment monitoring."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;污染控制标准&quot;" target="&quot;危险废物焚烧&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The pollution control standards apply directly to the practices involved in hazardous waste incineration."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;地下水监测规范&quot;" target="&quot;水源保护区&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Groundwater monitoring standards are critical for ensuring the protection of designated water source areas."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水源地保护管理&quot;" target="&quot;水质标准&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Water source protection management is closely tied to the standards that govern water quality and safety."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水库调度运行方案&quot;" target="&quot;流域调度&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The operational plans for reservoirs are often developed in conjunction with overall river basin management strategies."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水源保护区&quot;" target="&quot;农业流域管理&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Agricultural basin management practices must align with the protection zones around water sources to prevent contamination."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水土保持措施&quot;" target="&quot;洪水控制措施&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Soil conservation strategies are crucial for mitigating the impact and likelihood of floods."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;生物隔离措施&quot;" target="&quot;水质标准&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Water quality standards often stipulate the need for bio-isolation measures to prevent contamination."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;污染源治理&quot;" target="&quot;污染源监测技术&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Pollution source monitoring technologies are essential for identifying and addressing pollution sources effectively."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;水利设施&quot;" target="&quot;水资源管理&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Water infrastructure plays a vital role in the effective management of water resources."</data>
+      <data key="d6">chunk-963f07b442afc542e98518a59c514e9f</data>
+    </edge>
+    <edge source="&quot;废水处理系统&quot;" target="&quot;沉淀池&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The wastewater treatment system typically includes sedimentation tanks as integral components that facilitate solid separation from liquids."</data>
+      <data key="d6">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </edge>
+    <edge source="&quot;废水处理系统&quot;" target="&quot;基坑水&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Pit water management falls under the scope of wastewater treatment systems, requiring appropriate methods for removal and processing."</data>
+      <data key="d6">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </edge>
+    <edge source="&quot;废水处理系统&quot;" target="&quot;生活污水&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Domestic wastewater is treated by various components of wastewater treatment systems to ensure environmental compliance."</data>
+      <data key="d6">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </edge>
+    <edge source="&quot;生态保护&quot;" target="&quot;陆生植物&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Ecological protection initiatives specifically target the conservation of terrestrial plants, particularly rare and endangered species."</data>
+      <data key="d6">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </edge>
+    <edge source="&quot;生态保护&quot;" target="&quot;灌溉措施&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"Irrigation measures may be implemented as part of ecological protection efforts to maintain plant life in impacted areas."</data>
+      <data key="d6">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </edge>
+    <edge source="&quot;浓度要求&quot;" target="&quot;絮凝剂&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Concentration requirements are associated with the dosage of flocculants used in wastewater treatment processes."</data>
+      <data key="d6">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </edge>
+    <edge source="&quot;机械脱水&quot;" target="&quot;泥浆脱水&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Mechanical dewatering techniques are employed to achieve sludge dewatering, streamlining waste management."</data>
+      <data key="d6">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </edge>
+    <edge source="&quot;排水设施&quot;" target="&quot;地下水&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Groundwater management often involves drainage facilities to properly channel and remove excess water from construction sites."</data>
+      <data key="d6">chunk-e77aa8f0dfc21638ebd617cd362c676b</data>
+    </edge>
+    <edge source="&quot;陆生动物保护&quot;" target="&quot;动物救护站&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"陆生动物保护 initiatives often involve the establishment of 动物救护站 to care for and rehabilitate terrestrial wildlife in need of assistance."</data>
+      <data key="d6">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </edge>
+    <edge source="&quot;陆生动物保护&quot;" target="&quot;新栖息地&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"新栖息地 are a crucial aspect of 陆生动物保护 initiatives, providing alternative habitats for wildlife affected by environmental changes."</data>
+      <data key="d6">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </edge>
+    <edge source="&quot;水生生物保护&quot;" target="&quot;鱼类增殖放流站&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水生生物保护 activities are supported by 鱼类增殖放流站 which play a crucial role in reproducing and releasing aquatic species into their ecosystems."</data>
+      <data key="d6">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </edge>
+    <edge source="&quot;水生生物保护&quot;" target="&quot;鱼道&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"鱼道 systems are part of the measures implemented under 水生生物保护 to ensure the effective migration of aquatic species."</data>
+      <data key="d6">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </edge>
+    <edge source="&quot;水生生物保护&quot;" target="&quot;新栖息地&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"新栖息地 can also play an important role in水生生物保护, providing safe environments for aquatic species recovering from habitat loss."</data>
+      <data key="d6">chunk-783e790da75bd887bbfaee7603dea510</data>
+    </edge>
+    <edge source="&quot;设施人员&quot;" target="&quot;湿地生态保护&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"设施人员 are essential for implementing wetland ecological protection measures, coordinating activities related to habitat restoration and connectivity."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;湿地生态保护&quot;" target="&quot;粉尘污染防治&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"湿地 ecological protection measures may include dust control to maintain the integrity of habitats and ecosystems."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;湿地生态保护&quot;" target="&quot;湖泊&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"湖泊 are crucial components in the maintenance and restoration of wetland ecosystems."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;粉尘污染防治&quot;" target="&quot;河道&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"河道 management includes measures to control dust to protect aquatic life and habitats during construction."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;水文条件&quot;" target="&quot;电拦防鱼设施&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水文条件 significantly influences the design and operational effectiveness of electric fish barriers."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;保护对象&quot;" target="&quot;生态修复&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"生态修复 initiatives focus specifically on protecting designated species and habitats during habitat restoration efforts."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;施工机械&quot;" target="&quot;环境影响评价&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The environmental impact assessment evaluates the effects of construction machinery on the local environment."</data>
+      <data key="d6">chunk-3e40d8b73ce832a0afa9a3765477655d</data>
+    </edge>
+    <edge source="&quot;施工机械&quot;" target="&quot;声控制&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"声控制 regulates the use of 施工机械 to minimize noise impacts on sensitive targets during construction efforts."</data>
+      <data key="d6">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </edge>
+    <edge source="&quot;施工机械&quot;" target="&quot;敏感目标&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"施工机械's operation can negatively affect the 敏感目标, necessitating the implementation of noise control measures."</data>
+      <data key="d6">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </edge>
+    <edge source="&quot;声控制&quot;" target="&quot;危险废物处置&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"声控制 initiatives include measures that impact the proper disposal of 危险废物 to protect sensitive environments."</data>
+      <data key="d6">chunk-beb709875c6eaa7bdb033b44e4cb027c</data>
+    </edge>
+    <edge source="&quot;危险废物&quot;" target="&quot;人群健康保护&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Handling of hazardous waste is essential for people's health protection to prevent the spread of diseases from contaminated environments."</data>
+      <data key="d6">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </edge>
+    <edge source="&quot;人群健康保护&quot;" target="&quot;饮用水安全&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Ensuring drinking water safety is a fundamental aspect of protecting public health from environmental changes during construction."</data>
+      <data key="d6">chunk-115339ff5b5d6726c1ff352e9e40ce45</data>
+    </edge>
+    <edge source="&quot;风景名胜区&quot;" target="&quot;自然保护区&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"风景名胜区通常需要依靠自然保护区来保护其生态环境和景观资源。"</data>
+      <data key="d6">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </edge>
+    <edge source="&quot;森林公园&quot;" target="&quot;城市园林建筑&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"森林公园和城市园林建筑均是城市环境中重要的绿地和休闲空间。"</data>
+      <data key="d6">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </edge>
+    <edge source="&quot;地质公园&quot;" target="&quot;环保措施&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"地质公园的管理通常需要实施环保措施，以保护其地质遗迹和景观。"</data>
+      <data key="d6">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </edge>
+    <edge source="&quot;疗养区&quot;" target="&quot;环保措施&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"疗养区的建设与管理需遵循环保措施，以维护其自然和生态环境。"</data>
+      <data key="d6">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </edge>
+    <edge source="&quot;环保措施&quot;" target="&quot;城市&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"城市在发展过程中需实施环保措施，以降低对环境的影响。"</data>
+      <data key="d6">chunk-30a1785875c9e53870dc1d1696fe587e</data>
+    </edge>
+    <edge source="&quot;生态监测&quot;" target="&quot;水生生物&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The monitoring of aquatic organisms is a key component of ecological assessments to evaluate construction impacts."</data>
+      <data key="d6">chunk-ba304add31f535f28b47613031d7775a</data>
+    </edge>
+    <edge source="&quot;生态监测&quot;" target="&quot;古树名木&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Monitoring ancient trees is part of broader ecological assessments ensuring their protection during construction activities."</data>
+      <data key="d6">chunk-ba304add31f535f28b47613031d7775a</data>
+    </edge>
+    <edge source="&quot;珍稀濒危特有物种&quot;" target="&quot;施工期环境监控&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The construction period environmental monitoring encompasses monitoring of rare and endangered species, emphasizing their protection during construction."</data>
+      <data key="d6">chunk-ba304add31f535f28b47613031d7775a</data>
+    </edge>
+    <edge source="&quot;施工期环境监控&quot;" target="&quot;监测项目&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The monitoring projects are part of the broader environmental monitoring efforts during the construction phase, aimed at assessing various ecological impacts."</data>
+      <data key="d6">chunk-ba304add31f535f28b47613031d7775a</data>
+    </edge>
+    <edge source="&quot;环境管理&quot;" target="&quot;环境监理&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Environmental management involves coordination with environmental supervision to ensure compliance with environmental protection protocols."</data>
+      <data key="d6">chunk-ba304add31f535f28b47613031d7775a</data>
+    </edge>
+    <edge source="&quot;环境监理&quot;" target="&quot;监测项目&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Environmental supervision includes overseeing the monitoring projects to ensure they meet regulations and standards."</data>
+      <data key="d6">chunk-ba304add31f535f28b47613031d7775a</data>
+    </edge>
+    <edge source="&quot;环境监理&quot;" target="&quot;环境管理机构&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"环境监理由环境管理机构实施，确保项目在建设期间不会对环境造成损害。"</data>
+      <data key="d6">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </edge>
+    <edge source="&quot;环境监理&quot;" target="&quot;工程建设&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"环境监理是工程建设过程中必不可少的环节，涉及施工阶段和验收阶段的监督与报告。"</data>
+      <data key="d6">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </edge>
+    <edge source="&quot;环境监理&quot;" target="&quot;环境保护资金&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"环境监理需要根据环境保护资金的预算进行管理和检查，确保所有费用得到了适当分配。"</data>
+      <data key="d6">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </edge>
+    <edge source="&quot;土壤环境监测&quot;" target="&quot;地下水监测&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Soil and groundwater monitoring are interconnected; assessments are made to understand overall environmental health during construction."</data>
+      <data key="d6">chunk-ba304add31f535f28b47613031d7775a</data>
+    </edge>
+    <edge source="&quot;空气质量监测&quot;" target="&quot;施工场界区&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Air quality monitoring is essential within the construction site boundaries to adhere to environmental regulations."</data>
+      <data key="d6">chunk-ba304add31f535f28b47613031d7775a</data>
+    </edge>
+    <edge source="&quot;噪声监测&quot;" target="&quot;交通运输区&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Noise monitoring is required in transportation areas affected by construction to assess compliance with noise regulations."</data>
+      <data key="d6">chunk-ba304add31f535f28b47613031d7775a</data>
+    </edge>
+    <edge source="&quot;环境管理机构&quot;" target="&quot;生态保护与补偿&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"环境管理机构负责制定和实施生态保护与补偿方案，以维护构建项目的环境。"</data>
+      <data key="d6">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </edge>
+    <edge source="&quot;工程建设&quot;" target="&quot;环境保护资金&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"环境保护资金的投入直接影响到工程建设中环境保护措施的落实质量。"</data>
+      <data key="d6">chunk-9b10183b094a085d969779c2170d9d02</data>
+    </edge>
+  </graph>
+</graphml>

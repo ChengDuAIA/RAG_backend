@@ -64,6 +64,22 @@ def create_vdb(doc_name,doc_content):
 
 
 if __name__ == "__main__":
-    with open("水文仪器安全要求.md","r",encoding="utf-8") as f:
-        doc_content = f.read()
-    create_vdb("test",doc_content)
+
+    from tqdm import tqdm
+
+    doc_list = os.listdir("selected_mds")
+    for doc in tqdm(doc_list):
+
+        if os.path.exists(os.path.join(global_graph_dir,doc.split(".")[0])):
+            check_vdb(doc.split(".")[0])
+
+        doc_name = doc.split(".")[0]
+        doc_content = ""
+        with open("selected_mds/"+doc,"r",encoding="utf-8") as f:
+            doc_content = f.read()
+        print(f"creating vdb for {doc_name}......")
+        create_vdb(doc_name,doc_content)
+    
+    # with open("水文仪器安全要求.md","r",encoding="utf-8") as f:
+    #     doc_content = f.read()
+    # create_vdb("test",doc_content)

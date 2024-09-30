@@ -1,0 +1,1835 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ministry of Water Resources of the People's Republic of China is responsible for formulating and overseeing water management standards and policies in the country."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;水利水电工程施工质量检验与评定规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Inspection and Assessment Specification for Construction Quality of Hydraulic and Hydroelectric Engineering is a standard document that governs the quality assessment processes for such engineering projects in China."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;四川省水利科学研究院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Sichuan Provincial Water Resources Scientific Research Institute is involved in drafting and managing water resources standards, contributing to the country's water management initiatives."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;河南华禹黄河工程局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Henan Huayu Yellow River Engineering Bureau specializes in hydraulic and infrastructure engineering, contributing to quality assessments in water projects."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;长江水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Yangtze River Water Resources Commission oversees water usage and management strategies along the Yangtze River, adapting quality control standards accordingly."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;质量评定工作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Quality assessment work refers to the activities required to evaluate and ensure the integrity of water engineering projects in accordance with established standards."&lt;SEP&gt;"质量评定工作 refers to the organizational processes and evaluations conducted to assess construction quality standards."&lt;SEP&gt;"质量评定工作涉及对施工单位自评合格后的复核和核定，以确保工程符合要求。"</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;杨宗铨&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"杨宗铨 is one of the main authors of the quality assessment standards and plays a significant role in establishing hydraulic engineering norms in China."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;沈兴华&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"沈兴华 is a key contributor to the quality inspection standards, focusing on enhancing construction quality in hydraulic projects."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;曾 康&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"曾 康 is involved in drafting the hydraulic and hydroelectric engineering quality standards, contributing to their development and implementation."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;李晓鹏&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"李晓鹏 is actively engaged in the formulation of water resources standards, emphasizing quality control in construction."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;孙文樵&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"孙文樵 is involved in the standardization process, focusing on ensuring construction quality in hydraulic engineering."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;成 平&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"成 平 contributes to the drafting of quality assessment regulations for hydraulic construction, enhancing project management."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;于福春&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"于福春 plays a role in establishing standards for construction quality, ensuring compliance within hydraulic engineering projects."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;吴崇良&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"吴崇良 is a contributor to the quality assessment standards, focusing on maintaining high construction quality in hydraulic works."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;靳克庆&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"靳克庆 actively participates in the development of quality inspection regulations, aiding in the standardization efforts."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;黄学才&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"黄学才 contributes to the drafting and establishment of quality assessment norms for hydraulic engineering projects."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;朱 波&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"朱 波 is involved in the technical aspects of hydraulic engineering standards, focusing on construction quality assessment."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;周紧东&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"周紧东 plays a role in the quality assessment efforts, contributing to the refinement of construction standards."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;雷安华&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"雷安华 contributes to maintaining and overseeing the quality assessment standards for hydraulic works."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;叶翁火思&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"叶翁火思 is part of the team responsible for quality assessment regulations in water engineering projects."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;邹秋生&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"邹秋生 is engaged in establishing quality control standards within the hydraulic engineering field, ensuring high construction quality."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;水利行业标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Water industry standards refer to the collective guidelines and protocols established for managing hydraulic engineering quality in China."&lt;SEP&gt;"水利行业标准是指导水利水电工程施工质量和管理的重要规定。"</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;施工质量检验标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Construction quality inspection standards outline the rules and processes for evaluating the quality of hydraulic and hydroelectric engineering projects."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;编写规定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Guidelines for drafting technical standards refer to the protocols followed in formulating the hydraulic engineering standards."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;审批部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The approval authority is responsible for sanctioning the quality assessment standards, ensuring they meet national and industry requirements."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;建设与管理司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Construction and Management Division within the Ministry of Water Resources oversees the implementation of quality standards for water projects."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;质量事故&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Quality accidents pertain to instances of construction failure or deficiencies that must be documented and managed according to the established standards."&lt;SEP&gt;"质量事故 denotes significant incidents related to quality failures that could impact safety and project viability."&lt;SEP&gt;"质量事故 refers to incidents of quality failure in engineering projects that need to be investigated and rectified."&lt;SEP&gt;"质量事故 refers to incidents that affect the quality of construction, necessitating investigation and corrective actions."&lt;SEP&gt;"质量事故 refers to quality incidents that may occur during construction and affect the project's integrity and safety."&lt;SEP&gt;"质量事故指在施工过程中，由于管理或材料等原因导致的质量失控事件。"&lt;SEP&gt;"质量事故是指在工程施工过程中因质量问题导致的安全隐患或损失。"&lt;SEP&gt;"质量事故是指在施工过程中出现的影响安全和功能的质量问题。"&lt;SEP&gt;"质量事故是指施工过程中所发生的造成工程质量下降的事件，需严格处理和报告。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-fd30d805cc6341c201a45e95076008bd&lt;SEP&gt;chunk-3e0263583cacd7ca24c25ed60aa65012&lt;SEP&gt;chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-ccbc955beac2b9e93deb0450758ff266&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;质量缺陷备案表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The quality defect filing form is utilized to document and address construction quality issues in hydraulic engineering projects."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;项目划分原则&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Project division principles outline the criteria and procedures for categorizing hydraulic engineering tasks and projects."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;项目划分程序&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Project division procedures delineate the steps taken to segment hydraulic engineering projects into manageable components."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;附录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Appendices provide supplementary information related to quality assessment standards, detailing methodologies and evaluation techniques."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;施工质量评定表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The construction quality assessment form is a tool for evaluating and recording the quality of completed hydraulic engineering projects."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;审查会议&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The review meeting serves as a forum for discussing and validating the quality assessment standards among relevant stakeholders."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;技术负责人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The technical lead is responsible for ensuring the accuracy and effectiveness of the quality inspection standards during the review sessions."&lt;SEP&gt;"技术负责人 represents the technical lead responsible for upholding engineering standards and overseeing construction quality."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd&lt;SEP&gt;chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;标准体例格式审查人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The person reviewing the format of the standards ensures that they adhere to the established documentation guidelines."</data>
+      <data key="d2">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </node>
+    <node id="&quot;水利水电工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利水电工程 is a comprehensive category covering key parts, including hidden engineering projects, foundational work, and structures such as dams and drainage systems."&lt;SEP&gt;"水利水电工程 refers to a category of engineering projects focused on water resources and hydropower activities."&lt;SEP&gt;"水利水电工程 refers to a type of civil engineering project focusing on water resources and hydropower development, involving various standards and guidelines for quality assessment."&lt;SEP&gt;"水利水电工程 refers to a type of construction project focusing on water resource management and related structures, involving various quality assessments and project divisions."&lt;SEP&gt;"水利水电工程 refers to water conservancy and hydropower engineering projects, which are crucial for flood control, irrigation, and energy generation."&lt;SEP&gt;"水利水电工程是一个具体的工程项目，其施工质量等级被评定为合格的依据包括多个技术文件和标准。"&lt;SEP&gt;"水利水电工程是专门进行水资源管理和电力生产的工程项目，涉及质量管理和施工标准。"&lt;SEP&gt;"水利水电工程是国家重要的基础设施，涉及众多专业，其施工质量直接影响人民的生命财产安全和国家经济社会发展。"&lt;SEP&gt;"水利水电工程是指进行相关建筑施工和质量评定的活动，涉及严格质量标准。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-1ebdb3a13b4cdd0a36233cabbc5a7289&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248&lt;SEP&gt;chunk-5c7fe914fdf28f737df396f6e8cb98d1&lt;SEP&gt;chunk-36d59925b863fd2e96dceb936ad768b6&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d&lt;SEP&gt;chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;质量管理体系&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量管理体系是用于确保工程建设过程中的质量控制和监督，涵盖各种施工和检验标准。"</data>
+      <data key="d2">chunk-e3761a805566df910526a42b5dbc865d</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;质量检验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量检验 involves the assessment processes applied to ensure that construction quality meets the required standards throughout various stages of project execution."&lt;SEP&gt;"质量检验 refers to the process of inspecting and assessing the quality of construction work and materials used in projects."&lt;SEP&gt;"质量检验是通过检查、量测和试验对工程项目的质量特性进行评估的过程。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d&lt;SEP&gt;chunk-ccbc955beac2b9e93deb0450758ff266</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;项目法人&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"项目法人 is responsible for organizing and supervising the overall construction project, including adjustments based on design changes and quality management."&lt;SEP&gt;"项目法人 is the entity responsible for organizing and overseeing the construction project, ensuring accurate project division and compliance with quality standards."&lt;SEP&gt;"项目法人 is the project sponsor or owner responsible for organizing and overseeing the overall project execution."&lt;SEP&gt;"项目法人 refers to the legal entity responsible for overseeing the project's quality inspections and accident investigations."&lt;SEP&gt;"项目法人 refers to the legal entity that owns the project and is responsible for overseeing its execution and quality assessment."&lt;SEP&gt;"项目法人 refers to the project legal person responsible for the project, overseeing quality assessments and approvals in construction."&lt;SEP&gt;"项目法人 refers to the project owner or sponsor who has commissioned the engineering work."&lt;SEP&gt;"项目法人 refers to the project owner who organizes the necessary inspections and is responsible for the overall quality management of the construction."&lt;SEP&gt;"项目法人承担项目责任，包括质量验收及监督，并汇报工程质量监督机构。"&lt;SEP&gt;"项目法人是负责施工单位、监理单位等的法律和管理主体，确保工程质量管理的实施。"&lt;SEP&gt;"项目法人是负责确认工程质量并与监理单位协作的关键角色，确保工程符合验收标准。"&lt;SEP&gt;"项目法人是负责组织监理、设计、施工单位共同研究满足施工质量检验与评定的规范和要求的实体。"&lt;SEP&gt;"项目法人负责组织和管理工程项目，包括质量检验和合规检查。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-3e0263583cacd7ca24c25ed60aa65012&lt;SEP&gt;chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248&lt;SEP&gt;chunk-5c7fe914fdf28f737df396f6e8cb98d1&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-ccbc955beac2b9e93deb0450758ff266&lt;SEP&gt;chunk-36d59925b863fd2e96dceb936ad768b6&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-849f4addbae9ee9f4379bfd762a9dbd7&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d&lt;SEP&gt;chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;监理单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监理单位 is an organization acting as the supervisor during the construction process to ensure compliance with regulations and standards."&lt;SEP&gt;"监理单位 is the supervising unit that reviews the construction quality assessments provided by the施工单位, ensuring compliance with standards."&lt;SEP&gt;"监理单位 is the supervision organization that monitors the construction quality and project compliance throughout the engineering process."&lt;SEP&gt;"监理单位 is the supervisory entity that oversees construction work and ensures adherence to quality standards and regulations."&lt;SEP&gt;"监理单位 refers to the supervisory body that reviews and verifies the standards and quality of the construction work done by the施工单位."&lt;SEP&gt;"监理单位 supervises the construction processes and ensures that they adhere to the quality standards set by regulations."&lt;SEP&gt;"监理单位监控工程质量，确保施工单位及其他参与单位遵循相关标准和规定。"&lt;SEP&gt;"监理单位负责审核施工单位的自评合格报告，并核定质量等级，确保工程质量达到标准。"&lt;SEP&gt;"监理单位负责对单位工程质量的复核和监督，确保工程质量过程符合规定标准。"&lt;SEP&gt;"监理单位负责监督工程质量，确保施工遵循相关标准和规定。"&lt;SEP&gt;"监理单位负责监督施工单位的工作，确保工程质量和施工过程符合相关标准。"</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012&lt;SEP&gt;chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248&lt;SEP&gt;chunk-5c7fe914fdf28f737df396f6e8cb98d1&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-36d59925b863fd2e96dceb936ad768b6&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-849f4addbae9ee9f4379bfd762a9dbd7&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d&lt;SEP&gt;chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;施工单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"施工单位 is the construction company responsible for executing engineering projects, ensuring adherence to specified quality standards."&lt;SEP&gt;"施工单位 refers to the construction company responsible for carrying out the engineering work and ensuring quality standards."&lt;SEP&gt;"施工单位 refers to the construction company responsible for executing the project according to specific engineering standards."&lt;SEP&gt;"施工单位 refers to the construction unit responsible for carrying out the engineering work and performing self-evaluations on the quality of the project."&lt;SEP&gt;"施工单位 refers to the construction unit responsible for executing a project according to established standards and protocols."&lt;SEP&gt;"施工单位 refers to the teams or companies engaged in the physical construction of projects and responsible for quality adherence."&lt;SEP&gt;"施工单位参与水利水电工程的具体实施，负责施工质量的管理和维护。"&lt;SEP&gt;"施工单位是实际进行工程建设的团队，负责按照合同规定和质量标准完成项目。"&lt;SEP&gt;"施工单位是负责实际施工的组织，需要根据设计单位的文件和标准进行施工。"&lt;SEP&gt;"施工单位负责具体工程的实施，包括施工质量自检和整改。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-3e0263583cacd7ca24c25ed60aa65012&lt;SEP&gt;chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-849f4addbae9ee9f4379bfd762a9dbd7&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d&lt;SEP&gt;chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;工程质量检测单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程质量检测单位负责对工程施工质量进行独立检查和评定。"</data>
+      <data key="d2">chunk-e3761a805566df910526a42b5dbc865d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;水利枢纽工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利枢纽工程是指坝高在30米以上的关键水利建设项目，涉及大量技术与管理标准。"</data>
+      <data key="d2">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </node>
+    <node id="&quot;堤防工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"堤防工程 refers to dike and levee engineering projects that are subject to specific quality assessments based on established standards."&lt;SEP&gt;"堤防工程是水利工程中级别在3级以上，负责防洪和水资源管理的关键构造。"</data>
+      <data key="d2">chunk-849f4addbae9ee9f4379bfd762a9dbd7&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;水电站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水电站是指总装机功率在10MW以上的水力发电设施，控制和使用水资源生成电力。"</data>
+      <data key="d2">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </node>
+    <node id="&quot;监理机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监理机构是负责对施工单位工作进行质量监督的专业机构，确保规程的合规性。"</data>
+      <data key="d2">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </node>
+    <node id="&quot;勘测单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"勘测单位负责对项目施工前的地质与环境进行评估，确保施工方案的科学性。"</data>
+      <data key="d2">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </node>
+    <node id="&quot;设计单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"设计单位负责每个工程的设计和修改，并对工程质量达到标准进行指导和审核。"&lt;SEP&gt;"设计单位负责项目的结构及施工图纸设计，确保工程符合所有相关标准。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;施工质量等级&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工质量等级是指根据工程性质划分的质量评定标准，包括合格与优良两个等级。"</data>
+      <data key="d2">chunk-e3761a805566df910526a42b5dbc865d</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;质量缺陷&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量缺陷 refers to any failures in meeting the established quality standards during construction, requiring acknowledgment and rectification."&lt;SEP&gt;"质量缺陷 refers to issues regarding construction quality that may compromise safety and functionality, necessitating evaluation and potential repairs."&lt;SEP&gt;"质量缺陷 refers to specific flaws or deficiencies in construction that can impact safety and compliance."&lt;SEP&gt;"质量缺陷是指在施工过程中出现的较小质量问题，影响但不至于导致重大事故。"&lt;SEP&gt;"质量缺陷是指在施工过程中发现的不能满足既定标准的情况，需及时进行处理。"</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012&lt;SEP&gt;chunk-ccbc955beac2b9e93deb0450758ff266&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d&lt;SEP&gt;chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;水利水电工程质量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水利水电工程质量是对工程施工遵循国家标准和行业要求的综合评估。"</data>
+      <data key="d2">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </node>
+    <node id="&quot;国家标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"国家标准是指导工程施工和质量评估的基本法规，确保工程的安全与可靠性。"</data>
+      <data key="d2">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </node>
+    <node id="&quot;工程质量监督机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程质量监督机构 is responsible for supervising and ensuring compliance with engineering quality standards."&lt;SEP&gt;"工程质量监督机构 is the entity responsible for overseeing and ensuring construction quality according to relevant regulations."&lt;SEP&gt;"工程质量监督机构 is the organization that certifies the results of engineering quality assessments conducted by project contractors."&lt;SEP&gt;"工程质量监督机构 is the quality supervision organization that verifies and certifies the quality conclusions of various engineering projects."&lt;SEP&gt;"工程质量监督机构 refers to the authority responsible for monitoring and confirming the quality of construction projects, ensuring adherence to national and industry standards."&lt;SEP&gt;"工程质量监督机构 refers to the regulatory body that oversees and ensures compliance with quality standards in construction projects."&lt;SEP&gt;"工程质量监督机构监督和检查工程的实物质量和相关单位的质量行为。"&lt;SEP&gt;"工程质量监督机构负责对各类工程质量进行监督和检查，以确保法规和标准得到遵守。"&lt;SEP&gt;"工程质量监督机构负责核备项目法人及其施工单位的工程质量检验资料与等级评定，确保施工质量符合标准。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-3e0263583cacd7ca24c25ed60aa65012&lt;SEP&gt;chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-5c7fe914fdf28f737df396f6e8cb98d1&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-849f4addbae9ee9f4379bfd762a9dbd7&lt;SEP&gt;chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;检测单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"检测单位 are specialized organizations charged with performing tests and inspections to evaluate the quality of construction materials and processes."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;施工质量检验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工质量检验 is a process that ensures construction quality is maintained throughout the building process."&lt;SEP&gt;"施工质量检验 is the process of checking the quality of construction work against established standards."&lt;SEP&gt;"施工质量检验 refers to the process of evaluating and ensuring the quality of construction work through established standards and protocols."&lt;SEP&gt;"施工质量检验是指对水利水电工程施工过程中的质量进行检查和测试的活动。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248&lt;SEP&gt;chunk-36d59925b863fd2e96dceb936ad768b6&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;资质证书&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"资质证书 is a certification issued by the relevant authorities to ensure that construction detection units meet the necessary qualifications for performing their tasks."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;计量器具&quot;">
+      <data key="d0">"EQUIPMENT"</data>
+      <data key="d1">"计量器具 includes the measuring instruments and tools required for conducting quality assessments and must be certified by recognized agencies."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;试验仪器仪表&quot;">
+      <data key="d0">"EQUIPMENT"</data>
+      <data key="d1">"试验仪器仪表 refers to the test instruments used during inspections and quality evaluations in construction projects."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;检测人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"检测人员 are qualified individuals trained to perform inspections and tests, ensuring that construction standards are met."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;单元工程评定标准&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"单元工程评定标准 is a set of standards used to assess the quality and performance of individual engineering units within construction projects."&lt;SEP&gt;"单元工程评定标准 refers to the assessment criteria for various units within a construction project, ensuring that each segment meets required standards."&lt;SEP&gt;"单元工程评定标准是用于评估单元工程质量是否合格的具体规范，直接关系到整体工程质量。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;施工部署&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工部署 refers to the plan and arrangement of the construction tasks and processes that guide project execution."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;主要分部工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"主要分部工程 are significant subdivisions within a project that are crucial for overall quality assurance and project management."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;重要隐蔽单元工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"重要隐蔽单元工程 refers to critical hidden aspects of the construction project that require particular attention during inspections."&lt;SEP&gt;"重要隐蔽单元工程 refers to crucial hidden engineering components that significantly affect the safety or functionality of a main structure like a dam."&lt;SEP&gt;"重要隐蔽单元工程是施工过程中的关键部分，其质量直接影响整体工程的安全和质量。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-36d59925b863fd2e96dceb936ad768b6</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;关键部位单元工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"关键部位单元工程 are key segments of construction that are essential for structural integrity and overall safety."&lt;SEP&gt;"关键部位单元工程是指在施工中对安全或功能影响较大的重要结构部分。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;项目划分&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目划分 refers to the categorization of a construction project into different units for better management and quality assessment purposes."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;工程量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程量 denotes the total amount of work or materials needed for a construction project, which factors into quality assessments and inspections."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;招标标段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"招标标段 refers to segments of a project broken down for the purpose of bidding, impacting how work is assigned and managed."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;独立施工条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"独立施工条件 refers to conditions sufficient for carrying out work on a specific part of a construction project without reliance on other segments."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;安全运行&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全运行 implies the safe operation of construction activities, which is a significant aspect of quality assessment."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;工程质量问题&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程质量问题 refers to issues that affect the overall quality of the construction project, which need proper evaluation and resolution."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;保证施工质量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"保证施工质量 is concerned with ensuring that all construction phases adhere to required standards to prevent defects."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设计 involves the plans and blueprints created for a construction project, laying the foundation for quality execution and compliance."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;施工合同&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"施工合同 is a formal agreement outlining the responsibilities and expectations between the parties involved in a construction project."&lt;SEP&gt;"施工合同 refers to the legal agreement that outlines the responsibilities, materials, timelines, and standards for a construction project."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;工程规模&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程规模 refers to the size and magnitude of a construction project, which influences its complexity and management requirements."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;工程结构特点&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程结构特点 refers to the specific features of the structure being constructed, affecting how it is assessed and managed."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;变形缝&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"变形缝 are expansion joints in construction that accommodate movements, crucial for maintaining structural integrity."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;结构缝&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"结构缝 refers to joints or seams in a structure that are critical for quality assessment and overall construction integrity."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;沉降缝&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"沉降缝 are settling joints designed to manage shifts in a structure, relevant for quality control and assessment."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;项目划分表及说明书&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"项目划分表及说明书 is a formal document submitted by the project entity to outline project divisions and receive confirmation."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;监理&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"监理 refers to the supervisory role in construction that involves ensuring compliance with quality standards and practices."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;监管机关&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监管机关 is the governmental or regulatory body overseeing construction activities and quality compliance."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;官方认可机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"官方认可机构 is an authorized body that certifies measuring tools and inspection equipment in the construction industry."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;计量检定机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"计量检定机构 are specialized institutions responsible for the inspection and certification of measuring instruments."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;工程质量问题评定标准&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"工程质量问题评定标准 outlines the evaluation standards used to assess quality issues in construction projects."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;施工过程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工过程 encompasses all activities involved in constructing a project, closely monitored for quality compliance."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;隐蔽工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"隐蔽工程 refers to parts of a construction project that are hidden once completed, necessitating thorough inspection before they are covered."&lt;SEP&gt;"隐蔽工程是指在完工后被覆盖的工程部分，涉及建筑物的安全和使用功能。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;维修措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"维修措施 includes actions required to fix or mitigate issues identified during quality assessments in construction."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;合格证&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"合格证 is a certification indicating that materials and processes used in construction meet established standards."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;技术标准&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"技术标准 encompasses the codes and rules that guide quality and safety standards in construction."&lt;SEP&gt;"技术标准 refers to the technical standards that guide the quality evaluation and requirements for construction projects."&lt;SEP&gt;"技术标准是指在工程施工中必须遵守的具体要求和指标，一般由行业或国家设置。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </node>
+    <node id="&quot;质量标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量标准 are benchmarks used to measure the quality of construction work against industry norms."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;质量控制流程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量控制流程 outlines the systematic approach taken to overseeing quality throughout the project lifecycle."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;施工安全&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工安全 emphasizes measures taken to ensure the safety of workers and the integrity of construction processes."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;施工材料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工材料 refers to the various materials used in construction, which must meet quality and safety standards."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;质量评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量评估 refers to the process of evaluating the quality and compliance of construction work against prescribed standards."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;技术要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术要求 describe the specific technical specifications that must be met in construction projects."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;竣工验收&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竣工验收 is the final assessment conducted to certify that a construction project meets all quality standards before handover."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;工程管理方案&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"工程管理方案 is a strategic plan outlining how a construction project will be managed to ensure quality and adherence to standards."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;招标流程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"招标流程 involves the steps taken to invite bids for a construction project, including the selection of contractors."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;单位工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"单位工程 refers to individual projects within larger construction undertakings, with particular regulations and standards governing their evaluation and management."&lt;SEP&gt;"单位工程 refers to segments of the overall construction project that can be independently assessed and managed."&lt;SEP&gt;"单位工程 refers to the individual engineering projects that are evaluated for quality standards during construction."&lt;SEP&gt;"单位工程 refers to the individual units of a project that undergo their own quality assessments and approvals after completion."&lt;SEP&gt;"单位工程是指在施工项目中作为单独评价标准的工程单元，以确保各个部分的质量评定与核查。"</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-5c7fe914fdf28f737df396f6e8cb98d1&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-849f4addbae9ee9f4379bfd762a9dbd7&lt;SEP&gt;chunk-36d59925b863fd2e96dceb936ad768b6</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;质量标准审核&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量标准审核 involves the evaluation of the applied quality standards to ensure they are suitable and adhered to during construction."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;施工监管&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工监管 is the ongoing supervision of construction practices to ensure compliance with all quality metrics during the project."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;工程技术标准&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"工程技术标准 are specialized standards that provide guidelines for the technical aspects of construction projects."</data>
+      <data key="d2">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </node>
+    <node id="&quot;水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部 is a governmental authority responsible for overseeing water resources in China, including standards for water projects."&lt;SEP&gt;"水利部 is an organization responsible for overseeing water-related engineering projects, including quality assessment and standards."&lt;SEP&gt;"水利部 is the government authority responsible for overseeing water resources and the quality of water-related projects."&lt;SEP&gt;"水利部是负责建设和管理水利工程的官方机构，制定相关质量标准和评定流程。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-3e0263583cacd7ca24c25ed60aa65012&lt;SEP&gt;chunk-ccbc955beac2b9e93deb0450758ff266&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;质量检测单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"质量检测单位 is an accredited organization responsible for conducting quality assessments and tests on construction materials."&lt;SEP&gt;"质量检测单位负责对施工项目进行质量检测，确保符合相应标准。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;施工准备检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工准备检查 involves evaluating the readiness of a construction site before work begins, ensuring compliance with planned standards."&lt;SEP&gt;"施工准备检查是主体工程开工前的必要步骤，确保合格后才能进行施工。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;工程质量抽检&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程质量抽检是对已建工程质量进行的随机检查，以确认是否符合规定标准。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;抽样检测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"抽样检测用于检验材料和中间产品质量，确保其符合相关标准。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;见证取样&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"见证取样是记录和监督样本采集，以确保检验过程的规范性和真实性。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;原材料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"原材料 refers to the raw materials used in construction, which are assessed for quality during the evaluation of工程."&lt;SEP&gt;"原材料是用于工程施工的基础材料，其质量检验至关重要，以确保工程安全和合规。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be</data>
+    </node>
+    <node id="&quot;水泥&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水泥是施工过程中使用的重要原材料，其质量直接影响工程的整体安全性。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;钢材&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"钢材作为一种主要建筑材料，其质量检测是评估工程结构安全的重要环节。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;混凝土&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"混凝土是广泛应用于工程中的建筑材料，需经过严格的质量检测和抽样检验。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;工程结构安全&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程结构安全是指工程建设中涉及的各项结构必须符合安全标准，以确保施工和使用的安全性。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;试块&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"试块是用于检测混凝土等材料质量的重要样本，其检验结果直接影响工程的质量评定。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;试件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"试件是用于质量检测的样品，与工程结构的安全和稳定性密切相关。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;合同要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"合同要求是指导施工单位在工程过程中必须遵循的具体标准和规范。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;质量缺陷备案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量缺陷备案是对发现的质量问题进行记录和存档的过程，以备后续检查和追踪。"&lt;SEP&gt;"质量缺陷备案是对在质量检验过程中发现的缺陷进行记录和管理的流程。"&lt;SEP&gt;"质量缺陷备案是针对工程中发现的质量问题进行记录和处理的过程，以确保后续整改。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;平行检测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"平行检测是由监理单位进行的质量检测方式，与施工单位自检相辅相成。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;跟踪检测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"跟踪检测是持续监控施工质量的手段，以确保项目的所有阶段均符合质量要求。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;工程完工&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程完工 refers to the completion of the engineering project, after which the quality assessments and approvals are conducted."&lt;SEP&gt;"工程完工是指施工过程结束，必须经过质量检验和验收才能正式投入使用。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;专项检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"专项检查是针对特定质量问题而进行的专项检验活动，以便及时发现和解决问题。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;责任方&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"责任方是指在工程质量问题中需承担责任的单位或个人，其行为影响工程的整体质量。"</data>
+      <data key="d2">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </node>
+    <node id="&quot;工程检测单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程检测单位 refers to units tasked with assessing the quality of construction projects to ensure they meet specified standards."</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;合格标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合格标准 represents the criteria that determine whether a construction project meets the necessary quality standards for acceptance."&lt;SEP&gt;"合格标准是用于评估工程项目是否满足规定要求的标准，确保工程在验收之前达到一定的质量。"</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;施工质量评定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工质量评定 refers to the assessment process used to evaluate if construction work meets established quality standards."&lt;SEP&gt;"施工质量评定是对工程施工过程和结果进行质量检查和评定的活动。"&lt;SEP&gt;"施工质量评定是通过检验和分析确保水利水电工程在标准内的过程。"</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248&lt;SEP&gt;chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;设计文件&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"设计文件 includes the approved designs and blueprints that outline the specifications and requirements for a construction project."&lt;SEP&gt;"设计文件 refers to the design documents that outline the specifications and requirements for a construction project."</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012&lt;SEP&gt;chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </node>
+    <node id="&quot;施工图纸&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"施工图纸 are detailed drawings that illustrate the construction process and the layout of the project."</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </node>
+    <node id="&quot;金属结构设计图样&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"金属结构设计图样 consists of design drawings specifically for metal structures within the construction project."</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </node>
+    <node id="&quot;项目管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"项目管理 encompasses the various processes and methodologies involved in planning, executing, and finalizing construction projects."</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </node>
+    <node id="&quot;施工规范&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"施工规范 refers to standards and guidelines that dictate how construction work should be carried out to ensure safety and quality."</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </node>
+    <node id="&quot;抽检资料&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"抽检资料 includes the data collected from sampling inspections used to evaluate the quality of construction materials and processes."</data>
+      <data key="d2">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </node>
+    <node id="&quot;工程验收标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程验收标准是评估工程质量的标准，确定了必须达到的合格标准以便于后续施工或验收。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;不合格工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"不合格工程指那些未达到合格标准的工程，需进行处理后才能进行后续施工或验收。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;工程承发包合同&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程承发包合同中约定的技术标准是治理工程质量的重要依据。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;试运行期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"试运行期 refers to the testing phase of a construction project where systems and structures are evaluated for performance."&lt;SEP&gt;"试运行期 refers to the trial operation phase of a construction project, during which performance and quality are monitored."&lt;SEP&gt;"试运行期是对工程进行测试与观察的阶段，在此期间观察施工质量和性能是否符合标准。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </node>
+    <node id="&quot;分部工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"分部工程 refers to subdivisions of larger construction projects, each evaluated for their quality and compliance with standards."&lt;SEP&gt;"分部工程 refers to the sub-projects within a larger engineering project, each evaluated for compliance and quality standards before overall project completion."&lt;SEP&gt;"分部工程 refers to the subdivisions of a larger project, each evaluated for quality separately according to specific standards."&lt;SEP&gt;"分部工程是将大的工程项目细分为若干部分进行施工和验收的方式，以便于质量评定。"&lt;SEP&gt;"分部工程是指在工程中进行具体的阶段性验收，确保每个部分的施工质量符合标准。"</data>
+      <data key="d2">chunk-5c7fe914fdf28f737df396f6e8cb98d1&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-ccbc955beac2b9e93deb0450758ff266&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;混凝土试件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"混凝土试件是在施工过程中抽取的样本，用来检验材料的强度和质量是否符合标准。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;金属结构及启闭机&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"金属结构及启闭机是工程中的关键设备，其制造质量必须达到国家标准。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;机电产品&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"机电产品 are electrical and mechanical products used in water conservancy projects, essential for operational functionality."&lt;SEP&gt;"机电产品是工程项目中使用的设备，涉及电气和机械部分，其质量同样需要审核。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;外观质量得分率&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"外观质量得分率是用于评估工程外观质量是否符合标准的一项指标。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;工程观测资料分析结果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程观测资料分析结果是对施工中各项指标的测量和分析，以判断其是否满足规定标准。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;合同约定的标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合同约定的标准是施工双方在合同中明确规定的技术要求和质量基准。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;单位工程质量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"单位工程质量是特定工程单位的质量评定标准同步于整体工程质量评估，重要性不言而喻。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;重做质量评定标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"重做质量评定标准是针对质量不合格的工程，作出的再次评审与修正的标准。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;工程施工期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程施工期是实施具体工程建设的时间段，质量控制和达标检验在这期间进行。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;审查合格&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"审查合格是指通过检查和评估后确认工程质量达到合格标准。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;密切协作&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"密切协作指设计、施工、监理等单位之间的沟通与协同工作，以确保工程质量。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;质量等级&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量等级 refers to the classification of construction quality based on established standards."&lt;SEP&gt;"质量等级 refers to the classification of the project’s quality based on established standards and evaluation results."&lt;SEP&gt;"质量等级是对工程进行评价的依据，以表明项目质量的高低。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </node>
+    <node id="&quot;工程项目&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"工程项目是指一个具体的、包括设计、施工和验收的一系列活动的整体。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;国家和行业技术标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"国家和行业技术标准 consist of the national and industry-specific benchmarks that dictate quality requirements for construction."&lt;SEP&gt;"国家和行业技术标准是对工程质量的基本要求和指导原则，具有权威性。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be</data>
+    </node>
+    <node id="&quot;设计修改通知书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设计修改通知书是针对工程设计变更的正式文档，需按规定执行。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;设备安装说明书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备安装说明书提供有关设备的具体安装和使用指南，是确保设备正常运作的重要文件。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;整体工程质量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"整体工程质量涉及所有分部工程和单元工程的质量状况，共同影响项目的成果。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;承包商&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"承包商是指承接工程合同，负责具体施工任务的公司或个体。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;工程施工合同&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程施工合同是项目实施前各方签署的，约定条件和要求的法律文书。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;技术文件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术文件包括所有与工程施工相关的设计、材料等说明，是质量评定的重要依据。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;审计单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"审计单位负责对工程过程的合规性进行审查，确保符合相关标准和法规。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;审核机制&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"审核机制是确保工程质量监控和评估的制度基础，涉及多个参与方。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;施工质量标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工质量标准是具体规定施工质量的要求与验收标准，确保工程的整体质量。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;质检报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质检报告是对施工质量的具体评估总结，需按规定进行记录与存档。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;建设单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"建设单位负责组织和实施整个工程项目，确保各方面协调完成。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;维修与保养标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"维修与保养标准是对已完成工程进行后续维护和保养的具体要求与标准。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;测量指标&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测量指标是衡量工程施工质量的量化标准，用于质量评估与对比。"</data>
+      <data key="d2">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </node>
+    <node id="&quot;大型枢纽工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"大型枢纽工程 refers to major hub projects that undergo thorough quality assessments and must adhere to specific regulatory standards."</data>
+      <data key="d2">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;引水工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"引水工程 refers to water conveyance projects that are evaluated for appearance and structural integrity according to quality standards."</data>
+      <data key="d2">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;外观质量评定组&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"外观质量评定组 is the group responsible for evaluating the visual quality of the engineering projects based on inspection results."</data>
+      <data key="d2">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;附录表&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"附录表 refers to the appendices containing regulations, assessment tables, and evaluation standards utilized in construction quality assessments."</data>
+      <data key="d2">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </node>
+    <node id="&quot;工程外观质量评定标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程外观质量评定标准 refers to the standards established for assessing the visual quality of engineering projects."</data>
+      <data key="d2">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </node>
+    <node id="&quot;检查、检测项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检查、检测项目 refers to the specific items assessed during the quality evaluation process."</data>
+      <data key="d2">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </node>
+    <node id="&quot;相关技术标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"相关技术标准 refers to the technical standards relevant to the construction and quality assessment processes."</data>
+      <data key="d2">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;永久性房屋&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"永久性房屋 refers to permanent structures built within the scope of water conservancy and hydropower engineering projects."</data>
+      <data key="d2">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </node>
+    <node id="&quot;发电厂房&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"发电厂房 refers to power plant buildings that are part of hydropower engineering and are subject to quality evaluations."</data>
+      <data key="d2">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;工程外观质量评定组&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程外观质量评定组 is a group responsible for assessing the visual quality of engineering projects, ensuring compliance with relevant standards."</data>
+      <data key="d2">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;质检部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"质检部门 refers to the quality inspection department that oversees compliance with quality standards during construction processes."</data>
+      <data key="d2">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;监理工程师&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"监理工程师 is a supervisor engineer ensuring that construction adheres to contractual and quality specifications."&lt;SEP&gt;"监理工程师 refers to the engineer with oversight responsibilities, ensuring works comply with design and regulatory standards."</data>
+      <data key="d2">chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;总监理工程师&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"总监理工程师 is the chief supervisory engineer responsible for overall project integrity and quality evaluation."</data>
+      <data key="d2">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;质量评价标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量评价标准 encompasses the criteria used to assess the quality of construction work, including standards for ‘good,’ ‘acceptable,’ and ‘poor’ quality."</data>
+      <data key="d2">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </node>
+    <node id="&quot;外观质量检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"外观质量检查 is the event of evaluating the visual quality of engineering projects to ensure they meet specified standards."</data>
+      <data key="d2">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </node>
+    <node id="&quot;返修处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"返修处理 refers to the corrective measures taken to repair identified quality defects in construction projects."</data>
+      <data key="d2">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;中华人民共和国水利行业标准&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利行业标准 is a set of regulations and standards for construction quality inspection and evaluation in the water conservancy industry."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </node>
+    <node id="&quot;喷射混凝土抗压强度检验评定标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"喷射混凝土抗压强度检验评定标准 is an event that describes the evaluation standard for the compressive strength of shotcrete in water conservancy engineering."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </node>
+    <node id="&quot;混凝土试块&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"混凝土试块 are concrete samples tested for strength, critical for evaluating the performance of concrete in constructions."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+      <data key="d3">[{"level": 0, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;抗压强度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"抗压强度 refers to the compressive strength of concrete, an essential quality indicator for structural materials."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+      <data key="d3">[{"level": 0, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;设计天龄期抗压强度值&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设计天龄期抗压强度值 indicates the expected compressive strength value of concrete at a given age, essential for structural integrity assessment."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+      <data key="d3">[{"level": 0, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;单元工程质量等级签证表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"单元工程质量等级签证表 is a document used for certifying the quality levels of unit engineering projects in construction."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </node>
+    <node id="&quot;同批试块&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"同批试块 refer to batches of concrete samples tested together under similar conditions to ensure uniformity."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </node>
+    <node id="&quot;施工质量检验与评定规程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"施工质量检验与评定规程 is a set of guidelines for inspecting and evaluating construction quality, ensuring compliance with industry standards."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </node>
+    <node id="&quot;合格判定系数&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"合格判定系数 are judging coefficients used in determining whether construction materials meet the required standards."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+      <data key="d3">[{"level": 0, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;试块强度实测值&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"试块强度实测值 refers to the measured strength values of concrete samples, used to assess actual performance against design values."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </node>
+    <node id="&quot;抽样组数&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"抽样组数 indicates the number of sample groups taken from a batch during testing, crucial for statistical analysis."</data>
+      <data key="d2">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </node>
+    <node id="&quot;政府&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"政府负责验收工程质量等级，确保项目符合合格和优良等级的标准。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;质量检验与评定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量检验与评定是针对水利水电工程施工质量的评估过程，包含合格和优良等级的标准设定。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;施工质量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工质量指的是水利水电工程在建设过程中的施工标准和质量要求，直接关系到工程的安全和功能。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;质量评定标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量评定标准 are the standards used for evaluating the quality of construction work, ensuring that all outputs meet required benchmarks."&lt;SEP&gt;"质量评定标准是设定用于判定水利水电工程施工质量是否合格的规则和条件。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;合格等级&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合格等级是政府验收工程质量时需要达到的标准，确保工程安全可靠。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;优良等级&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"优良等级是为了促进工程质量的提升而设定的标准，旨在奖励优秀的工程项目。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;水行政主管部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水行政主管部门负责水利水电工程的质量监督与管理，确保项目合规。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;数据处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据处理是水利水电工程中对施工质量评定相关数据分析和整理的过程。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;施工质量检验与评定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工质量检验与评定是确保水利水电工程满足规定质量标准的系列步骤。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;建筑工程施工质量验收统一标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"建筑工程施工质量验收统一标准是用于评定建筑工程质量的全行业规范。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;GB50300&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"GB50300是中国建筑工程施工质量验收的统一标准，涉及各类建筑施工的质量评定。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;GBT 19000&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"GBT 19000是质量管理体系的标准，涉及系统的规范和术语。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;安全性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全性是衡量建筑物强度、稳定性和耐久性的重要特性，关系到工程的整体安全。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;功能&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"功能指的是水利水电工程实现蓄水、发电等建设目的的能力和表现。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;外观&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"外观是水利水电工程的视觉表现，反映作品的整体设计和施工质量。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;环保功能&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环保功能是水利水电工程在建设过程中对自然和社会环境影响的程度。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;项目审批&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目审批是施工机构与相关部门进行沟通，并获得进行工程的合法资格的过程。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;自然环境&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"自然环境涵盖水利水电工程建设对生态平衡的影响以及环境的保护措施。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;社会环境&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"社会环境是影响公众生活质量的条件，水利水电工程应对其有正面影响。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;项目主管部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"项目主管部门负责审核水利水电工程的实施方案，确保工程的效益和安全。"</data>
+      <data key="d2">chunk-0289e88da174463d927641075f9c0248</data>
+    </node>
+    <node id="&quot;地基&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地基 refers to the foundational layer that supports a structure, essential for ensuring stability and safety in construction projects."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;混凝土重力坝&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"混凝土重力坝 is a major structural type designed to handle water pressure through the weight of its concrete components, commonly used in dam construction."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;土石坝&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"土石坝 is a type of dam constructed from earth and stone materials, often used in flood control and irrigation systems."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;防洪堤&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"防洪堤 are embankments designed to prevent flooding in specific areas, crucial for protecting communities and farmlands."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;泄洪&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"泄洪 refers to the controlled release of water from a dam or reservoir, essential for management during high water levels."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;排水工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"排水工程 involves the systems built to remove excess water from an area, thereby preventing flooding and maintaining land usability."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;建筑物&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"建筑物 refers to structures constructed for human occupancy or use, including residential, commercial, and industrial types."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;地下建筑工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地下建筑工程 encompasses the construction of structures below the earth's surface, such as basements, tunnels, and underground facilities."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;非监理施工&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"非监理施工 refers to construction processes not supervised by a monitoring entity, which may affect quality management standards."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;水利工程质量事故处理暂行规定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利工程质量事故处理暂行规定 is a set of provisional regulations that define how to handle quality issues that arise during water resource construction projects."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;工期调整&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工期调整 involves making changes to the scheduled timeline of a construction project, often due to unforeseen circumstances."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;工程量划分&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程量划分 refers to the method of dividing the total volume of work into more manageable units for evaluation and resource allocation."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;技术规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术规范 outlines the technical requirements and standards that must be followed during construction processes."&lt;SEP&gt;"技术规范 refers to the technical standards and guidelines that dictate how construction projects should be executed for quality and safety."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;投资控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投资控制 involves managing expenditures on construction projects to ensure costs do not exceed budgets."</data>
+      <data key="d2">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </node>
+    <node id="&quot;流域机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"流域机构 refers to the regional management bodies overseeing specific river basin projects and their compliance with national standards."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;中央项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"中央项目 represents central government-led projects that require adherence to specific quality supervision standards."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;地方项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"地方项目 signifies local government-led projects that must be approved by the provincial water administrative authority."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;新技术&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"新技术 refers to innovative technologies applied in construction and is subject to specific technical guidelines."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;新工艺&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"新工艺 refers to new processes in construction that enhance efficiency or quality, guided by technical specifications."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;水工金属结构产品&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水工金属结构产品 refers to metal structures used in hydraulic engineering, whose quality is crucial for overall project success."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;养护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"养护 refers to the maintenance practices that ensure the longevity and quality of constructed projects post-completion."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;抽检项目&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"抽检项目 refers to the selected items or components within a project that are subject to random quality inspections."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;质量检验职责范围&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量检验职责范围 defines the scope and responsibilities attached to quality inspection processes in construction."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;外观质量检验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"外观质量检验 is the evaluation of the aesthetic and structural integrity of a completed project, ensuring it meets visual and physical standards."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;技术交底&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术交底 is the process of conveying technical information to ensure all parties understand their roles and requirements in a construction project."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;试样送检&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"试样送检 involves submitting samples of construction materials for quality testing according to established standards."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;项目特点&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"项目特点 refers to the unique aspects and requirements specific to each construction project that influence planning and execution."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;集成预判&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"集成预判 involves foreseeing the quality and operational outcomes of construction processes based on early evaluations."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;公正性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"公正性 emphasizes the impartiality and fairness in the quality inspection processes, crucial for maintaining standards."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;施工组织设计&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工组织设计 details the planning and organization of construction tasks to optimize workflow and adherence to quality standards."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;合格工程&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"合格工程 refers to a project that meets all specified quality benchmarks and standards as defined by regulatory agencies."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;工程管理条例&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程管理条例 outlines the regulations governing the management and oversight of construction projects to ensure adherence to quality and safety."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;验收规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"验收规程 encompasses the procedures for formally accepting the quality and completion of construction projects."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;质量保证体系&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量保证体系 is a structured system ensuring that all aspects of a project meet quality requirements from start to finish."</data>
+      <data key="d2">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </node>
+    <node id="&quot;水利工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利工程 refers to the infrastructure projects related to water resources, which are subject to quality inspections and accident handling procedures."</data>
+      <data key="d2">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;省级水行政主管部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"省级水行政主管部门 is responsible for overseeing water-related administrative functions at the provincial level."</data>
+      <data key="d2">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+      <data key="d3">[{"level": 0, "cluster": 5}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;合同文件&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"合同文件 refers to the contractual agreements that govern the responsibilities and expectations of all parties involved in a project."</data>
+      <data key="d2">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </node>
+    <node id="&quot;事故调查组&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"事故调查组 is the investigative team assembled to examine the causes of quality accidents and propose corrective actions."</data>
+      <data key="d2">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </node>
+    <node id="&quot;评定标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"评定标准 refers to the criteria and benchmarks used to assess the quality of construction projects."</data>
+      <data key="d2">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </node>
+    <node id="&quot;观测资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"观测资料 refers to the observational data collected during the construction and trial operation phases, which is crucial for quality assessments."</data>
+      <data key="d2">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </node>
+    <node id="&quot;处理方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"处理方案 refers to the proposed plan of action developed in response to a quality accident or issue."</data>
+      <data key="d2">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </node>
+    <node id="&quot;工程质量管理条例&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"《建设工程质量管理条例》 is a regulatory framework governing the management and oversight of construction project quality in China."</data>
+      <data key="d2">chunk-dddafa589bd2f04916d4fee685ec01be</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水利工程质量管理规定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"《水利工程质量管理规定》 is a set of standards that govern the quality management of water conservancy projects in China."</data>
+      <data key="d2">chunk-dddafa589bd2f04916d4fee685ec01be</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;中间产品&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中间产品 refers to intermediate products involved in the construction process that are also evaluated for quality standards."</data>
+      <data key="d2">chunk-dddafa589bd2f04916d4fee685ec01be</data>
+    </node>
+    <node id="&quot;施工质量检验与评定资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工质量检验与评定资料 encompasses the documentation and data required to assess the quality of construction work."</data>
+      <data key="d2">chunk-dddafa589bd2f04916d4fee685ec01be</data>
+    </node>
+    <node id="&quot;终检人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"终检人员 are the personnel responsible for the final inspection of construction work to ensure it meets the required quality standards."</data>
+      <data key="d2">chunk-dddafa589bd2f04916d4fee685ec01be</data>
+    </node>
+    <node id="&quot;混凝土拌和质量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"混凝土拌和质量 refers to the quality of concrete mixing, which is critical for the strength and durability of construction structures."</data>
+      <data key="d2">chunk-dddafa589bd2f04916d4fee685ec01be</data>
+    </node>
+    <node id="&quot;优良标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"优良标准 refers to the excellent quality standards set for construction projects to encourage high-quality execution."</data>
+      <data key="d2">chunk-dddafa589bd2f04916d4fee685ec01be</data>
+    </node>
+    <node id="&quot;合同约定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合同约定 refers to the specific agreements outlined in contracts that dictate the quality expectations and requirements in construction."</data>
+      <data key="d2">chunk-dddafa589bd2f04916d4fee685ec01be</data>
+    </node>
+    <node id="&quot;强制性条文&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"强制性条文是对工程施工质量检验与评定的法律法规，规定了最低质量标准和监督要求。"</data>
+      <data key="d2">chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;质量监督报告&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量监督报告是在施工质量检查后形成的正式文件，说明工程是否达到合格标准。"</data>
+      <data key="d2">chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;水闸施工规范&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水闸施工规范是针对水闸施工过程的具体规定，涉及质量检验及施工标准。"</data>
+      <data key="d2">chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+    </node>
+    <node id="&quot;混凝土强度检验评定标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"混凝土强度检验评定标准规定了混凝土强度测试的要求及方法，用于确保工程质量。"</data>
+      <data key="d2">chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水利水电工程施工质量检验与评定规程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Ministry of Water Resources issued the standard for inspection and assessment, indicating its authoritative role in quality management."</data>
+      <data key="d6">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;四川省水利科学研究院&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"The Ministry provides oversight and establishes the necessity for collaboration with scientific research institutes like Sichuan Province for drafting technical standards."&lt;SEP&gt;"The Sichuan Provincial Water Resources Scientific Research Institute collaborates with the Ministry to draft and manage water resource standards."</data>
+      <data key="d6">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </edge>
+    <edge source="&quot;水利水电工程施工质量检验与评定规程&quot;" target="&quot;河南华禹黄河工程局&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Henan Huayu Yellow River Engineering Bureau applies the assessment standards to evaluate quality in engineering projects."</data>
+      <data key="d6">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </edge>
+    <edge source="&quot;长江水利委员会&quot;" target="&quot;质量评定工作&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The Yangtze River Water Resources Commission contributes to quality assessment work by implementing standards related to water projects along the Yangtze River."</data>
+      <data key="d6">chunk-fd30d805cc6341c201a45e95076008bd</data>
+    </edge>
+    <edge source="&quot;质量评定工作&quot;" target="&quot;监理单位&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"质量评定工作需要监理单位的复核和核定，确保质量评定的客观性与准确性。"</data>
+      <data key="d6">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </edge>
+    <edge source="&quot;质量事故&quot;" target="&quot;施工质量等级&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"质量事故的发生与施工质量等级密切相关，表明工程质量管理的成效。"</data>
+      <data key="d6">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </edge>
+    <edge source="&quot;质量事故&quot;" target="&quot;施工单位&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"质量事故 should be investigated and addressed by 施工单位 to maintain project quality and compliance."</data>
+      <data key="d6">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </edge>
+    <edge source="&quot;质量事故&quot;" target="&quot;工程质量监督机构&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"工程质量监督机构 is involved in the investigation and rectification of 质量事故 occurrences for compliance."</data>
+      <data key="d6">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </edge>
+    <edge source="&quot;质量事故&quot;" target="&quot;水利工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利工程 can experience 质量事故 that necessitate investigation and remedial action by the project stakeholders."</data>
+      <data key="d6">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </edge>
+    <edge source="&quot;技术负责人&quot;" target="&quot;施工单位&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The 技术负责人 supervises the work executed by the 施工单位 to ensure compliance with engineering standards."</data>
+      <data key="d6">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;质量管理体系&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"水利水电工程需要建立质量管理体系，以规范化施工质量的检验和评定。"</data>
+      <data key="d6">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;项目法人&quot;">
+      <data key="d4">15.0</data>
+      <data key="d5">"水利水电工程 projects are managed by the 项目法人, who organizes the division and compliance of these projects."&lt;SEP&gt;"项目法人负责组织和实施水利水电工程的施工质量检验与评定工作。"</data>
+      <data key="d6">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;工程验收标准&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利水电工程施工质量等级评定是依据工程验收标准进行的。"</data>
+      <data key="d6">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;监理单位&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"监理单位负责对水利水电工程后续施工过程中的质量进行审核与监督。"</data>
+      <data key="d6">chunk-7ae6c4d069d09f5f2acbc046a8ce7875</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;工程外观质量评定组&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程外观质量评定组 is responsible for assessing the quality of the 水利水电工程 projects, thereby ensuring quality compliance."</data>
+      <data key="d6">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;混凝土试块&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Concrete samples are essential components in evaluating the structures built within the water conservancy and hydropower engineering sector."</data>
+      <data key="d6">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;施工质量检验&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利水电工程 must undergo施工质量检验 to ensure that they meet the technical regulations established by the government."</data>
+      <data key="d6">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;施工质量评定&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"施工质量评定与水利水电工程密切相关，后者需要严格遵循前者的标准进行评估。"</data>
+      <data key="d6">chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+    </edge>
+    <edge source="&quot;质量管理体系&quot;" target="&quot;质量缺陷&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"质量缺陷的控制与管理是通过建立健全的质量管理体系来实现的。"</data>
+      <data key="d6">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </edge>
+    <edge source="&quot;质量检验&quot;" target="&quot;工程质量监督机构&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程质量监督机构 oversees the quality inspection process, ensuring that all standards are met during project execution."</data>
+      <data key="d6">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </edge>
+    <edge source="&quot;质量检验&quot;" target="&quot;检测单位&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"检测单位 conduct quality inspections as part of their responsibilities to ensure that construction meets the mandated standards."</data>
+      <data key="d6">chunk-18e5140354935eb01067fa97f329e28c</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;施工单位&quot;">
+      <data key="d4">42.0</data>
+      <data key="d5">"项目法人 coordinates with the施工单位 to implement the construction according to the approved quality standards."&lt;SEP&gt;"项目法人 oversees the施工单位's compliance with construction standards and quality assessments."&lt;SEP&gt;"项目法人负责监督施工单位，确保其实施的工程符合质量检验与评定的标准。"&lt;SEP&gt;"项目法人负责管理和协调施工单位的工作，以确保工程质量的高标准执行。"&lt;SEP&gt;"项目法人负责组织施工单位的工作，确保施工质量符合标准和合同要求。"</data>
+      <data key="d6">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;工程质量监督机构&quot;">
+      <data key="d4">32.0</data>
+      <data key="d5">"工程质量监督机构对项目法人进行监督，确保其质量管理合规有效。"&lt;SEP&gt;"项目法人 is responsible for reporting quality conclusions to the quality supervision organization for approval and verification."&lt;SEP&gt;"项目法人 is responsible for submitting project divisions to the engineering quality supervision institution for confirmation, indicating a regulatory relationship."&lt;SEP&gt;"项目法人需将验收质量结论报工程质量监督机构进行核备，说明两者间的协作关系。"</data>
+      <data key="d6">chunk-18e5140354935eb01067fa97f329e28c&lt;SEP&gt;chunk-849f4addbae9ee9f4379bfd762a9dbd7&lt;SEP&gt;chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;水利部&quot;">
+      <data key="d4">23.0</data>
+      <data key="d5">"水利部 oversees the project法人, ensuring that all standards and regulations for water infrastructure are adhered to in projects."&lt;SEP&gt;"水利部为项目法人制定质量标准并监督其实施，指导工程建设的质量管理。"&lt;SEP&gt;"项目法人 reports findings related to 质量事故 to 水利部 for further oversight and approval."</data>
+      <data key="d6">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-ccbc955beac2b9e93deb0450758ff266&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;监理单位&quot;">
+      <data key="d4">40.0</data>
+      <data key="d5">"监理单位 provides quality verification reports to the项目法人 to ensure accountability and compliance."&lt;SEP&gt;"监理单位 works on behalf of the 项目法人 to ensure project adherence to specified quality and safety standards."&lt;SEP&gt;"监理单位负责对施工单位的自评进行复核，确保项目法人的验收质量符合标准。"&lt;SEP&gt;"项目法人 organizes and coordinates the work of the monitoring unit to ensure compliance and quality within the construction process."&lt;SEP&gt;"项目法人与监理单位共同检查并核定工程的质量等级，二者在质量评定工作中协作密切。"</data>
+      <data key="d6">chunk-5c7fe914fdf28f737df396f6e8cb98d1&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-7ae6c4d069d09f5f2acbc046a8ce7875&lt;SEP&gt;chunk-36d59925b863fd2e96dceb936ad768b6&lt;SEP&gt;chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;分部工程&quot;">
+      <data key="d4">17.0</data>
+      <data key="d5">"分部工程 quality assessments are recognized and approved by 项目法人 after contractor self-evaluation and third-party review."&lt;SEP&gt;"项目法人负责分部工程验收，将检验结果上报相关机构，说明两者之间的责任与作用。"</data>
+      <data key="d6">chunk-849f4addbae9ee9f4379bfd762a9dbd7&lt;SEP&gt;chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;单位工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"单位工程 undergoes quality evaluation by 施工单位 before being reported to 项目法人 for final determination."</data>
+      <data key="d6">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;外观质量评定组&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"外观质量评定组 conducts assessments of engineering appearance quality, reporting findings to 项目法人 for verification."</data>
+      <data key="d6">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;施工质量检验&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工质量检验 is conducted under the supervision of the project entity to ensure quality maintenance throughout the construction."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;工期调整&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"项目法人 has the authority to initiate 工期调整 in response to project needs and unforeseen challenges."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;水利工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"项目法人 organizes inspections and assessments related to the quality of 水利工程 to ensure adherence to standards."</data>
+      <data key="d6">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </edge>
+    <edge source="&quot;项目法人&quot;" target="&quot;省级水行政主管部门&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"项目法人 seeks approval from 省级水行政主管部门 after evaluating 质量事故 and proposing remedial actions."</data>
+      <data key="d6">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </edge>
+    <edge source="&quot;监理单位&quot;" target="&quot;施工单位&quot;">
+      <data key="d4">52.0</data>
+      <data key="d5">"施工单位 is responsible for the construction work, while监理单位 reviews and ensures that the quality of the work meets regulatory standards."&lt;SEP&gt;"施工单位 works under the oversight of 监理单位 which supervises the construction quality and compliance with regulations."&lt;SEP&gt;"施工单位’s self-evaluations of project quality are reviewed by 监理单位 for compliance before final approval."&lt;SEP&gt;"监理单位对施工单位的工作进行监督，确保施工质量的合规性。"&lt;SEP&gt;"监理单位监督施工单位的工作，确保其遵循国家及行业标准执行施工质量检验。"&lt;SEP&gt;"监理单位监督施工单位的工程质量，通过复核结果确保符合建筑标准。"</data>
+      <data key="d6">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2&lt;SEP&gt;chunk-0289e88da174463d927641075f9c0248&lt;SEP&gt;chunk-dddafa589bd2f04916d4fee685ec01be&lt;SEP&gt;chunk-6242cdaa7d1d4f6ea8c42868ced34ae7&lt;SEP&gt;chunk-849f4addbae9ee9f4379bfd762a9dbd7&lt;SEP&gt;chunk-e3761a805566df910526a42b5dbc865d</data>
+    </edge>
+    <edge source="&quot;监理单位&quot;" target="&quot;施工准备检查&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"监理单位确认施工准备检查合格后，才能允许施工单位进行主体工程施工。"</data>
+      <data key="d6">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </edge>
+    <edge source="&quot;监理单位&quot;" target="&quot;监理工程师&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"监理工程师 operates within the 监理单位 to oversee and enforce construction quality rules and standards."</data>
+      <data key="d6">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;监理单位&quot;" target="&quot;总监理工程师&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"总监理工程师 leads the monitoring efforts of the 监理单位, ensuring comprehensive quality assessments are conducted."</data>
+      <data key="d6">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;监理单位&quot;" target="&quot;政府&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"政府对监理单位的监督确保其有效进行工程质量的监督与管理。"</data>
+      <data key="d6">chunk-0289e88da174463d927641075f9c0248</data>
+    </edge>
+    <edge source="&quot;监理单位&quot;" target="&quot;单位工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"监理单位 oversees the execution and quality assurance of unit projects, ensuring they meet the specified standards."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;监理单位&quot;" target="&quot;技术规范&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"技术规范 are crucial guidelines upheld by 监理单位 to ensure that construction processes meet established safety and quality standards."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;监理单位&quot;" target="&quot;质量监督报告&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"监理单位编写质量监督报告，用以反映施工单位的质量评定结果和整改情况。"</data>
+      <data key="d6">chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;工程质量检测单位&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"施工单位需与工程质量检测单位协作，以进行必要的质量检验和评定。"</data>
+      <data key="d6">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;设计单位&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"设计单位提供施工图纸和设计方案，施工单位根据这些文件进行建设。"</data>
+      <data key="d6">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;质量检测单位&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"质量检测单位负责对施工单位的工程质量进行检测，确保符合标准。"</data>
+      <data key="d6">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;见证取样&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"见证取样的责任在于施工单位，确保记录过程的完整和质量的真实性。"</data>
+      <data key="d6">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;水利部&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工单位 operates under the regulations set by 水利部, ensuring that construction practices comply with legal standards."</data>
+      <data key="d6">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;工程质量监督机构&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程质量监督机构 monitors the quality of work done by 施工单位, ensuring it meets established standards."</data>
+      <data key="d6">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;工程检测单位&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程检测单位 is responsible for verifying and assessing the quality of the work performed by 施工单位."</data>
+      <data key="d6">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;合格标准&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"施工单位 must adhere to the standards of 合格标准 to ensure project approval and safety."</data>
+      <data key="d6">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;相关技术标准&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"相关技术标准 are utilized by 施工单位 to guide their quality assessments during construction."</data>
+      <data key="d6">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </edge>
+    <edge source="&quot;施工单位&quot;" target="&quot;质检部门&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工单位 must coordinate with the 质检部门 to ensure that all construction meets quality inspection requirements."</data>
+      <data key="d6">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;水利枢纽工程&quot;" target="&quot;水电站&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水电站与水利枢纽工程相辅相成，共同推动水资源的利用与管理。"</data>
+      <data key="d6">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </edge>
+    <edge source="&quot;堤防工程&quot;" target="&quot;分部工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"堤防工程 is evaluated as a category of 分部工程, subject to quality assessments and approvals."</data>
+      <data key="d6">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </edge>
+    <edge source="&quot;监理机构&quot;" target="&quot;勘测单位&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"监理机构与勘测单位合作，确保施工前的评估精准有效，支撑后续施工质量。"</data>
+      <data key="d6">chunk-e3761a805566df910526a42b5dbc865d</data>
+    </edge>
+    <edge source="&quot;质量缺陷&quot;" target="&quot;工程外观质量评定组&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"When a 质量缺陷 is identified, the 工程外观质量评定组 assesses its impact and recommends necessary repairs."</data>
+      <data key="d6">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;质量缺陷&quot;" target="&quot;返修处理&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"When a 质量缺陷 is found, 返修处理 must be undertaken to correct the issues before re-evaluation can occur."</data>
+      <data key="d6">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;工程质量监督机构&quot;" target="&quot;工程质量抽检&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程质量监督机构实施工程质量抽检，以确保施工有效并合规。"</data>
+      <data key="d6">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </edge>
+    <edge source="&quot;工程质量监督机构&quot;" target="&quot;合格标准&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程质量监督机构 enforces the 合格标准 for all projects under their jurisdiction."</data>
+      <data key="d6">chunk-3e0263583cacd7ca24c25ed60aa65012</data>
+    </edge>
+    <edge source="&quot;工程质量监督机构&quot;" target="&quot;大型枢纽工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"大型枢纽工程 quality conclusions are verified by the quality supervision organization, ensuring compliance with quality standards."</data>
+      <data key="d6">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </edge>
+    <edge source="&quot;工程质量监督机构&quot;" target="&quot;工程外观质量评定组&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The results from the 工程外观质量评定组 must be reported to the 工程质量监督机构 for official approval."</data>
+      <data key="d6">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;工程质量监督机构&quot;" target="&quot;施工质量检验&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"施工质量检验 is conducted by工程质量监督机构 which ensures compliance with national quality standards."</data>
+      <data key="d6">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </edge>
+    <edge source="&quot;施工质量检验&quot;" target="&quot;重要隐蔽单元工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"施工质量检验 ensures that crucial hidden components are constructed to the requisite safety and functionality standards."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;施工质量检验&quot;" target="&quot;水利工程质量事故处理暂行规定&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利工程质量事故处理暂行规定 guide the processes involved in 施工质量检验 to ensure compliance with safety standards."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;重要隐蔽单元工程&quot;" target="&quot;单位工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"重要隐蔽单元工程 is a category that falls under the broader classification of unit projects, specifically emphasizing their significance in construction safety."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;单位工程&quot;" target="&quot;工程完工&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程完工 signifies the completion of 各单位工程, upon which quality evaluations are conducted."</data>
+      <data key="d6">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </edge>
+    <edge source="&quot;单位工程&quot;" target="&quot;工程质量管理条例&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The quality of单位工程 is governed by the standards outlined in工程质量管理条例, ensuring compliance with regulatory requirements."</data>
+      <data key="d6">chunk-dddafa589bd2f04916d4fee685ec01be</data>
+    </edge>
+    <edge source="&quot;单位工程&quot;" target="&quot;水利工程质量管理规定&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"单位工程 related to water conservancy projects must adhere to the standards set by水利工程质量管理规定 for quality assurance."</data>
+      <data key="d6">chunk-dddafa589bd2f04916d4fee685ec01be</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;地方项目&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利部 sets the overarching rules and standards that地方项目 must follow for quality assessment."</data>
+      <data key="d6">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </edge>
+    <edge source="&quot;水利部&quot;" target="&quot;省级水行政主管部门&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水利部 collaborates with 省级水行政主管部门 to ensure that quality standards are met across various projects."</data>
+      <data key="d6">chunk-ccbc955beac2b9e93deb0450758ff266</data>
+    </edge>
+    <edge source="&quot;质量检测单位&quot;" target="&quot;抽样检测&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"抽样检测由质量检测单位实施，负责检验材料和产品质量，确保符合标准。"</data>
+      <data key="d6">chunk-aee668c90e6a48fc0b0fedfe0c4eecd2</data>
+    </edge>
+    <edge source="&quot;施工质量评定&quot;" target="&quot;分部工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"分部工程的质量检验是施工质量评定的重要组成部分，确保施工各阶段的合格。"</data>
+      <data key="d6">chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+    </edge>
+    <edge source="&quot;分部工程&quot;" target="&quot;引水工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"引水工程 is one of the types of 分部工程 assessed for quality compliance and reporting procedures."</data>
+      <data key="d6">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </edge>
+    <edge source="&quot;质量等级&quot;" target="&quot;工程外观质量评定标准&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"质量等级 is determined based on compliance with工程外观质量评定标准 during assessments."</data>
+      <data key="d6">chunk-849f4addbae9ee9f4379bfd762a9dbd7</data>
+    </edge>
+    <edge source="&quot;发电厂房&quot;" target="&quot;工程外观质量评定组&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The 发电厂房 is evaluated for external quality by the 工程外观质量评定组 as part of the construction quality checks."</data>
+      <data key="d6">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;质量评价标准&quot;" target="&quot;外观质量检查&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The 外观质量检查 is based on the 质量评价标准 to determine the quality levels of various construction aspects."</data>
+      <data key="d6">chunk-52edcaea2f3f7b47bd03ab6d00af8e10</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利行业标准&quot;" target="&quot;喷射混凝土抗压强度检验评定标准&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The evaluation standard for shotcrete strength is part of the broader regulations set forth by the China water conservancy industry standards."</data>
+      <data key="d6">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </edge>
+    <edge source="&quot;混凝土试块&quot;" target="&quot;抗压强度&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The compressive strength is directly assessed through testing of concrete samples in construction projects."</data>
+      <data key="d6">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </edge>
+    <edge source="&quot;抗压强度&quot;" target="&quot;设计天龄期抗压强度值&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The designed compressive strength value serves as a benchmark against which the actual compressive strength is measured."</data>
+      <data key="d6">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </edge>
+    <edge source="&quot;设计天龄期抗压强度值&quot;" target="&quot;合格判定系数&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The conformity judgment coefficients are used in the evaluation process to compare against the designed compressive strength values."</data>
+      <data key="d6">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </edge>
+    <edge source="&quot;单元工程质量等级签证表&quot;" target="&quot;施工质量检验与评定规程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The construction quality inspection and evaluation regulations provide criteria for assessing the quality levels documented in the unit engineering quality certification forms."</data>
+      <data key="d6">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </edge>
+    <edge source="&quot;同批试块&quot;" target="&quot;试块强度实测值&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The measured strength values of concrete samples are derived from the tested batches of concrete samples."</data>
+      <data key="d6">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </edge>
+    <edge source="&quot;同批试块&quot;" target="&quot;抽样组数&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"The number of sample groups taken is related to the batches of concrete samples, influencing the reliability of the strength testing results."</data>
+      <data key="d6">chunk-1ebdb3a13b4cdd0a36233cabbc5a7289</data>
+    </edge>
+    <edge source="&quot;政府&quot;" target="&quot;质量检验与评定&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"政府负责验收质量检验与评定结果，确保工程达到合格或优良等级。"</data>
+      <data key="d6">chunk-0289e88da174463d927641075f9c0248</data>
+    </edge>
+    <edge source="&quot;地基&quot;" target="&quot;混凝土重力坝&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"地基 serves as the foundational support for 混凝土重力坝, directly impacting its stability and effectiveness."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;混凝土重力坝&quot;" target="&quot;防洪堤&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"混凝土重力坝 and 防洪堤 are both critical structures in water management systems, each serving a specific function in flood prevention."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;混凝土重力坝&quot;" target="&quot;泄洪&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"泄洪 operations are essential for managing water levels in 混凝土重力坝 during periods of heavy rainfall."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;建筑物&quot;" target="&quot;地下建筑工程&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"地下建筑工程 focuses on constructing structures like basements beneath the main 建筑物, emphasizing safety and design integrity."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;工程量划分&quot;" target="&quot;投资控制&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"投资控制 works hand-in-hand with 工程量划分 to ensure accurate budgeting and resource allocation in construction projects."</data>
+      <data key="d6">chunk-36d59925b863fd2e96dceb936ad768b6</data>
+    </edge>
+    <edge source="&quot;流域机构&quot;" target="&quot;中央项目&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"流域机构 provides oversight and approval for centralized government projects to ensure they meet national standards."</data>
+      <data key="d6">chunk-6242cdaa7d1d4f6ea8c42868ced34ae7</data>
+    </edge>
+    <edge source="&quot;强制性条文&quot;" target="&quot;质量监督报告&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"强制性条文明确规定了质量监督报告的编写方法以及使用要求，维护工程质量标准。"</data>
+      <data key="d6">chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+    </edge>
+    <edge source="&quot;水闸施工规范&quot;" target="&quot;混凝土强度检验评定标准&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水闸施工规范中引用了混凝土强度检验评定标准，以确保水闸工程中混凝土的质量。"</data>
+      <data key="d6">chunk-5c7fe914fdf28f737df396f6e8cb98d1</data>
+    </edge>
+  </graph>
+</graphml>

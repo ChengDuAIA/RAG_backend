@@ -1,0 +1,980 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is the governmental body responsible for water resources in China, involved in publishing standards and regulations."</data>
+      <data key="d2">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;中国水利水电工程总公司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中国水利水电工程总公司 is the main editing unit responsible for the standards of roller compacted concrete quality assessment."&lt;SEP&gt;"中国水利水电工程总公司 is the primary editing unit for construction standards related to hydraulic engineering and acts under the approval of the Ministry of Water Resources."</data>
+      <data key="d2">chunk-e1f54fd1707ee16c4aac225c23923c4b&lt;SEP&gt;chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;水工碾压混凝土施工规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水工碾压混凝土施工规范 refers to the construction standard for roller compacted concrete in hydraulic engineering, approved and published for industry use."</data>
+      <data key="d2">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水工碾压混凝土施工暂行规定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水工碾压混凝土施工暂行规定 are the interim regulations for roller compacted concrete construction that were replaced by the new official standard."</data>
+      <data key="d2">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;一九九四年七月一日&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"一九九四年七月一日 marks the effective date for the implementation of the new roller compacted concrete construction standard."</data>
+      <data key="d2">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;碾压混凝土&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"碾压混凝土 refers to a construction method involving the compaction of concrete for large structures, emphasizing techniques, materials, and quality control."&lt;SEP&gt;"碾压混凝土 refers to roller compacted concrete technology used in large-scale hydraulic engineering projects, known for its efficiency and durability."&lt;SEP&gt;"碾压混凝土是指一种施工方法，用于构建坝体，强调压实和层面处理的技术细节。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1&lt;SEP&gt;chunk-e1f54fd1707ee16c4aac225c23923c4b&lt;SEP&gt;chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;水利电力出版社&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利电力出版社 is responsible for publishing and distributing the standards and guidelines issued by the Ministry of Water Resources, ensuring their accessibility."</data>
+      <data key="d2">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;强度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"强度 refers to the strength requirements that the roller compacted concrete must meet as per design specifications."</data>
+      <data key="d2">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;抗渗性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"抗渗性 refers to the impermeability characteristics that roller compacted concrete must have to ensure durability in water-related engineering projects."</data>
+      <data key="d2">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;耐久性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"耐久性 refers to the durability requirements for roller compacted concrete, ensuring it withstands various environmental conditions over time."</data>
+      <data key="d2">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;施工质量管理和评定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工质量管理和评定 refers to the quality management and assessment practices that are part of the standard for roller compacted concrete construction."</data>
+      <data key="d2">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;施工&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工 refers to the overall construction process, involving planning, preparation, and execution of construction tasks."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;砂石料生产系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"砂石料生产系统 is a system used for producing sand and gravel, essential materials in concrete mixing and construction."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;拌和设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"拌和设备 refers to the equipment used for mixing concrete, ensuring the proper consistency and quality of the concrete."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;坝体&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"坝体 refers to the dam body, which is subject to various construction processes and techniques, particularly in terms of concrete compaction and quality control."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;运输机具&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"运输机具 includes the various tools and machinery used in the transportation of concrete during the construction process."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;水泥&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水泥 is a fundamental construction material used in the making of concrete, essential for most building projects."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;骨料&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"骨料 refers to the various aggregate materials, such as sand and gravel, that are mixed with cement and water to form concrete."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;自卸卡车&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"自卸卡车 is a type of vehicle used for transporting materials, particularly for moving concrete in construction."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;搅拌设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"搅拌设备 includes machinery that combines concrete ingredients, ensuring a uniform mixture essential for construction quality."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;模板&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"模板 are structures used to shape the concrete during pouring, ensuring it sets correctly to meet design specifications."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;坝头&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"坝头 refers to the area or structure at the head of a dam where water is retained or controlled."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;混凝土制备系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"混凝土制备系统 is the system involved in preparing and mixing concrete, incorporating materials and methods for quality assurance."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;聚氨酯&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"聚氨酯 is a type of resin that can be used for various construction applications, potentially in concrete additives or molds."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;细骨料&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"细骨料 refers to fine aggregate materials, such as sand, that are used in the formation of concrete."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;厚度控制要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"厚度控制要求 refers to the specifications guiding the thickness of concrete layers to ensure structural integrity and performance."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;铺筑层的厚度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"铺筑层的厚度 is the specification regarding the thickness of concrete layers being laid during construction."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;压实厚度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"压实厚度 indicates the required compacting thickness of concrete to ensure proper formation and stability."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;混泥土质量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"混泥土质量 concerns the standards and requirements for the quality of concrete used in construction projects."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;工况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工况 covers the working conditions relevant to the mixing and application processes for concrete."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;测试设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"测试设备 refers to the testing apparatus used to evaluate the quality and consistency of the concrete during and after mixing."</data>
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </node>
+    <node id="&quot;基岩&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"基岩是施工中的底层，承载着上层的混凝土垫层，关键于混凝土的稳定性。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;施工缝&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工缝是施工过程中形成的缝隙，需要特别处理以确保结构的完整性。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;常态混凝土&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"常态混凝土是在特定条件下浇筑的基础混凝土，常用于结合不同类型的混凝土。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;养护工作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"养护工作是在施工间歇期间对碾压混凝土进行的保护措施，以保持其湿润和稳定。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;埋设件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"埋设件是在混凝土中安装的仪器和电缆，需要特别关注其施工与保护。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;水流&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水流是碾压混凝土施工中的一个重要因素，影响碾压的方向和方式。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;土壤&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土壤的性质和状态会影响碾压混凝土的压实效果和结构稳定性。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;切缝机&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"切缝机是一种设备，用于在施工缝处切割混凝土，以确保缝面的处理质量。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;干燥砂子&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"干燥砂子是一种填充材料，用于施工中的缝隙处理，以提高结构的密实性。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;金属片&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"金属片可作为填缝材料的一种选择，确保缝的完整性和稳定性。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;浮浆&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"浮浆是混凝土表面出现的松动物质，需要在施工中特别处理以保证粘合性。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;灌浆&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"灌浆是一种施工方法，用于增强混凝土的连接和稳定性，通常在关键施工点使用。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;气象条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"气象条件指施工期间的气候影响，如雨水和温度，对施工进度和混凝土性能的重要性。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;斜坡面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"斜坡面是施工时为了防止混凝土积水而造成的结构设计要求。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;观察仪器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"观察仪器用于监测混凝土内部的情况，确保施工质量和安全。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;施工计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工计划是项目的时间安排，涵盖施工步骤及各阶段的目标与要求。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;回填层&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"回填层是在混凝土施工中用于保护埋设件的一层混凝土，至关重要。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;水流入&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防止水流入混凝土施工区域是确保混凝土质量和稳定性的重要步骤。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;层间间歇期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"层间间歇期是施工过程中，每层混凝土之间的休息和检测时间，影响施工质量。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;混凝土初凝时间&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"混凝土初凝时间是施工中的关节点，需控制各层施工的间隔。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;拌和物&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"拌和物是混凝土的原料，影响最终产品的强度和质量。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;提升工作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"提升工作是施工中进行的各类活动，确保进度与质量的相辅相成。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;施工过程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工过程涵盖了从准备到完成的各类活动，是项目的核心内容。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;湿润状态&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"湿润状态是保障混凝土质量、避免干燥裂缝的重要条件。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;提升面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"提升面是施工中的一个关键部分，常涉及混凝土浇筑的具体设计。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;施工日志&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"施工日志是在施工过程中记录的详细信息，确保流程透明和可追溯性。"&lt;SEP&gt;"施工日志记录了关于施工过程的详细信息，包括质量管理和天气条件的应对措施。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1&lt;SEP&gt;chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;竣工图&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"竣工图是完成施工后绘制的详细文档，反映工程的实际状态。"</data>
+      <data key="d2">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </node>
+    <node id="&quot;电缆&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电缆是用于施工的关键材料，须在埋设点附近留有一定的富余长度，以确保施工顺利进行。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;混凝土&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"混凝土 is a material used in construction, specifically referenced in the context of roller compacted concrete quality assessment."&lt;SEP&gt;"混凝土作为施工的主要材料，受到温度和湿度等环境因素的影响，需要在施工中加以控制。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec&lt;SEP&gt;chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </node>
+    <node id="&quot;气象预报工作&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"气象预报工作是一个机构，负责提供天气预报以指导施工进度和措施。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;仓面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"仓面指的是混凝土施工中需要保持湿润的表面，影响混凝土质量。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;水分密度仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"水分密度仪是一种用于检测混凝土压实容重的设备，确保施工中的混凝土质量。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;引气剂&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"引气剂是一种添加剂，用于改善混凝土的性能，控制含气量，影响施工质量。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;搅拌机&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"搅拌机是一种用于搅拌混凝土材料的设备，其性能直接影响混凝土的均匀性和强度。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;标准立方体试件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标准立方体试件是用于检测混凝土抗压强度的试件，评估混凝土的生产质量。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;质量管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量管理是确保施工材料和过程符合标准要求的重要管理原则。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;抽样检测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"抽样检测是一种质量控制过程，通过随机取样来评估混凝土的强度和均匀性。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;防雨保护措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防雨保护措施是施工中用于应对降雨时，保护刚碾压完的混凝土质量的策略。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;控制标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"控制标准是用于检验和维护施工过程中材料和工艺合规性的重要原则。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;温度控制&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"温度控制在混凝土施工中极为重要，确保混凝土在适宜的温度范围内硬化。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;浇筑过程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"浇筑过程是混凝土施工的关键环节，需要严格控制材料的配比和环境条件。"</data>
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </node>
+    <node id="&quot;闽江工程局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"闽江工程局 is one of the participating units involved in the evaluation and oversight of roller compacted concrete projects."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;武汉水利电力大学&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"武汉水利电力大学 is a contributing institution that collaborates on standards related to roller compacted concrete quality."&lt;SEP&gt;"武汉水利电力大学 is an organization focused on water conservancy and electrical engineering, contributing to research and education in these fields."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;福建水电工程局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"福建水电工程局 is a regional organization involved in the engineering and construction of water power projects."&lt;SEP&gt;"福建水电工程局 is an organization involved in hydropower engineering and projects in the Fujian province of China."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;水利水电科学研究院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利水电科学研究院 is a research institute contributing to standards in hydraulic and hydropower engineering."&lt;SEP&gt;"水利水电科学研究院 is a research institute specializing in water conservancy and hydropower science."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;长江葛洲坝工程局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"长江葛洲坝工程局 is an organization focused on water conservancy and hydropower engineering in the Yangtze River region."&lt;SEP&gt;"长江葛洲坝工程局 is an organization overseeing projects related to the Gezhouba Dam on the Yangtze River, focusing on hydropower."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;水电七局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水电七局 is a construction unit specializing in hydropower engineering projects."&lt;SEP&gt;"水电七局 is an organization part of the larger hydropower construction sector, involved in various hydropower projects."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;武警水电指挥部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"武警水电指挥部 is a command unit that supports hydropower operations with a military framework."&lt;SEP&gt;"武警水电指挥部 is a unit responsible for the hydraulic engineering oversight that ensures quality during construction."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;冯运鸾&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"冯运鸾 is a key figure involved in the drafting processes related to hydropower projects."&lt;SEP&gt;"冯运鸾 is one of the main authors involved in drafting the standards for roller compacted concrete."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;蒋元&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"蒋元 is a key contributor to the writing of the standards for quality assessment in roller compacted concrete."&lt;SEP&gt;"蒋元 is identified as a main drafter in the context of hydropower projects."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;马同林&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"马同林 is another significant contributor in the drafting process for hydropower initiatives."&lt;SEP&gt;"马同林 is involved in creating the standards surrounding roller compacted concrete assessment."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;辉二方坤河&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"辉二方坤河 is an author contributing to the roller compacted concrete standards."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;颜玉明&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"颜玉明 is a key person in the drafting process for the said standards on concrete."&lt;SEP&gt;"颜玉明 is also noted as a key player in the drafting efforts for hydropower initiatives."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;姜福田&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"姜福田 is instrumental in writing the standards related to concrete quality."&lt;SEP&gt;"姜福田 is involved in the drafting process, contributing to the hydropower projects."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;唐舜如&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"唐舜如 is mentioned as one of the main drafters in the context of hydropower projects."&lt;SEP&gt;"唐舜如 is one of the significant authors involved in drafting the guidelines for concrete assessment."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;魏大智&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"魏大智 is a key author and contributor to the roller compacted concrete standards."&lt;SEP&gt;"魏大智 is listed among the chief drafters involved in hydropower initiatives."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;周定荣&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"周定荣 is another primary author involved in developing the assessment standards for concrete quality."&lt;SEP&gt;"周定荣 is cited as a significant drafter in relation to hydropower projects."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a&lt;SEP&gt;chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;抗压强度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"抗压强度 refers to the compressive strength of the concrete, a key metric in assessing the quality of roller compacted concrete."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </node>
+    <node id="&quot;设计龄期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设计龄期 denotes the design age at which the compressive strength of concrete is evaluated, critical for quality assurance."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </node>
+    <node id="&quot;相对压实度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"相对压实度 is a measure indicating the degree of compaction achieved in the roller compacted concrete."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </node>
+    <node id="&quot;抽样次数&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"抽样次数 refers to the number of samples taken for testing the quality of roller compacted concrete."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </node>
+    <node id="&quot;大样本&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"大样本 indicates a sampling method used when a large number of samples are collected for quality evaluation."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </node>
+    <node id="&quot;小样本&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"小样本 refers to a sampling method used when fewer samples are available for testing the concrete quality."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </node>
+    <node id="&quot;质量合格&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量合格 signifies that the roller compacted concrete meets the required standards based on test outcomes."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </node>
+    <node id="&quot;芯样&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"芯样 are core samples taken from the concrete to assess its quality and properties over time."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </node>
+    <node id="&quot;钻孔取样&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"钻孔取样 refers to a method of assessing concrete quality by drilling into the hardened mass for sample extraction."</data>
+      <data key="d2">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </node>
+    <node id="&quot;辉二方&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"辉二方 is involved as a key drafter in the hydropower projects referenced in the text."</data>
+      <data key="d2">chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;坤河&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"坤河 is mentioned among the chief drafters, indicating their role in hydropower-related activities."</data>
+      <data key="d2">chunk-7577691f8ffe11364f879506b59cee91</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;长江&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"长江 is the Yangtze River, a vital geographic feature in China, influencing numerous hydropower projects and strategies."</data>
+      <data key="d2">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </node>
+    <node id="&quot;水电&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水电 refers to hydropower, a key energy source in China, significant for various engineering and environmental studies."</data>
+      <data key="d2">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </node>
+    <node id="&quot;工程局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程局 represents various engineering bureaus involved in construction and management of hydropower systems."</data>
+      <data key="d2">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </node>
+    <node id="&quot;科研&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"科研 signifies research activities focused on water and energy solutions, integral to the development of technologies in these fields."</data>
+      <data key="d2">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </node>
+    <node id="&quot;水利&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水利 pertains to water conservancy practices, critical for the management and usage of water resources in engineering."</data>
+      <data key="d2">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </node>
+    <node id="&quot;系统&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"系统 represents the systems involved in hydropower management and water resource allocation."</data>
+      <data key="d2">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </node>
+    <node id="&quot;能源&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"能源 encompasses the various sources of energy including hydropower, crucial for meeting China's energy needs."</data>
+      <data key="d2">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </node>
+    <node id="&quot;混凝土质量&quot;">
+      <data key="d2">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+      <data key="d1">"测试设备 are used to evaluate and ensure the 混凝土质量 meets industry standards during the mixing process."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;工程质量检测&quot;">
+      <data key="d2">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+      <data key="d1">"工程质量检测是质量管理实施的重要部分，通过检测确保施工质量符合标准。"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;中国水利水电工程总公司&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中华人民共和国水利部 authorized 中国水利水电工程总公司 as the primary editing unit for the construction standards."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水工碾压混凝土施工规范&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中华人民共和国水利部 published the water construction standard for roller compacted concrete, indicating its regulatory role."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水利电力出版社&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水利电力出版社 collaborates with the Ministry of Water Resources for the publication of standards and guidelines."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;水工碾压混凝土施工规范&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中国水利水电工程总公司 was designated as the main editor for this construction standard, highlighting its expertise in the field."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;闽江工程局&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中国水利水电工程总公司 oversees and guides the activities of 闽江工程局 in roller compacted concrete projects."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;武汉水利电力大学&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中国水利水电工程总公司 collaborates with 武汉水利电力大学 to establish standards for roller compacted concrete quality."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;福建水电工程局&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"中国水利水电工程总公司 coordinates efforts with 福建水电工程局 for hydraulic engineering projects including roller compacted concrete."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;水利水电科学研究院&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"中国水利水电工程总公司 works closely with 水利水电科学研究院 to advance research and standards for concrete quality."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;冯运鸾&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"冯运鸾, as a key author, contributes significantly to the standards published by 中国水利水电工程总公司."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;蒋元&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"蒋元's role as a primary author is closely linked to the standards of roller compacted concrete established by 中国水利水电工程总公司."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;马同林&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"马同林's contributions reflect the collaborative effort with 中国水利水电工程总公司 to ensure quality in construction."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;辉二方坤河&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"辉二方坤河's work aligns with the standards set by 中国水利水电工程总公司 regarding assessment criteria."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;颜玉明&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"颜玉明 is closely associated with the standards process at 中国水利水电工程总公司 for roller compacted concrete."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;姜福田&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"姜福田 is a significant contributor to the standards established by 中国水利水电工程总公司."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;唐舜如&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"唐舜如's involvement emphasizes the collaborative nature of standard development at 中国水利水电工程总公司."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;魏大智&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"魏大智's contributions signify his role in the establishment of standards by 中国水利水电工程总公司."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;中国水利水电工程总公司&quot;" target="&quot;周定荣&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"周定荣's involvement in drafting emphasizes the collaborative effort with 中国水利水电工程总公司."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;水工碾压混凝土施工规范&quot;" target="&quot;水工碾压混凝土施工暂行规定&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"水工碾压混凝土施工规范 officially replaced the interim regulations, indicating a transition in construction standards."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;水工碾压混凝土施工规范&quot;" target="&quot;一九九四年七月一日&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"一九九四年七月一日 is the implementation date for the new construction standard, marking its commencement."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;水工碾压混凝土施工规范&quot;" target="&quot;碾压混凝土&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"碾压混凝土 is specified within the water construction standard for roller compacted concrete as the main material used."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;水工碾压混凝土施工规范&quot;" target="&quot;强度&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The construction standard outlines the strength requirements for roller compacted concrete, ensuring compliance with design specifications."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;水工碾压混凝土施工规范&quot;" target="&quot;抗渗性&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The construction standard defines permeability criteria that roller compacted concrete needs to meet."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;水工碾压混凝土施工规范&quot;" target="&quot;耐久性&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The construction standard specifies durability criteria that roller compacted concrete must achieve."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;水工碾压混凝土施工规范&quot;" target="&quot;施工质量管理和评定&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The construction standard includes quality management and assessment processes to ensure the integrity of roller compacted concrete projects."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;水工碾压混凝土施工暂行规定&quot;" target="&quot;一九九四年七月一日&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The interim regulations were replaced effective 一九九四年七月一日, marking the end of their validity."&lt;</data>
+      <data key="d6">chunk-e1f54fd1707ee16c4aac225c23923c4b</data>
+    </edge>
+    <edge source="&quot;碾压混凝土&quot;" target="&quot;施工&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"施工 involves the execution of碾压混凝土, which is a specific method used within the construction process."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;碾压混凝土&quot;" target="&quot;运输机具&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"运输机具 are essential for transporting 碾压混凝土 to the construction site, impacting the overall construction process."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;碾压混凝土&quot;" target="&quot;坝体&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"碾压混凝土 is specifically applied in the construction of the 坝体, impacting its structural integrity and durability."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;碾压混凝土&quot;" target="&quot;模板&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"模板 are necessary in the process of 碾压混凝土 to shape the material while it is poured and set."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;碾压混凝土&quot;" target="&quot;压实厚度&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"压实厚度 is a critical factor in the process of 碾压混凝土, ensuring proper compaction for structural durability."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;碾压混凝土&quot;" target="&quot;基岩&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"碾压混凝土的施工必须以基岩为基础，确保整个结构的稳定性。"</data>
+      <data key="d6">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </edge>
+    <edge source="&quot;碾压混凝土&quot;" target="&quot;养护工作&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"养护工作确保已完成的碾压混凝土在干燥条件下维持状态，提高其强度和稳定性。"</data>
+      <data key="d6">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </edge>
+    <edge source="&quot;碾压混凝土&quot;" target="&quot;埋设件&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"埋设件在碾压混凝土中需要特别的保护，以确保安装后不受损坏。"</data>
+      <data key="d6">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </edge>
+    <edge source="&quot;施工&quot;" target="&quot;运输机具&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"施工 requires the use of 运输机具 to efficiently handle materials and concrete during the various phases of the project."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;砂石料生产系统&quot;" target="&quot;拌和设备&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"砂石料生产系统 provides materials to the 拌和设备, which mixes them to create concrete for construction."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;拌和设备&quot;" target="&quot;细骨料&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"细骨料 is processed within the 拌和设备 to create the final concrete mixture required for construction."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;运输机具&quot;" target="&quot;自卸卡车&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"自卸卡车 is a type of 运输机具 specifically designed to carry and deliver concrete in construction contexts."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;水泥&quot;" target="&quot;混凝土制备系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水泥 is a key ingredient utilized in the 混凝土制备系统 to produce concrete for construction."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;骨料&quot;" target="&quot;混凝土制备系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"骨料 is used in the 混凝土制备系统 as a primary material that, together with water and cement, forms concrete."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;厚度控制要求&quot;" target="&quot;铺筑层的厚度&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"厚度控制要求 defines standards that must be followed regarding the specified 厚度 of concrete layers during construction."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;测试设备&quot;" target="&quot;混凝土质量&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"测试设备 are used to evaluate and ensure the 混凝土质量 meets industry standards during the mixing process."</data>
+      <data key="d6">chunk-1cf16f9c4d0fe4ee4011c06d00c6f1bf</data>
+    </edge>
+    <edge source="&quot;施工缝&quot;" target="&quot;常态混凝土&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"施工缝形成后，常态混凝土用于填充与连接不同浇筑过程的缝隙。"</data>
+      <data key="d6">chunk-3acd8f843854d42be4ddd64df27a10b1</data>
+    </edge>
+    <edge source="&quot;施工日志&quot;" target="&quot;气象预报工作&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工日志中需要记录气象预报工作的信息，以调整施工进度和策略."</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;施工日志&quot;" target="&quot;混凝土&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"施工日志中将详细描述混凝土 pour 序列及其质量管理过程。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;电缆&quot;" target="&quot;混凝土&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"电缆的埋设和混凝土的平整面涉及直接的施工工艺与质量控制关系。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;混凝土&quot;" target="&quot;仓面&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"仓面需要在混凝土施工过程中保持湿润，以确保混凝土的质量和防止损坏。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;混凝土&quot;" target="&quot;搅拌机&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"搅拌机用于混合混凝土材料，直接影响混凝土质量和施工效果。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;混凝土&quot;" target="&quot;引气剂&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"引气剂的添加可以改善混凝土的性能，影响抗压强度和耐久性。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;混凝土&quot;" target="&quot;标准立方体试件&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"标准立方体试件用于评估混凝土的抗压强度，是质量控制的核心部分。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;混凝土&quot;" target="&quot;防雨保护措施&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"在特殊天气条件下，防雨保护措施对于最终混凝土质量至关重要。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;混凝土&quot;" target="&quot;温度控制&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"温度控制会影响混凝土的硬化过程和最终强度，是施工中的一个重要考量。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;混凝土&quot;" target="&quot;抗压强度&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"抗压强度 is a crucial performance measure for evaluating the quality of 混凝土 in construction projects."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;气象预报工作&quot;" target="&quot;仓面&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"气象预报工作会影响仓面的处理方式，以及如何在特殊天气条件下施工。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;质量管理&quot;" target="&quot;工程质量检测&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"工程质量检测是质量管理实施的重要部分，通过检测确保施工质量符合标准。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;质量管理&quot;" target="&quot;抽样检测&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"抽样检测是质量管理中的关键环节，通过数据采集和分析确保混凝土质量。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;质量管理&quot;" target="&quot;控制标准&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"控制标准是在质量管理中用于确保材料和工艺符合规定的依据。"</data>
+      <data key="d6">chunk-bce8d1e9f2cd6ba6b1c498662d22fdec</data>
+    </edge>
+    <edge source="&quot;武汉水利电力大学&quot;" target="&quot;冯运鸾&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"冯运鸾, being a key drafter, is likely associated with 武汉水利电力大学, which contributes to relevant projects."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;武汉水利电力大学&quot;" target="&quot;周定荣&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"周定荣's position as a significant drafter connects him with 武汉水利电力大学's initiatives."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;福建水电工程局&quot;" target="&quot;蒋元&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"蒋元's role as a main drafter connects him directly with 福建水电工程局, which oversees hydropower projects."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;福建水电工程局&quot;" target="&quot;魏大智&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"魏大智's involvement as a drafter forms a link to 福建水电工程局's operational focus."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;水利水电科学研究院&quot;" target="&quot;马同林&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"马同林's involvement as a key drafter aligns him with 水利水电科学研究院, focused on research in water conservancy."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;水利水电科学研究院&quot;" target="&quot;唐舜如&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"唐舜如's role as a drafter aligns with the research interests of 水利水电科学研究院."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;长江葛洲坝工程局&quot;" target="&quot;水电七局&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"长江葛洲坝工程局 and 水电七局 often collaborate on hydropower engineering projects, focusing on quality standards."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;长江葛洲坝工程局&quot;" target="&quot;辉二方&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"辉二方's drafting work suggests a direct relationship with 长江葛洲坝工程局, involved in hydropower projects."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;长江葛洲坝工程局&quot;" target="&quot;姜福田&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"姜福田's drafting indicates a connection to 长江葛洲坝工程局's hydropower efforts."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;水电七局&quot;" target="&quot;坤河&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"坤河 is involved in drafting, linking him to 水电七局, which manages hydropower projects."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;武警水电指挥部&quot;" target="&quot;颜玉明&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"颜玉明's contributions point to a relationship with 武警水电指挥部, which supports hydropower operations."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;抗压强度&quot;" target="&quot;设计龄期&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"设计龄期 is important as it determines the timeframe within which the抗压强度 of the concrete is evaluated for quality."&lt;</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;相对压实度&quot;" target="&quot;质量合格&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"相对压实度 directly influences whether the roller compacted concrete quality is deemed 质量合格."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;抽样次数&quot;" target="&quot;大样本&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"抽样次数 is referenced in context with 大样本 when discussing the number of samples required for testing."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;小样本&quot;" target="&quot;质量合格&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"小样本 is used when fewer samples are collected, which can still lead to a conclusion about whether the concrete is 质量合格."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;芯样&quot;" target="&quot;钻孔取样&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"芯样 are the result of the drilling process outlined in 钻孔取样 to assess the quality of the concrete."</data>
+      <data key="d6">chunk-c6dc23dd5b399af2556968e63bc2567a</data>
+    </edge>
+    <edge source="&quot;长江&quot;" target="&quot;水电&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"长江's significance as a river directly impacts hydropower projects and energy generation opportunities."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;水电&quot;" target="&quot;科研&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"科研 efforts directly contribute to advancements in hydropower technology and practices."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;水电&quot;" target="&quot;能源&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"能源 needs drive the development and implementation of hydropower solutions in various regions."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;水电&quot;" target="&quot;工程局&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水电 initiatives are often managed by various工程局 that oversee project execution and efficiency."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;工程局&quot;" target="&quot;水利&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"工程局's role in managing construction projects is tied closely to水利 and effective water resource management."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+    <edge source="&quot;水利&quot;" target="&quot;系统&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利 practices are integral to the design and operation of systems for water management and conservation."</data>
+      <data key="d6">chunk-7577691f8ffe11364f879506b59cee91</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,1889 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is a government organization responsible for approving and publishing water-related industry standards in China."&lt;SEP&gt;"中华人民共和国水利部 is the governmental organization responsible for water resources and related standards in China, overseeing various regulations in the water industry."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </node>
+    <node id="&quot;核子水分-密度仪现场测试规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"核子水分-密度仪现场测试规程 is a standard procedure for field testing nuclear density-moisture gauges, released and approved by the Ministry of Water Resources of the People's Republic of China."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </node>
+    <node id="&quot;南京水利科学研究院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"南京水利科学研究院 is the primary drafting unit for the nuclear density-moisture gauge testing standard, indicating its role in water resource research."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </node>
+    <node id="&quot;程和森&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"程和森 is a key author involved in drafting the nuclear density-moisture gauge testing standard, highlighting his contribution to industry protocols."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </node>
+    <node id="&quot;曹更新&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"曹更新 is among the primary writers of the nuclear density-moisture gauge testing standard, reflecting his expertise in water resource standards."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </node>
+    <node id="&quot;王守家&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王守家 is a principal contributor to the nuclear density-moisture gauge testing standard, indicating significant involvement in water resource management."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </node>
+    <node id="&quot;沈杰&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"沈杰 is a major author of the nuclear density-moisture gauge testing standard, contributing to the technical details."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </node>
+    <node id="&quot;邓英春&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"邓英春 is the technical lead for the review meeting of the nuclear density-moisture gauge standard, indicating leadership in quality assurance."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </node>
+    <node id="&quot;于爱华&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"于爱华 is responsible for the formatting review of the nuclear density-moisture gauge testing standard, showing involvement in the document's presentation quality."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </node>
+    <node id="&quot;SL 275-2014&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SL 275-2014 is a regulation or standard outlining the procedures for measurement techniques in a specific field, such as construction or material testing."&lt;SEP&gt;"SL 275-2014 is the designation of the nuclear density-moisture gauge testing standard that has replaced SL275-2001, indicating its establishment as an updated protocol."&lt;SEP&gt;"SL 275-2014 refers to a standard or method for measuring densities through radiation methods."&lt;SEP&gt;"SL 275-2014 refers to a standard that outlines procedures for density and moisture measurement in specific field conditions."&lt;SEP&gt;"SL 275-2014是一个标准，规定了仪器使用和标准计数检测的相关要求和技术规范。"</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886&lt;SEP&gt;chunk-15b7354543c43d6ad0d7693c5272821d&lt;SEP&gt;chunk-b08161de841438f8e5c7e2366cbb7497&lt;SEP&gt;chunk-662d93fdf0e097a05f9df26db1a1d3fa&lt;SEP&gt;chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;SL275-2001&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SL275-2001 is the previous version of the nuclear density-moisture gauge testing standard that has been replaced by SL 275-2014."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;FIELD TEST METHODS FOR NUCLEAR DENSITY-MOISTURE GAUGES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Field Test Methods for Nuclear Density-Moisture Gauges refers to the procedures outlined for testing the gauges, crucial for ensuring engineering quality."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;强制性条款&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"强制性条款 refers to mandatory clauses within the standard that must be strictly followed, emphasizing compliance in practical applications."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;安全要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全要求 refers to the radiation safety requirements stated in the standard, crucial for safe field operation of the gauges."&lt;SEP&gt;"安全要求是确保在测量过程中仪器和人员的安全，防止意外事故的发生。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a&lt;SEP&gt;chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </node>
+    <node id="&quot;表层型核子水分-密度仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"表层型核子水分-密度仪 is a type of density gauge that uses nuclear principles to measure moisture and density in materials."&lt;SEP&gt;"表层型核子水分-密度仪 refers to the surface-type nuclear density-moisture gauge designed for field measurements outlined in the standard."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d&lt;SEP&gt;chunk-ed05652c89a10b52a8e245a332a47886</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;深层型核子水分-密度仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"深层型核子水分-密度仪 is a specific type of nuclear density gauge designed for measuring moisture and density at various depths."&lt;SEP&gt;"深层型核子水分-密度仪 refers to a version of the nuclear density-moisture gauge designed for deeper material measurements."&lt;SEP&gt;"深层型核子水分-密度仪 refers to the deep-type nuclear density-moisture gauge, which has its testing procedures specified in the standard."&lt;SEP&gt;"深层型核子水分-密度仪是一种用于现场测定土石材料原位密度和含水量的核子检测仪器，涉及辐射安全和工程质量控制。"</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-0634731041d08f0d1e1ee4d583169800&lt;SEP&gt;chunk-15b7354543c43d6ad0d7693c5272821d&lt;SEP&gt;chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;辐射安全&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"辐射安全 encompasses the safety protocols and regulations related to the handling and operation of equipment that emits radiation."&lt;SEP&gt;"辐射安全 pertains to the safety measures implemented to protect users from radiation exposure while operating the nuclear density-moisture gauges."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-15b7354543c43d6ad0d7693c5272821d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;测量精密度与测量误差&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测量精密度与测量误差 describes the precision and measurement error standards that are essential for valid test results in the procedure."</data>
+      <data key="d2">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;Y-RAY TRANSMISSION METHOD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Y-ray transmission method is a technique used for measuring the density of materials by analyzing the transmission of Y-rays through them."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;FAST NEUTRON MODERATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Fast neutron moderation is the process in which fast neutrons interact with materials to lose energy and slow down."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;THERMAL NEUTRON&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Thermal neutron refers to low-energy neutrons that result from the moderation process, particularly interactions with hydrogenous materials like water."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;COUNT RATE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Count rate is a measurement of the number of gamma rays or thermal neutron counts per unit time, useful in assessing material properties."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;MEASURED COUNT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Measured count refers to the total number of radiation counts recorded by the measuring device during a specific period."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;STANDARD COUNT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Standard count refers to the benchmark radiation counts read from a calibrated reference during testing."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;COUNT RATIO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Count ratio is the ratio of measured count to standard count, indicating the relative performance or condition of the test.</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;MEASURING DEPTH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Measuring depth is the depth from which 95% of emitted radiation reaches the detector prior to being absorbed by the test material."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;MEASUREMENT PRECISION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Measurement precision refers to the consistency of results obtained from repeated measurements under the same conditions."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;铅屏蔽&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"铅屏蔽 refers to the use of lead to shield between a radiation source and a detector, reducing exposure and protecting the detector."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;$\GAMMA$射线探测器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"$\gamma$射线探测器 is a device used for detecting gamma rays emitted from materials, essential for measuring radiation levels."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;被测材料&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"被测材料 refers to the material being analyzed in the measurement processes described, critical for determining density and composition."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;厂家标定报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"厂家标定报告 is a document certifying that equipment has been calibrated according to manufacturer specifications."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;国家辐射防护法规&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"国家辐射防护法规 refers to national regulations pertaining to radiation protection and safety during the use of nuclear measurement devices."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;现场校正&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场校正 is a process described for recalibrating instruments under specific environmental conditions."&lt;SEP&gt;"现场校正 is the process of calibrating a measurement device in the field to ensure its accuracy under working conditions."&lt;SEP&gt;"现场校正 is the process of calibrating the instruments on-site to ensure accurate measurement results."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-39be582491733bbadd881de6c6f3c24d&lt;SEP&gt;chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;氢物质&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"氢物质 refers to substances containing hydrogen, which play a crucial role in the moderation of fast neutrons in testing materials."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;化学成分&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"化学成分 denotes the chemical makeup of the materials being tested, which can affect density and moisture readings."&lt;SEP&gt;"化学成分 refers to the elemental composition of the material being tested, which can affect the measurement results."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d&lt;SEP&gt;chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </node>
+    <node id="&quot;辐射防护&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"辐射防护 is the practice and guidelines to protect people and the environment from harmful effects of radiation exposure."</data>
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;测量设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"测量设备包括主机和辅助部分, 包含多种探测器和电子线路，主要用于进行辐射测量和标准计数。"&lt;SEP&gt;"测量设备包括主机和辅助部分，用于进行深层型核子水分-密度仪的检测和测量。"&lt;SEP&gt;"测量设备包括所有用于完成测量的仪器和工具，确保工作正常。"</data>
+      <data key="d2">chunk-0634731041d08f0d1e1ee4d583169800&lt;SEP&gt;chunk-2893f13ef5e7f8c36a22b7ec45d65a1a&lt;SEP&gt;chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;王机&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"王机是测量设备中的主机部分，包含射线源和探测器，用于精确测量辐射。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;辅助设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"辅助设施包括孔口滑轮、电缆固定卡、空白探棒等，用于支持测量活动。"&lt;SEP&gt;"辅助设施包括标准块、导板等组件，用于支持测量设备的功能和有效性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a&lt;SEP&gt;chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;标准块&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"标准块由聚乙烯厚板制成，用于测量仪器标准计数，其密度和性能需符合特定要求。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;射线源&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"射线源是测量设备中的一个组成部分，使用绝-137作为固体封焊源，用于辐射测量。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;中子源&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中子源包括-241-铍和环-239-铍，作为辅助测量中的固体封焊源。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;Y-射线探测器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Y-射线探测器由盖革-弥勒气体计数管或闪烁探测器组成，用于探测射线。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;热中子探测器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"热中子探测器包括氨-3或三氟化硼气体计数管，用于测量中子辐射。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;电源&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"电源提供可充电电池组或干电池，为测量设备供电，确保其正常工作。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;记录仪表&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"记录仪表包含微处理器和数据采集系统，用于记录和处理测量数据。"&lt;SEP&gt;"记录仪表是一个包含微处理器和数据采集、处理、显示、存储系统的机构，负责记录探测器的测试信号。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a&lt;SEP&gt;chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;技术要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术要求是对测量设备在使用前和使用过程中的标准和规范，包括正常状态的检测。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;环境和安全要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境和安全要求是进行标准计数时的必要规定，确保测量人员和设备的安全。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;手动单次测量方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"手动单次测量方法是测量标准计数的一种方式，遵循规定的测量流程。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </node>
+    <node id="&quot;自动连续多次测量方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"自动连续多次测量方法是另一种测量标准计数的方式，提供更高的测量效率。"</data>
+      <data key="d2">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </node>
+    <node id="&quot;仪器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"仪器 (instrument) refers to the tools used for measuring density and moisture content in materials, essential for conducting technical tests."&lt;SEP&gt;"仪器 is mentioned as a device used during testing for density and moisture counts, essential for operational evaluations."&lt;SEP&gt;"仪器 refers to the devices used in the measurement processes for density and moisture content."&lt;SEP&gt;"仪器 refers to the equipment used to conduct tests for density and moisture content, requiring precise calibration and setup before measurements are taken."&lt;SEP&gt;"仪器 refers to the measuring equipment used in the context of density and moisture measurement, including the nuclear density-moisture gauge."&lt;SEP&gt;"仪器是用于密度和水分测量的设备，涉及不同的测量方法和技术要求，确保测试的准确性和有效性。"</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-86e7226c18f57eeac1265965370b3b1a&lt;SEP&gt;chunk-39be582491733bbadd881de6c6f3c24d&lt;SEP&gt;chunk-294bf8b915f8d568575a585c2ef7c617&lt;SEP&gt;chunk-a1f3d432ac2ddca7197a84a6cd824625&lt;SEP&gt;chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;标样法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标样法 refers to the method of using reference samples to check the precision of density and moisture measurements."</data>
+      <data key="d2">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </node>
+    <node id="&quot;测试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测试 refers to the actual process of measuring density and moisture using specified methods and equipment in different scenarios."&lt;SEP&gt;"测试 refers to the procedure of measuring density or moisture levels to ensure compliance with established standards."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </node>
+    <node id="&quot;土石材料&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土石材料 (soil and rock materials) refers to a range of materials used for construction and engineering that require measurement for density and moisture content."&lt;SEP&gt;"土石材料 is the geological material subjected to density measurement and calibration."&lt;SEP&gt;"土石材料是用于原位密度和含水量测量的对象，具有不同物理特性需要特定方法进行测试。"&lt;SEP&gt;"土石材料是进行密度和含水量测试的对象，采用背向散射法和透射法进行测量。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617&lt;SEP&gt;chunk-0634731041d08f0d1e1ee4d583169800&lt;SEP&gt;chunk-39be582491733bbadd881de6c6f3c24d&lt;SEP&gt;chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;混凝土材料&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"混凝土材料 specifies the concrete materials used for testing density, representative of practical construction contexts."</data>
+      <data key="d2">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </node>
+    <node id="&quot;密度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"密度 represents the measure of mass per unit volume for materials, a key factor in quality control during testing."</data>
+      <data key="d2">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </node>
+    <node id="&quot;水分&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水分 refers to the moisture content within materials, which is crucial for assessing material quality."</data>
+      <data key="d2">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </node>
+    <node id="&quot;标准计数&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"标准计数 refers to the benchmark measurements used to determine the accuracy of density and moisture readings."&lt;SEP&gt;"标准计数 serves as a norm for evaluating the performance and accuracy of measuring instruments employed in the field."&lt;SEP&gt;"标准计数是仪器在不同条件下测量和检验的结果，确保仪器的准确性和可靠性。"</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-2893f13ef5e7f8c36a22b7ec45d65a1a&lt;SEP&gt;chunk-39be582491733bbadd881de6c6f3c24d</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;公式（2）和公式（3）&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"公式（2）和公式（3） are specific formulas used to evaluate the acceptability of test results for density and moisture."</data>
+      <data key="d2">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </node>
+    <node id="&quot;公式（4）&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"公式（4） is a formula utilized to verify the correctness of the measurement standards in the testing process."</data>
+      <data key="d2">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </node>
+    <node id="&quot;数据&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"数据 refers to the information collected during tests, which is essential for analysis and calibration."</data>
+      <data key="d2">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </node>
+    <node id="&quot;连续测试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"连续测试 implies ongoing measurement procedures to ensure accurate readings over time."</data>
+      <data key="d2">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </node>
+    <node id="&quot;修正&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"修正 refers to the adjustments made to ensure that measurements comply with established standards."</data>
+      <data key="d2">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </node>
+    <node id="&quot;SL 275--2014&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SL 275--2014 refers to a specific standard or guideline related to the measurement of density and moisture content in soil and concrete materials."</data>
+      <data key="d2">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;密度标样&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"密度标样 (density samples) are specific samples used to calibrate instruments for measuring density in various materials including soil and concrete."&lt;SEP&gt;"密度标样 refer to density standards used to ensure accuracy during measurement."</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625&lt;SEP&gt;chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;水分标样&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水分标样 (moisture samples) are used to determine the moisture content of soil and rock materials through standardized testing methods."&lt;SEP&gt;"水分标样 refer to moisture standards used in ensuring proper measuring protocols during the testing process."</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625&lt;SEP&gt;chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;混凝土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"混凝土 (concrete) is a composite material used in construction which is referenced in density and moisture measurement guidelines."</data>
+      <data key="d2">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;测量深度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测量深度 (measurement depth) refers to the specific depth at which measurements are taken in materials, crucial for evaluating density and moisture accurately."&lt;SEP&gt;"测量深度是进行密度和水分测试时的重要参数，需遵循特定规定以满足测试要求。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617&lt;SEP&gt;chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;等式&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"等式 (equation) is referenced in the context of calculating values such as density and moisture content based on measured samples."</data>
+      <data key="d2">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;塑料薄膜&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"塑料薄膜 (plastic film) is used to cover moisture samples after testing to preserve their condition for accurate measurement results."</data>
+      <data key="d2">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;烘干法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"烘干法 (drying method) refers to the technique used to determine the moisture content in samples by measuring weight loss after drying."</data>
+      <data key="d2">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;灌砂法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"灌砂法 (sand pouring method) is a specific method used for in-situ density measurement of soil materials."</data>
+      <data key="d2">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;环刀法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"环刀法 (ring cutting method) refers to another technique used for measuring the density of soil by extracting a cylindrical sample."</data>
+      <data key="d2">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </node>
+    <node id="&quot;现场测试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场测试 refers to the actual on-site tests conducted to determine the characteristics of soil materials."&lt;SEP&gt;"现场测试是一个重要的过程，涉及设备的校正和测量，以确保测试结果符合工程实际要求。"&lt;SEP&gt;"现场测试是对仪器进行实际操作前的步骤，以确保设备的正常工作。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617&lt;SEP&gt;chunk-a1f3d432ac2ddca7197a84a6cd824625&lt;SEP&gt;chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;背向散射法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"背向散射法是一种用于密度测量的技术，特别适合土石材料的测试，要求特定的测量时间和设备设置。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617</data>
+    </node>
+    <node id="&quot;透射法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"透射法是一种用于密度测量的技术，适用于不同厚度的材料，确保测试准确性。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617</data>
+    </node>
+    <node id="&quot;原位取样法&quot;">
+      <data key="d0">"METHOD"</data>
+      <data key="d1">"原位取样法是一种用于获取土石材料密度和含水量的现场测试方法，确保结果的可信性。"&lt;SEP&gt;"原位取样法用于直接在测量现场进行材料采样，确保结果的代表性。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617&lt;SEP&gt;chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;校正偏差&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"校正偏差是通过比较仪器测量结果与原位取样法结果，计算得出的重要指标，用于调整仪器的测量精度。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617</data>
+    </node>
+    <node id="&quot;辐射防护安全要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"辐射防护安全要求是现场测试过程中必须遵循的安全规定，以保护操作人员的安全。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617</data>
+    </node>
+    <node id="&quot;测量时间&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测量时间 refers to the specified time intervals required for conducting the density and moisture measurements."&lt;SEP&gt;"测量时间是指定在现场标定过程中需要的时间，以确保测得的数据的可靠性。"&lt;SEP&gt;"测量时间是进行密度和水分测量时必须满足的时间要求，直接影响测试结果的准确性。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617&lt;SEP&gt;chunk-a1f3d432ac2ddca7197a84a6cd824625&lt;SEP&gt;chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;测点表面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"测点表面是进行现场测试前需清理和准备的区域，以确保仪器的有效工作。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617</data>
+    </node>
+    <node id="&quot;工程实际要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程实际要求是指测试结果必须符合的标准与条件，确保其在实际应用中的有效性。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617</data>
+    </node>
+    <node id="&quot;碾压层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"碾压层是测试对象的一个特定层次，对密度测量的方法和深度选择有影响。"</data>
+      <data key="d2">chunk-294bf8b915f8d568575a585c2ef7c617</data>
+    </node>
+    <node id="&quot;CONCRETE DENSITY TESTING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Concrete Density Testing refers to the process of measuring the density of concrete using backscatter and transmission methods, including the preparation and execution steps involved."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;SCATTERING METHOD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Scattering Method is a measurement technique mentioned for determining properties of soil and rock materials, emphasizing the preparation and testing phases."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;TRANSMISSION METHOD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Transmission Method is another measurement technique described for assessing the density of various forms of concrete, detailing the preparation and instrumentation involved."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;MEASURING INSTRUMENTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Measuring Instruments are tools used for conducting tests on materials, requiring proper setup and calibration tactics to ensure accurate results."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;SOIL MATERIALS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Soil Materials refer to the natural earth materials that are tested for density and other properties in the measurement processes described in the guidelines."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;REINFORCED CONCRETE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Reinforced Concrete is a type of concrete specified in the guidelines that requires careful preparation for measuring density, considering the presence of reinforcing steel."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;GRANULAR FILL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Granular Fill is used to fill irregularities during the testing of surfaces, as described in the context of preparing measurement locations."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </node>
+    <node id="&quot;SAFETY DISTANCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Safety Distance refers to the specified distance that measurement personnel must maintain from the measuring instruments during tests for safety and accuracy."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;MEASUREMENT PARAMETERS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Measurement Parameters are the settings and specifications that must be verified before conducting tests to ensure accurate readings."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;MEASURING SURFACE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Measuring Surface is the prepared area where testing instruments are placed for measuring the density of soil and concrete materials."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </node>
+    <node id="&quot;TESTING PROCEDURES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Testing Procedures consist of the steps outlined in the guidelines for conducting density tests on various materials, ensuring consistent and safe measurements."&lt;SEP&gt;"Testing Procedures describe a series of methods and regulations aimed at measuring and recording properties related to concrete and asphalt density."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa&lt;SEP&gt;chunk-b08161de841438f8e5c7e2366cbb7497</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;RECORDING RESULTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Recording Results involves documenting the findings from the measurements in accordance with the standard procedures as stated in the guidelines."</data>
+      <data key="d2">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;CONCRETE&quot;">
+      <data key="d0">"MATERIAL"</data>
+      <data key="d1">"Concrete is a construction material known for its strength and durability, being tested for its density and state of hardening or non-hardening."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;ASPHALT&quot;">
+      <data key="d0">"MATERIAL"</data>
+      <data key="d1">"Asphalt is a mixture used in pavement construction that requires density testing, similar to concrete."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;MEASUREMENT STANDARDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Measurement Standards refer to the established protocols for conducting tests, ensuring accuracy and reliability in measurements."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;REPORT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Report encompasses documentation detailing testing procedures, measurements, and results for concrete and asphalt density tests."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;NUCLEAR DENSITY GAUGE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Nuclear Density Gauge is a sophisticated instrument used for measuring the density and moisture content of materials like concrete and asphalt."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;APPROVAL PROCESS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Approval Process refers to the systematic review and endorsement of test results and reports by authorized personnel."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;MEASUREMENT SITE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Measurement Site refers to the specific location where density tests are conducted on materials such as concrete and asphalt."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </node>
+    <node id="&quot;TEST RESULTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Test Results are the outcomes obtained from conducting density measurements, determining the quality and properties of construction materials."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </node>
+    <node id="&quot;TEMPERATURE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Temperature is a variable that affects the density measurements and is recorded during testing to ensure accurate results."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </node>
+    <node id="&quot;HUMIDITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Humidity is another environmental factor noted during testing, influencing measurement accuracy for density."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </node>
+    <node id="&quot;CONSTRUCTION COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Construction Company refers to the firm responsible for conducting the project and may be involved in the density tests of the materials used."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </node>
+    <node id="&quot;TESTING EQUIPMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Testing Equipment encompasses various tools and machines, including the Nuclear Density Gauge, used during the testing process."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;CALIBRATION PROCESS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Calibration Process involves adjusting and standardizing testing equipment to ensure precise measurements before conducting tests."</data>
+      <data key="d2">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;核子水分-密度仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"核子水分-密度仪 is a nuclear density-moisture gauge used for measuring density and moisture content in materials, with specific protocols for operation and safety."&lt;SEP&gt;"核子水分-密度仪 is a type of instrument used in measuring moisture and density of materials, relying on various precision standards."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;现场测量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场测量 refers to on-site measurements taken to determine the physical properties of materials using specified equipment under particular conditions."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;放射源泄露检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"放射源泄露检查 is a procedure conducted every six months to ensure the safety and proper functioning of the nuclear gauges by checking for potential radiation leakage."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;测量误差&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测量误差 denotes the uncertainties and inaccuracies that can occur during the measurement process, affecting the outcome of tests."&lt;SEP&gt;"测量误差 refers to the potential errors that can occur in measurements due to various factors such as equipment precision, material composition, and human operation."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;标准计数检验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标准计数检验 is a standard check conducted to ensure the reliability and accuracy of measurements made by the nuclear density-moisture gauges."&lt;SEP&gt;"标准计数检验是根据规定对标准计数的测量与检验过程，确保仪器的准确性。"</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;化学成分变化&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"化学成分变化 refers to the alterations in the chemical composition of the materials being measured, which can introduce errors in the readings."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;人为操作不当&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"人为操作不当 refers to mistakes made by operators during the measurement process, contributing to the overall measurement error."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;测试记录格式&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测试记录格式 refers to the structured format used to document measurements and outcomes from the testing of density and moisture."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;警戒线&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"警戒线 refers to safety lines set for restricting access to areas where radiation-emitting devices are in use, ensuring safety from potential hazards."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;密度标样法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"密度标样法 denotes methods involving standard samples for measuring density accurately during field tests."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;水分标样法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水分标样法 denotes techniques used for measuring moisture content accurately with standard samples."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;放射性标志&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"放射性标志 are labels indicating areas where radiation is present and caution is required for safety."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;密度测量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"密度测量 involves measuring the density of materials using specific methods and equipment under calibrated conditions."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;水分测量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水分测量 involves measuring the moisture content in materials using specific protocols and instruments."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;保养和保管&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"保养和保管 refers to the maintenance and careful handling of the measuring instruments to ensure their proper functioning and longevity."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;合格标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"合格标准 refers to the criteria that must be met for the measurements taken to be deemed acceptable and reliable."&lt;SEP&gt;"合格标准评定仪器和测量活动是否满足预定要求的依据。"</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2&lt;SEP&gt;chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;表面型核子水分-密度仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"表面型核子水分-密度仪 describes a type of nuclear density-moisture gauge that is utilized for surface-level measurements."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;测面不平整&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测面不平整 refers to uneven measurement surfaces that can impact the accuracy of density and moisture readings."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;密度值&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"密度值 represents the calculated density of a material being assessed during measurement processes."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;水分值&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水分值 represents the calculated moisture content of a material being assessed during measurement processes."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;放射源&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"放射源 refers to the radiation-emitting sources used in the nuclear density-moisture gauges for measurement."</data>
+      <data key="d2">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </node>
+    <node id="&quot;国家放射防护&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"国家放射防护是一个与深层型核子水分-密度仪的使用、保管、和报废标准相关的法规和标准体系。"</data>
+      <data key="d2">chunk-0634731041d08f0d1e1ee4d583169800</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;探棒&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"探棒是深层型核子水分-密度仪的主要组成部分，由不锈钢或铝合金制成，用于测量原位的密度和含水量。"&lt;SEP&gt;"探棒是用于测量某些深度位置材料的仪器，通常与测量导管配合使用。"</data>
+      <data key="d2">chunk-0634731041d08f0d1e1ee4d583169800&lt;SEP&gt;chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;测量设备和辅助设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测量设备和辅助设施指的是深层型核子水分-密度仪中用于保证测试效果的主要和辅助设备。"</data>
+      <data key="d2">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </node>
+    <node id="&quot;核子检测仪器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"核子检测仪器是一类用于通过辐射技术检测土石材料物理特性的设备，包括深层型核子水分-密度仪。"</data>
+      <data key="d2">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </node>
+    <node id="&quot;Γ射线散射法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"γ射线散射法是一种用于测量地面下深层部位材料原位密度的方法，利用辐射原理进行检测。"</data>
+      <data key="d2">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </node>
+    <node id="&quot;快中子被氢原子慢化法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"快中子被氢原子慢化法用于测量地面下深层部位材料的原位含水量。"</data>
+      <data key="d2">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </node>
+    <node id="&quot;厂家标定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"厂家标定是对深层型核子水分-密度仪在出厂前进行的一种精度检测和合格认证过程。"</data>
+      <data key="d2">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </node>
+    <node id="&quot;检测人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"检测人员是负责进行现场测试和测量结果验证的专业人员，需具备相关资质。"</data>
+      <data key="d2">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </node>
+    <node id="&quot;工程质量控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程质量控制是对建筑和施工过程中的物理材料进行监测和评估，以确保符合标准。"</data>
+      <data key="d2">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </node>
+    <node id="&quot;深度指示器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"深度指示器用于确定探头放置的深度，是现场测量的重要工具。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;测量导管&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"测量导管 refers to the equipment used for measurements, involved in the process of determining material properties."&lt;SEP&gt;"测量导管 refers to the measuring tubes used during field testing for inserting the testing instruments."&lt;SEP&gt;"测量导管供探棒插入被测材料内进行深度测量，通常由铝合金、钢或塑料制成。"</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625&lt;SEP&gt;chunk-2893f13ef5e7f8c36a22b7ec45d65a1a&lt;SEP&gt;chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;现场标定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场标定 refers to the on-site calibration process that ensures accuracy in the measurements taken by the instruments."&lt;SEP&gt;"现场标定是将仪器进行重新校准的过程，以确保其在特定材料和条件下的使用可靠性。"</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625&lt;SEP&gt;chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;高压电源&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"高压电源是用于提供射线探测器和热中子探测器工作的电源，确保探测器正常运行。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;低压电源&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"低压电源与高压电源共同为射线探测器和热中子探测器提供必要的电力支持。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;辐射防护体&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"辐射防护体是用于放置探棒并屏蔽辐射的圆柱体，确保测量过程中的安全性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;运输包装箱&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"运输包装箱用于包装和存放测量仪器及其附件，保护设备免受损坏。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;空白探棒&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"空白探棒 is a tool used for checking measurement tubes prior to conducting tests, ensuring accuracy in the measurement process."&lt;SEP&gt;"空白探棒用于在测量前进行预检查，确保测量导管的准确性与可靠性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a&lt;SEP&gt;chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;钻孔设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"钻孔设备可为手动或电动钻机，帮助在被测材料中创建测量孔。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;取土器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"取土器用于在特定深度位置采集土样，为现场测量提供必要的土壤样本。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;微处理器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"微处理器是记录仪表中的核心组件，负责数据的管理和处理。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;数据采集系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"数据采集系统用于收集和存储探测器测得的数据，保证信息的准确性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;电缆&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"电缆用于连接记录仪表与探棒，确保数据传输的顺畅。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;测试信号&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测试信号是探测器反馈的信号，用于评估和调校仪器性能。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;仪器标定曲线&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"仪器标定曲线是在标定过程中所生成的数据曲线，指导之后的测量过程。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;铝合金管&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"铝合金管通常用于制作测量导管，具有良好的强度和耐腐蚀性能。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;钢管&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"钢管用于制作测量导管，以确保其在测量过程中的牢固性和稳定性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;塑料管&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"塑料管用于制作测量导管，具有轻便和易于加工的特性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;工程塑料&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程塑料是用于制造各种辅助设施的材料，具有耐用和强度高的特性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;充水圆桶&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"充水圆桶可作为标准计数的参考体，用于测量过程中确保准确性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;铅&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"铅是一种用于制作辐射防护体的材料，具有良好的辐射屏蔽能力。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;聚乙烯&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"聚乙烯是一种轻便的材料，用于制作辐射防护体以保护探棒。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;石蜡&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"石蜡可用作制造辐射防护体的材料，提供良好的辐射屏蔽效果。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;环境温度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境温度对测量结果的影响因素之一，需保持与测试条件相近。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;测量条件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测量条件包括仪器使用情况下的具体环境要求，确保测量的准确性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;测量人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"测量人员是负责操作仪器并进行数据记录的专业人员，需遵循安全距离和操作规范。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;检验合格&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检验合格是对仪器标准计数测量合规性的重要判定，确保其能够被使用。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;符合要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"符合要求指的是仪器及其测量方式达到规定的标准和指标。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;环境要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境要求确保测量在适宜的外部条件下进行，达到更高的准确性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;测量结果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测量结果是对标准计数和现场标定等操作的最终反馈，决定仪器的有效性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;相关资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"相关资料包括在仪器使用期间记录的所有数据，便于后续分析与跟踪。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;记录要求&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"记录要求是对在仪器使用过程中所需完整记录的事项的规定。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;检测样本&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检测样本是用于标准计数和检验过程中的具体物质来源，确保validity in testing."</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;导管流量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"导管流量可以影响测量的成功与否，因此是重要的监测目标。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;操作规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"操作规范是对测量人员在进行测试时应遵循的具体操作程序和安全措施的集合。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;检测程序&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检测程序是参考一系列步骤确保仪器测量的准确性和可靠性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;步骤&quot;&lt;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"步骤是完成所有测量和记录必要过程的具体做法和次序。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;使用说明书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"使用说明书提供了仪器操作、测量方法和安全注意事项的全面指导，并确保合规性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;土样&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"土样是从某些特定深度位置采集的土壤样本，用于测试和验证的目的。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;稳定性&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"稳定性指的是测得地层的含水状态需保持稳定，不影响测量的安全性和准确性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;代表性&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"代表性是指测点应能代表整个测量区域用于有效的分析和推断。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;身体保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"身体保护是确保在辐射测量中维护人员安全的关键措施。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;危险警示&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"危险警示指的是在测量过程中要谨慎对待的潜在风险，以保证安全。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;环境监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境监测是实际测量过程中保证所处环境条件符合安全和准确的因素。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;校准设备&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"校准设备是用于定期检查和调整仪器性能的工具，确保仪器的长期可靠性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;보험이료 및 절차&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"보험이료 및 절차는测量过程中关于保险和补偿的相关流程和安全信息。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;程序控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"程序控制是确保测量过程的规范性的重要步骤，影响最终结果的有效性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;系统权限&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"系统权限确定了在测量期间允许的操作和使用权限的范围。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;信息反馈&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"信息反馈对于分析和改进测量操作具有指导意义，是检验过程中不可或缺的一部分。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;数据库支持&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"数据库支持用于存储与测量相关的所有数据信息，便于快速查找和使用。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;技术评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术评估是对所采用技术方案的合规性进行总结和分析，确保项目的有效性。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;检验规则&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检验规则是对标准计数结果的核查和验证的具体指导方针。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;项目标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目标准是对仪器操作和测量执行规定的要求和限制。"*</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;评价方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"评价方法是用以对设备和系统的评估过程，确保其质量和标准的依据。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;环境影响&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境影响是对测量过程或设备使用对环境的潜在负面影响的评估。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;数据质量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据质量是确保测量结果可靠性的重要标准，直接影响分析结果。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;后续分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"后续分析是依据测量结果进行进一步的分析和总结，指导后续活动的基础。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;风险评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"风险评估在测量期间识别和分析潜在风险的重要过程，确保安全。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;性能测试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"性能测试是针对设备的稳定性和可靠性进行的检测过程，确保其工作正常。"</data>
+      <data key="d2">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </node>
+    <node id="&quot;测试仪器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"测试仪器 refers to the equipment used for measuring density and moisture content during field testing."</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;土壤材料&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土壤材料 refers to soil types that are tested for density and moisture content as part of the field testing procedures."</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </node>
+    <node id="&quot;浓度测量计数&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"浓度测量计数 refers to the density measurement counts that are recorded during the testing process."</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </node>
+    <node id="&quot;容器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"容器 refers to the containers used to hold the samples for measurement during the testing procedures."</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </node>
+    <node id="&quot;密度和水分目标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"密度和水分目标 refers to the target density and moisture levels aimed for during the testing process."</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </node>
+    <node id="&quot;土层质地和成分&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土层质地和成分 refers to the texture and composition of soil layers tested in the field."</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </node>
+    <node id="&quot;工程实际需要&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程实际需要 refers to the practical engineering requirements that dictate the standards for measurement accuracy."</data>
+      <data key="d2">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </node>
+    <node id="&quot;土石材料密度测试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土石材料密度测试 is an event related to measuring the density and moisture content of soil and rock materials using specific instruments."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;报告书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"报告书 signifies the documentation required to outline the results and methodologies of the density and moisture testing procedure."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;钻孔工具&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"钻孔工具 refers to the tools used for drilling into the materials to prepare for measurement, critical for obtaining representative samples."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;标定曲线&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"标定曲线 refers to the calibration curves essential for accurate measurements of density and moisture using specific testing instruments."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;测量精密度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测量精密度 refers to the precision of measurements obtained from the instruments, indicating reliability and confidence in results."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;最终检测结果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"最终检测结果 represents the final outcomes and findings derived from conducting the 土石材料密度测试, summarizing the essential data obtained."&lt;SEP&gt;"最终检测结果 signifies the final outcomes and findings derived from conducting the 土石材料密度测试, summarizing the essential data obtained."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;相应深度&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"相应深度 refers to the specific depths at which measurements are taken, crucial for understanding the geological layers being analyzed."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;样品&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"样品 refers to the collected portions of soil or rock material prepared for testing during the density and moisture measurement process."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;质量标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"质量标准 depicts the quality standards that must be adhered to during testing procedures to ensure valid results."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;测量场所&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"测量场所 is the location where density and moisture content testing occurs, chosen for its representativeness."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;不均质&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"不均质 denotes the inconsistent quality or composition of the materials being tested, influencing measurement accuracy."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;超大粒径颗粒&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"超大粒径颗粒 identifies unusually large particles found in the tested materials, which can affect test results if present."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;取样器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"取样器 refers to the tool used for extracting samples from the depths of the materials after testing has been conducted."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;测量结果异常&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测量结果异常 indicates instances where the testing results are outside expected parameters, prompting further investigation."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;接头部位&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"接头部位 relates to the connection points on measurement tools, which could introduce variability in the measurement process."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;相应深度数量&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"相应深度数量 refers to the number of specific depths measured during the testing process, contributing to the overall data collected."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;测量标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测量标准 are the guidelines and protocols established for conducting accurate measurements during tests."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;相关参数&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"相关参数 refers to any additional variables or conditions noted during testing that may affect results."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;预热&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"预热 indicates the initial step of preparing instruments that involve heating before actual measurement can commence."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;闭环校验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"闭环校验 is the verification process that checks the accuracy of measurements through a closed-loop testing method."</data>
+      <data key="d2">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </node>
+    <node id="&quot;中国水利水电出版社&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中国水利水电出版社 is a publishing organization established in 1956, focusing on water conservancy and hydropower technical publications and aiming to meet readers' needs through innovation and rigorous standards."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;水利水电技术标准咨询服务中心&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利水电技术标准咨询服务中心 is the technical standards consultation center that publishes, promotes, and edits water conservancy and hydropower-related standards and literature."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;王德鸿&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王德鸿 serves as the director of 中国水利水电出版社, responsible for overseeing the publishing and consultation services offered by the organization."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;陈昊&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陈昊 is the assistant director of 中国水利水电出版社, involved in managing various editorial tasks."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;社会热点&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"社会热点 refers to current social issues that the publisher aims to address and provide insights on through its publications."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;密度-水分现场测试记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"密度-水分现场测试记录 represents a specific protocol for recording field test measurements related to density and moisture content in materials."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;王舟阳&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王舟阳 is one of the editors at 中国水利水电出版社, responsible for specific editorial tasks and coordinating publication efforts."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;林京&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"林京 is the chief editor at 中国水利水电出版社, overseeing major editorial decisions and processes."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;杨露茜&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"杨露茜 works as an editor at 中国水利水电出版社, contributing to the publication of various literary and technical materials."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;章思洁&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"章思洁 is an editor at 中国水利水电出版社, involved in editing and publishing tasks related to water conservancy literature."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;覃薇&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"覃薇 is part of the editorial team at 中国水利水电出版社, assisting in various publishing and consultation projects."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;北京市&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"北京市 is the capital city of China and serves as the location for 中国水利水电出版社's headquarters, influencing its operations and reach in publishing."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;水利行业标准核子水分-密度仪现场测试规程SL275--2014&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利行业标准核子水分-密度仪现场测试规程SL275--2014 is a specific regulatory document published by 中国水利水电出版社, outlining standards for field testing."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部 is the Ministry of Water Resources in China, under which 中国水利水电出版社 operates, focusing on water management and regulations."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;010一68317913&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"010一68317913 is a contact number for the publishing organization and serves as part of the communication channels with clients."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;WWW.WATERPUB.COM.CN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"www.waterpub.com.cn is the official website of 中国水利水电出版社, providing information about their publications and services."</data>
+      <data key="d2">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </node>
+    <node id="&quot;快中子慢化&quot;">
+      <data key="d2">chunk-ed05652c89a10b52a8e245a332a47886</data>
+      <data key="d1">"氢物质 is essential in the process of fast neutron moderation, as it interacts effectively with neutrons to reduce their energy."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;核子水分-密度仪现场测试规程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Ministry of Water Resources approves and publishes the standard for nuclear density-moisture gauge testing, indicating a governing role."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;南京水利科学研究院&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Ministry of Water Resources endorses the standards drafted by Nanjing Hydraulic Research Institute, showing an authoritative relationship."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;核子水分-密度仪&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中华人民共和国水利部 oversees the regulations and standards related to the nuclear density-moisture gauges used in water resource measurement."</data>
+      <data key="d6">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪现场测试规程&quot;" target="&quot;程和森&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"程和森 is a major author of the standard, indicating direct involvement in its creation."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪现场测试规程&quot;" target="&quot;曹更新&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"曹更新 is also a principal writer of the standard, contributing significantly to its development."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪现场测试规程&quot;" target="&quot;王守家&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"王守家 is another key contributor to the standard, highlighting collective authorship."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪现场测试规程&quot;" target="&quot;沈杰&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"沈杰's major authorship in the standard indicates significant expertise in its formulation."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪现场测试规程&quot;" target="&quot;邓英春&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"邓英春 oversees the review, ensuring the standard meets required technical and regulatory criteria."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪现场测试规程&quot;" target="&quot;于爱华&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"于爱华's role in formatting indicates a focus on presenting the standard clearly and effectively."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;SL 275-2014&quot;" target="&quot;SL275-2001&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"SL 275-2014 updates and replaces the previous version, SL275-2001, indicating a progression in standards."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;SL 275-2014&quot;" target="&quot;FIELD TEST METHODS FOR NUCLEAR DENSITY-MOISTURE GAUGES&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"SL 275-2014 is essentially the standard that documents the field test methods for the nuclear density-moisture gauges."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;SL 275-2014&quot;" target="&quot;强制性条款&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"强制性条款 are embedded within SL 275-2014, necessitating compliance for practical implementation."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;SL 275-2014&quot;" target="&quot;辐射安全&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"辐射安全 requirements are outlined within SL 275-2014 to ensure safe usage of the testing equipment."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;SL 275-2014&quot;" target="&quot;Y-RAY TRANSMISSION METHOD&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"SL 275-2014 describes methodologies relevant to Y-ray transmission, indicating its standardization and importance in measuring material densities."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;SL 275-2014&quot;" target="&quot;王机&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"SL 275-2014为王机的使用和测量过程提供了标准和指导。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;SL 275-2014&quot;" target="&quot;测量设备&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"SL 275-2014规范了测量设备的使用流程和标准检验程序。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;SL 275-2014&quot;" target="&quot;CONCRETE DENSITY TESTING&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"SL 275-2014 provides guidelines that govern the procedures for Concrete Density Testing."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;SL 275-2014&quot;" target="&quot;测试仪器&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"SL 275-2014 provides guidelines that directly apply to the use and functioning of the testing instruments for measuring density and moisture."</data>
+      <data key="d6">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </edge>
+    <edge source="&quot;FIELD TEST METHODS FOR NUCLEAR DENSITY-MOISTURE GAUGES&quot;" target="&quot;表层型核子水分-密度仪&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The surface-type gauge is specifically addressed in the field test methods detailed in the standard."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;FIELD TEST METHODS FOR NUCLEAR DENSITY-MOISTURE GAUGES&quot;" target="&quot;深层型核子水分-密度仪&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The deep-type gauge testing procedures are also covered in the field test methods outlined in the standard."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;FIELD TEST METHODS FOR NUCLEAR DENSITY-MOISTURE GAUGES&quot;" target="&quot;测量精密度与测量误差&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"测量精密度与测量误差 is relevant to the standards that ensure accuracy in the field test methods usable in practice."</data>
+      <data key="d6">chunk-15b7354543c43d6ad0d7693c5272821d</data>
+    </edge>
+    <edge source="&quot;表层型核子水分-密度仪&quot;" target="&quot;被测材料&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"被测材料 is the subject of analysis in the density gauge, directly impacting the measurement outcomes."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;表层型核子水分-密度仪&quot;" target="&quot;厂家标定报告&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"厂家标定报告 ensures that the density gauge operates correctly, validating the measurements taken during tests."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;表层型核子水分-密度仪&quot;" target="&quot;国家辐射防护法规&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"国家辐射防护法规 governs the safe usage of the density gauge, protecting users from radiation exposure."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;深层型核子水分-密度仪&quot;" target="&quot;测量设备&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"深层型核子水分-密度仪依赖测量设备完成现场测试，确保其有效性和准确性."</data>
+      <data key="d6">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </edge>
+    <edge source="&quot;深层型核子水分-密度仪&quot;" target="&quot;探棒&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"探棒是深层型核子水分-密度仪的关键组件，直接参与密度和含水量的测量过程."</data>
+      <data key="d6">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </edge>
+    <edge source="&quot;深层型核子水分-密度仪&quot;" target="&quot;国家放射防护&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"深层型核子水分-密度仪的使用和管理应遵循国家放射防护的规章，以确保安全性和合规性."</data>
+      <data key="d6">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </edge>
+    <edge source="&quot;FAST NEUTRON MODERATION&quot;" target="&quot;THERMAL NEUTRON&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Fast neutron moderation directly leads to the formation of thermal neutrons, which are significant in nuclear testing and interactions."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;COUNT RATE&quot;" target="&quot;MEASURED COUNT&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Count rate is derived from measured counts, which quantifies the rate at which radiation events are detected, valuable for analysis."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;MEASURED COUNT&quot;" target="&quot;STANDARD COUNT&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Measured counts are compared to standard counts to evaluate the performance and accuracy of radiation measurement devices."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;MEASURED COUNT&quot;" target="&quot;MEASURING DEPTH&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Measuring depth is crucial for accurate measured counts, as it determines how deeply the radiation penetrates the material being tested."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;STANDARD COUNT&quot;" target="&quot;COUNT RATIO&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"Count ratio uses standard counts as a baseline to assess the adequacy of measured results in testing procedures."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;铅屏蔽&quot;" target="&quot;$\GAMMA$射线探测器&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"铅屏蔽 is used to protect the $\gamma$射线探测器 from unwanted radiation, ensuring accurate measurements."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;国家辐射防护法规&quot;" target="&quot;辐射防护&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"辐射防护 is governed by国家辐射防护法规, which sets the standards and guidelines practitioners must follow."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;现场校正&quot;" target="&quot;化学成分&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"化学成分 affects the need for现场校正, as changes in composition may require recalibration of the measuring device."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;现场校正&quot;" target="&quot;仪器&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"现场校正 is performed on the 仪器 to maintain effective measurement accuracy over time."</data>
+      <data key="d6">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </edge>
+    <edge source="&quot;氢物质&quot;" target="&quot;快中子慢化&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"氢物质 is essential in the process of fast neutron moderation, as it interacts effectively with neutrons to reduce their energy."</data>
+      <data key="d6">chunk-ed05652c89a10b52a8e245a332a47886</data>
+    </edge>
+    <edge source="&quot;测量设备&quot;" target="&quot;王机&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"王机是测量设备中的关键组成部分，提供辐射测量的主要功能。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;测量设备&quot;" target="&quot;辅助设施&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"辅助设施为测量设备提供支持，确保标准计数的有效性和准确性。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;测量设备&quot;" target="&quot;Y-射线探测器&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Y-射线探测器的功能是作为测量设备的一部分，进行射线检测。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;测量设备&quot;" target="&quot;热中子探测器&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"热中子探测器作为测量设备的一个组成部分，负责中子辐射的测量。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;测量设备&quot;" target="&quot;电源&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"电源为测量设备提供电力，确保其正常操作。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;测量设备&quot;" target="&quot;记录仪表&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"记录仪表用于收集和显示测量数据，是测量设备的重要部分。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;测量设备&quot;" target="&quot;技术要求&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"技术要求定义了仪器的使用条件和标准，为测量设备的操作提供指导。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;测量设备&quot;" target="&quot;环境和安全要求&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"环境和安全要求确保在使用测量设备时的安全性，防止潜在危险。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;测量设备&quot;" target="&quot;探棒&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"探棒作为测量设备的一部分，负责实际的土石材质测试。"</data>
+      <data key="d6">chunk-0634731041d08f0d1e1ee4d583169800</data>
+    </edge>
+    <edge source="&quot;王机&quot;" target="&quot;射线源&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"射线源是王机的重要组成部分，负责提供辐射源。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;王机&quot;" target="&quot;中子源&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中子源与王机共同作用，以实现更全面的辐射测量。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;辅助设施&quot;" target="&quot;标准块&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"标准块是辅助设施的一部分，用于校准测量仪器。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;辅助设施&quot;" target="&quot;探棒&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"辅助设施为探棒的工作提供支持，确保测量过程中的有效性和效率。"</data>
+      <data key="d6">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </edge>
+    <edge source="&quot;记录仪表&quot;" target="&quot;探棒&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"记录仪表与探棒协同工作，记录探棒测量的测试信号，确保数据的准确性。"</data>
+      <data key="d6">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </edge>
+    <edge source="&quot;记录仪表&quot;" target="&quot;标准计数&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"标准计数的测量结果需要通过记录仪表进行记录和存储，以确保仪器使用的合规性。"</data>
+      <data key="d6">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </edge>
+    <edge source="&quot;手动单次测量方法&quot;" target="&quot;标准计数检验&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"手动单次测量方法是进行标准计数检验时的一种有效手段。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;自动连续多次测量方法&quot;" target="&quot;标准计数检验&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"自动连续多次测量方法提供了一种高效的标准计数检测方式。"</data>
+      <data key="d6">chunk-662d93fdf0e097a05f9df26db1a1d3fa</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;标样法&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"仪器 utilizes 标样法 to ensure accurate measurements during testing of density and moisture counts."</data>
+      <data key="d6">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;密度标样&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Instruments are used in conjunction with density samples to accurately measure and calibrate the density of various materials."</data>
+      <data key="d6">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;水分标样&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Instruments analyze moisture samples to determine the moisture content of the materials being tested."</data>
+      <data key="d6">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;现场测试&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"仪器被用于现场测试，以获取土石材料的密度和含水量数据，从而保证测试结果的准确性."</data>
+      <data key="d6">chunk-294bf8b915f8d568575a585c2ef7c617</data>
+    </edge>
+    <edge source="&quot;仪器&quot;" target="&quot;测量导管&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"仪器 is inserted into the 测量导管 to perform density and moisture measurements during the testing."</data>
+      <data key="d6">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </edge>
+    <edge source="&quot;标样法&quot;" target="&quot;测试&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"标样法 is an integral part of the 测试 process, helping to validate measurement results."</data>
+      <data key="d6">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </edge>
+    <edge source="&quot;测试&quot;" target="&quot;土石材料&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"测试 involves assessing 土石材料 to evaluate their density as per standards."</data>
+      <data key="d6">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </edge>
+    <edge source="&quot;测试&quot;" target="&quot;混凝土材料&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"测试 is also conducted on 混凝土材料 to confirm density and compliance with specifications."</data>
+      <data key="d6">chunk-39be582491733bbadd881de6c6f3c24d</data>
+    </edge>
+    <edge source="&quot;土石材料&quot;" target="&quot;水分标样&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Moisture samples are derived from soil and rock materials to assess their water content in the context of construction testing."</data>
+      <data key="d6">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </edge>
+    <edge source="&quot;土石材料&quot;" target="&quot;密度标样&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Density samples are used to gauge the density of soil and rock materials, critical for engineering assessments."</data>
+      <data key="d6">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </edge>
+    <edge source="&quot;土石材料&quot;" target="&quot;环刀法&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The ring cutting method is specifically applied to measure the density of soil and rock materials in the field."</data>
+      <data key="d6">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </edge>
+    <edge source="&quot;土石材料&quot;" target="&quot;灌砂法&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The sand pouring method is used for measuring the density of soil materials effectively in situ."</data>
+      <data key="d6">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </edge>
+    <edge source="&quot;土石材料&quot;" target="&quot;现场测试&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"土石材料是现场测试的对象，通过不同的测量方法获得其密度和水分内容."</data>
+      <data key="d6">chunk-294bf8b915f8d568575a585c2ef7c617</data>
+    </edge>
+    <edge source="&quot;SL 275--2014&quot;" target="&quot;密度标样&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"SL 275--2014 sets the procedures for using density samples in the measurement of materials, ensuring accuracy in results."</data>
+      <data key="d6">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </edge>
+    <edge source="&quot;SL 275--2014&quot;" target="&quot;水分标样&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"SL 275--2014 outlines methods for using moisture samples to evaluate the moisture content of materials, which is critical for quality control."</data>
+      <data key="d6">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </edge>
+    <edge source="&quot;密度标样&quot;" target="&quot;混凝土&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Density samples include concrete as one of the materials where density measurement is crucial for quality assurance."</data>
+      <data key="d6">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </edge>
+    <edge source="&quot;密度标样&quot;" target="&quot;土壤材料&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"土壤材料 are measured against density standards (密度标样) to ensure testing accuracy and consistency in results."</data>
+      <data key="d6">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </edge>
+    <edge source="&quot;密度标样&quot;" target="&quot;水分标样&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Density standards (密度标样) and moisture standards (水分标样) are essential for ensuring quality and accuracy during soil testing procedures."</data>
+      <data key="d6">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </edge>
+    <edge source="&quot;水分标样&quot;" target="&quot;烘干法&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The drying method is employed to evaluate the moisture content in moisture samples accurately."</data>
+      <data key="d6">chunk-86e7226c18f57eeac1265965370b3b1a</data>
+    </edge>
+    <edge source="&quot;水分标样&quot;" target="&quot;土壤材料&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"土壤材料 are measured for moisture content against specified moisture standards (水分标样) during field tests."</data>
+      <data key="d6">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </edge>
+    <edge source="&quot;现场测试&quot;" target="&quot;现场标定&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"现场测试 typically follows upon successful 现场标定 ensuring the measurements taken are accurate and valid."</data>
+      <data key="d6">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </edge>
+    <edge source="&quot;CONCRETE DENSITY TESTING&quot;" target="&quot;SCATTERING METHOD&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Scattering Method is a measurement approach detailed in the Concrete Density Testing guidelines for evaluating material density."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;CONCRETE DENSITY TESTING&quot;" target="&quot;TRANSMISSION METHOD&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Transmission Method is another measurement approach outlined as part of the concrete density testing procedures."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;CONCRETE DENSITY TESTING&quot;" target="&quot;REINFORCED CONCRETE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Reinforced Concrete is specifically mentioned as a material whose density needs to be accurately measured in concrete density testing."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;SCATTERING METHOD&quot;" target="&quot;MEASURING INSTRUMENTS&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Measuring Instruments are utilized in the Scattering Method during the measurement process for soil and rock materials."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;SCATTERING METHOD&quot;" target="&quot;SOIL MATERIALS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Soil Materials are the primary subject of analysis using the Scattering Method during density measurement processes."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;TRANSMISSION METHOD&quot;" target="&quot;MEASURING INSTRUMENTS&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Measuring Instruments are essential for executing the Transmission Method, ensuring the testing process is effective."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;MEASURING INSTRUMENTS&quot;" target="&quot;MEASUREMENT PARAMETERS&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Measuring Instruments require specific Measurement Parameters to operate effectively during density tests."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;GRANULAR FILL&quot;" target="&quot;MEASURING SURFACE&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Granular Fill is used to prepare the Measuring Surface for accurate measurements by filling irregularities."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;SAFETY DISTANCE&quot;" target="&quot;TESTING PROCEDURES&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Safety Distance is an important aspect of Testing Procedures to ensure safety while conducting tests."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;MEASUREMENT PARAMETERS&quot;" target="&quot;TESTING PROCEDURES&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Measurement Parameters must be confirmed during the Testing Procedures to ensure the reliability of the results."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;TESTING PROCEDURES&quot;" target="&quot;RECORDING RESULTS&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Recording Results is a crucial part of the Testing Procedures that finalizes the measurement process by documenting the findings."&lt;</data>
+      <data key="d6">chunk-b08161de841438f8e5c7e2366cbb7497</data>
+    </edge>
+    <edge source="&quot;TESTING PROCEDURES&quot;" target="&quot;CONCRETE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Testing Procedures cover specific methods to assess the physical properties of Concrete, ensuring quality control."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;TESTING PROCEDURES&quot;" target="&quot;ASPHALT&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Testing Procedures are also applicable to Asphalt, indicating a need for similar quality assessments."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;TESTING PROCEDURES&quot;" target="&quot;MEASUREMENT STANDARDS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Measurement Standards provide the guidelines and regulations necessary for carrying out Testing Procedures effectively."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;TESTING PROCEDURES&quot;" target="&quot;REPORT&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Report documents the outcomes of the Testing Procedures, including measurements, results, and compliance with standards."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;CONCRETE&quot;" target="&quot;NUCLEAR DENSITY GAUGE&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Nuclear Density Gauge is utilized in measuring the density of Concrete during field tests."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;ASPHALT&quot;" target="&quot;NUCLEAR DENSITY GAUGE&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Nuclear Density Gauge also applies to Asphalt density measurements, demonstrating its versatility in quality control."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;REPORT&quot;" target="&quot;APPROVAL PROCESS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Approval Process involves reviewing the Report generated from Testing Procedures to confirm accuracy and compliance."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;NUCLEAR DENSITY GAUGE&quot;" target="&quot;TESTING EQUIPMENT&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Nuclear Density Gauge is a specific piece of Testing Equipment utilized for density measurements of concrete and asphalt."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;NUCLEAR DENSITY GAUGE&quot;" target="&quot;CALIBRATION PROCESS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Calibration Process is crucial for ensuring the proper functionality and accuracy of the Nuclear Density Gauge before testing."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;MEASUREMENT SITE&quot;" target="&quot;TEST RESULTS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Measurement Site is where Test Results originate, directly linking location and outcomes of tests."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;TEST RESULTS&quot;" target="&quot;CONSTRUCTION COMPANY&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Construction Company is responsible for the testing processes, interpreting the Test Results for project requirements."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;TEST RESULTS&quot;" target="&quot;TEMPERATURE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Temperature is recorded during tests, and changes may impact the Test Results, making it a key factor for evaluation."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;TEST RESULTS&quot;" target="&quot;HUMIDITY&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Humidity, like Temperature, is a critical factor during testing that can influence the Test Results of density measurements."</data>
+      <data key="d6">chunk-0f488df16f9f94ebd3c46469aa01cdfa</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪&quot;" target="&quot;现场测量&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"核子水分-密度仪 is utilized during 现场测量 to accurately determine moisture and density values in various materials."</data>
+      <data key="d6">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪&quot;" target="&quot;放射源泄露检查&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"放射源泄露检查 is essential for ensuring the safe operation of the 核子水分-密度仪 and preventing radiation hazards."</data>
+      <data key="d6">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪&quot;" target="&quot;标准计数检验&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"标准计数检验 is a procedure that validates the accuracy of the 核子水分-密度仪 before it is used for measurements."</data>
+      <data key="d6">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪&quot;" target="&quot;土石材料密度测试&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"核子水分-密度仪 is used within the 土石材料密度测试 to obtain precise density and moisture metrics."</data>
+      <data key="d6">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </edge>
+    <edge source="&quot;核子水分-密度仪&quot;" target="&quot;测量导管&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"核子水分-密度仪 relies on the measurements taken through the 测量导管 to assess material properties."</data>
+      <data key="d6">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </edge>
+    <edge source="&quot;现场测量&quot;" target="&quot;测量误差&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"现场测量 outcomes can be affected by 测量误差, which includes various factors that might influence the precision of the measurements taken."</data>
+      <data key="d6">chunk-af73dc58e3cc10834c8feef091782cc2</data>
+    </edge>
+    <edge source="&quot;深度指示器&quot;" target="&quot;测量导管&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"深度指示器用于与测量导管结合，以确定探棒插入材料的正确深度。"</data>
+      <data key="d6">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </edge>
+    <edge source="&quot;测量导管&quot;" target="&quot;现场标定&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"现场标定过程通常涉及测量导管，确保仪器在具体条件下的有效性。"</data>
+      <data key="d6">chunk-2893f13ef5e7f8c36a22b7ec45d65a1a</data>
+    </edge>
+    <edge source="&quot;测量导管&quot;" target="&quot;土石材料密度测试&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"测量导管 is integral to the 土石材料密度测试, facilitating the measurement of soil and rock materials."</data>
+      <data key="d6">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </edge>
+    <edge source="&quot;土壤材料&quot;" target="&quot;容器&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"容器 are used to hold the 土壤材料 samples before they undergo density and moisture testing."</data>
+      <data key="d6">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </edge>
+    <edge source="&quot;密度和水分目标&quot;" target="&quot;工程实际需要&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"密度和水分目标 must meet 工程实际需要 in order to ensure the reliability of the testing results."</data>
+      <data key="d6">chunk-a1f3d432ac2ddca7197a84a6cd824625</data>
+    </edge>
+    <edge source="&quot;土石材料密度测试&quot;" target="&quot;报告书&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"报告书 documents the results of the 土石材料密度测试, summarizing findings and methodologies."</data>
+      <data key="d6">chunk-b427fc638dff43f00d74cca1a7d64c5d</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;王德鸿&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"王德鸿 is the leader of 中国水利水电出版社, indicating a direct organizational relationship."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;陈昊&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"陈昊 assists in the management of operations and editorial tasks at 中国水利水电出版社, representing a direct involvement in the organization."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;水利水电技术标准咨询服务中心&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水利水电技术标准咨询服务中心 operates under 中国水利水电出版社, focusing on standards and related publications."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;社会热点&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"中国水利水电出版社 aims to address social issues (社会热点) through their publishing activities, showing a connection to their mission."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;王舟阳&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"王舟阳 is involved in the editorial processes at 中国水利水电出版社, indicating a direct contribution to the organization."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;林京&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"林京 oversees the main editorial decisions at 中国水利水电出版社, showing leadership within the organization."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;杨露茜&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"杨露茜 contributes as an editor at 中国水利水电出版社, directly participating in their publishing efforts."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;章思洁&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"章思洁's role as an editor supports the mission and activities of 中国水利水电出版社."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;覃薇&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"覃薇 is involved in various publishing projects, reinforcing her connection to 中国水利水电出版社."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;水利部&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利部 governs and oversees the operations of 中国水利水电出版社, highlighting organizational ties."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;中国水利水电出版社&quot;" target="&quot;北京市&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"北京市 serves as the geographical location for 中国水利水电出版社, affecting its operations and outreach."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;水利水电技术标准咨询服务中心&quot;" target="&quot;密度-水分现场测试记录&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"密度-水分现场测试记录 is part of the documentation and standards that 水利水电技术标准咨询服务中心 publishes and promotes."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;水利水电技术标准咨询服务中心&quot;" target="&quot;水利部&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利水电技术标准咨询服务中心 operates under the guidelines established by 水利部, emphasizing their connection to the ministry."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+    <edge source="&quot;密度-水分现场测试记录&quot;" target="&quot;水利行业标准核子水分-密度仪现场测试规程SL275--2014&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"密度-水分现场测试记录 follows the standards set forth in the regulatory document published by 中国水利水电出版社."&lt;</data>
+      <data key="d6">chunk-61d96a9b74f55dc9a6cad885d514c1fe</data>
+    </edge>
+  </graph>
+</graphml>

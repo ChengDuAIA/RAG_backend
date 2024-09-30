@@ -1,0 +1,2881 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is the governmental authority responsible for water resources management and hydropower, issuing standards for engineering projects in these fields."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;水利水电工程水文自动测报系统&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利水电工程水文自动测报系统 refers to the hydrological data collection and transmission system designed for managing water resources and hydropower projects."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;中水东北勘测设计研究有限责任公司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中水东北勘测设计研究有限责任公司 is a company involved in the development and design of hydrological systems and contributes to the standardization process."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;广西壮族自治区水利电力勘测设计研究院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"广西壮族自治区水利电力勘测设计研究院 is a regional authority participating in the design and survey of water resource and hydropower projects."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;张永胜&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"张永胜 is a contributor to the standard, likely involved in its drafting or review process."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;李爱玲&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"李爱玲 is a contributor to the standard, likely involved in its drafting or review process."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;莫 明&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"莫 明 is a contributor to the standard, likely involved in its drafting or review process."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;朱珍燕&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"朱珍燕 is a contributor to the standard, likely involved in its drafting or review process."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;水利技术标准编写规定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利技术标准编写规定 refers to the regulations that guide the preparation of technical standards in the field of water management and hydropower."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;SL1—2002&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SL1—2002 is a specific standard referenced for compiling water resources and hydropower project technical specifications."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;建筑物防雷设计规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建筑物防雷设计规范 refers to the standard regulating lightning protection design for buildings."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </node>
+    <node id="&quot;河流流量测验规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河流流量测验规范 is a standard that outlines methods for measuring river flow rates."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </node>
+    <node id="&quot;水文自动测报系统技术规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文自动测报系统技术规范 (SL61—2003) is a technical standard that specifies the requirements for hydrological automatic measurement systems."&lt;SEP&gt;"水文自动测报系统技术规范 refers to specific technical guidelines for the design and implementation of automated hydrological monitoring systems."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;水文基础设施建设及技术装备标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文基础设施建设及技术装备标准 includes standards for the construction and technical equipment for hydrological infrastructures."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;温续余&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"温续余 is the technical leader for the review meeting of the standard, indicating a significant role in evaluating its content."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;张国学&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"张国学 is a reviewing member involved in the oversight of the standard's body format."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;陈登毅&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陈登毅 is the reviewer responsible for the formatting of the standard document."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;水文预报方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文预报方案 refers to the proposal or plan for hydrological forecasting related to water resource projects."&lt;SEP&gt;"水文预报方案 refers to the set of plans and methods formulated for forecasting hydrological conditions, critical for water management and resource allocation."&lt;SEP&gt;"水文预报方案是一种用于洪水预报的计划，旨在评估并提升预报的精度和信效。"&lt;SEP&gt;"水文预报方案是为满足水文监测和预测需求而制定的一系列技术和方法，根据流域特点进行制定。"</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474&lt;SEP&gt;chunk-9d88e1b8583230c79f2fff7997a8aa12&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf&lt;SEP&gt;chunk-93f484cfb5dc4928d5e6039d34649071</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;遥测站网&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"遥测站网 refers to the network of remote sensing stations set up to collect hydrological data in the designated areas, crucial for data accuracy."&lt;SEP&gt;"遥测站网 relates to the network of remote measurement stations used for hydrological data collection."&lt;SEP&gt;"遥测站网是为收集、传输水文数据而设立的一系列测量站，负责监测和报告水、雨情变化。"</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474&lt;SEP&gt;chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-93f484cfb5dc4928d5e6039d34649071</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;供电与防雷方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"供电与防雷方案 outlines the power supply and lightning protection strategies necessary for effective system operation."</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </node>
+    <node id="&quot;投资概（估）算&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投资概（估）算 refers to the budget estimation for the construction and implementation of hydrological systems."&lt;SEP&gt;"投资概（估）算是对水文自动测报系统建设所需费用的评估和分类，确保资金的合理分配。"</data>
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474&lt;SEP&gt;chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水文自动测报系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Hydrological Automatic Monitoring System is a comprehensive system designed for monitoring water levels and rainfall, utilizing various sensors and communication devices."&lt;SEP&gt;"水文自动测报系统 is a hydrometric automatic monitoring system designed to provide estimates that include construction costs and installation fees for various stations."&lt;SEP&gt;"水文自动测报系统 is an organization that designs and implements automated hydrological monitoring systems for flood control, water supply, and power generation needs."&lt;SEP&gt;"水文自动测报系统 refers to an automated system utilizing electronic, communication, and computing technologies to collect, transmit, and process hydrological and meteorological data for water resource management and forecasting."&lt;SEP&gt;"水文自动测报系统是一个专门设计用于水文信息采集和管理的系统，帮助进行防汛抗旱、水资源管理等工作。"&lt;SEP&gt;"水文自动测报系统是水利水电工程建设的组成部分，旨在实时监测水位和流量，确保水资源的合理管理和利用。"&lt;SEP&gt;"水文自动测报系统由多个功能模块组成，比如数据接收与处理和数据管理，旨在实现水文监测和预报。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-c130c88da3dacc1be8fc5bb7f863ef7d&lt;SEP&gt;chunk-93f484cfb5dc4928d5e6039d34649071&lt;SEP&gt;chunk-e0df8fb4d86be9947a3adf500aae0399&lt;SEP&gt;chunk-aa7ad88c400a3d96b7216aa0364695a7&lt;SEP&gt;chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;SL61—2003&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SL61—2003是一项关于水文自动测报系统技术规范的标准，为该系统的设计提供指导和规定。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;SL276—2002&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SL276—2002是关于水文基础设施建设及技术装备的标准，与水文自动测报系统的实施紧密相关。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;ADSL&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"ADSL是一种数字数据传输技术，常用于网络通信，特别是在远程测量与数据传输中发挥作用。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;GSM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"GSM (Global System for Mobile Communications) is one of the mobile communication technologies mentioned for data transmission."&lt;SEP&gt;"GSM is a standard developed for second generation mobile networks, which is used for mobile communication."&lt;SEP&gt;"GSM是一种全球移动通信系统，最初为泛欧数字移动通信系统，它为水文自动测报系统提供无线通信能力。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;湿润地区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"湿润地区是地理区域，其气候特征促进水分积累，适合采用特定的水文预报方案。"&lt;SEP&gt;"湿润地区是水资源较为丰富的区域，需要特别考虑其洪水预报的需求与设置。"&lt;SEP&gt;"湿润地区是降水量较大，水资源丰富的地理区域，洪水预报方案在此区域的制定相对容易。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;干旱地区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"干旱地区指水资源相对匮乏的区域，对遥测雨量站的布设密度需求有所不同。"&lt;SEP&gt;"干旱地区是地理区域，缺乏充分的水分，通常需要开发特殊的水文管理策略和预报方案。"&lt;SEP&gt;"干旱地区是指降水量相对较少，水资源短缺的地理区域，洪水预报方案在此区域的制定面临更多挑战。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;水文信息&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水文信息是指与水文相关的数据和资料，包括流量、降水量以及水位等，常用于水资源管理和防汛抗旱工作。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;自动测报系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"自动测报系统是用于自动化收集和报送水文数据的技术系统，适用于水文监测任务。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;流域&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"流域 is a geographic area where water from rain or snow converges to a single point, often related to hydrological studies and flood control measures."&lt;SEP&gt;"流域指水流汇集的区域，是水文模型中考虑的关键地理特征，其产、汇流特性影响洪水预报的准确性。"&lt;SEP&gt;"流域指的是一个地理区域，其中的降水和水流相互影响，形成复杂的水文特性。"&lt;SEP&gt;"流域是一个地理区域，指水流集中的地方，涉及水文工程的设计与实施。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12&lt;SEP&gt;chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;工程任务&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程任务是指为实现特定的水文目标而开展的工作任务，包括数据采集与分析。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;洪水预报方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水预报方案 includes strategies and methodologies used to forecast flood conditions based on hydrological and meteorological data."&lt;SEP&gt;"洪水预报方案是制定的针对洪水发生而进行的预警和流量预测方案，确保防洪准备工作有效。"&lt;SEP&gt;"洪水预报方案是指根据水文资料和流域特性制定的，用于预测洪水发生的方案。"&lt;SEP&gt;"洪水预报方案是针对流域内洪水发生情况而制定的科学预报计划，旨在提升水文预报的精度与效率。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf&lt;SEP&gt;chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;流域特性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流域特性是指影响水流行为的自然因素，如地形、土壤类型和植被覆盖程度。"&lt;SEP&gt;"流域特性涉及地形、植被和土壤等因素，它们会影响降水和水流的行为。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12&lt;SEP&gt;chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;遥测站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Telemetry Station is a critical component of the Hydrological Automatic Monitoring System, equipped with sensors and communication devices to collect data."&lt;SEP&gt;"遥测站 is a center for remote measurement that employs various sensors and communication equipment for monitoring."&lt;SEP&gt;"遥测站 is a telemetry station within the hydrometric monitoring system, vital for remote data gathering."&lt;SEP&gt;"遥测站是用于采集和发送水文数据的监测点，常通过无线通信技术进行数据传输。"&lt;SEP&gt;"遥测站通常布设在偏远地方，使用太阳能电池板供电，具备一定的防雷技术设计。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528&lt;SEP&gt;chunk-e0df8fb4d86be9947a3adf500aae0399&lt;SEP&gt;chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;数据传输设备&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"数据传输设备是实现远程数据传递的技术工具，关键于水文自动测报系统的功能。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;工程建设需求分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程建设需求分析是对特定水文工程项目需求和安全性的深入评估过程。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;水利水电工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利水电工程 refers to the overarching project encompassing the construction and financial aspects related to water resources and hydropower."&lt;SEP&gt;"水利水电工程 refers to water conservancy and hydropower projects that necessitate the construction of monitoring systems to meet various operational goals such as flood control and supply."&lt;SEP&gt;"水利水电工程是与水资源管理和电力生产相关的重要基础设施，需根据水文预报进行设计和运行。"&lt;SEP&gt;"水利水电工程是涉及水资源和水电开发的工程项目，与水文监测和管理密切相关。"</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75&lt;SEP&gt;chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf&lt;SEP&gt;chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;气象资料&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"气象资料包括天气和气候相关的数据，通常用于水文预报与管理。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;遥测方式&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"遥测方式是指在水文自动测报系统中用于数据采集和传输的不同技术手段。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;监测项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监测项目 are the specific parameters that are monitored within automated systems, including rainfall, evaporation, temperature, water levels, flow, and water quality."&lt;SEP&gt;"监测项目是特定的水文数据收集任务，旨在满足工程需求和科学研究的需要。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;流域模型&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"流域模型用于模拟水流和积水的行为，有助于制定洪水预报方案。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;防洪调度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防洪调度是指根据水文预报信息合理安排水资源和防洪措施以减轻洪灾影响的过程。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;数据采集&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据采集是指从多个水文源头获取并记录重要信息的重要过程，是水文监测的基础。"&lt;SEP&gt;"数据采集是指通过各种设备与技术收集水文信息的过程，基础于洪水预报的实施。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;水文预报精度等级&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水文预报精度等级是用于评估水文预报方案准确性的标准，通常分为不同的级别。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;工程影响&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程影响是指水文工程项目建设对流域水流和环境的影响，需在方案中予以考虑。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;场次洪水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"场次洪水是指在特定水文监测中记录的洪水事件，用于评估预报方案的有效性。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;系统整体设计阶段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"系统整体设计阶段是自动测报系统的规划和设计的关键时刻，确保其能够满足实际工程需求。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;标准规范&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"标准规范是指为确保水文测报系统设计与实施的一系列有约束力的指导规则。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;水利工程布局&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利工程布局涉及各类水资源工程的整体设计和位置安排，影响水文管理的有效性。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;气象站网&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"气象站网是指一系列气象监测站点的组成网络，用于采集和分析气象数据。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;公共通信网&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"公共通信网为各种信息和数据的传递提供基础设施，支持远程水文监测和管理。"</data>
+      <data key="d2">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </node>
+    <node id="&quot;工程建成&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程建成指某水利设施完成建设后，出现对洪水流量或水位的明显影响，需新制定预报方案。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;水文资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文资料包括降水、流量、气象等数据，是水文分析与预报的基础。"&lt;SEP&gt;"水文资料是用于洪水预报的基础数据，必须可靠以确保预报方案的有效性和准确性。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;流量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流量是指单位时间内通过某一断面的水量，通常作为洪水预报中的重要参数。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;水位&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水位是指水体表面的高度，是洪水预报中关键的监测指标之一，帮助评估洪水风险。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;区间面积&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"区间面积指流域内特定区域的大小，其影响着洪水预报的策略和模型选择。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;降水梯度&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"降水梯度是指降水量在空间中的变化速率，关系到流域内的水文特性。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;新安江模型&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"新安江模型是一种水文预报的物理模型，用于模拟降雨与水流之间的关系。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;萨克拉门托模型&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"萨克拉门托模型是一种针对特定地区洪水预报的分析工具，具有地方适应性。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;冰雪融水补给&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"冰雪融水补给是指河流的水源补给方式之一，主要依赖冰雪融化后的水供应，影响流域的水文特性。"&lt;SEP&gt;"冰雪融水补给是某些河流的特殊水源，需根据其独特性选择相应水文模型进行预报。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;山丘区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"山丘区特指有相对高低起伏地形的区域，对水文监测和预报要求有所不同。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;平原区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"平原区是地形相对平坦的区域，对洪水预报的策略与布设站网有不同的需求。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;交通条件&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"交通条件指测站位置的可达性，对遥测站的运维与数据收集至关重要。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;通信条件&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"通信条件涉及在监测站与中心处理站间数据传输的有效性，影响预报的速度与准确性。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;相对误差&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"相对误差用于衡量预报结果与实际情况的偏差，影响模型的评估与调整。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;水文模型&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"水文模型用于模拟和预测流域内的水文过程，是洪水预报的重要工具。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;测量站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"测量站用于数据采集，支持洪水预报方案的实施，是遥测系统的一部分。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;水库工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水库工程是指实施的水利设施，旨在调控水流、储存水资源，并提高防洪能力，其设计与水文预报密切相关。"&lt;SEP&gt;"水库工程涉及对水量的调控，相关的监测设施对洪水预报极为重要。"&lt;SEP&gt;"水库工程涉及防洪和水资源管理，其设计与水位监测密切相关。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12&lt;SEP&gt;chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;坝上水位站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"坝上水位站是专门用于监测水库上游水位变化的设施，对洪水管理至关重要。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;出库水文站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"出库水文站监测水库的出水量，确保洪水预报的准确性。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;通信组网&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"通信组网设计用于确保遥测站与中心站间的信息传递，以支持精准洪水预报。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;信息传输&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Information transmission refers to the process of sending data between the Telemetry Station and the Central Station as part of the hydrological monitoring system's operations."&lt;SEP&gt;"信息传输指的是数据在不同系统间交换的过程，是洪水预报成功的基础。"</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-25c16124f92e36b4e1b8507279d12878</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;系统任务&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"系统任务定义了洪水预报的目标和操作需求，影响相应的实施策略。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;站网论证&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"站网论证是为了验证遥测站数量和位置的合理性，确保水文数据的有效采集。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;河系&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"河系由河流及其支流组成，是洪水预报的基本地理单元。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;流域差异&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"流域差异体现了不同流域在水文特性和预报需求上的多样性。"&lt;SEP&gt;"流域差异反映了不同地区在水文条件、降水和水流特性上的变化，是水文预报中的重要考虑因素。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12&lt;SEP&gt;chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;监测数据&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监测数据是对水位、流量等水文要素的记录，为洪水预报提供基础信息。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;洪水风险&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"洪水风险是指洪水对人类生活和环境造成的潜在威胁，需进行有效评估与管理。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;水圈&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水圈指包含水体的地表和地下水域，是水文预报的重要考量范围。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;集水面积&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"集水面积是指流域内的总降水区，是洪水管理中的重要指标。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;降雨强度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"降雨强度是指单位时间内降雨量的多少，对洪水预报有直接影响。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;流域汇流特性&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"流域汇流特性是决定水流如何在流域内移动的特点，对预报方案的制定至关重要。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;洪水预测精度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"洪水预测精度指洪水预报的准确性，是评估预报系统表现的关键因素。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;信息反馈&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"信息反馈机制用以调整洪水预报方案，根据实时数据优化预报准确性。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;技术实施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术实施是将水文监测和预报方法应用于实际操作的过程，提高预报能力。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;监测网络&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监测网络是由多个遥测站组成的系统，用于实时收集和分析水文数据。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;水文任务&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文任务指一系列为进行有效洪水预报而开展的活动和操作。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;水流监测方法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"水流监测方法是用于测量流域内水文特性的技术手段，是洪水预报的基础。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;洪水预防措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水预防措施是指采取的行动以减少洪水对人类的影响和损害。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;风险管理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"风险管理是一种系统性方法，用来识别、评估和应对洪水相关的风险。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;模型参数&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"模型参数是在水文模型中用以描述和模拟水文过程的关键数值。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;经验相关关系&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"经验相关关系是通过数据观察总结出的两变量关系，可用于模型的调整与优化。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;流动机制&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流动机制描述水流在流域内的运动规律，是洪水预报的重要参考。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;水文监测系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水文监测系统是由不同设备和技术组成，负责收集和评估水文数据。"&lt;SEP&gt;"水文监测系统用于实时收集和分析水文数据，以支持水文预报和水资源管理。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;站网调整&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"站网调整是基于实际监测效果和需求，对遥测站设置进行优化的过程。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;信息系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"信息系统用于整合和管理水文数据，支持洪水预报和决策制定。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;数据分析&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"数据分析 involves the analysis of collected data to inform decisions related to monitoring stations."&lt;SEP&gt;"数据分析是对收集的水文数据进行解读与评估的过程，是提升预报水平的关键。"</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399&lt;SEP&gt;chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;调查研究&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"调查研究是指对流域特性进行深入分析，以优化洪水预报的必要步骤。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;应急响应机制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"应急响应机制是针对洪水发生后快速反应和决策的管理策略。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;模式验证&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"模式验证是对水文模型的实用性和准确性进行测试与评估的活动。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;洪水影响因素&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"洪水影响因素是指影响洪水发生与强度的各种自然和人为条件。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;流域产流特性&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"流域产流特性是指流域在降雨条件下的水流生成能力，是洪水预报的基础。"&lt;SEP&gt;"流域产流特性是描述某一地区水流生成及其流动性的重要指标，影响水文预报的制定。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;水文资料可靠性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水文资料可靠性影响洪水预报的质量，决定了预报结果的可信度。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;系统功能&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"系统功能是指水文监测和预报系统应具备的基本作用和效能。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;水文模型应用&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文模型应用是将理论模型转化为实际操作以指导洪水预报的过程。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;研究机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"研究机构专注于水文学及相关技术的研究，以提高洪水预报的水平和精度。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;环境变化&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境变化是指自然和人为因素导致的生态与地理特征的变化，影响洪水预报的精度。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;流域工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域工程针对特定流域设计和实施的工程措施，以控制和管理水资源。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;动态监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"动态监测是指对水文数据进行实时追踪与记录，提高洪水预报的时效性和准确性。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;预报方案评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"预报方案评估是对已实施预报计划效果进行检查与优化的过程。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;区域特点&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"区域特点指不同地理位置的自然、人文特征对洪水预报的影响因素。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </node>
+    <node id="&quot;流域特征分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域特征分析是对流域内水文与地理特征的系统评估，为洪水预报提供依据。"&lt;SEP&gt;"流域特征分析是对流域情况进行全面研究的过程，为水文预报提供必要依据。"</data>
+      <data key="d2">chunk-25c16124f92e36b4e1b8507279d12878&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;中心站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Central Station serves as the main hub for the Hydrological Automatic Monitoring System, coordinating data flow and system management."&lt;SEP&gt;"中心站 is a central station that acts as a hub in the communication network, collecting and distributing information."&lt;SEP&gt;"中心站 refers to the main station in the hydrometric automatic monitoring system, crucial for data collection and monitoring."&lt;SEP&gt;"中心站是水文自动测报系统中的关键设施，通常设在工程管理部门的办公楼内，负责数据的收集和管理。"&lt;SEP&gt;"中心站是遥测系统的核心，负责接收来自遥测站的数据并进行分析与处理。"&lt;SEP&gt;"中心站负责数据接收和存储，通过配置可靠的计算机和系统软件来确保数据的可靠性和安全性。"</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528&lt;SEP&gt;chunk-79ec91fa2ea94c06066820241dee2e21&lt;SEP&gt;chunk-e0df8fb4d86be9947a3adf500aae0399&lt;SEP&gt;chunk-aa7ad88c400a3d96b7216aa0364695a7&lt;SEP&gt;chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;通信设备&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Communication devices used in the Hydrological Automatic Monitoring System are essential for data transmission and system reliability."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;数据接收与处理软件&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Data reception and processing software is utilized within the Hydrological Automatic Monitoring System to manage and interpret incoming data."&lt;SEP&gt;"数据接收与处理软件能够实时接收和处理遥测数据，并进行合理性检查和统计分析。"</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;供电系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Power Supply System ensures that the Hydrological Automatic Monitoring System operates seamlessly by providing stable and reliable electricity."&lt;SEP&gt;"供电系统采用太阳能电池板浮充蓄电池作为遥测站的供电方式，确保电力的清洁和可靠。"</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;雨量传感器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Rainfall sensors are specific devices used in the monitoring system to gather data on precipitation levels."&lt;SEP&gt;"雨量传感器 is a device used to measure the amount of rainfall in a specific area."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;水位传感器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Water level sensors are used to measure and transmit data regarding the height of water bodies as part of the monitoring system."&lt;SEP&gt;"水位传感器 is a type of sensor specifically designed to measure the water level in various environments."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;双信道通信&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Dual-channel communication is a method proposed to enhance reliability for critical telemetry stations within the hydrological monitoring system."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </node>
+    <node id="&quot;计算机数据存储备份设备&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Computer data storage backup equipment is used at the Central Station to ensure the safety and integrity of collected data."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;不间断电源&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Uninterruptible power supplies are employed at the Central Station for maintaining uninterrupted power during outages."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;超短波通信&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Ultra-shortwave communication is one of the methods suggested for data transmission within the hydrological monitoring system."&lt;SEP&gt;"超短波通信 is a type of communication that uses very high frequency to transmit data over short distances."&lt;SEP&gt;"超短波通信是一种特定的通信方式，适用于遥测站和中继站之间的数据通信。"</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528&lt;SEP&gt;chunk-79ec91fa2ea94c06066820241dee2e21</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;卫星通信&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Satellite communication is utilized in the system for sending and receiving data in areas with limited connectivity."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;CDMA&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"CDMA (Code Division Multiple Access) is another mobile communication technology mentioned for facilitating communications in the monitoring system."&lt;SEP&gt;"CDMA is a telecommunications technology that allows multiple signals to occupy a single transmission channel, facilitating communication."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;3G&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"3G is a mobile communication technology that provides faster data transmission rates, relevant to the communication strategy of the monitoring system."&lt;SEP&gt;"3G refers to the third generation of mobile telecommunications technology, enabling faster data rates and more advanced mobile services."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;PSTN&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"PSTN (Public Switched Telephone Network) represents traditional phone lines which can be considered for wire communication methods in the system."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水情网页发布软件&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Water situation web publishing software allows for the dissemination of hydrological data to the public via web interfaces."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;维护车辆&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Maintenance vehicles are utilized by the Central Station for operational tasks related to system upkeep and repairs."</data>
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;HYDROLOGICAL AUTOMATIC REPORTING SYSTEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Hydrological Automatic Reporting System is developed for monitoring water levels, ensuring reliable data collection and reporting for various water management needs."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;CENTER STATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Center Station serves as a central hub for hydrological data collection and reporting, equipped with stable power supply and essential infrastructure for operations."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;REMOTE SENSING STATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Remote Sensing Stations are installed to monitor various hydrological parameters, utilizing solar power for prolonged operations, especially during adverse weather conditions."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;RELAY STATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Relay Stations facilitate communication and data transfer between remote monitoring stations and the central hub, ensuring efficient data relay."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;WATER LEVEL STATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Water Level Station is a specialized facility set to monitor water levels, equipped with necessary instruments to meet flood monitoring standards."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;INVESTMENT ESTIMATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Investment Estimation refers to the budgeting process for the construction and equipment costs associated with hydrological monitoring systems and their infrastructure."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;POWER SUPPLY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Power Supply refers to the necessary electrical resources required to ensure the stability and reliability of the hydrological monitoring systems."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;VOLTAGE REGULATION EQUIPMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Voltage Regulation Equipment is used in the Center Station to ensure the electrical supply meets operational requirements and protects devices from power fluctuations."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;SOLAR POWER SYSTEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Solar Power System is a renewable energy solution proposed for Remote Sensing and Relay Stations, ensuring they remain operational under various conditions."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;GEOLOGICAL AND ENVIRONMENTAL FACTORS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Geological and Environmental Factors refer to the considerations that influence the selection and design of monitoring station locations, affecting their operational efficiency."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;GROUND RESISTANCE STANDARDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Ground Resistance Standards are technical requirements for grounding electrical systems at the monitoring stations to ensure safety and reliability."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;FLOOD MONITORING STANDARDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Flood Monitoring Standards are established criteria that Water Level Stations must meet to ensure they are capable of effectively monitoring flood conditions."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;COMMUNICATION CIRCUIT TESTING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Communication Circuit Testing is a critical procedure conducted to ensure that Relay Stations are functioning correctly for data transmission."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;STATION CONSTRUCTION REQUIREMENTS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Station Construction Requirements detail the structural and operational specifications needed for the setup of monitoring stations and their integral components."</data>
+      <data key="d2">chunk-10f33be212277b432b461585f5457fdb</data>
+    </node>
+    <node id="&quot;洪水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水 is an event that poses potential threats to the safety of monitoring stations, requiring consideration during site selection."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;台风&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"台风 is an event similar to floods that may threaten monitoring stations, making it vital to assess before installation."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;雷电&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"雷电 is another natural disaster that could impact the safety of monitoring stations and must be evaluated."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;泥石流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"泥石流 is a natural disaster that poses risks to monitoring stations, influencing location decisions."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;滑坡&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"滑坡 is a type of natural disaster that can threaten monitoring stations, necessitating precautionary measures."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;中继站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中继站 is a relay station that supports communication between the遥测站 and the central station, enhancing data transmission."&lt;SEP&gt;"中继站 is a relay station that supports the hydrometric monitoring system by facilitating communications between stations."&lt;SEP&gt;"中继站是设置在野外的设施，通常无人值守，主要用于收集和转发数据。"&lt;SEP&gt;"中继站是遥测系统中的组成部分，负责在测站与中心站之间转发数据，提高通信范围和效率。"</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399&lt;SEP&gt;chunk-aa7ad88c400a3d96b7216aa0364695a7&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528&lt;SEP&gt;chunk-79ec91fa2ea94c06066820241dee2e21</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;基础设施费用&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"基础设施费用 refers to the costs associated with constructing the foundational elements needed for the monitoring stations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;设备费&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"设备费 represents the costs of equipment necessary for the operation of the monitoring stations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;安装调试费&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"安装调试费 includes costs related to the installation and testing of monitoring equipment."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;地形图&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地形图 is a topographic map used to indicate the locations of various stations for the monitoring system."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;电路设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电路设计 refers to the process of designing communication circuits essential for the functioning of the monitoring system."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;电波传播机理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电波传播机理 represents the principles of radio wave propagation pertinent to the communication system's design."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;通信距离&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"通信距离 is the range over which communication can be effectively established among the monitoring stations."&lt;SEP&gt;"通信距离 refers to the distance over which communication signals are transmitted."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399&lt;SEP&gt;chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;路径损耗&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"路径损耗 indicates the loss of signal strength that occurs while communicating over a distance in the monitoring system."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;障碍物特征高度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"障碍物特征高度 refers to the height characteristics of obstacles that could affect communication pathways."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;居民点&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"居民点 indicates the nearest human settlements which are considered during the planning of monitoring station locations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;交通&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"交通 refers to the transportation conditions affecting access to monitoring stations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;供电&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"供电 pertains to the electricity supply conditions necessary for monitoring stations' operations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;供水&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"供水 involves the water supply conditions critical for the functioning of monitoring stations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;水文气象&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水文气象 addresses hydrological and meteorological conditions relevant to the monitoring activities."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;现场测试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场测试 encapsulates the on-site testing procedures conducted to ensure communication reliability of the monitoring stations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;衰落余量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"衰落余量 refers to the additional loss accounted for due to environmental factors affecting signal transmission."&lt;SEP&gt;"衰落余量 refers to the margin allowed in the communication circuit design to accommodate signal fading."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399&lt;SEP&gt;chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;干扰保护度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"干扰保护度 denotes the level of interference protection incorporated in communication systems to ensure function."&lt;SEP&gt;"干扰保护度 refers to the decrease in receiver sensitivity due to external noise."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399&lt;SEP&gt;chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;总增益&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"总增益 represents the total gain achieved in a communication system, factoring in all contributions and losses."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;总损耗&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"总损耗 indicates the total losses encountered in a communication circuit, impacting its overall performance."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;路径剖面图&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"路径剖面图 is a profile diagram showing the path between the transmission and receiving points within the communication system."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;等效地球半径系数&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"等效地球半径系数 is a parameter used to adjust calculations based on geographic latitude."&lt;SEP&gt;"等效地球半径系数 is a value that impacts the calculations of radio wave propagation based on Earth's curvature."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399&lt;SEP&gt;chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;天线挂高&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"天线挂高 refers to the height at which antennas are installed, affecting communication range and signal quality."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;方位角&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"方位角 indicates the angular direction from which the communication signals are transmitted and received."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;仰角&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"仰角 represents the angle of elevation used in the design of communication systems for optimal signal transmission."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;测区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"测区 indicates the area designated for measurement and testing in relation to the monitoring system."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;背景干扰&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"背景干扰 encompasses the interference that may disrupt the communication systems based on external factors."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;电磁干扰&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电磁干扰 refers to any type of disturbance in electronic circuits caused by electromagnetic radiation."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;通信干扰情况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"通信干扰情况 describes the current state of interference affecting the communication circuits of the monitoring stations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;频率分布&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"频率分布 denotes the spread of frequencies that are utilized by various stations within the measurement area."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;供水条件&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"供水条件 refers to the availability and quality of water supply influencing station setup and maintenance."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;生活条件&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"生活条件 considers the living conditions around the monitoring stations that may impact personnel."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;现场查看&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场查看 involves on-site inspections to assess the terrain and location suitability for monitoring stations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;复杂地形&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"复杂地形 refers to intricate terrain kinds affecting signal propagation in the communication network."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;电路余量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电路余量 indicates the margin available in a communication circuit to ensure reliability and performance."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;长期监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"长期监测 refers to long-term monitoring activities conducted by the hydrometric system for data collection."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;安全评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"安全评估 involves the evaluation processes to ascertain the safety of proposed monitoring station locations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;环境影响评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境影响评估 examines the potential environmental impacts associated with installing monitoring stations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;数据信息流&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"数据信息流 encompasses the flow of data and information processed within the monitoring system."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;操作流程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"操作流程 outlines the procedures and processes followed during the installation and testing of monitoring stations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;实施计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实施计划 refers to the plan or strategy implemented for the successful deployment of monitoring stations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;资金筹措&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"资金筹措 represents the fundraising activities to support the implementation of monitoring systems."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;技术指标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术指标 are the technical specifications and benchmarks that must be met for effective monitoring operation."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;方案设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"方案设计 involves the design phases of various monitoring solutions tailored to specific requirements."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;可行性分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"可行性分析 assesses the practicality and potential success of the proposed monitoring setups."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;运营维护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"运营维护 entails the ongoing operation and maintenance of monitoring systems for sustained functionality."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;项目管理&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"项目管理 encompasses the management tasks associated with monitoring projects from initiation to completion."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;技术支持&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"技术支持 includes any technical assistance or support provided for the monitoring systems."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;质量控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"质量控制 ensures that all aspects of the monitoring project meet specified quality standards."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;系统集成&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"系统集成 refers to the integration of various components within the monitoring systems for comprehensive functionality."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;设备维护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备维护 involves the routine maintenance to ensure equipment within the monitoring stations operates optimally."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;监测指标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"监测指标 defines the specific metrics used for evaluating the performance and effectiveness of the monitoring system."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;数据共享&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据共享 allows for the distribution of data and findings obtained from hydrometric monitoring."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;信息化系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"信息化系统 pertains to the systems that digitalize the processes involved in monitoring."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;自动化技术&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"自动化技术 refers to the technologies implemented to automate tasks within the monitoring operations."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;公共安全&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"公共安全 posits a consideration for protecting citizens in relation to the data gathered through monitoring."</data>
+      <data key="d2">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </node>
+    <node id="&quot;A.3.4&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A.3.4 describes the calculations involved in overall loss, including various types of losses in communication systems."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;自由空间损耗&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"自由空间损耗 refers to the loss of signal strength as it travels through free space."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;绕射损耗&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"绕射损耗 refers to the loss in signal strength due to obstacles causing diffraction."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;附加损耗&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"附加损耗 refers to theoretical losses caused by nearby obstacles blocking signals."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;刃形单峰绕射&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"刃形单峰绕射 describes a type of diffraction loss involving a single edge obstacle."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;刃形多峰绕射&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"刃形多峰绕射 describes the diffraction loss that occurs with multiple obstructions."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;信号&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"信号 refers to the electromagnetic waves or pulses used for communication in various media."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;工作频率&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工作频率 refers to the frequency at which a communication system operates."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;传播速度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"传播速度 refers to the speed at which electromagnetic waves travel through different media."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;第一菲涅尔半径&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"第一菲涅尔半径 is a parameter that plays a role in the analysis of signal diffraction and path loss."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;地形高度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"地形高度 refers to the height of the terrain, which can affect signal propagation."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;收发天线&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"收发天线 refers to the transmitting and receiving antennas used in communication systems."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;障碍物&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"障碍物 refers to any physical object that can obstruct or interfere with signal transmission."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;阻隔损耗&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"阻隔损耗 refers to the loss in signal strength due to physical barriers in the communication path."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;山峰&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"山峰 refers to mountains or high elevations that can impact signal propagation and cause diffraction losses."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;衰减因子&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"衰减因子 describes the factor by which a signal is reduced during transmission due to various losses."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;阻挡损耗&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"阻挡损耗 pertains to the loss incurred when a signal is blocked by an obstacle."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;频率&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"频率 refers to how often the signal cycles per second, measured in Hertz."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;工作波长&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工作波长 refers to the wavelength corresponding to a given frequency in the communication systems."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;C&quot;">
+      <data key="d0">"CONSTANT"</data>
+      <data key="d1">"C represents the constant for the speed of light in vacuum, which is essential for calculating wavelengths and frequencies."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;H_C&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"H_c refers to the effective height during signal transmission based on line-of-sight conditions."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;D_1&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"d_1 indicates the distance measurement relevant to signal propagation analysis."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;D_2&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"d_2 also indicates another distance measurement in the context of diffraction loss calculations."</data>
+      <data key="d2">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </node>
+    <node id="&quot;中华人民共和国水利行业标准&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利行业标准 is a set of guidelines and standards for water resources and hydropower engineering in China, outlining protocols for various technical and engineering processes."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;流域或测区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"流域或测区 refers to the geographical regions where hydrological data is collected and monitored, typically covering river basins or specific measurement areas."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;电子技术&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电子技术 refers to the use of electronic devices and circuits for processing and measuring data in various engineering applications."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </node>
+    <node id="&quot;通信技术&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"通信技术 involves the methods and systems for transmitting data over distances, essential for the functionality of the automated monitoring system."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;计算机技术&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"计算机技术 encompasses the hardware and software used for processing information and supports the operations of the automated hydrological monitoring system."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;投资概算&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投资概算 is the financial estimate of investments required for projects, including construction and system installation, important for budgeting the water monitoring system."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </node>
+    <node id="&quot;土建工程设计方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"土建工程设计方案 involves the planning and design of civil engineering structures necessary for supporting the overall system, ensuring structural integrity."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水文、气象站网&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水文、气象站网 is the network of hydrological and meteorological stations that gathers environmental data for analysis and forecasting."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;衰减因子 &quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"衰减因子 is a factor used in the calculations related to signal loss in communication systems, essential for ensuring effective data transmission."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </node>
+    <node id="&quot;最小菲涅尔半径&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"最小菲涅尔半径 refers to a specific measurement that describes the minimum dimension over which signals can be effectively received and processed between transmitting and receiving stations."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </node>
+    <node id="&quot;无线电通信电路&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"无线电通信电路 involves the circuitry required for radio communications, which is vital for the transmission of data in the automated monitoring systems."&lt;SEP&gt;"无线电通信电路用于在测站和中心站之间传输数据，保障信息的实时传递。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21&lt;SEP&gt;chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </node>
+    <node id="&quot;流域水文监测系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"流域水文监测系统 refers to the comprehensive system designed to monitor and manage water resources within river basins, utilizing various technological tools and methodologies."</data>
+      <data key="d2">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </node>
+    <node id="&quot;防洪任务&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防洪任务 refers to the specific objectives related to flood control that require real-time water condition data and forecasting."</data>
+      <data key="d2">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;通信计算机技术&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"通信计算机技术 encompasses the technological advancements in communication and computing that play a crucial role in the design and implementation of automated hydrological systems."</data>
+      <data key="d2">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;新技术&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"新技术 refers to the innovative techniques and methodologies that are prioritized for reliability and practicality in the construction and operation of monitoring systems."</data>
+      <data key="d2">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;实时水情信息&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实时水情信息 refers to real-time water condition data that is critical for effective flood management and operational decision-making in hydrological projects."</data>
+      <data key="d2">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;洪水调度方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水调度方案 refers to the flood scheduling plans developed based on forecasted conditions to manage water resources effectively during flood events."</data>
+      <data key="d2">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;流域产、汇流特性&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"流域产、汇流特性 describes the characteristics of how water flows and accumulates in a watershed, relevant for flood forecasting."</data>
+      <data key="d2">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;流域水文模型&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"流域水文模型是一种用于模拟流域内水文动态的模型，基于物理概念并结合各类水文数据进行分析和预测。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;GB/T 22482—2008&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GB/T 22482—2008是中国的水文情报预报规范，其中规定了水文预报方案的编制要求与质量评定标准。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;坡地汇流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"坡地汇流是流域内部的水流汇集过程，通常用于洪水分析和预报的基础。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;河网汇流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河网汇流是指河流网络中水流的汇集与传输过程，影响 downstream 的水流量和洪水预报。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;单位线法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"单位线法是一种用于水文分析的技术，用于模型化河流汇流过程，帮助预测洪水情况。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;等流时线法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"等流时线法是一种流域降雨分布与出口断面流量建立联系的水文分析方法。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;马氏京干法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"马氏京干法是应用于河道内洪水向下游出口断面进行汇流演算的方法，用于洪水预测。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;河道汇流系数&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"河道汇流系数是用于计算河流中水流计算的重要参数，影响汇流的速度与量。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;水文测报系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水文测报系统是用于监测和预测水文信息的综合系统，支持洪水管理与预报方案。"&lt;SEP&gt;"水文测报系统用于水文数据的采集和分析，为洪水预报和管理提供数据支持。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;暴雨&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"暴雨是指在短时间内降水量很大的天气现象，对流域水文产生显著影响。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;降雨径流经验相关&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"降雨径流经验相关是基于实测数据，进行降雨与流域径流关系分析的方法，常应用于水文模型。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;主流洪流数据&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"主流洪流数据是指流域中主要河流的洪水流量和变化历史，为未来洪水预报提供基础数据。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;资料复核&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"资料复核是对水文数据进行审查和验证的过程，确保数据的可靠性与准确性。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;水文主管部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水文主管部门是负责水文数据收集与管理的机构，确保水文数据的质量和可用性。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;预报精度评定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"预报精度评定是对水文预报方案效果进行评价的重要步骤，影响方案的实施与优化。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;洪水过程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水过程指的是洪水从开始到结束的整个演变过程，对于制定应对策略至关重要。"&lt;SEP&gt;"洪水过程是指洪水从发生到消退的全过程，对其监测与分析是水文预报的重要组成部分。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;方案修编&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"方案修编是指在水文预报方案实施一段时间后，基于实际情况进行的调整与改善。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;水源比例&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水源比例是指流域中不同来源的水量占比，例如降雨、冰雪融水等，影响汇流特性。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;初步编制水文预报方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"初步编制水文预报方案是制定水文预报初始版本的过程，通常在资料不充分的情况下进行。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;工程运行&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程运行是指水利设施在实际运作过程中对水文预报的应用与反馈，为未来预报提供经验。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;洪水流量&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"洪水流量是指特定时间内河流中水流量的大小，是评估洪水风险的重要指标。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;流域形态&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"流域形态是指流域的地理、地质特征，对水文过程与汇流方法有重要影响。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;洪水预警系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"洪水预警系统是用于及时通报洪水信息，提高对洪水影响应对能力的技术体系。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;洪峰流量&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"洪峰流量指的是在洪水期间测量到的最大水流量，是评估洪水影响的重要指标。"&lt;SEP&gt;"洪峰流量是指出現洪水期間至高的流量值，对洪水防控至关重要。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12&lt;SEP&gt;chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;河道汇流特性&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"河道汇流特性是指河流的物理和化学过程，影响水流的流动和汇聚。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;长河段堤防建设&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"长河段堤防建设是指针对河流较长区段进行的水利工程，旨在改善河道的排水性能。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;流域出口断面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"流域出口断面是指流域最终排出水流的断面位置，洪水预报方案需考虑此因素。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;流域研究&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域研究是对一个流域内部水文、水资源及其特性的系统性研究。"</data>
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </node>
+    <node id="&quot;遥测雨量站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"遥测雨量站是一个用于收集和监测降雨量数据的机构，确保洪水预报的准确性。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;我国&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"我国是一个幅员辽阔的国家，其各地区在水文流域和气候特征上有显著差异。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;洪水预报方案精度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"洪水预报方案精度是指洪水预报的准确性和可靠性评估，它直接影响防洪措施的有效性。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;流域模型方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域模型方案是用于分析流域内水流动态和相关参数的具体方案，帮助提升洪水预报的科学性。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;雨量站网&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"雨量站网由多个雨量监测站组成，用于收集区域降雨数据，支持洪水预报的制定。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;相应流量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"相应流量是指监测到的与降雨和水位相对应的水流量，是水文分析中的关键数据。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;输入数据&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"输入数据是在进行水文预报和模型建设时所需的基础信息，包括降水量和流量等。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;交通便利性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"交通便利性是设计遥测站时需要考虑的因素，确保信息获取和维护的高效性。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;坡度&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"坡度可能影响流域内的降水和水流特性，是水资源管理中的一个重要地理因素。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;风险因素&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"风险因素是指可能影响水文监测和预报准确性的各种潜在危害，如滑坡和泥石流。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;参数选取&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"参数选取涉及到模型建立过程中的数据选择，对于提高预报效果至关重要。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;相应水位&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"相应水位是指在洪水监控中测得的特定点的水位数据，反映流域的水文动态。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;暴雨中心&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"暴雨中心是指在降水过程中降雨量最集中的区域，对洪水预报具有重要影响。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;实时数据&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"实时数据是指在洪水预报与应对过程中，随时更新的信息，以便于及时调整预报方案。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;面平均雨量计算&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"面平均雨量计算是通过监测站的数据，评估特定区域的降雨量，支持洪水预报决策。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;水文特性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水文特性指的是流域内水循环及其在降雨、流量变化中的表现，是水文研究的重要内容。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;实时监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实时监测是指在特定条件下，持续追踪和记录水文数据，以确保及时预警。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;流域降水梯度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流域降水梯度反映了流域内不同区域降水量的变化，是制定预报模型的重要基础。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;洪水监测系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"洪水监测系统由多个设施与技术组成，用于实时跟踪水位、流量和降水。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;方案检验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"方案检验是通过实测资料验证预报方案的有效性，确保预报的准确性和可靠性。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;数据条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"数据条件是指在进行水文分析和预报时所需的基础数据和信息的可用性。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;技术导则&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"技术导则是指在水文监测和预报中提供规范和标准的文件，指导相关工作。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;分区产汇流&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"分区产汇流是基于地理和气象条件对水流和降水进行区域划分，以提升监测准确性。"</data>
+      <data key="d2">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </node>
+    <node id="&quot;遥测水文（水位）站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"遥测水文（水位）站是一种设置用于掌握水情信息以支持工程防洪和调度需求的机构，需要根据预报方案的要求进行布设。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;通信组网方案&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"通信组网方案是针对遥测站与中心站之间的通信形式进行规划，涉及多种通信方式，以确保数据的有效传输。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;暴雨等值线法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"暴雨等值线法是一种计算面平均雨量的技术，常用于气象分析和水文预报中的数据处理。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;泰森法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"泰森法是一种用于计算雨量分布的数学方法，通常与其他技术结合使用以提高雨量测量的准确性。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;大、中型暴雨&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"大、中型暴雨是指特定强度的降雨事件，选用这些暴雨作为样本进行统计以优化遥测站的布局和功能。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;水文预报模型&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"水文预报模型是一种用于分析和预测水流、雨量等数据的模型，帮助确定遥测站的最佳布局和数量。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;防洪控制断面&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"防洪控制断面是河流或水坝的特定位置，通过设置遥测站以监测水情信息并进行防洪预报。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;平台&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"平台是一个用于支撑雨量测站之间通信与数据共享的结构，确保信息流通的效率和可靠性。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;测站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"测站是用于实际测量降雨量和水位的地方，提供雨水和水文数据的基础。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;信号处理技术&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"信号处理技术用于改善和优化接收到的数据，提高测量精度和数据可靠性。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;实时校正&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实时校正是对预报结果进行即时调整的过程，确保数据的准确性和可靠性。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;流域上游来水过程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域上游来水过程指的是水流从上游流入河流的情况，影响下游的水情监测和管理。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;水库&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水库是用于储存水和调节水量的地方，其遥测水文（水位）站的布设可以监测实时水情信息。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;河系洪水预报方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河系洪水预报方案是一种计划，用于基于流域数据进行洪水预测和防范。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;数据接收设备&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"数据接收设备连接中心站，负责接收遥测站发送的数据并进行存储和分析。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;通信链路&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"通信链路是连接遥测站和中心站的数据传输通道，保障数据运输的流畅。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;频段&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"频段指的是特定的无线电频率范围，用于遥测通信的信号传输。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;电路余量理论计算&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电路余量理论计算用于评估通信系统的容量，确保在高负荷情况下仍能正常运行。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;测站时段雨量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测站时段雨量是指在特定时间段内收集的降雨数据，用于分析降水趋势和提高预报准确性。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;相邻站点的相关系数&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"相邻站点的相关系数用于评估测站之间的数据一致性，以合理选择站点。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;统计流域或区域暴雨量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"统计流域或区域暴雨量是对某一地区的降雨进行汇总分析，帮助进行水文决策。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;通信方式&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"通信方式指的是实现数据传输的不同技术手段，如超短波、GSM等，影响通信的效果与稳定性。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;数据处理和预报作业&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据处理和预报作业指的是分析收集到的数据，以生成有效的水文预报。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;防洪预报结果的检验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防洪预报结果的检验是对预报准确性进行验证的过程，确保防洪方案的可靠性。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;系统规划阶段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"系统规划阶段是设计和布局遥测通信系统的初步阶段，对后续实施至关重要。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;现场查勘&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"现场查勘是对实际环境进行考察，以确保通信系统设计符合实际需求。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;电路路径剖面图&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电路路径剖面图展示了数据传输通道的物理布局，帮助优化设计。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;备用信道&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"备用信道是为防止数据传输中断而设置的替代通信通道，增强系统的可靠性。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;公共网络通信方式&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"公共网络通信方式涉及使用如GSM、CDMA等技术实现数据传输，适用于遥测站的通信。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;电路测试结果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电路测试结果是对实际通信线路性能的评估，用于确保系统的可靠性和效率。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;各方案平均误差&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"各方案的平均误差用于比较不同测站配置的有效性，有助于合理选择站网布局。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;水量平衡计算&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水量平衡计算用于监测水库水位和流量，以确保水资源的合理利用。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;通信组网方案的制定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"通信组网方案的制定是为了确保遥测站与中心站之间的高效数据传输。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;处理方法&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"处理方法是指在数据分析与预报过程中使用的各种技术和策略，提高数据的实用性。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;降雨量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"降雨量是降水的量度，直接影响水文监测与预报的准确性。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;流量过程分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流量过程分析用于理解和预测流域内水流变化，为水资源管理提供数据支持。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;水情信息&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水情信息是指关于水文状况的实时数据，支持决策与管理工作。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;干旱监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"干旱监测是指对降雨不足情况的跟踪，帮助及时发现水源相关问题。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;水灾预警系统&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水灾预警系统是运用技术手段对降雨及水位等数据进行实时监测与预警的体系。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;洪水响应计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水响应计划指的是当出现洪水时的应急预案，确保人员与财产安全。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;电子监测设备&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电子监测设备用于实时收集和记录水文数据，支持管理和决策。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;特殊气象事件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"特殊气象事件如台风、暴雪可能影响水文监测的有效性，需要特别关注。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;流域管理计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域管理计划是对特定流域内水资源进行综合管理的方案。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;大气降水监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"大气降水监测用于跟踪降水情况，为实际水文监测提供依据。"</data>
+      <data key="d2">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </node>
+    <node id="&quot;信息流程图&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"信息流程图 is a diagram that illustrates the flow of information from the remote measurement station to various nodes or departments."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;中继机&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"中继机 is a core device in a relay station that facilitates communication and must meet specific technical requirements."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;传感器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"传感器 refers to various sensing devices used in the measurement system for monitoring environmental parameters, water levels, and flow rates."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;水质自动观测仪器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"水质自动观测仪器 refers to automatic water quality monitoring instruments that measure different parameters of water quality."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;流量数据采集方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流量数据采集方法 encompasses the various methods used to collect flow data from water bodies."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;泥沙数据采集方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"泥沙数据采集方法 consists of techniques used to collect sediment data from rivers and other water bodies."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;太空&quot;&gt;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"太空 refers to the outer space surrounding the Earth, where satellites operate and various communications are conducted."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;电池&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电池 is a device that stores electrical energy for use in remote stations and sensors."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;太阳能板&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"太阳能板 are solar panels used to convert sunlight into electrical energy, powering various devices within the measurement system."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;混合通信方式&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"混合通信方式 refers to a mixed communication approach using more than one type of communication technology to ensure reliable connectivity."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;观测精度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"观测精度 indicates the accuracy of measurements taken by the sensors in the system."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;功耗&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"功耗 refers to the power consumption of devices within the communication network, affecting their efficiency."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;频分多址&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"频分多址 (FDMA) is a channel access method used in multiple access protocols to allocate frequency bands to multiple users."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;时分多址&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"时分多址 (TDMA) is a time-based channel access method that assigns time slots to users for communication."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;雨衰现象&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"雨衰现象 refers to the attenuation of signal strength in satellite communications that occurs during heavy rain."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;传输时延&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"传输时延 represents the time taken for data to travel from one point to another in the communication network."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;翻斗式雨量计&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"翻斗式雨量计 is a commonly used rain gauge that measures rainfall by tipping a bucket when filled."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;浮子式水位计&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"浮子式水位计 is a type of level measurement device that uses a buoy to detect water levels."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;压阻式压力水位计&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"压阻式压力水位计 uses pressure sensors to measure water levels by detecting the pressure exerted by the water."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;超声波水位计&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"超声波水位计 measures water levels using ultrasonic waves, known for their accuracy and reliability."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;激光水位计&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"激光水位计 uses laser technology to measure the height of the water surface accurately."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;微波水位计&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"微波水位计 measures water levels using microwave radar technologies, allowing for precise readings without physical contact."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;计算机输出设备&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"计算机输出设备 refers to various output devices used to display or report data processed by computers in the system."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;人工置数器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"人工置数器 is a device used to manually input numerical data or measurements into a system."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;避雷装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"避雷装置 is a lightning protection device designed to safeguard equipment and infrastructure from lightning strikes."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;设备指标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设备指标 refers to the specifications and performance metrics that devices must meet."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;环境条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境条件 includes various environmental factors such as temperature and humidity that impact the performance of sensors and devices."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;抗扰性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"抗扰性 represents the resilience of communication systems against interference and disturbances."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;自动化程度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"自动化程度 refers to the level of automation present in the measurement and monitoring systems, affecting their efficiency."</data>
+      <data key="d2">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </node>
+    <node id="&quot;光电测沙仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"光电测沙仪是一种测量设备，能长期工作并且适用于低含沙量河流，具备快速测量速度的特点。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;同位素测沙仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"同位素测沙仪工作性能稳定，测量准确度高，适用于沙测，但由于放射源对人体和环境可能有影响，应用较少。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;振动法测沙仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"振动法测沙仪能够长期工作，并适用于高含沙量河流，但其测量准确率受许多因素影响，需要定期检测。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;土壤墒情传感器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"土壤墒情传感器包括张力计式湿度仪、雷达土壤湿度仪和中子土壤湿度仪，能够用于土壤湿度的监测。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;声学多普勒流速剖面仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"声学多普勒流速剖面仪（ADCP）是一种用于流速测量的设备，适合与超声波测沙仪结合使用，适用于低含沙量河流。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;雷达土壤湿度仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"雷达土壤湿度仪安装简单，适合监测土壤湿度，但需要布设高频电缆。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;中子土壤湿度仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"中子土壤湿度仪以其高准确度广泛应用于土壤湿度测量。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;预报作业计算机&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"预报作业计算机宜配置为可靠性高的商用机或工作站，以保障操作的稳定性。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;应用软件&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"应用软件包括数据接收与处理、水文预报等功能模块，支持水文监测的各项任务。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;防火墙软件&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"防火墙软件用于保护系统软件的运行安全，避免外部威胁。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;双机热备份&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"双机热备份是中心站的维护方法之一，以保障数据的持续可靠。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;防雷设计&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"防雷设计对远程监测设备进行保护，确保通信终端及传感器的安全。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;密封铝合金筒&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"密封铝合金筒是遥测站的一种结构，提供全电磁屏蔽和密封功能，防止环境影响。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;静态数据库&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"静态数据库用于存储接收到的水文信息，并进行管理和分类。"</data>
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </node>
+    <node id="&quot;水位站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水位站是用于实时监测水位的设施，采用多种监测方法和设备进行数据收集。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;洪水调查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"洪水调查是为了解和评估洪水风险而进行的活动，确保水文监测工作的有效性。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;站房&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"站房是水文监测设施的建筑部分，需满足设备长期稳定工作的环境需求。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;土建设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"土建设施是为了支持水文观测站而修建的基本结构，包括各种监测和数据收集设备。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;测井测站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"测井测站是用于监测水位和其他水文数据的重要设施，具有多种结构和工作方式。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;无测井测站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"无测井测站是一种灵活多样的监测设施，主要通过超声波和压力式水位计进行水位测量。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;缆道用流速仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"缆道用流速仪是一种用于测量水流速度的仪器，是水文站常用的测量设备之一。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;ADCP&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"ADCP（声学多普勒流速剖面仪）是用于获取水流数据的高级仪器，能够提供详尽的流速信息。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;雷达流速仪&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"雷达流速仪是用于探测和监测水流速度的设备，具有高效的测量能力。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;水文站建设费用&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文站建设费用涉及到所有与建设和维护水文监测设施相关的费用，包括设备和材料的成本。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;站址&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"站址是指水文监测设备安装的具体地理位置，其选择需考虑环境和地形条件。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;防雷接地系统&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"防雷接地系统是一种保护设施，旨在防止设备在雷电天气条件下受到损害。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;通信铁塔&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"通信铁塔用于支持水文监测站的通信需求，确保数据的实时传输。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;无人值守工作方式&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"无人值守工作方式指的是中继站和其他监测设施在没有人工干预的情况下正常运作。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;美观、实用及与周围环境协调&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"美观、实用及与周围环境协调是水文设施设计时需要考虑的关键因素。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </node>
+    <node id="&quot;气象监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"气象监测是水文站运作中不可或缺的一部分，确保全面的水文数据收集。"</data>
+      <data key="d2">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水文站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水文站 is an organization involved in hydrological studies and has associated costs for construction and renovation of its facilities."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;施工方法&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"施工方法 relates to the methods used in construction which include costs associated with new and existing facilities."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </node>
+    <node id="&quot;设备及安装工程费&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设备及安装工程费 encompasses the costs related to the equipment, installation, and commissioning of hydrological monitoring systems."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </node>
+    <node id="&quot;试运行费&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"试运行费 refers to the costs associated with the testing phase of the automated hydrological monitoring system before final acceptance."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </node>
+    <node id="&quot;新建水文站费用&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"新建水文站费用 refers to the costs specifically associated with constructing new hydrological monitoring stations."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;已建水文站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"已建水文站 refers to existing hydrological monitoring stations that may require modifications or renovations."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </node>
+    <node id="&quot;设施改造的费用&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设施改造的费用 includes costs incurred when existing hydrological stations need upgrades or renovations."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </node>
+    <node id="&quot;征地范围&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"征地范围 pertains to the area defined for land acquisition necessary for the construction of water resource projects."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;临时占地费&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"临时占地费 includes compensation costs for temporary land use during construction activities."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </node>
+    <node id="&quot;青苗、树木补偿费&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"青苗、树木补偿费 refers to compensation payments for crops and trees affected by construction activities."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </node>
+    <node id="&quot;运输保险费&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"运输保险费 is a fee covering the costs and insurance for transporting equipment to installation sites."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </node>
+    <node id="&quot;预报方案编制费&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"预报方案编制费 involves costs related to the collection and preparation of hydrological forecasting plans."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;软件开发费&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"软件开发费 includes expenses related to developing software for data processing, forecasting, and system management."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </node>
+    <node id="&quot;鉴定验收费&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"鉴定验收费 consists of fees for various stages of material certification and project evaluation during construction."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;查勘电测费用&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"查勘电测费用 are costs associated with electrical measurement and site survey activities during the system's investment."</data>
+      <data key="d2">chunk-168267039683beffe6a3ab8926cf4a75</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;水文自动测报系统设计&quot;">
+      <data key="d2">chunk-a4685eb5736810e5c9aca988af4be474</data>
+      <data key="d1">"李爱玲 is involved in creating guidelines for the design of the automated hydrological monitoring system under the 水利部's standards."</data>
+      <data key="d0">"UNKNOWN"</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;重要遥测站&quot;">
+      <data key="d2">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+      <data key="d1">"Dual-channel communication enhances reliability for important telemetry stations in ensuring consistent data communication."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;水域水文模型&quot;">
+      <data key="d2">chunk-8792f336adce3de94ca85ce663010eaf</data>
+      <data key="d1">"流域水文模型为水文预报方案提供基础数据和预测手段，二者密切相关。"</data>
+      <data key="d0">"UNKNOWN"</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;张力计式湿度仪&quot;">
+      <data key="d2">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+      <data key="d1">"张力计式湿度仪是土壤墒情传感器的一种，应用于土壤湿度监测."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水利水电工程水文自动测报系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中华人民共和国水利部 issued the standard for the hydrological data collection system, thus establishing its technical requirements."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;中水东北勘测设计研究有限责任公司&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中水东北勘测设计研究有限责任公司 is the primary drafting organization for the standard under the auspices of the 水利部."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;广西壮族自治区水利电力勘测设计研究院&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"广西壮族自治区水利电力勘测设计研究院 participated in the development of the standard, collaborating with the water resources ministry."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;张永胜&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"张永胜 contributed to the drafting or review of the standard issued by the 水利部."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;李爱玲&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"李爱玲 contributed to the drafting or review of the standard issued by the 水利部."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;莫 明&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"莫 明 contributed to the drafting or review of the standard issued by the 水利部."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;朱珍燕&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"朱珍燕 contributed to the drafting or review of the standard issued by the 水利部."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水文预报方案&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中华人民共和国水利部 oversees the guidelines for developing the hydrological forecasting plans in accordance with the standards."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;SL1—2002&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"中华人民共和国水利部 cites SL1—2002 as a guiding document for the creation of water management technical standards."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;温续余&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"温续余 holds a leadership position in the technical review of standards produced by the 水利部."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;张国学&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"张国学 assesses the standard's format as part of the review process at the 水利部."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;陈登毅&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"陈登毅's role includes formatting the standard document for the 水利部 based on established guidelines."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;水利水电工程水文自动测报系统&quot;" target="&quot;水利技术标准编写规定&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利技术标准编写规定 serves as the basis for drafting the design specifications of water resources systems."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;李爱玲&quot;" target="&quot;水文自动测报系统设计&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"李爱玲 is involved in creating guidelines for the design of the automated hydrological monitoring system under the 水利部's standards."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统技术规范&quot;" target="&quot;遥测站&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"水文自动测报系统技术规范 provides guidelines that the 遥测站 must follow for technical specifications and operations."</data>
+      <data key="d6">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </edge>
+    <edge source="&quot;水文基础设施建设及技术装备标准&quot;" target="&quot;水文自动测报系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水文基础设施建设及技术装备标准 provides requirements that inform the design of the hydrological monitoring system."</data>
+      <data key="d6">chunk-a4685eb5736810e5c9aca988af4be474</data>
+    </edge>
+    <edge source="&quot;水文预报方案&quot;" target="&quot;湿润地区&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"湿润地区的特征决定了使用蓄满产流方案以优化水文预报策略。"</data>
+      <data key="d6">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </edge>
+    <edge source="&quot;水文预报方案&quot;" target="&quot;干旱地区&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"干旱地区的特征促使开发超渗产流方案，以提高水文管理效率。"</data>
+      <data key="d6">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </edge>
+    <edge source="&quot;水文预报方案&quot;" target="&quot;水文自动测报系统&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The hydrological forecasting plan is integral to the automated monitoring system, guiding its operation and objectives."</data>
+      <data key="d6">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </edge>
+    <edge source="&quot;水文预报方案&quot;" target="&quot;水域水文模型&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"流域水文模型为水文预报方案提供基础数据和预测手段，二者密切相关。"</data>
+      <data key="d6">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </edge>
+    <edge source="&quot;水文预报方案&quot;" target="&quot;GB/T 22482—2008&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水文预报方案的编制过程需遵循GB/T 22482—2008标准，以保证预报的准确性和可靠性。"</data>
+      <data key="d6">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </edge>
+    <edge source="&quot;水文预报方案&quot;" target="&quot;水文监测系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水文监测系统提供的数据是水文预报方案制定的基础，二者相辅相成。"</data>
+      <data key="d6">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </edge>
+    <edge source="&quot;水文预报方案&quot;" target="&quot;遥测雨量站&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水文预报方案依赖遥测雨量站提供的数据，确保洪水预报的精度和可靠性。"</data>
+      <data key="d6">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </edge>
+    <edge source="&quot;水文预报方案&quot;" target="&quot;水库工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水库工程需要依赖水文预报方案来进行洪水监控和管理，确保防洪安全。"</data>
+      <data key="d6">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </edge>
+    <edge source="&quot;遥测站网&quot;" target="&quot;洪水预报方案&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"洪水预报方案依赖于遥测站网提供的数据以进行准确的洪水预报."</data>
+      <data key="d6">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </edge>
+    <edge source="&quot;遥测站网&quot;" target="&quot;流域&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"遥测站网的布局与流域特点息息相关，需考虑地区和流域的差异性以达到最佳效果."</data>
+      <data key="d6">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </edge>
+    <edge source="&quot;遥测站网&quot;" target="&quot;工程建成&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"遥测站网须根据新建工程的运作需求设计，以支持有效的水文监测和预报."</data>
+      <data key="d6">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </edge>
+    <edge source="&quot;遥测站网&quot;" target="&quot;水文自动测报系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The remote sensing station network comprises the infrastructure that supports the automated hydrological monitoring system's data collection activities."</data>
+      <data key="d6">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </edge>
+    <edge source="&quot;投资概（估）算&quot;" target="&quot;水文自动测报系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"投资概（估）算确保水文自动测报系统建设所需资金的合理规划和使用."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;SL61—2003&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水文自动测报系统遵循SL61—2003标准的技术规范，以确保其设计符合国家规定。"</data>
+      <data key="d6">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;SL276—2002&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水文自动测报系统的实现依赖于SL276—2002标准的指导，确保其基础设施建设和技术装备到位。"</data>
+      <data key="d6">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;ADSL&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"ADSL技术增强了水文自动测报系统的数据传输能力，用于遥测和信息发送。"</data>
+      <data key="d6">chunk-fe83a7ce95a40fc2883c5cbd1905be66</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;GSM&quot;">
+      <data key="d4">13.0</data>
+      <data key="d5">"GSM technology is part of the strategy for mobile communications necessary for data transmission in the monitoring system."&lt;SEP&gt;"GSM技术的应用为水文自动测报系统提供了可靠的无线通信手段。"</data>
+      <data key="d6">chunk-fe83a7ce95a40fc2883c5cbd1905be66&lt;SEP&gt;chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;遥测站&quot;">
+      <data key="d4">15.0</data>
+      <data key="d5">"The Telemetry Station provides data collection capabilities for the Hydrological Automatic Monitoring System, enabling effective monitoring."&lt;SEP&gt;"遥测站作为一个操作单位，可能与水文自动测报系统进行数据交互，支持水文数据的自动监测与分析."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;中心站&quot;">
+      <data key="d4">26.0</data>
+      <data key="d5">"The Central Station is integral to the overall functioning of the Hydrological Automatic Monitoring System, managing data flow and operational efficiency."&lt;SEP&gt;"中心站支持水文自动测报系统的数据接收和存储，通过配置系统软件保障其运行安全."&lt;SEP&gt;"中心站是水文自动测报系统的核心部分，负责处理和管理监测数据."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7&lt;SEP&gt;chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;通信设备&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Communication devices are utilized within the Hydrological Automatic Monitoring System to ensure reliable data transmission and system operation."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;超短波通信&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Ultra-shortwave communication is a proposed data transmission method important to the operations of the Hydrological Automatic Monitoring System."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;卫星通信&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Satellite communication is used within the hydrological monitoring system to maintain data communications in difficult terrains."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;CDMA&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"CDMA is utilized for reliable mobile data transmission within the hydrological monitoring context."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;3G&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"3G technology offers enhanced data transmission speeds relevant to the monitoring system's communication needs."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;PSTN&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"PSTN represents traditional communication lines which can provide backup connectivity for data transmission in the system."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;水情网页发布软件&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Water situation web publishing software helps to distribute real-time hydrological data to the public through online platforms."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;洪水&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水文自动测报系统 must consider洪水 when determining the safety and positioning of its monitoring stations."</data>
+      <data key="d6">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;台风&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水文自动测报系统 must assess台风 closely to ensure the safety of its monitoring stations."</data>
+      <data key="d6">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;雷电&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水文自动测报系统 takes雷电 into account when identifying risks to its monitoring stations."</data>
+      <data key="d6">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;泥石流&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水文自动测报系统 evaluates泥石流 risks to decide on suitable sites for its monitoring stations."</data>
+      <data key="d6">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;滑坡&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水文自动测报系统 considers滑坡 as a threat during its site selection for monitoring stations."</data>
+      <data key="d6">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;中华人民共和国水利行业标准&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The water resources standards guide the design and implementation of the automated hydrological monitoring system, ensuring compliance with regulatory requirements."</data>
+      <data key="d6">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;流域或测区&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The automated hydrological monitoring system is implemented within river basins or specific measurement areas to collect data and provide forecasts."</data>
+      <data key="d6">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;土建工程设计方案&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The civil engineering design plan provides the necessary framework to support the automated hydrological monitoring system's infrastructure."</data>
+      <data key="d6">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;水文、气象站网&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The hydrological and meteorological station network supplies crucial data that is processed by the automated monitoring system."</data>
+      <data key="d6">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;计算机技术&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Computer technology underpins the automated monitoring system, providing the necessary processing capabilities for data management and analysis."</data>
+      <data key="d6">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;通信技术&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Communication technology is essential for transmitting data collected by the automated monitoring system, enabling real-time data processing."</data>
+      <data key="d6">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;水利水电工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水文自动测报系统 is designed to support the operational goals of 水利水电工程, particularly in flood control and water supply."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;流域&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The automated hydrological monitoring systems are implemented within a 流域 to gather essential data for flood monitoring and management."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;通信计算机技术&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The design of 水文自动测报系统 incorporates advancements in 通信计算机技术 for data transmission and processing."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;新技术&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水文自动测报系统 is built using 新技术 to ensure reliability and efficiency in monitoring systems."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;监测项目&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"监测项目 are crucial components that are monitored actively by the 水文自动测报系统 to gather necessary data."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;中继站&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中继站在水文自动测报系统中发挥着数据收集和传输的重要作用."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;水文自动测报系统&quot;" target="&quot;气象监测&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"气象监测是水文自动测报系统的重要组成部分，影响其整体功能和效能."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;GSM&quot;" target="&quot;遥测站&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"GSM is among the communication technologies used by the 遥测站 for data transmission."</data>
+      <data key="d6">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </edge>
+    <edge source="&quot;流域&quot;" target="&quot;洪水预报方案&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"洪水预报方案的制定需结合流域的特点和变化，以提高预报的准确性和可靠性."</data>
+      <data key="d6">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </edge>
+    <edge source="&quot;流域&quot;" target="&quot;防洪任务&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The effectiveness of 防洪任务 is heavily influenced by the geographic characteristics and conditions of the 流域 conducting the monitoring."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;流域&quot;" target="&quot;遥测雨量站&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"遥测雨量站的布设应考虑流域的特性，以便准确反映降雨和洪水的空间分布情况。"</data>
+      <data key="d6">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </edge>
+    <edge source="&quot;流域&quot;" target="&quot;我国&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"我国的不同区域具有独特的流域特征，因此在进行水文预报时，考虑这些差异至关重要。"</data>
+      <data key="d6">chunk-9d88e1b8583230c79f2fff7997a8aa12</data>
+    </edge>
+    <edge source="&quot;洪水预报方案&quot;" target="&quot;工程建成&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程建成后需调整洪水预报方案以适应变化的汇流条件，确保预报的有效性."</data>
+      <data key="d6">chunk-25c16124f92e36b4e1b8507279d12878</data>
+    </edge>
+    <edge source="&quot;洪水预报方案&quot;" target="&quot;水利水电工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The 洪水预报方案 is developed to meet the specific requirements and operational needs of 水利水电工程."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;洪水预报方案&quot;" target="&quot;流域产、汇流特性&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The understanding of 流域产、汇流特性 is integral to developing accurate 洪水预报方案 for effective flood forecasting."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;洪水预报方案&quot;" target="&quot;水库工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水库工程的设计与实施需要依据洪水预报方案来制定有效的防洪措施。"</data>
+      <data key="d6">chunk-8792f336adce3de94ca85ce663010eaf</data>
+    </edge>
+    <edge source="&quot;遥测站&quot;" target="&quot;中心站&quot;">
+      <data key="d4">24.0</data>
+      <data key="d5">"The Central Station interfaces with the Telemetry Station to aggregate and analyze the data collected from multiple points."&lt;SEP&gt;"中心站 relies on遥测站 for gathering remote data in the hydrometric monitoring system."&lt;SEP&gt;"遥测站 provides data to the 中心站, indicating a direct flow of information within the network."</data>
+      <data key="d6">chunk-e0df8fb4d86be9947a3adf500aae0399&lt;SEP&gt;chunk-22c3e129f42000d42173992d50f6d9c1&lt;SEP&gt;chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </edge>
+    <edge source="&quot;遥测站&quot;" target="&quot;雨量传感器&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Rainfall sensors are deployed within the Telemetry Station to provide essential data on precipitation levels."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;遥测站&quot;" target="&quot;水位传感器&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Water level sensors are part of the Telemetry Station's equipment to measure and relay water levels."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;遥测站&quot;" target="&quot;信息传输&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Information transmission is essential for the Telemetry Station to relay collected data to the Central Station."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;遥测站&quot;" target="&quot;中继站&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中继站 facilitates communication between中心站 and遥测站, ensuring data flow in the system."</data>
+      <data key="d6">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </edge>
+    <edge source="&quot;遥测站&quot;" target="&quot;信息流程图&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"信息流程图 describes how information flows from the 遥测站 to other nodes in the network."</data>
+      <data key="d6">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </edge>
+    <edge source="&quot;遥测站&quot;" target="&quot;CDMA&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"CDMA is also a communication technology utilized for the operations of the 遥测站, allowing efficient data transfer."</data>
+      <data key="d6">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </edge>
+    <edge source="&quot;遥测站&quot;" target="&quot;3G&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"3G technology supports the high-speed data communication needs of the 遥测站."</data>
+      <data key="d6">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </edge>
+    <edge source="&quot;遥测站&quot;" target="&quot;供电系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"供电系统为遥测站提供清洁可靠的电源，保障设备的正常运行。"</data>
+      <data key="d6">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;防洪任务&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"水利水电工程 focuses on fulfilling 防洪任务 through efficient water management and monitoring practices."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;洪水调度方案&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"洪水调度方案 are applied within 水利水电工程 to manage operations effectively during flood scenarios."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;水文站&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水文站 is a key organization involved in conducting projects pertaining to 水利水电工程, indicating a direct involvement in the event."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;征地范围&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"征地范围 defines the area that will be affected by the construction of 水利水电工程, influencing project development."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;水利水电工程&quot;" target="&quot;查勘电测费用&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"查勘电测费用 relate directly to the operational needs affecting the progress of 水利水电工程."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;中心站&quot;" target="&quot;数据接收与处理软件&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Central Station relies on data reception and processing software to manage the incoming data from the remote stations."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;中心站&quot;" target="&quot;供电系统&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The Power Supply System supports the Central Station by providing an uninterrupted power source necessary for its operations."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;中心站&quot;" target="&quot;计算机数据存储备份设备&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Computer data storage backup equipment at the Central Station is critical for safeguarding the integrity of the data collected."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;中心站&quot;" target="&quot;不间断电源&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Uninterruptible power supplies ensure that the Central Station operates without disruption during power outages."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;中心站&quot;" target="&quot;维护车辆&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Maintenance vehicles are essential for the Central Station to carry out fieldwork and repairs, ensuring operational efficiency."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;中心站&quot;" target="&quot;中继站&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中心站 interacts with中继站 for effective data communication in the monitoring system."</data>
+      <data key="d6">chunk-e0df8fb4d86be9947a3adf500aae0399</data>
+    </edge>
+    <edge source="&quot;中心站&quot;" target="&quot;中继机&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中继机 is essential for the communication between the 遥测站 and the 中心站, serving as a relay device."</data>
+      <data key="d6">chunk-2bc06b907a0fbcb11d6a5eb0cee2b528</data>
+    </edge>
+    <edge source="&quot;中心站&quot;" target="&quot;双机热备份&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"双机热备份是用于提高中心站数据可靠性的策略。"</data>
+      <data key="d6">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </edge>
+    <edge source="&quot;中心站&quot;" target="&quot;站房&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中心站的设备通常设在站房内，站房需要满足设备的环境要求."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;双信道通信&quot;" target="&quot;重要遥测站&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Dual-channel communication enhances reliability for important telemetry stations in ensuring consistent data communication."</data>
+      <data key="d6">chunk-22c3e129f42000d42173992d50f6d9c1</data>
+    </edge>
+    <edge source="&quot;HYDROLOGICAL AUTOMATIC REPORTING SYSTEM&quot;" target="&quot;CENTER STATION&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Center Station operates the Hydrological Automatic Reporting System to ensure effective hydrological monitoring and reporting."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;HYDROLOGICAL AUTOMATIC REPORTING SYSTEM&quot;" target="&quot;INVESTMENT ESTIMATION&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Investment Estimation is closely tied to the funding and budgeting needs for developing and maintaining the Hydrological Automatic Reporting System."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;CENTER STATION&quot;" target="&quot;REMOTE SENSING STATION&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Remote Sensing Stations provide valuable data to the Center Station for monitoring water levels and conditions."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;CENTER STATION&quot;" target="&quot;RELAY STATION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Relay Stations connect remote monitoring systems to the Center Station, facilitating data transfers and communication essential for operations."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;CENTER STATION&quot;" target="&quot;WATER LEVEL STATION&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Water Level Station sends its collected data to the Center Station for analysis and reporting as part of the overall hydrological monitoring framework."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;CENTER STATION&quot;" target="&quot;POWER SUPPLY&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Center Station relies on a Power Supply to function and maintain continuous operations of monitoring devices."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;CENTER STATION&quot;" target="&quot;VOLTAGE REGULATION EQUIPMENT&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Center Station utilizes Voltage Regulation Equipment to stabilize electrical input, ensuring reliable operation of its systems."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;REMOTE SENSING STATION&quot;" target="&quot;SOLAR POWER SYSTEM&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Remote Sensing Station employs a Solar Power System to guarantee energy sustainability even in prolonged adverse weather conditions."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;REMOTE SENSING STATION&quot;" target="&quot;STATION CONSTRUCTION REQUIREMENTS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Station Construction Requirements guide the development and setup of Remote Sensing Stations to meet technical and operational criteria."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;RELAY STATION&quot;" target="&quot;GROUND RESISTANCE STANDARDS&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Relay Stations need to adhere to Ground Resistance Standards to ensure electrical safety and proper functioning of communication systems."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;RELAY STATION&quot;" target="&quot;COMMUNICATION CIRCUIT TESTING&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Communication Circuit Testing is performed on Relay Stations to validate their operational capability and data relay efficiency."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;WATER LEVEL STATION&quot;" target="&quot;FLOOD MONITORING STANDARDS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Water Level Station must conform to Flood Monitoring Standards to accurately assess and report flood levels."</data>
+      <data key="d6">chunk-10f33be212277b432b461585f5457fdb</data>
+    </edge>
+    <edge source="&quot;中继站&quot;" target="&quot;无人值守工作方式&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"中继站的无人值守工作方式保证了其在野外环境中的正常运作，减少了人为干预."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;衰落余量&quot;" target="&quot;A.3.4&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"A.3.4 incorporates 衰落余量 as a factor in calculating total communication losses."</data>
+      <data key="d6">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </edge>
+    <edge source="&quot;干扰保护度&quot;" target="&quot;A.3.4&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"干扰保护度 is mentioned in A.3.4 as part of the overall signal loss considerations."</data>
+      <data key="d6">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </edge>
+    <edge source="&quot;A.3.4&quot;" target="&quot;自由空间损耗&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"A.3.4 discusses overall loss calculations, including the concept of 自由空间损耗."</data>
+      <data key="d6">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </edge>
+    <edge source="&quot;A.3.4&quot;" target="&quot;绕射损耗&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"A.3.4 covers the various factors contributing to total loss, including 绕射损耗."</data>
+      <data key="d6">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </edge>
+    <edge source="&quot;A.3.4&quot;" target="&quot;附加损耗&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"A.3.4 includes calculations that involve 附加损耗 as part of the overall loss assessments."</data>
+      <data key="d6">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </edge>
+    <edge source="&quot;刃形单峰绕射&quot;" target="&quot;刃形多峰绕射&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Both刃形单峰绕射 and 刃形多峰绕射 are forms of diffraction loss, with the latter addressing multiple obstacles."</data>
+      <data key="d6">chunk-9138d81c7e8819f80d3ebd1f73bc27bd</data>
+    </edge>
+    <edge source="&quot;衰减因子&quot;" target="&quot;无线电通信电路&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The attenuation factor is a critical component in the design of radio communication circuits used in the automated monitoring system to ensure effective signal transmission."</data>
+      <data key="d6">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </edge>
+    <edge source="&quot;最小菲涅尔半径&quot;" target="&quot;无线电通信电路&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The minimum Fresnel radius is a parameter in designing radio communication systems to minimize signal loss, relevant for the automated monitoring systems."</data>
+      <data key="d6">chunk-93f484cfb5dc4928d5e6039d34649071</data>
+    </edge>
+    <edge source="&quot;防洪任务&quot;" target="&quot;实时水情信息&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Real-time water condition information is essential for executing effective 防洪任务 and making timely decisions during flood events."</data>
+      <data key="d6">chunk-c130c88da3dacc1be8fc5bb7f863ef7d</data>
+    </edge>
+    <edge source="&quot;遥测水文（水位）站&quot;" target="&quot;水文预报模型&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"遥测水文（水位）站使用水文预报模型进行流量过程分析，以优化站网布设和数据准确性."</data>
+      <data key="d6">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </edge>
+    <edge source="&quot;遥测水文（水位）站&quot;" target="&quot;通信组网方案&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"通信组网方案为遥测水文（水位）站与中心站之间的数据传输提供技术框架，确保信息的即时共享."</data>
+      <data key="d6">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </edge>
+    <edge source="&quot;遥测水文（水位）站&quot;" target="&quot;防洪控制断面&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"在防洪控制断面上设置遥测水文（水位）站，以监测水情信息并进行防洪预报的有效性评估。"</data>
+      <data key="d6">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </edge>
+    <edge source="&quot;遥测水文（水位）站&quot;" target="&quot;大、中型暴雨&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"选取大、中型暴雨为样本，以评估和优化遥测水文（水位）站的功能和准确性。"</data>
+      <data key="d6">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </edge>
+    <edge source="&quot;暴雨等值线法&quot;" target="&quot;泰森法&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"暴雨等值线法和泰森法两者结合用于计算面平均雨量，提高测量的准确性和可靠性."</data>
+      <data key="d6">chunk-79ec91fa2ea94c06066820241dee2e21</data>
+    </edge>
+    <edge source="&quot;光电测沙仪&quot;" target="&quot;同位素测沙仪&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"光电测沙仪和同位素测沙仪都是用于沙测的技术设备，但应用条件和准确度有所不同."</data>
+      <data key="d6">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </edge>
+    <edge source="&quot;光电测沙仪&quot;" target="&quot;声学多普勒流速剖面仪&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"声学多普勒流速剖面仪与光电测沙仪联合使用，增强流速测量的准确性与效率."</data>
+      <data key="d6">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </edge>
+    <edge source="&quot;土壤墒情传感器&quot;" target="&quot;张力计式湿度仪&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"张力计式湿度仪是土壤墒情传感器的一种，应用于土壤湿度监测."</data>
+      <data key="d6">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </edge>
+    <edge source="&quot;雷达土壤湿度仪&quot;" target="&quot;中子土壤湿度仪&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"中子土壤湿度仪和雷达土壤湿度仪都是监测土壤湿度的工具，具有不同的应用特点."</data>
+      <data key="d6">chunk-5f2e4e1ff4fd450389e2a20f05172d1f</data>
+    </edge>
+    <edge source="&quot;水位站&quot;" target="&quot;洪水调查&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水位站的数据对于洪水调查至关重要，有助于评估洪水风险."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;水位站&quot;" target="&quot;测井测站&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"测井测站与水位站密切相关，完全基于监测水位及相关数据进行运作."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;土建设施&quot;" target="&quot;测井测站&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"测井测站作为土建设施的一部分，其设计和建设需符合标准和要求."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;测井测站&quot;" target="&quot;水文站建设费用&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水文站建设费用涵盖了测井测站的创建和维护成本，影响其实施范围."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;测井测站&quot;" target="&quot;防雷接地系统&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"测井测站需要防雷接地系统保障设备在极端天气条件下的安全性."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;防雷接地系统&quot;" target="&quot;通信铁塔&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"防雷接地系统为通信铁塔的设备提供保护，确保其安全运行."</data>
+      <data key="d6">chunk-aa7ad88c400a3d96b7216aa0364695a7</data>
+    </edge>
+    <edge source="&quot;水文站&quot;" target="&quot;新建水文站费用&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"新建水文站费用 contributes directly to the financial planning of 新建水文站, indicating its significance in the project."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;水文站&quot;" target="&quot;预报方案编制费&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"预报方案编制费 is related to the work of 水文站, as they engage in collecting and preparing forecasting plans."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;水文站&quot;" target="&quot;鉴定验收费&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"鉴定验收费 are fees incurred during the construction of facilities managed by 水文站, indicating their oversight role."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;施工方法&quot;" target="&quot;设备及安装工程费&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"施工方法 influences the budgeting and allocation of 设备及安装工程费 related to the construction of hydrological stations."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;设备及安装工程费&quot;" target="&quot;试运行费&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"设备及安装工程费 includes costs that indirectly affect the calculations of 试运行费 when the installations are tested."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;设备及安装工程费&quot;" target="&quot;运输保险费&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"运输保险费 is a crucial component of 设备及安装工程费, covering essential costs related to equipment transport."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;设备及安装工程费&quot;" target="&quot;软件开发费&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"软件开发费 contributes to the overall budgeting of 设备及安装工程费 since it is essential for system functionality."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;已建水文站&quot;" target="&quot;设施改造的费用&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"已建水文站 necessitates 设施改造的费用 when existing stations require renovations to upgrade their capabilities."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+    <edge source="&quot;设施改造的费用&quot;" target="&quot;临时占地费&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"临时占地费 may be incurred during the renovation of existing facilities as part of the overall expense."</data>
+      <data key="d6">chunk-168267039683beffe6a3ab8926cf4a75</data>
+    </edge>
+  </graph>
+</graphml>

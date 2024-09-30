@@ -1,0 +1,694 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ministry of Water Resources of the People's Republic of China is responsible for the verification and regulation of equipment related to water management."&lt;SEP&gt;"中华人民共和国水利部 is a government department responsible for water management and regulations in China."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f&lt;SEP&gt;chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;浮子式水位计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Float-type Stage Gauge is a device used for measuring water levels in various water bodies such as rivers and lakes, subject to specific standards and regulations."&lt;SEP&gt;"浮子式水位计 is a type of water level meter used for measuring water levels, which has specific testing regulations and standards."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f&lt;SEP&gt;chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;水文仪器及岩土工程仪器质量监督检验测试中心&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Hydrological Instrument and Geotechnical Engineering Instrument Quality Supervision and Testing Center oversees the quality control of hydrological instruments including the Float-type Stage Gauge."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;四川省水文水资源勘测局&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Sichuan Hydrological and Water Resources Survey Bureau participates in the drafting and quality control of water measurement instruments."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;南京水利水文自动化研究所&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Nanjing Hydraulic Research Institute specializes in hydrology and automated water measurement technologies."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;长江水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Yangtze River Water Resources Commission is involved in hydrological management and research along the Yangtze River."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;张玉成&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhang Yucheng is a key figure in the drafting of regulations for the Float-type Stage Gauge."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;林伟&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lin Wei is involved in the development of verification standards for hydrological instruments."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;陆旭&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lu Xu is a main drafter associated with the verification regulations for the Float-type Stage Gauge."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;康一彬&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kang Yibin is a contributor in the drafting process of verification regulations for water measurement instruments."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;鲍良钝&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bao Liangdun is a participant in formulating the standards for the Float-type Stage Gauge."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;陈华康&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chen Huakang is part of the team involved in setting up verification procedures for the Float-type Stage Gauge."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;赵越&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhao Yue is associated with the quality supervision and verification of hydrological measurement devices."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;水位感应&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Water level sensing refers to the process or equipment used to measure and regulate the level of water in various bodies such as rivers, lakes, and reservoirs, which is integral to water management."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;转换&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Conversion in this context pertains to the mechanism that translates water level readings into usable data outputs within the Float-type Stage Gauge system."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;输出&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Output refers to the data produced by the Float-type Stage Gauge after measuring water levels, providing essential information for monitoring and control."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;浮子&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"A float is a component of the Float-type Stage Gauge that rises and falls with the water level, serving as the primary sensing element in water measurement."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </node>
+    <node id="&quot;水位轮&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Water level wheel is a mechanical component in the Float-type Stage Gauge that translates the movement of the float into a readable measurement."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;平衡锤&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"A balance weight is used in the Float-type Stage Gauge to maintain equilibrium in the system, ensuring accurate readings of water levels."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;检定设备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Verification equipment refers to the tools and devices used to check and ensure the accuracy and reliability of water level measurements taken by the Float-type Stage Gauge."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;检定条件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Verification conditions are the specific parameters and settings under which the calibration and auditing of the Float-type Stage Gauge occurs."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;检定项目&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Verification items are the components and aspects of the Float-type Stage Gauge that are assessed and validated during the calibration process."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;检定方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Verification methods are the techniques and procedures employed to confirm the accuracy and functionality of the Float-type Stage Gauge."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;检定周期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Verification cycle refers to the frequency at which the Float-type Stage Gauge is calibrated and assessed for performance."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;计时误差&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Timing error indicates discrepancies that may occur in time measurement functions of the Float-type Stage Gauge, affecting overall accuracy."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;重复性误差&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Repeatability error is a measure of consistency in the Float-type Stage Gauge readings when the same conditions are repeated."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;再现性误差&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Reproducibility error assesses how well different measurements can be compared to the original reading in the Float-type Stage Gauge system."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;允许缺陷限制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Acceptable defect limits define the maximum allowable deviations or faults in the performance of the Float-type Stage Gauge during verification."</data>
+      <data key="d2">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;WATER LEVEL GAUGE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Water Level Gauge is a measuring device that records water levels, featuring attributes like precision and specific requirements for operation."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;STANDARD WATER LEVEL GAUGE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Standard Water Level Gauge is a reference device used to compare the accuracy of other water level gauges during calibration."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;CALIBRATION EQUIPMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Calibration Equipment includes devices used for the precision testing of water level gauges, ensuring their accuracy and reliability."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;MEASUREMENT ERROR&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Measurement Error refers to the permissible inaccuracies in readings taken by water level gauges, crucial for ensuring data quality."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;CALIBRATION PROCESS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Calibration Process involves the steps and conditions under which water level gauges are tested and validated for accuracy."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;INDIUM STEEL TAPE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Indium Steel Tape is a measuring tool with a range greater than 10m, crucial for measuring water levels accurately during calibration."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;CONNECTING TUBE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Connecting Tube is a transparent and clean device used for manual observation of water levels, facilitating accurate readings."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;STANDARD CLOCK&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Standard Clock is a timing device used in conjunction with water level gauges to ensure recording accuracy during operations."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;TESTING ENVIRONMENT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Testing Environment refers to the controlled conditions under which water level gauges are calibrated, including temperature and humidity."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;WATER LEVEL TESTING PLATFORM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Water Level Testing Platform is the physical setup used for conducting tests and calibrations of water level gauges."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;CALIBRATION PROJECT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Calibration Project encompasses the overall process and activities involving the calibration of water level gauges and ensuring their performance standards."</data>
+      <data key="d2">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </node>
+    <node id="&quot;水位计&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"水位计 is a general term for water level meters, utilized for measuring and recording water levels according to various standards."&lt;SEP&gt;"水位计是用于测量水体水位的设备，是本检定过程中的核心工具。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099&lt;SEP&gt;chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </node>
+    <node id="&quot;水位检定点&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水位检定点是进行水位检定的关键位置，确保数据的可靠性与准确性。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;测量误差检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"测量误差检定是检定过程中重要的步骤，用于确保水位计的测量精度与准确性。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;静水时间&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"静水时间是指在进行测量之前，水体应保持相对静止状态的时间，以确保数据的准确性。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;灵敏国检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"灵敏国检定是一种特定的检定测试，旨在评估水位计的灵敏度和准确性。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;检定测点&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"检定测点是选取用于水位检定的具体测量位置，确保检定的全面性与代表性。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;数据处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据处理是在检定完成后，对采集到的水位数据进行分析和计算，以得出最终结果的过程。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;测点数目&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测点数目是评估数据可靠性的重要因素，需符合规定的数量要求。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;水位升降&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水位升降是水位检定测试中的行为，用于检验水位计的反应与准确性。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;重复性误差检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"重复性误差检定是针对同一水位点多次测试以验证水位计稳定性的一项检定。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;再现性误差检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"再现性误差检定是对水位计在不同时间下的表现进行评估的过程。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;计时精度检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"计时精度检定是确保水位计内置计时装置准确性的步骤。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;记录时段检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"记录时段检定用于检查水位计在特定时间段内的记录准确性与一致性。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;连读工作时间检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"连读工作时间检定是验证水位计持续工作能力与数据记录周期的一项检验。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;水位台&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水位台是用于记录水体水位的固定设备，通常作为参照标准。"</data>
+      <data key="d2">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </node>
+    <node id="&quot;京东水利水电出版社&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"京东水利水电出版社 is a publisher that specializes in water resource management literature and standards, based in Beijing."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;JJG（水利）002一2009&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"JJG（水利）002一2009 is a regulatory standard for the inspection of float-type water level gauges in China."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;北京&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"北京 is the capital city of China, where the publisher and various water management operations are located."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水位计检定证书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水位计检定证书 is a certificate issued upon successful inspection of the water level meter, indicating it meets regulatory standards."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;检测记录表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检测记录表 refers to the testing records that document the results and processes of water level meter inspections."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </node>
+    <node id="&quot;检定结果通知书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定结果通知书 is a notification issued when a water level meter fails to meet the set standards, detailing the non-compliant aspects."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </node>
+    <node id="&quot;北京市海淀区玉渊漳南路&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"北京市海淀区玉渊漳南路 is the specific address where the 京东水利水电出版社 is located."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;营销中心&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"营销中心 is a sales division responsible for marketing related to water management publications and standards."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;科学技术标准咨询服务中心&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"科学技术标准咨询服务中心 provides consultative services regarding scientific and technological standards, relevant to water management."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;全国各地新华书店&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"全国各地新华书店 refers to a network of bookstores across China that sell publications, including standards on water management."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;2010年8月第1版&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2010年8月第1版 indicates the first edition of the publication released in August 2010, relevant to water resource regulations."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </node>
+    <node id="&quot;电话：（010）68367658&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"电话：（010）68367658 is a contact number connected to the marketing center for inquiries about water management literature."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;E-MAIL: SALES@WATERPUB.COM.CN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"E-mail: sales@waterpub.com.cn is an email contact for inquiries related to publications on water management standards."</data>
+      <data key="d2">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水文仪器及岩土工程仪器质量监督检验测试中心&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Ministry of Water Resources is the overseeing body for the Quality Supervision and Testing Center, which manages hydrological instruments."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;JJG（水利）002一2009&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"中华人民共和国水利部 establishes the guidelines and standards defined in JJG（水利）002一2009 for water measurement equipment."</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;科学技术标准咨询服务中心&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"科学技术标准咨询服务中心 collaborates with the中华人民共和国水利部 to provide technical standards and consultations for water management.")</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;水文仪器及岩土工程仪器质量监督检验测试中心&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Hydrological Instrument Quality Center is responsible for the verification regulations of the Float-type Stage Gauge."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;四川省水文水资源勘测局&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Sichuan Hydrological Bureau participates in developing standards for the Float-type Stage Gauge."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;南京水利水文自动化研究所&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The Nanjing Institute specializes in the automated measurements related to the Float-type Stage Gauge."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;长江水利委员会&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Yangtze River Water Resources Commission is involved in hydrological management that utilizes the Float-type Stage Gauge."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;张玉成&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Zhang Yucheng is a key drafter for the regulations surrounding the Float-type Stage Gauge."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;林伟&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Lin Wei contributes to setting the verification standards for the Float-type Stage Gauge."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;陆旭&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Lu Xu is significantly involved in drafting the verification regulations for the Float-type Stage Gauge."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;康一彬&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Kang Yibin plays a role in formulating verification standards for the Float-type Stage Gauge."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;鲍良钝&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Bao Liangdun is a participant who helps establish standards for the Float-type Stage Gauge."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;陈华康&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Chen Huakang is part of the team drafting the verification procedures for the Float-type Stage Gauge."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;赵越&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Zhao Yue oversees quality checks for the Float-type Stage Gauge in the framework set by the Ministry."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;水位感应&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Float-type Stage Gauge uses water level sensing to determine the location and height of water in various bodies of water."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;转换&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Float-type Stage Gauge has a conversion mechanism that translates sensor readings into usable outputs for management purposes."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;输出&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Float-type Stage Gauge produces output data as a result of water level measurement, critical for monitoring and decision-making."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;平衡锤&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Balance weights are essential components of the Float-type Stage Gauge to maintain accuracy in water level measurements."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;水位轮&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The water level wheel is integral to the Float-type Stage Gauge, mechanically converting float movement into readable measurements."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;检定设备&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Verification equipment is utilized to ensure the Float-type Stage Gauge functions accurately and meets regulatory standards."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;检定条件&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Verification conditions define how the Float-type Stage Gauge should be tested for compliance and accuracy during audits."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;检定项目&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Verification items are critical for understanding the performance and reliability of the Float-type Stage Gauge during evaluations."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;检定方法&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Verification methods outline the procedures used to assess the Float-type Stage Gauge's accuracy and reliability."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;检定周期&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Verification cycles ensure the Float-type Stage Gauge is routinely checked for performance, maintaining regulatory compliance."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;计时误差&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Timing errors can impact the Float-type Stage Gauge's measurements, emphasizing the need for accurate timekeeping in data logging."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;重复性误差&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Repeatability errors indicate how consistent the Float-type Stage Gauge is in its readings under identical conditions."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;再现性误差&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Reproducibility errors assess the consistency of Float-type Stage Gauge readings when evaluated by different operators or under varied conditions."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;允许缺陷限制&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Acceptable defect limits set the allowable thresholds for performance deviations in the Float-type Stage Gauge during verifications."</data>
+      <data key="d6">chunk-ed4aa4888c5a51a4e496d68f60b1db7f</data>
+    </edge>
+    <edge source="&quot;浮子式水位计&quot;" target="&quot;水位计检定证书&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The water level meter must receive a检定证书 to verify its compliance with standards set for its usage."</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;WATER LEVEL GAUGE&quot;" target="&quot;CALIBRATION PROCESS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Water Level Gauge is subjected to the Calibration Process to ensure its measurements are accurate and comply with standards."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;WATER LEVEL GAUGE&quot;" target="&quot;MEASUREMENT ERROR&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Water Level Gauge's performance is evaluated based on allowable Measurement Error during tests and operation."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;WATER LEVEL GAUGE&quot;" target="&quot;STANDARD WATER LEVEL GAUGE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Standard Water Level Gauge serves as a benchmark against which the Water Level Gauge is evaluated for accuracy."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;STANDARD WATER LEVEL GAUGE&quot;" target="&quot;CALIBRATION PROCESS&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Standard Water Level Gauge is used during the Calibration Process as a reference point for accuracy testing of other gauges."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;CALIBRATION EQUIPMENT&quot;" target="&quot;MEASUREMENT ERROR&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Calibration Equipment must minimize Measurement Error to ensure reliable testing of water level gauges."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;CALIBRATION PROCESS&quot;" target="&quot;INDIUM STEEL TAPE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Indium Steel Tape is utilized during the Calibration Process to measure and verify the accuracy of water level gauges."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;CALIBRATION PROCESS&quot;" target="&quot;CONNECTING TUBE&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Connecting Tube is used during the Calibration Process to provide manual observations of water levels, ensuring measurement accuracy."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;CALIBRATION PROCESS&quot;" target="&quot;STANDARD CLOCK&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Standard Clock provides timing accuracy which is essential for the Calibration Process of the water level gauges."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;CALIBRATION PROCESS&quot;" target="&quot;TESTING ENVIRONMENT&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Calibration Process must occur within the specified Testing Environment to ensure reliable results and accuracy."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;CALIBRATION PROCESS&quot;" target="&quot;WATER LEVEL TESTING PLATFORM&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Water Level Testing Platform is the setup where the Calibration Process occurs for water level gauges."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;CALIBRATION PROCESS&quot;" target="&quot;CALIBRATION PROJECT&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Calibration Project involves detailed steps and activities conducted during the Calibration Process of water level gauges."</data>
+      <data key="d6">chunk-f8388fa76174ba90bdf5115a344f041f</data>
+    </edge>
+    <edge source="&quot;水位计&quot;" target="&quot;水位检定点&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水位计在水位检定点进行操作，以测量水体的水位。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;水位计&quot;" target="&quot;测量误差检定&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"测量误差检定是用来评估水位计在测量中的精度和准确度。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;水位计&quot;" target="&quot;水位台&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水位计的显示值与水位台的水位值对比，以评估测量的准确性。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;水位计&quot;" target="&quot;重复性误差检定&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"重复性误差检定评估水位计在同一测点的多次测试表现。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;水位计&quot;" target="&quot;再现性误差检定&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"再现性误差检定评价水位计在不同时间下的测量一致性。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;水位计&quot;" target="&quot;计时精度检定&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"计时精度检定用于验证水位计的内置计时准确性。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;水位计&quot;" target="&quot;记录时段检定&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"记录时段检定确保水位计在特定时间段内的记录准确性。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;水位计&quot;" target="&quot;连读工作时间检定&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"连读工作时间检定验证水位计在连续工作情况下的数据记录期符合性。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;水位计&quot;" target="&quot;检测记录表&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"检测记录表 documents the results and methodologies pertaining to the inspection of the 水位计."</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;水位计&quot;" target="&quot;检定结果通知书&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"检定结果通知书 provides outcomes related to the performance of the 水位计 after inspection."</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;水位检定点&quot;" target="&quot;灵敏国检定&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"灵敏国检定是在水位检定点进行，以评估水位计的灵敏度。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;测量误差检定&quot;" target="&quot;静水时间&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"静水时间的要求是测量误差检定中确保有效数据的前提。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;测量误差检定&quot;" target="&quot;灵敏国检定&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"灵敏国检定与测量误差检定共同确保水位计的准确性与可靠性。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;测量误差检定&quot;" target="&quot;检定测点&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"测量误差检定是在检定测点上进行的，以确保测试的可靠性。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;测量误差检定&quot;" target="&quot;数据处理&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"数据处理是对测量误差检定结果进行分析的重要环节。"</data>
+      <data key="d6">chunk-14b55189fdbd8fde0a34735f3349d099</data>
+    </edge>
+    <edge source="&quot;京东水利水电出版社&quot;" target="&quot;JJG（水利）002一2009&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"京东水利水电出版社 publishes the regulations and standards such as JJG（水利）002一2009 for water management.")</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;京东水利水电出版社&quot;" target="&quot;北京&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"京东水利水电出版社 is located in 北京, indicating a geographical relationship to the publishing of water management literature.")</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;京东水利水电出版社&quot;" target="&quot;营销中心&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"营销中心 is part of 京东水利水电出版社, facilitating the sale and distribution of its publications.")</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;京东水利水电出版社&quot;" target="&quot;全国各地新华书店&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"全国各地新华书店 carries publications from 京东水利水电出版社, promoting their water management standards and literature.")</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;京东水利水电出版社&quot;" target="&quot;北京市海淀区玉渊漳南路&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"京东水利水电出版社 is located on 北京市海淀区玉渊漳南路, indicating a physical geographical relationship.")</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;营销中心&quot;" target="&quot;电话：（010）68367658&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"电话：（010）68367658 is the contact number for the 营销中心, important for acquiring publications.")</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+    <edge source="&quot;营销中心&quot;" target="&quot;E-MAIL: SALES@WATERPUB.COM.CN&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"E-mail: sales@waterpub.com.cn serves as a communication channel for the 营销中心 to address inquiries related to their publications.")</data>
+      <data key="d6">chunk-bf06c3ae3fefb446ab90a046d533d414</data>
+    </edge>
+  </graph>
+</graphml>

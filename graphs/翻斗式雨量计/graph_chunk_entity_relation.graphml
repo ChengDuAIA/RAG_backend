@@ -1,0 +1,1286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is a government organization responsible for water resources management and regulation in China."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;张玉成&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"张玉成 is a key figure involved in drafting regulations for the Tipping-Bucket Rainfall Recorder, working with the Water Resources Ministry's quality control center."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;史占红&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"史占红 is a key figure involved in the drafting of verification regulations for rainfall measuring instruments."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;冯讷敏&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"冯讷敏 is a contributor in the drafting of regulations related to the Water Resources Ministry's instrumentation.</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;阎志坤&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"阎志坤 is involved in drafting regulations at the Water Resources Ministry’s quality supervision and testing center."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;水利部水文仪器及岩土工程仪器质量监督检验测试中心&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Water Resources Ministry's Hydrological Instrumentation and Geotechnical Engineering Quality Supervision and Inspection Center is responsible for inspecting and verifying measurement instruments."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;翻斗式雨量计&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Tipping-Bucket Rainfall Recorder is a technological device used to measure rainfall, involving sensors that track the amount of precipitation."&lt;SEP&gt;"翻斗式雨量计 is a type of rain gauge designed to measure precipitation by collecting rainwater in a tipping bucket mechanism."&lt;SEP&gt;"翻斗式雨量计是一种用于测量降水量的仪器，需定期检定以确保其计量性能和准确性。"</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1&lt;SEP&gt;chunk-c79efb56884e76df8e490be57743ede9&lt;SEP&gt;chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;透水板校验方法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Tipping-Bucket Rainfall Recorder's calibration method represents an official standard approved by the Water Resources Ministry for the industry."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;水利部南京水利水文自动化研究所&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Nanjing Water Resources Hydrological Automation Research Institute is a research institution involved in the development and testing of hydrological instruments."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </node>
+    <node id="&quot;翻斗式雨量计检定规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Verification Regulation of the Tipping-Bucket Rainfall Recorder outlines protocols for the initial and subsequent verification of this measurement device."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </node>
+    <node id="&quot;翻斗式雨量传感器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Tipping-Bucket Rainfall Sensor is a component of the rainfall measurement system, converting the mechanical movement of the bucket into measurable signals."&lt;SEP&gt;"翻斗式雨量传感器是一种用于测量雨强的设备，具有特定的技术要求和性能标准。"</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1&lt;SEP&gt;chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;降水量观测仪器&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Precipitation measurement instruments refer to devices used to collect and analyze rainfall data, including tipping-bucket and other sensor types."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </node>
+    <node id="&quot;检定条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Verification conditions are the necessary criteria that must be met during the calibration and testing of measuring instruments."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </node>
+    <node id="&quot;计量性能要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Measurement performance requirements specify the standards and criteria for the accuracy and reliability of measurement instruments."&lt;SEP&gt;"计量性能要求是对雨量传感器性能进行规范的规定，包含雨强测量范围和分辨力等技术标准。"</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1&lt;SEP&gt;chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;工作原理&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Operating principles refer to the fundamental concepts explaining how a measurement device functions to provide accurate data."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </node>
+    <node id="&quot;计量单位&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Measurement units specify the standard quantities used for reporting measurement outputs in scientific contexts."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </node>
+    <node id="&quot;主要起草单位&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Main drafting unit refers to the primary organization or team responsible for developing specific regulations or guidelines."</data>
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </node>
+    <node id="&quot;检定标记&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定标记是对雨量传感器进行首次检定和后续检定后的标识，包含仪器编号、检定日期等信息。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;大雨强&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"大雨强是检定过程中设定的雨强范围之一，通常定义为3.8至4.2 mm/min。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;中雨强&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"中雨强是检定过程中设定的雨强范围，通常定义为1.5至2.5 mm/min。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;小雨强&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"小雨强是检定过程中设定的雨强范围，通常定义为0.3至0.5 mm/min。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;外观&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"外观是翻斗式雨量传感器的一个技术要求，涉及产品外观质量的标准。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;内径尺寸&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"内径尺寸是翻斗式雨量传感器设计中的一个关键技术参数，规定了尺寸的公差范围。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;刃口角度&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"刃口角度是翻斗式雨量传感器的设计要求，应在40至45度之间。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;翻斗计量误差&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"翻斗计量误差是对雨量传感器准确度等级的规范，影响测量的精度。"&lt;SEP&gt;"翻斗计量误差是测试中需考虑的重要指标，直接关系到检定结果的准确性。"&lt;SEP&gt;"翻斗计量误差是翻斗式雨量计测量降水量的一个重要参数，需进行计算以确保该仪器的准确性。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb&lt;SEP&gt;chunk-b711889e36faf6bb94975cb3ab0bea15&lt;SEP&gt;chunk-bd1bdec67488773f9a1ce47940161465</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;重复性&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"重复性是翻斗式雨量传感器检定过程中一个表现其精确度的重要特征。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;后续检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"后续检定是在首次检定后对雨量传感器进行的定期检查。"&lt;SEP&gt;"后续检定是对已经使用的雨量传感器进行的再次检定，以确保其持续有效性。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb&lt;SEP&gt;chunk-bd1bdec67488773f9a1ce47940161465</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;首次检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"首次检定是对未检定过的雨量传感器进行的初次评估与标定。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;使用中检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"使用中检查在检定周期内针对已使用的雨量传感器进行的常规检查。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;雨量传感器实验室检定装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"雨量传感器实验室检定装置是用于测试和校准雨量传感器的专业设备。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;自身排水量法检定装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"自身排水量法检定装置是一种通过排水量来检定雨量传感器的方法设备。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;现场检定装置&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"现场检定装置是用于对雨量传感器进行现场检定的设备，确保其工作正常并符合标准。"&lt;SEP&gt;"现场检定装置用于便携式的雨量传感器校准，能够在现场模拟不同雨量强度。"</data>
+      <data key="d2">chunk-a2034138631d84c4a08c98a44c4b74bb&lt;SEP&gt;chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;雨量传感器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"雨量传感器是一种用于测量降雨量的设备，具备多种检定和测量功能。"&lt;SEP&gt;"雨量传感器是检测降水量的设备，需通过现场检定来验证其功能和精确度。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465&lt;SEP&gt;chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;检定装置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定装置指用于对雨量传感器进行测试和验证的设备，确保其准确性和可靠性。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;实验室检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实验室检定是对雨量传感器进行严格测试的过程，确保其符合规定的测量标准。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;自身排水量法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"自身排水量法是一种特定的检定方法，用于测量雨量传感器的排水能力。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;清水&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"清水在检定过程中用作注入被检雨量传感器的液体，以确保设备的准确性。"&lt;SEP&gt;"清水是用于检定过程中注入雨量传感器的液体，确保测量准确。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465&lt;SEP&gt;chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;雨量传感器检定装置&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"雨量传感器检定装置用于模拟不同强度的降雨，对雨量传感器进行准确检定。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;计时器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"计时器在检定过程中用来记录雨量传感器的工作时长，以评估其性能。"&lt;SEP&gt;"计时器是一种用于测量时间的设备，在雨量传感器检定过程中负责记录时间。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465&lt;SEP&gt;chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;翻斗&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"翻斗是雨量传感器内部的组成部分，负责计量通过的水量并自动记录数据。"&lt;SEP&gt;"翻斗是雨量传感器工作中的一个关键组件，用于记录降水量的转换。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465&lt;SEP&gt;chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;盛水容器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"盛水容器在检定过程中用于收集排出水量，帮助评估传感器性能。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;温度&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"温度范围为 $5\sim45\,^{\circ}\mathrm{C}$ 是影响检定环境的重要因素。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </node>
+    <node id="&quot;湿度&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"湿度范围为 $40\,\%\mathrm{RH}\sim95\,\%\mathrm{RH}$ 亦是影响检定环境的重要因素。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </node>
+    <node id="&quot;风力&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"风力不得大于2级，以确保检定过程中环境的稳定性。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </node>
+    <node id="&quot;首检&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"首检指对雨量传感器进行的首次检定，为后续使用提供基础数据。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;注人法检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"注人法检定是一种将清水注入雨量传感器的方法，检验其工作性能。"</data>
+      <data key="d2">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </node>
+    <node id="&quot;检定证书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定证书 is a certificate issued as a result of testing, indicating the validity and results of the calibration process."&lt;SEP&gt;"检定证书是对符合规定要求的翻斗式雨量计出具的证明文件，显示其性能达标。"</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9&lt;SEP&gt;chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;检定结果&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定结果是指翻斗式雨量计经过检定后，是否符合本规程要求的结论。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;实验标准差&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"实验标准差用于计算重复性，以表示翻斗计量误差的变化范围。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;计数器&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"计数器用于记录翻斗翻转的次数，是检定雨量传感器的重要工具。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;显示记录装置&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"显示记录装置用于展示雨量传感器的工作状态和检测结果，是检定过程中的重要组成部分。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;工作条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工作条件指的是雨量传感器在检定时所需的环境和操作状态，以确保结果的准确性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;检定周期&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"检定周期是指在正常使用情况下，雨量传感器应定期检定的时间间隔，以保持其性能。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;降水量&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"降水量是研究和测量的对象，雨量传感器及翻斗式雨量计用于精确测量这一参数。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;承雨口&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"承雨口是雨量传感器中用于接收降水的部分，对传感器的检测性能至关重要。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;分辨力&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"分辨力 indicates the resolution or sensitivity of the instruments used during the calibration process."&lt;SEP&gt;"分辨力指的是雨量传感器测量和记录降水量的能力，影响检测的精确度。"</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9&lt;SEP&gt;chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;模拟雨强&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"模拟雨强是在检定过程中设置的参数，用于模拟不同强度的降水，以验证传感器性能。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;检定通知书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定通知书是对不符合标准的翻斗式雨量计出具的官方结果，指出其缺陷和需要改进的项目。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;测试数据&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测试数据是指在检定过程中收集的所有数据，用于评估雨量传感器的性能。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;翻斗计量值&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"翻斗计量值是指翻斗传感器在检定过程中记录的降水量，为评估其性能提供依据。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;翻斗计量误差计算&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"翻斗计量误差计算是在检定过程中进行的，以确定传感器的测量精度和可靠性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;附录A&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"附录A提供了翻斗式雨量计检定记录表的格式和细节，是检定文档的重要部分。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;附录B&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"附录B包含检定证书的格式，为通过检定的设备提供证明文档。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;附录C&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"附录C提供检定结果通知书的格式，告知不合格雨量计的详细信息。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;记录格式&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"记录格式是指在检定过程中对于数据和结果进行记录的标准化方式，以确保信息的准确传达。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;性能检测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"性能检测是对雨量传感器检定时进行的测试，以验证其功能和准确性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;审核&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"审核是在检定过程中进行的评估，以确保所有记录和结果符合标准。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;性能标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"性能标准是雨量传感器在检定时需符合的技术要求，以确保其实用性和准确性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;工作表面&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工作表面是指雨量传感器在运行期间接触降水的表面，对测量结果有重要影响。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;检定操作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定操作是按照规定步骤进行雨量传感器检定的过程，确保其有效性和准确性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;设备连接&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备连接是指在检定过程中将雨量传感器与其他设备进行连接，以获取实时数据。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;问题发现&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"问题发现是在检定过程中识别到的潜在故障或性能不足的情况。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;注水操作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"注水操作是指向雨量传感器注入液体以进行检定的阶段，对测试至关重要。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;检定要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"检定要求是设定的标准和规范，用于衡量翻斗式雨量计的性能和准确性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;技术细节&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术细节是指在进行检定过程中需要关注的各项参数和操作步骤。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;系统检测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"系统检测是指对雨量传感器整体系统的性能进行评估，以确保各部件协同工作。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;数据记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据记录是在检定过程中对所有测量值和结果进行文档化，以便于后续的审核和分析。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;参数设定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"参数设定是指在检定前对雨量传感器及其设备进行必要的调整，以满足测试要求。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;降水模拟&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"降水模拟是检定过程中创建人造降水环境，以验证传感器的响应和测量精度。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;失效分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"失效分析是在发生问题时对雨量传感器的检测和性能进行深入评估。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;维护周期&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"维护周期是指为了确保雨量传感器持久有效而需要进行的定期检查和维护的时间段。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;工作状态&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工作状态指的是雨量传感器在检定时的操作状态和环境条件。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;单次测量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"单次测量是在检定过程中对翻斗计量误差进行的单独测试，通常用于数据收集。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;参数读取&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"参数读取是指在检定过程中的信息获取阶段，用于确认设备的设定是否正确。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;最后检测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"最后检测是指在所有检定步骤完成后，为确保一切符合要求而进行的最终检查。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;测试方法&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测试方法是指进行雨量传感器检定时采用的具体检测和评估手段。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;数据验证&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据验证是对记录的数据进行检查，以确认其准确性和完整性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;合格标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"合格标准是指雨量传感器在检定中需达到的最低要求，以声明其可以正常运作。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;设备准备&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备准备是在进行检定前对雨量传感器及其相关设备进行的预处理过程。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;传感器检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"传感器检定是为了保证雨量传感器精确度而进行的全面测试和验证过程。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;检测流程&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"检测流程是指在雨量传感器检定中所遵循的标准化步骤，确保每个环节都被有效执行。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;操作记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"操作记录是检定过程中对每个步骤和发生的事件进行的正式记录。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;设备审查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备审查是在检定前前提条件下确保所有组件的功能正常，以保证准确性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;长期监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"长期监测是指在使用过程中定期对雨量传感器的性能进行观察和记录，以便及时发现问题。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;环境条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境条件是指雨量传感器在测量期间受外部因素影响的各种状况，包括温度、湿度等。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;数据缺失&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据缺失在检定分析中可能导致结果不完全或不准确的情况。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;设备替换&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备替换是在出现故障或性能不合格的情况下，进行的更换操作。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;检定步骤&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"检定步骤是进行翻斗式雨量计检定时的每个具体操作步骤，遵循特定的标准和程序。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;整合数据&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"整合数据是对收集到的多个检定结果进行汇总的过程，以便于分析和归纳。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;标准化程序&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"标准化程序是指为了确保检定结果的一致性和可靠性而设定的流程和规范。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;影响因素&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"影响因素是指在雨量传感器的性能和准确性检测中需要考虑的各种外部条件和变量。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;实际测量值&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实际测量值是在检定过程中实际记录和计算得到的翻斗计量结果。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;应急处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"应急处理是在检定过程中遇到问题时采取的临时解决方案，以确保测试继续进行。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;长期性能&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"长期性能是评价雨量传感器在经过长时间使用后的整体有效性和准确性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;设备操作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备操作是指在整个检定流程中对各个设备进行的具体操作活动。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;结果通知&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"结果通知是在检定结束后向相关方面提供的总结和结果反馈。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;读数准确性&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"读数准确性指的是翻斗式雨量计在检定时读取雨量的精确度和可靠程度。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;影响评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"影响评估是指在检定过程中分析外部因素对雨量传感器性能的潜在影响。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;围绕数据&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"围绕数据是指在检定过程中与数值、结果和计算相关的各个方面。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;模拟条件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"模拟条件是在检定过程中创造的环境，以确保测试的科学性和合理性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;故障排除&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"故障排除是在检定中发现问题后进行的操作，确保设备可以恢复正常功能。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;天气条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"天气条件是在检定和使用雨量传感器时必须考虑的外部气候因素。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;周期检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"周期检定是指根据计划定期对雨量传感器进行的必需检定操作。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;测试周期&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测试周期指的是进行雨量传感器检定的频率，通常与设备使用情况相关。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;接收信息&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"接收信息是在检定过程中获取的关于设备状态和结果的数据。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;数据对比&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据对比是对照检定结果与标准进行分析的流程，以评估设备性能。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;规范要求&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"规范要求是一系列标准和措施，用于指导雨量传感器的检定和使用。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;环境评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境评估是在检定前对周围环境进行的分析，以确保对检测结果没有不良影响。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;操作规范&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"操作规范是进行检定时应遵循的详细步骤和指导。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;校准记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"校准记录是对每次设备校准过程的详细文档，便于后续验证和追踪。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;综合分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"综合分析是在完成检定后对所有数据和结果进行的综合评估。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;验证标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"验证标准是对雨量传感器性能进行评估和确认的依据。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;流体检定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流体检定是使用流体来对雨量传感器的工作性能进行的测试过程。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;单位标准&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"单位标准是指测量过程中所使用的标准单位，如毫米（mm），以确保结果的一致性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;上下限&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"上下限是检定过程中为参数设定的范围，确保测量的容许误差在范围内。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;时间记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"时间记录是对整个检定流程中各个环节耗时的详细记录，便于后续分析。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;多次测量&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"多次测量是在检定过程中进行的重复测试，以提高结果的准确性和可靠性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;检定分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"检定分析是对雨量传感器在检定过程中的各方面表现进行的详细研究和总结。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;报告生成&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"报告生成是在检定结束后汇总结果与数据的过程，形成正式文档。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;记录审核&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"记录审核是在检定过程中对所有记录和数据进行的检查，以确保数据的准确性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;设备标定&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备标定是对雨量传感器进行的初始化设置过程，以确保准确的测量。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;统计分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"统计分析是对检定结果进行的数据处理，以发现潜在的规律和问题。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;动态监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"动态监测是指对翻斗式雨量计在使用过程中进行的实时性能评估。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;资源配置&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"资源配置是在进行设备检定时对所需材料和工具进行的事先安排。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;信息整合&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"信息整合是在检定后期对所有数据和记录进行汇总，以便于分析和决策。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;作业指导&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"作业指导是提供给执行检定时工作人员的操作手册，以确保操作安全和有效性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;数据上传&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据上传是将检定过程中的所有测量和记录数据移入数据库的步骤，以便存档和回溯。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;后续调试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"后续调试是在检定后对设备的再次调整或修正，以确保其正常运作。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;联络记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"联络记录是对在检定过程中与其他部门或人员沟通的详细记录。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;改进措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"改进措施是根据检定结果提出的对设备性能提升的具体建议。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;数据采集&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据采集是在整个检定过程中进行的数值和信息的系统性收集。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;接口审核&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"接口审核是对雨量传感器与其他设备连接的检查，以确认其规范性和有效性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;压降测试&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"压降测试是在检定过程中对设备进行的压力变化评估。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;校正评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"校正评估是在检定时对设备进行的精度检查，以确定是否需要校正。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;信息存储&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"信息存储是对所有检定过程记录以确保数据可追溯性和完整性的措施。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;定期检查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"定期检查是对设备在使用过程中定期进行的检查，以确保其长期稳定性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;应急响应&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"应急响应是指在检测到不正常情况时迅速采取措施以修复问题。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;使用手册&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"使用手册是提供给操作员的，指导设备使用和维护的文件。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;测量精度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"测量精度是指雨量传感器在实际工作中能够达到的误差范围和准确度。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;操作记录表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"操作记录表是用来记录每个检定步骤执行情况的表格，保证过程有据可查。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;重复性检验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"重复性检验是通过多次检测来评估设备性能的稳定性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;测量工具&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"测量工具是在检定过程中使用的各种设备和仪器确保结果的准确性和可重复性。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;性能优化&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"性能优化是在检定结束后进行的措施，旨在提升设备在未来的使用效益。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;故障检测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"故障检测是指在检定过程中发现设备潜在问题的步骤。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;交接记录&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"交接记录是指实现设备和结果之间转移的详细记录，有助于追踪和责任分明。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;信息共享&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"信息共享是指将检定系统中的关键信息和数据传递给相关部门或团队。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;设备检查表&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设备检查表是检定前确认设备是否符合相关标准的清单，确保准备齐全。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;成效评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"成效评估是对检定结果进行的效果分析，以判断其对后续工作的支持程度。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;合规性审核&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"合规性审核是为了确保检定过程符合相关标准和规定的审查程序。"</data>
+      <data key="d2">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </node>
+    <node id="&quot;水利水电出版社&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利水电出版社 is a scientific publishing organization specializing in hydraulic and hydropower technologies, established in 1956, and recognized as a national excellent publisher."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;水利水电技术标准咨询服务中心&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利水电技术标准咨询服务中心 is responsible for publishing and promoting hydraulic and hydropower technical standards and related materials."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;王德鸿&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王德鸿 is the director of the 水利水电技术标准咨询服务中心, overseeing publishing and consulting services."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;陈昊&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"陈昊 is the deputy director of the 水利水电技术标准咨询服务中心, involved in the management of publishing activities."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;王启&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"王启 is the assistant to the director of the 水利水电技术标准咨询服务中心, supporting publishing and management tasks."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;标准出版&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"标准出版 refers to the ongoing efforts of the organization to publish and promote technical standards in the field of hydraulic and hydropower technology."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;JJG（水利）005—2017&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"JJG（水利）005—2017 is a reference standard used for the calibration of tipping bucket rain gauges, playing a crucial role in testing procedures."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;样品的检定数据&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"样品的检定数据 refers to the calibration data produced during the testing of samples, which the certificate validates."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;国家优秀出版社&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"国家优秀出版社 is an honor given to publishing institutions in China, recognizing exceptional contributions to the publishing field."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;技术标准及相关出版物&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术标准及相关出版物 includes all technical standards and publications related to hydraulic and hydropower technologies that the center is responsible for publishing."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;科研人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"科研人员 are researchers engaged in scientific activities related to hydraulic and hydropower technologies who may be associated with the center's work."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;文化团队&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"文化团队 refers to the collective of individuals at the 水利水电出版社, focused on cultural and publishing advancements in science."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;电子邮件&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电子邮件 refers to the email communication used by the personnel of the organization for professional correspondence."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;传真&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"传真 is a method of transmitting documents electronically, used within the organization for communication purposes."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;出版单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"出版单位 refers to any publishing entity involved in the production and dissemination of literature and standards."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部 is the government ministry overseeing hydraulic and water conservancy matters in China, under which the 水利水电出版社 operates."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;读者&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"读者 refers to the audience or consumers of the publications and materials distributed by the 水利水电出版社, including researchers and professionals."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;出版咨询服务&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"出版咨询服务 refers to the consultancy services offered by the organization to assist in the publication of hydraulic and hydropower literature."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;仪器名称&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"仪器名称 is the specific name given to the instruments being tested and evaluated in the calibration process."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;型号规格&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"型号规格 refers to the model specifications associated with the instruments discussed in the testing procedures."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;生产单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"生产单位 refers to the manufacturing entity responsible for producing the instruments or technology being evaluated."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;有效期&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"有效期 refers to the validity period of the calibration certificate, during which the results are considered reliable."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;失效&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"失效 indicates the conditions under which a certificate or publication becomes invalid, such as lacking required signatures or stamps."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;意见和建议&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"意见和建议 refers to the feedback and recommendations that professionals may provide to the center regarding its standards and publications."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;科技步伐&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"科技步伐 refers to the pace of technological advancement that the organization aims to keep up with in its publications."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;文化&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"文化 represents the ideals and principles that the organization promotes through its publishing efforts in science and technology."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;审查标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"审查标准 refers to the criteria used in evaluating the published documents and standards within the publishing process."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;全方位的图书出版咨询服务&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"全方位的图书出版咨询服务 signifies the comprehensive consulting services that the organization offers to support the publication process."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;电子音像和网络出版&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"电子音像和网络出版 refers to the multi-format publishing efforts that include electronic and online publication formats."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;职业培训教材&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"职业培训教材 are educational materials designed for professional training programs related to hydraulic and hydropower industries."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;大众关注的社会热点&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"大众关注的社会热点 refers to societal issues that the organization aims to address through its publications and activities."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;各类出版物&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"各类出版物 denotes the diverse range of publications produced by the organization, including books, journals, and reports."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;签字（签章）&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"签字（签章） refers to the necessary signatures or stamps on certificates to validate them."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;涂改者&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"涂改者 refers to any individual who modifies documents, thereby invalidating them if done improperly."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;核验人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"核验人 refers to a verifying authority or individual responsible for confirming the validity of certification."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;批准人&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"批准人 is the approving authority who must sign off on the certificates produced by the organization."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;第1页&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"第1页 refers to the first page of the calibration certificate, which contains essential information regarding the certification process."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;第3页&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"第3页 is the third page of the certificate where additional documentation or certification details are provided."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;扉页格式&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"扉页格式 refers to the format layout of the cover page of the certificate, which must be adhered to for validity."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;检定单位章&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"检定单位章 is the official seal used by the testing unit to validate calibration certificates."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;附件C&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"附件C refers to supplementary documents or additional information included in the certification process."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;通讯设备&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"通讯设备 are devices used for internal or external communication by the organization."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;检定单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"检定单位 refers to the organization responsible for conducting the calibration tests and issuing the certificates."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;复印件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"复印件 is a copy of a document, which must be validated according to specific criteria to be considered legitimate."</data>
+      <data key="d2">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </node>
+    <node id="&quot;戚珊珊&quot;">
+      <data key="d2">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+      <data key="d1">"戚珊珊 is a contributor to the drafting regulations at the Quality Supervision Center, implying a direct role within the organization."</data>
+      <data key="d0">"UNKNOWN"</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水利部水文仪器及岩土工程仪器质量监督检验测试中心&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Water Resources Ministry oversees the Hydrological Instrumentation Quality Center, which is responsible for regulations and standards."&lt;</data>
+      <data key="d6">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </edge>
+    <edge source="&quot;张玉成&quot;" target="&quot;水利部水文仪器及岩土工程仪器质量监督检验测试中心&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"张玉成 is a principal drafter of regulations at the Quality Supervision Center, indicating a direct professional relationship."</data>
+      <data key="d6">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </edge>
+    <edge source="&quot;史占红&quot;" target="&quot;水利部水文仪器及岩土工程仪器质量监督检验测试中心&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"史占红 plays a significant role in drafting measurement standards at the quality center, establishing a professional connection with the organization."</data>
+      <data key="d6">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </edge>
+    <edge source="&quot;冯讷敏&quot;" target="&quot;水利部水文仪器及岩土工程仪器质量监督检验测试中心&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"冯讷敏's involvement in the drafting process connects him directly with the Quality Supervision Center."&lt;</data>
+      <data key="d6">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </edge>
+    <edge source="&quot;阎志坤&quot;" target="&quot;水利部水文仪器及岩土工程仪器质量监督检验测试中心&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"阎志坤 contributes to the development of regulations at the Hydrological Instrumentation Quality Center, indicating active involvement."&lt;</data>
+      <data key="d6">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </edge>
+    <edge source="&quot;水利部水文仪器及岩土工程仪器质量监督检验测试中心&quot;" target="&quot;翻斗式雨量计&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Quality Supervision Center is responsible for verification regulations that include the Tipping-Bucket Rainfall Recorder, linking the organization with the technology."</data>
+      <data key="d6">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </edge>
+    <edge source="&quot;水利部水文仪器及岩土工程仪器质量监督检验测试中心&quot;" target="&quot;戚珊珊&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"戚珊珊 is a contributor to the drafting regulations at the Quality Supervision Center, implying a direct role within the organization."</data>
+      <data key="d6">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量计&quot;" target="&quot;透水板校验方法&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The calibration method for the Tipping-Bucket Rainfall Recorder includes standards that affect its operational accuracy."</data>
+      <data key="d6">chunk-d3f6cb19b3dda737f95d1d699f341ef1</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量计&quot;" target="&quot;雨量传感器&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"翻斗式雨量计作为一种类雨量传感器的设备，需要通过现场检定来验证其性能。"</data>
+      <data key="d6">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量计&quot;" target="&quot;检定证书&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"检定证书是在检定合格后发放，证明翻斗式雨量计的计量性能符合标准。"</data>
+      <data key="d6">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;检定标记&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"翻斗式雨量传感器的使用需要相应的检定标记以确保其测量精度和有效性。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;大雨强&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"翻斗式雨量传感器被设计用来模拟和测量大雨强的条件。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;中雨强&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"翻斗式雨量传感器被设计用来模拟和测量中雨强的条件。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;小雨强&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"翻斗式雨量传感器被设计用来模拟和测量小雨强的条件。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;计量性能要求&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"翻斗式雨量传感器的设计和应用必须遵循计量性能要求来确保其准确性和可靠性。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;外观&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"翻斗式雨量传感器的外观质量要求包括表面无缺陷等标准。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;内径尺寸&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"翻斗式雨量传感器的内径尺寸是其设计的一个重要技术要求。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;刃口角度&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"翻斗式雨量传感器的刃口角度必须在规定范围内以保证其功能有效性。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;翻斗计量误差&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"翻斗式雨量传感器的精度等级取决于其翻斗计量误差的大小。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;重复性&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"翻斗式雨量传感器的重复性是其性能评估的重要指标。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;后续检定&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"翻斗式雨量传感器需进行后续检定以确保持续满足性能要求。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;首次检定&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"首次检定是确保新制造翻斗式雨量传感器符合技术标准的重要一步。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;使用中检查&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"使用中检查是确保雨量传感器在实际应用中保持精度的重要环节。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;雨量传感器实验室检定装置&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"雨量传感器实验室检定装置用于对翻斗式雨量传感器进行精确的实验室检定。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;自身排水量法检定装置&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"自身排水量法检定装置可以对翻斗式雨量传感器进行有效的性能测试。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗式雨量传感器&quot;" target="&quot;现场检定装置&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"现场检定装置便于对翻斗式雨量传感器进行现场测试与校准。"</data>
+      <data key="d6">chunk-a2034138631d84c4a08c98a44c4b74bb</data>
+    </edge>
+    <edge source="&quot;翻斗计量误差&quot;" target="&quot;实验标准差&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"翻斗计量误差的计算需要使用实验标准差，后者用于评估测量的重复性和精度。"</data>
+      <data key="d6">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </edge>
+    <edge source="&quot;翻斗计量误差&quot;" target="&quot;检定结果&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"检定结果是根据翻斗计量误差的计算得出的，显示出设备的性能。"</data>
+      <data key="d6">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </edge>
+    <edge source="&quot;后续检定&quot;" target="&quot;实验室检定&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"后续检定基于实验室检定的结果，确保传感器长期的功能性。"</data>
+      <data key="d6">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </edge>
+    <edge source="&quot;雨量传感器&quot;" target="&quot;检定装置&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"雨量传感器需与检定装置连接以进行校验和测试。"</data>
+      <data key="d6">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </edge>
+    <edge source="&quot;雨量传感器&quot;" target="&quot;自身排水量法&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"自身排水量法是一种用于检定雨量传感器性能的方法，确保其在不同状态下的准确性。"</data>
+      <data key="d6">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </edge>
+    <edge source="&quot;雨量传感器&quot;" target="&quot;清水&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"清水是用于检定雨量传感器的重要介质，直接影响测试结果的准确性。"</data>
+      <data key="d6">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </edge>
+    <edge source="&quot;雨量传感器&quot;" target="&quot;雨量传感器检定装置&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"雨量传感器检定装置是特意为检定雨量传感器而设计的工具，确保其精度。"</data>
+      <data key="d6">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </edge>
+    <edge source="&quot;雨量传感器&quot;" target="&quot;翻斗&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"翻斗是雨量传感器的一部分，直接影响其测量能力和准确性。"</data>
+      <data key="d6">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </edge>
+    <edge source="&quot;雨量传感器&quot;" target="&quot;计时器&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"计时器用于记录雨量传感器的检定时间，对性能测试至关重要。"</data>
+      <data key="d6">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </edge>
+    <edge source="&quot;雨量传感器&quot;" target="&quot;检定结果&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"雨量传感器的检定结果决定了其是否符合规定要求，可以影响后续的使用和维护。"</data>
+      <data key="d6">chunk-b711889e36faf6bb94975cb3ab0bea15</data>
+    </edge>
+    <edge source="&quot;检定装置&quot;" target="&quot;实验室检定&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"检定装置是实验室检定过程中使用的重要工具，确保传感器的性能。"</data>
+      <data key="d6">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </edge>
+    <edge source="&quot;实验室检定&quot;" target="&quot;首检&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"实验室检定的过程包括首检，以评估雨量传感器的初始性能。"</data>
+      <data key="d6">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </edge>
+    <edge source="&quot;清水&quot;" target="&quot;盛水容器&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"盛水容器用于储存流出的清水，以便后续检定结果的计算和分析。"</data>
+      <data key="d6">chunk-bd1bdec67488773f9a1ce47940161465</data>
+    </edge>
+    <edge source="&quot;水利水电出版社&quot;" target="&quot;水利水电技术标准咨询服务中心&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The water publishing house oversees the technical standards center, which publishes materials related to hydraulic and hydropower technologies."</data>
+      <data key="d6">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </edge>
+    <edge source="&quot;水利水电技术标准咨询服务中心&quot;" target="&quot;王德鸿&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"王德鸿 leads the center, making decisions about publishing hydraulic and hydropower standards."</data>
+      <data key="d6">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </edge>
+    <edge source="&quot;水利水电技术标准咨询服务中心&quot;" target="&quot;陈昊&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"As the deputy director, 陈昊 assists in the management and operation of the center's publishing activities."</data>
+      <data key="d6">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </edge>
+    <edge source="&quot;水利水电技术标准咨询服务中心&quot;" target="&quot;王启&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"王启 supports the director in management tasks and functions within the center."</data>
+      <data key="d6">chunk-c79efb56884e76df8e490be57743ede9</data>
+    </edge>
+  </graph>
+</graphml>

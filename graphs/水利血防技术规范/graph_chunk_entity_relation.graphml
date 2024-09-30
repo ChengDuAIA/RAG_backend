@@ -1,0 +1,2206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;中华人民共和国水利部&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中华人民共和国水利部 is the governmental body responsible for water resources in China, involved in regulating and promoting water management and safety standards."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;水利血防技术规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Water Conservancy Schistosomiasis Prevention Technical Standards are guidelines developed to standardize practices and measures in combating schistosomiasis through water resource management."&lt;SEP&gt;"水利血防技术规范 refers to the technical standards established for water resource management in relation to preventing Schistosomiasis, focusing on planning, design, construction, and operation."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;长江水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"长江水利委员会 is an organization under the Ministry of Water Resources that focuses on the management and protection of the Yangtze River, including aspects of flood control and water safety."&lt;SEP&gt;"长江水利委员会 is the main authority involved in water resources management and flood prevention along the Yangtze River."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;长江科学院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Yangtze River Scientific Research Institute is involved in scientific research and standard development related to the Yangtze River."&lt;SEP&gt;"长江科学院 conducts research and development related to water and flood management, serving as a key institution within the 长江水利委员会."&lt;SEP&gt;"长江科学院 is a research institution that conducts studies related to water resource management and environmental safety, contributing to policy-making and technical standards."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-7227ce8b1c0bf52b31b62ff8b16961c4&lt;SEP&gt;chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;水利部水利水电规划设计总院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部水利水电规划设计总院 is an institute responsible for planning and designing water conservancy projects, playing a critical role in the formulation of technical standards."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;血吸虫病防治办公室&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"血吸虫病防治办公室 is an office focused on the prevention and control of Schistosomiasis, involved in the development and implementation of health standards."&lt;SEP&gt;"血吸虫病防治办公室 is focused on the prevention and control of schistosomiasis, correlated with waterway management in endemic areas."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;卢金友&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lu Jinyou is one of the principal authors of the technical standards, contributing to the development of guidelines for schistosomiasis prevention."&lt;SEP&gt;"卢金友 is a principal author associated with the water control standards, contributing expertise in water management and safety protocols."&lt;SEP&gt;"卢金友 is listed as a principal author, indicating significant expertise and involvement in projects related to water resource engineering."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-7227ce8b1c0bf52b31b62ff8b16961c4&lt;SEP&gt;chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;高华斌&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"高华斌 is listed as a contributor in the standard publication, likely involved in oversight and content development."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;朱孔贤&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"朱孔贤 is part of the review and contribution team for water resources standards, playing a role in quality assurance and technical accuracy."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;技术标准编写规定&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"技术标准编写规定 refers to the guidelines for developing technical standards, ensuring they meet regulatory and operational requirements."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;水利血防规划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利血防规划 is a strategic planning document focused on managing water resources and controlling disease spread in endemic areas."&lt;SEP&gt;"水利血防规划 is the strategic planning process aimed at managing water resources to prevent the spread of schistosomiasis."&lt;SEP&gt;"水利血防规划 refers to a comprehensive planning framework aimed at combating health issues related to water, focusing on control measures and environmental impact."&lt;SEP&gt;"水利血防规划 refers to the planning and strategic framework for controlling and preventing Schistosomiasis in water resource management."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-b7e5d51caef759742754104121d89fbf&lt;SEP&gt;chunk-e71dd9a4aea4ba70febbd92c37a4fbf0&lt;SEP&gt;chunk-f89779b2559ab22d6f82211e17281a55</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;水利血防工程设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利血防工程设计 encompasses the engineering design practices aimed at implementing effective water management solutions to prevent Schistosomiasis."&lt;SEP&gt;"水利血防工程设计 refers to the design aspects of engineering projects focused on controlling schistosomiasis through water management."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </node>
+    <node id="&quot;水利血防工程施工管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利血防工程施工管理 involves overseeing the construction processes related to water resource projects ensuring compliance with safety and health standards."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;水利血防工程运行管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利血防工程运行管理 refers to the operational management of water resources to maintain effective disease prevention measures."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;北京市&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"北京市 is the capital of China, serving as the location for the Ministry of Water Resources and various regulatory bodies involved in water management."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;国际合作与科技司&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"国际合作与科技司 is a department within the Ministry of Water Resources focused on scientific collaboration and international cooperation in water management."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;通讯地址&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"通讯地址 refers to the communication address for feedback and suggestions related to the water management standards, highlighting the bureaucratic structure."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;邮政编码&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"邮政编码 serves as a postal code indicating the location for facilitating communication and correspondence related to the Ministry's activities."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;电子邮箱&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"电子邮箱 is an email format used for professional communications, particularly for feedback regarding water management standards."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;水利技术标准制修订计划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利技术标准制修订计划 outlines the plan for revising and updating technical standards for water resource management to ensure they remain relevant and effective."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;水流脉动压力和流激振动模型试验规程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水流脉动压力和流激振动模型试验规程 pertains to the procedural standards for testing hydraulic pressure and flow-induced vibrations in hydraulic structures."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;标准用词说明&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"标准用词说明 encompasses the definitions and terminologies used within the technical standards to ensure clarity and understanding."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;规程&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"规程 refers to the procedural guidelines that outline methodologies for implementing and adhering to water safety standards."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;防螺平台&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"防螺平台 are structures designed to facilitate pest prevention measures in water bodies through targeted engineering solutions."&lt;SEP&gt;"防螺平台 is a structural measure designed to inhibit the growth of snail populations near embankments, aiding in schistosomiasis control."&lt;SEP&gt;"防螺平台 is a structure designed to prevent the breeding of 钉螺 by raising the terrain and controlling water flow near embankments."&lt;SEP&gt;"防螺平台 refers to platforms built according to anti-snail requirements on both sides of dikes."&lt;SEP&gt;"防螺平台 refers to platforms established as engineering measures to eliminate 钉螺 and mitigate the risk of Schistosomiasis."&lt;SEP&gt;"防螺平台 refers to platforms implemented to control the breeding of snails, which are intermediate hosts of Schistosomiasis."&lt;SEP&gt;"防螺平台是设计用于减少钉螺孳生的结构，强调在不影响行洪的情况下抬高其顶部高程。"</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-6291bae611e71915d2f3197f0ece8d69&lt;SEP&gt;chunk-61d660812365902f98dcbedaa44a019a&lt;SEP&gt;chunk-f89779b2559ab22d6f82211e17281a55&lt;SEP&gt;chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec&lt;SEP&gt;chunk-13338a2d269844599b16d9b9aac22ba9&lt;SEP&gt;chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;防螺隔离沟&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防螺隔离沟 are trenches specifically designed to prevent pests from spreading in water bodies, contributing to overall pest management strategies."&lt;SEP&gt;"防螺隔离沟 details trenches or ditches constructed to isolate and control snail populations that can transmit Schistosomiasis."&lt;SEP&gt;"防螺隔离沟 refers to constructed ditches designed to isolate and control snail populations, reducing the risk of schistosomiasis spread."&lt;SEP&gt;"防螺隔离沟的主要目的是滤干洲滩积水，防止钉螺的孳生。"</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-f89779b2559ab22d6f82211e17281a55&lt;SEP&gt;chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec&lt;SEP&gt;chunk-6291bae611e71915d2f3197f0ece8d69</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;钉螺&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"钉螺 are specific snail species that act as carriers for the schistosomiasis parasites, highlighting the biological aspect of the health risk."&lt;SEP&gt;"钉螺 is a type of freshwater snail that acts as an intermediate host for the parasites causing schistosomiasis."&lt;SEP&gt;"钉螺 is a type of freshwater snail that serves as the intermediate host for the schistosomiasis parasite, making its control critical in preventive measures."&lt;SEP&gt;"钉螺 is a type of mollusk that breeds in wet environments and poses a risk for disease transmission, particularly in areas related to water management and ecology."&lt;SEP&gt;"钉螺 is an entity described as a subject of control measures related to disease prevention and environmental management, particularly concerning schistosomiasis."&lt;SEP&gt;"钉螺 is an intermediate host of Schistosoma, spreading primarily through water flow and capable of multiplying in various aquatic environments."&lt;SEP&gt;"钉螺 is the specific type of snail that serves as an intermediate host for Schistosomiasis, highlighting the focus on ecological management."&lt;SEP&gt;"钉螺 refers to the freshwater snails that are intermediate hosts for Schistosoma parasites, whose management is critical in the context of schistosomiasis control."&lt;SEP&gt;"钉螺 refers to the freshwater snails which serve as carriers of the schistosomiasis parasite, posing significant risks to public health in habitats where they proliferate."&lt;SEP&gt;"钉螺指的是一种水生生物，通常用于研究沉降速度及其在水体生态中的作用。"&lt;SEP&gt;"钉螺是一种生物，能够在无阳光条件下生存2到3个月，其存在会影响水源安全。"&lt;SEP&gt;"钉螺是传播血吸虫病的中间宿主，在特定环境条件下能够孳生。"&lt;SEP&gt;"钉螺是水中生物，其行为和特性是设计沉螺池时需要考虑的重要因素。"</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-6291bae611e71915d2f3197f0ece8d69&lt;SEP&gt;chunk-ed3212c125fb14d9c5ed50d6b464157c&lt;SEP&gt;chunk-61d660812365902f98dcbedaa44a019a&lt;SEP&gt;chunk-0309bb5aac83c5282a2b1af28cc578e7&lt;SEP&gt;chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec&lt;SEP&gt;chunk-13338a2d269844599b16d9b9aac22ba9&lt;SEP&gt;chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-09f7b7e4b51fbce6d94f34a58690347e&lt;SEP&gt;chunk-e71dd9a4aea4ba70febbd92c37a4fbf0&lt;SEP&gt;chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-7227ce8b1c0bf52b31b62ff8b16961c4&lt;SEP&gt;chunk-b7e5d51caef759742754104121d89fbf</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;水安全标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水安全标准 pertains to the standards set to ensure the safety and quality of water resources in relation to public health risks."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;服务于水利工作&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"服务于水利工作 refers to the framework of services and initiatives aimed at managing and improving water resources for health and environmental safety."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;国际合作信息&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"国际合作信息 encompasses information related to international collaboration efforts in water management and disease control."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;反馈&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"反馈 emphasizes the importance of collecting opinions and suggestions from various stakeholders involved in water management practices."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;监管&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"监管 refers to the oversight mechanisms established to ensure compliance with water safety and management standards."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;水利技术发展&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利技术发展 involves the advancements and innovations in technologies related to water resource management and disease prevention."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;水利资源规范&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利资源规范 sets the standards for managing and utilizing water resources efficiently and sustainably in various projects."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;水流动力学&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水流动力学 refers to the study of fluid dynamics relevant to water management and infrastructure design within water resource projects."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;实施方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"实施方案 entails the action plans and strategies developed for executing water management protocols and standards effectively."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;技术评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术评估 involves the systematic evaluation of technical methods and standards used in water resource management."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;管理办法&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"管理办法 outlines the regulatory approaches and methods employed in effective water resource management and disease prevention efforts."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;政策法规&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"政策法规 encompasses the policies and laws that govern water resource management, emphasizing compliance and regulatory standards."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;各单位反馈&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"各单位反馈 highlights the collection of feedback from various organizations involved in Water Resource Management for continuous improvement."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;血防设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"血防设施 refers to the infrastructures specifically designed to prevent the spread of Schistosomiasis disease within water resource areas."</data>
+      <data key="d2">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </node>
+    <node id="&quot;水利血防工作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利血防工作 refers to efforts aimed at preventing and controlling schistosomiasis through water management and engineering."</data>
+      <data key="d2">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;血吸虫病&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Schistosomiasis is a significant health concern caused by parasitic worms, particularly affecting areas where water resources are mismanaged."&lt;SEP&gt;"血吸虫病 is a disease caused by parasitic worms that necessitates preventive measures and engineering solutions in areas where it is prevalent."&lt;SEP&gt;"血吸虫病 is a disease that poses a risk to individuals working in areas where the schistosomiasis vector is present."&lt;SEP&gt;"血吸虫病 is a disease that requires specific control and prevention measures outlined in the planning documents."&lt;SEP&gt;"血吸虫病 is a parasitic disease caused by Schistosoma worms, prevalent in certain areas, and requiring specific preventive measures."&lt;SEP&gt;"血吸虫病 is a parasitic disease caused by schistosomes, which requires integrated control measures involving water management and snail control."&lt;SEP&gt;"血吸虫病 refers to a disease caused by parasitic worms, prevalent in certain regions, necessitating effective control measures to prevent its spread, particularly in water-related projects."&lt;SEP&gt;"血吸虫病 refers to the disease associated with infection by Schistosoma, which 钉螺 acts as an intermediary host, making its control crucial for public health."&lt;SEP&gt;"血吸虫病, or schistosomiasis, is a disease caused by parasitic worms, indicating why specific water management measures are necessary in affected areas."&lt;SEP&gt;"血吸虫病是一种由血吸虫引起的寄生虫病，它通过水源传播与人畜的接触相关。"</data>
+      <data key="d2">chunk-6291bae611e71915d2f3197f0ece8d69&lt;SEP&gt;chunk-ed3212c125fb14d9c5ed50d6b464157c&lt;SEP&gt;chunk-d8737bbf73c4220feb5a0b35bd19b05c&lt;SEP&gt;chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec&lt;SEP&gt;chunk-13338a2d269844599b16d9b9aac22ba9&lt;SEP&gt;chunk-09f7b7e4b51fbce6d94f34a58690347e&lt;SEP&gt;chunk-e71dd9a4aea4ba70febbd92c37a4fbf0&lt;SEP&gt;chunk-b7e5d51caef759742754104121d89fbf&lt;SEP&gt;chunk-14febbcd2031fe31c85224164ee02c70&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;防螺措施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"防螺措施 encompasses strategies and techniques implemented to eliminate or control the snail population to reduce the incidence of schistosomiasis."&lt;SEP&gt;"防螺措施 refers to strategies and facilities designed to disrupt the breeding and spreading of snails that carry schistosomiasis."</data>
+      <data key="d2">chunk-6291bae611e71915d2f3197f0ece8d69&lt;SEP&gt;chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;沉螺池&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"沉螺池 are sedimentation basins designed to trap snails and reduce their movement in water systems, part of the overall strategy against schistosomiasis."&lt;SEP&gt;"沉螺池 is a facility built to collect and intercept 钉螺 from water flow, ensuring their concentration for elimination."&lt;SEP&gt;"沉螺池 is a facility designed to intercept and control the flow of water containing snails, helping to prevent their spread."&lt;SEP&gt;"沉螺池 is an engineering measure used for controlling the spread of certain pests, specifically designed to facilitate sedimentation and clearance in water management facilities."&lt;SEP&gt;"沉螺池 is an engineering structure designed for sedimentation and water management, involving various construction and operational practices to control water flow and prevent pest issues."&lt;SEP&gt;"沉螺池是一个用于防治钉螺的结构，通过模型试验等手段分析其效果。"&lt;SEP&gt;"沉螺池是一种用于阻止钉螺扩散的设施，设计目的是为了保持人畜安全，并防止沉螺池周边泥沙流入池内。"&lt;SEP&gt;"沉螺池是一种设计用来防止和灭除钉螺的设施，有助于控制钉螺的传播。"&lt;SEP&gt;"沉螺池是用于集中灭杀钉螺的特定结构，设计以防止钉螺进入下游渠道并提高沉螺效果。"</data>
+      <data key="d2">chunk-6291bae611e71915d2f3197f0ece8d69&lt;SEP&gt;chunk-f89779b2559ab22d6f82211e17281a55&lt;SEP&gt;chunk-0309bb5aac83c5282a2b1af28cc578e7&lt;SEP&gt;chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec&lt;SEP&gt;chunk-13338a2d269844599b16d9b9aac22ba9&lt;SEP&gt;chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-e71dd9a4aea4ba70febbd92c37a4fbf0&lt;SEP&gt;chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;拦螺墙&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"拦螺墙 is a structure built in conjunction with沉螺池 to block floating debris that might carry snails."&lt;SEP&gt;"拦螺墙是设计来拦截漂浮物和钉螺的建筑，帮助提升沉螺效果。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;中层取水防螺建筑物&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"中层取水防螺建筑物 refers to a water intake facility designed to use water from layers free of snails."</data>
+      <data key="d2">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;水利工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利工程 encompasses all engineering projects related to the management of water resources, including dams and irrigation systems."&lt;SEP&gt;"水利工程 encompasses the infrastructure and management practices related to water resources, crucial for preventing schistosomiasis spread."&lt;SEP&gt;"水利工程 includes planned and constructed water infrastructure relevant to managing water for disease prevention."&lt;SEP&gt;"水利工程 refers to water management projects that may include flood control, irrigation, and water supply, essential for regional development and public health."&lt;SEP&gt;"水利工程 represents the broader field of engineering focused on the management of water resources, crucial for both utility and health-related infrastructure."</data>
+      <data key="d2">chunk-ed3212c125fb14d9c5ed50d6b464157c&lt;SEP&gt;chunk-09f7b7e4b51fbce6d94f34a58690347e&lt;SEP&gt;chunk-e71dd9a4aea4ba70febbd92c37a4fbf0&lt;SEP&gt;chunk-7227ce8b1c0bf52b31b62ff8b16961c4&lt;SEP&gt;chunk-b7e5d51caef759742754104121d89fbf</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;血防专业人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"血防专业人员 are experts involved in planning and executing strategies to combat schistosomiasis through engineering and management."&lt;SEP&gt;"血防专业人员 refers to professionals specialized in the prevention and control of blood fluke diseases, who are involved in the evaluation and planning of water management projects."</data>
+      <data key="d2">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0&lt;SEP&gt;chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;流行区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"流行区 refers to regions where schistosomiasis is prevalent and requires targeted control measures."</data>
+      <data key="d2">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </node>
+    <node id="&quot;项目建议书&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"项目建议书 is a documentation phase that outlines projects related to water management and schistosomiasis prevention."</data>
+      <data key="d2">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </node>
+    <node id="&quot;可行性研究报告&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"可行性研究报告 evaluates the practicality and impact of proposed water management projects aimed at controlling schistosomiasis."</data>
+      <data key="d2">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </node>
+    <node id="&quot;城市区域&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"城市区域 are specific geographical areas where water management programs are implemented to address health concerns, like schistosomiasis."</data>
+      <data key="d2">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </node>
+    <node id="&quot;非流行区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"非流行区 refers to areas where schistosomiasis is not prevalent but may still require preventive measures related to nearby流行区."</data>
+      <data key="d2">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </node>
+    <node id="&quot;洲滩高程&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"洲滩高程 refers to the elevation of landforms that are being managed for effective water control and to prevent the spread of snails associated with schistosomiasis."</data>
+      <data key="d2">chunk-b7e5d51caef759742754104121d89fbf</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;沟渠&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"沟渠 are constructed channels aimed at preventing snail spread and controlling water drainage in relevant areas."</data>
+      <data key="d2">chunk-b7e5d51caef759742754104121d89fbf</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;堤防&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"堤防 refers to embankments constructed on either side of channels to manage water levels and prevent the spread of snails related to schistosomiasis."&lt;SEP&gt;"堤防 refers to flood control structures designed to prevent water overflow and manage waterway impacts, aiming to protect surrounding areas."&lt;SEP&gt;"堤防 refers to the embankments or dikes that are constructed to prevent flooding and mitigate the effects of schistosomiasis in affected regions."</data>
+      <data key="d2">chunk-b7e5d51caef759742754104121d89fbf&lt;SEP&gt;chunk-61d660812365902f98dcbedaa44a019a&lt;SEP&gt;chunk-6291bae611e71915d2f3197f0ece8d69</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;水淹灭螺&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水淹灭螺 refers to the controlled flooding measures taken to eradicate snails in specific areas, contributing to schistosomiasis control efforts."</data>
+      <data key="d2">chunk-b7e5d51caef759742754104121d89fbf</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;基本资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"基本资料 refers to fundamental data collected for planning and managing water resources in relation to schistosomiasis transmission areas."</data>
+      <data key="d2">chunk-b7e5d51caef759742754104121d89fbf</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;工 程措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工 程措施 includes various engineering methods employed to control the environment and prevent the spread of 钉螺 and related diseases."</data>
+      <data key="d2">chunk-b7e5d51caef759742754104121d89fbf</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;预防为主&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"预防为主 refers to the principle of prioritizing prevention in the context of schistosomiasis and snail control planning."</data>
+      <data key="d2">chunk-b7e5d51caef759742754104121d89fbf</data>
+    </node>
+    <node id="&quot;涵闸（泵站）&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"涵闸（泵站） are infrastructure facilities involved in controlling water flow and pest prevention, particularly in the context of water resource management."&lt;SEP&gt;"涵闸（泵站） is a structure designed to control water flow and prevent the spread of 钉螺, effectively influencing the management of Schistosomiasis."&lt;SEP&gt;"涵闸（泵站） refers to flood control or pumping stations designed for water management, crucial for maintaining the flow and quality of water in irrigation systems."&lt;SEP&gt;"涵闸（泵站）是一个水利设施，影响沉螺池的布置和效果，特别在水位变幅大时。"</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55&lt;SEP&gt;chunk-13338a2d269844599b16d9b9aac22ba9&lt;SEP&gt;chunk-0309bb5aac83c5282a2b1af28cc578e7&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;螺防措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"螺防措施 includes various engineering and management practices aimed at preventing the spread of pests and ensuring water quality."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;水域&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水域 refers to various water bodies where the construction of facilities for pest control and water management is planned."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;防螺建筑物&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"防螺建筑物 are structures specifically designed to prevent or mitigate the presence of pests in water management systems."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;调度管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"调度管理 encompasses the systematic organization and control of resources and facilities involved in pest management and water distribution."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;螺情监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"螺情监测 involves the monitoring of pest populations in water environments to inform management practices and interventions."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;非工程措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"非工程措施 refers to non-engineering approaches to managing pest control, focusing on monitoring and administrative practices."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;环境影响评价&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境影响评价 is an assessment process to evaluate the potential environmental effects of water management projects, including pest control measures."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;规划风险分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"规划风险分析 involves analyzing the potential risks associated with the implementation of water management and pest control plans."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;渠道硬化&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"渠道硬化 is an engineering event involving the reinforcement of waterways to enhance durability and prevent erosion."&lt;SEP&gt;"渠道硬化 is an engineering measure aimed at reinforcing water channels to enhance their durability and functionality in pest control."&lt;SEP&gt;"渠道硬化是通过巩固渠道边坡来防止钉螺生存的一项工程措施。"</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55&lt;SEP&gt;chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;开挖新渠&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"开挖新渠 refers to the construction of new water channels as part of the infrastructure for improved water management and pest control."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;管理措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"管理措施 encompass a range of administrative actions and practices aimed at ensuring effective pest control and water management."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;抬洲降滩&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"抬洲降滩 involves modifying the landscape of waterways to enhance management and control of pest populations."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;填塘灭螺&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"填塘灭螺 refers to the practice of filling in water bodies to eliminate habitats conducive to pest proliferation."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;开沟沥水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"开沟沥水 involves the creation of drainage systems designed to manage water levels and reduce pest habitats."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </node>
+    <node id="&quot;工程措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程措施 refer to the various engineering solutions implemented to combat pest issues in water management systems."&lt;SEP&gt;"工程措施是实施钉螺控制和水体管理的具体步骤或行动。"</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55&lt;SEP&gt;chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;渠道&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"渠道 refers to channels in water management systems that facilitate water flow and must be maintained to prevent the breeding of 钉螺."&lt;SEP&gt;"渠道 refers to the constructed waterways serving critical roles in water management and pest control efforts."&lt;SEP&gt;"渠道是指水流通过的区域，其设计与沉螺池相关，影响钉螺的行为。"</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55&lt;SEP&gt;chunk-0309bb5aac83c5282a2b1af28cc578e7&lt;SEP&gt;chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;消能设施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"消能设施 are energy dissipating structures aimed at reducing water flow velocity and preventing erosion downstream."&lt;SEP&gt;"消能设施 are energy dissipating structures that help to manage the energy of flowing water, contributing to stability in pest control measures."</data>
+      <data key="d2">chunk-f89779b2559ab22d6f82211e17281a55&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;灌排渠系&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"灌排渠系 refers to drainage and irrigation systems designed to control water distribution and management, often requiring engineering interventions to prevent issues like pest infestations."&lt;SEP&gt;"灌排渠系是指通过排灌系统和渠道构成的水利设施，在钉螺流行区可能引导钉螺扩散。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;河槽&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"河槽 refers to the channel or bed of a river, significant for understanding water flow dynamics in relation to the engineering structures mentioned."&lt;SEP&gt;"河槽是河流的底部部分，通常在水位变化中扮演重要角色，并影响周围生态环境。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;上游渠道&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"上游渠道 refers to the upper channel from which water flows, crucial for managing water height and flow direction."&lt;SEP&gt;"上游渠道是指在沉螺池之前的水流通道，影响钉螺的进入情况。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;下游渠道&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"下游渠道 refers to the lower channel receiving water flow, important for ensuring proper drainage in the system."&lt;SEP&gt;"下游渠道是指沉螺池之后的水流通道，设计用以防止钉螺的进入。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;固定式进水口&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"固定式进水口 is a fixed inlet design used in water management structures to control the entry and flow of water."&lt;SEP&gt;"固定式进水口是水利设施中使用的一种设计，必须依据水位变幅、钉螺分布等因素进行分析。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;活动式进水口&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"活动式进水口 is a movable inlet that adjusts with water levels, ensuring consistent flow during varying conditions."&lt;SEP&gt;"活动式进水口是一种调整水流的设施，提升了水利系统的灵活性和功能。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;暗渠（管）&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"暗渠（管） refers to underground drainage pipes, used to manage water flow discreetly and effectively."</data>
+      <data key="d2">chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;水面排水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水面排水 refers to the surface water drainage practices necessary in maintaining healthy irrigation and drainage systems."</data>
+      <data key="d2">chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;防螺设施&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"防螺设施 are pest control installations designed to prevent the ingress of harmful organisms like snails into water systems."</data>
+      <data key="d2">chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;渠道边坡&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"渠道边坡 refers to the slopes or sides of channels that must be properly managed to prevent collapse and maintain water integrity."&lt;SEP&gt;"渠道边坡是指渠道两侧的土壤或石材结构，影响水流和生态环境的稳定性。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;渠底&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"渠底 refers to the bottom of the channel, significant for slope and sediment management within water systems."&lt;SEP&gt;"渠底是指水流经过的最低部分，影响水的流动特性和生态环境。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+    </node>
+    <node id="&quot;河湖整治&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河湖整治 involves the restoration and management of rivers and lakes to prevent schistosomiasis, including various engineering measures and ecological considerations."</data>
+      <data key="d2">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;有螺土&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"有螺土 refers to soil that contains snails, which are carriers of schistosomiasis, posing a health risk in affected areas."</data>
+      <data key="d2">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;药物&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"药物 refers to substances used to treat diseases, including schistosomiasis, indicating a health intervention strategy."</data>
+      <data key="d2">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;生态护岸&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"生态护岸 refers to ecological approaches in constructing riverbanks that help control schistosomiasis while preserving the environment."</data>
+      <data key="d2">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;长江勘测规划设计研究院&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"长江勘测规划设计研究院 specializes in surveying and planning for water resources and hydrological projects along the Yangtze River."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;潘庆燊&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"潘庆燊 is one of the main contributors to various standards and protocols related to water resource management."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;魏国远&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wei Guoyuan is among the key figures drafting the technical standards for water-related schistosomiasis prevention."&lt;SEP&gt;"魏国远 is involved as a primary author for initiatives focusing on effective water management and flood control."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4&lt;SEP&gt;chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;林木松&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"林木松 is recognized for contributions in water resource engineering and management, indicating involvement in significant projects."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;胡向阳&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"胡向阳 has expertise related to water management and is part of the project development team for flood prevention standards."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;孙贵州&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sun Guizhou is recognized among the contributors to the schistosomiasis prevention technical standards, playing a role in the drafting process."&lt;SEP&gt;"孙贵州 contributes to research and development efforts aimed at improving water safety and management protocols."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4&lt;SEP&gt;chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;徐海涛&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Xu Haitao is recognized for their contributions to the technical standards concerning schistosomiasis management through water engineering."&lt;SEP&gt;"徐海涛 plays a key role in the writing and formulation of water resource management strategies and policies."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4&lt;SEP&gt;chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;周赤师&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"周赤师 is acknowledged for input in projects involving water resource conservation and flood risk management."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;血吸虫病流行区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"血吸虫病流行区 refers to geographical areas where schistosomiasis is endemic, influencing the design and management of water resources."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;饮水工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"饮水工程 involves the development and management of drinking water projects, particularly in areas at risk for schistosomiasis."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;水利血防工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利血防工程 encompasses water-related engineering projects focused on controlling血吸虫 and钉螺 breeding through infrastructure."&lt;SEP&gt;"水利血防工程 includes initiatives that combine water resource management with measures to prevent schistosomiasis transmission."&lt;SEP&gt;"水利血防工程 is an important project designed to prevent schistosomiasis pollution in water sources and manages the health of personnel involved."&lt;SEP&gt;"水利血防工程 is the overarching project aimed at managing water resources while simultaneously controlling schistosomiasis spread."&lt;SEP&gt;"水利血防工程 refers to the integrated project focusing on water management and snail control measures to combat schistosomiasis, emphasizing its dual attributes and functional importance."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a&lt;SEP&gt;chunk-ed3212c125fb14d9c5ed50d6b464157c&lt;SEP&gt;chunk-d8737bbf73c4220feb5a0b35bd19b05c&lt;SEP&gt;chunk-09f7b7e4b51fbce6d94f34a58690347e&lt;SEP&gt;chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;监督管理单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"监督管理单位 is responsible for overseeing and ensuring compliance with standards related to water resource management and public health protections."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;水源保护措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水源保护措施 are protocols and actions taken to safeguard water sources from contamination, particularly in endemic areas for schistosomiasis."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;疫水&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"疫水 refers to contaminated water that can harbor disease, particularly in relation to 钉螺 and related parasitic infections."&lt;SEP&gt;"疫水 refers to contaminated water that poses a risk of transmitting schistosomiasis to personnel."&lt;SEP&gt;"疫水 refers to contaminated water that poses health risks, especially in the context of schistosomiasis transmission."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4&lt;SEP&gt;chunk-d8737bbf73c4220feb5a0b35bd19b05c&lt;SEP&gt;chunk-61d660812365902f98dcbedaa44a019a</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;水利工程档案资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利工程档案资料 includes all documentation related to water engineering projects, crucial for accountability and future planning."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;吴仁华&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"吴仁华 is mentioned as a contributor, indicating involvement in water management projects related to schistosomiasis prevention."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;邹战华&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"邹战华 has a role in developing standards and practices for water management within schistosomiasis prevalence areas."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;水利行业标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利行业标准 comprises various regulatory frameworks aimed at improving water resource management practices in China."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;水文资料&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水文资料 refers to hydrological data vital for making informed decisions about water management and planning."&lt;SEP&gt;"水文资料是关于水流和地表水相关信息的集合，对于水资源管理至关重要。"</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4&lt;SEP&gt;chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;环境保护措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护措施 focus on ensuring ecological safety and sustainability in water resource management, particularly in sensitive regions."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;应急处理方案&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"应急处理方案 outlines the strategies to respond to water contamination incidents or schistosomiasis outbreaks."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;公共卫生&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"公共卫生 refers to the health systems and measures aimed at protecting and improving the health of populations."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;医疗卫生机构&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"医疗卫生机构 are healthcare facilities involved in the prevention, diagnosis, and treatment of diseases, including schistosomiasis."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;新建饮水工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"新建饮水工程 pertains to new projects focused on providing safe drinking water, especially in areas vulnerable to disease transmission."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;河湖连通工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河湖连通工程 involves infrastructure projects designed to connect rivers and lakes, which can impact disease dynamics in surrounding areas."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;监管法规&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监管法规 include regulations aimed at ensuring safety and compliance in water management and public health practices."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;流行病学研究&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流行病学研究 encompasses research conducted to understand the patterns and distribution of Schistosomiasis and its vectors."&lt;SEP&gt;"流行病学研究 involves studies aimed at understanding the spread and prevention of diseases such as schistosomiasis."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4&lt;SEP&gt;chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;防疫措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防疫措施 are public health interventions put in place to prevent the spread of infectious diseases, especially in endemic areas."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;参与单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"参与单位 refers to the various organizations involved in water management and disease prevention efforts."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;水质监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水质监测 includes systems used to regularly check and evaluate the quality of water resources for safety."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;污染水体&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"污染水体 refers to water bodies that have been contaminated, posing health risks and requiring remediation."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;灾害应对&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"灾害应对 refers to strategies and measures taken to manage and mitigate the impact of natural disasters related to water."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;流域管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"流域管理 involves the coordinated management of river basins to ensure sustainable water use and prevent environmental degradation."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;生物控制措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生物控制措施 refer to the use of natural organisms to manage populations of potentially harmful species like 钉螺."</data>
+      <data key="d2">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </node>
+    <node id="&quot;水利部长江水利委员会&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Yangtze River Water Resources Commission is a government authority responsible for water resource management, planning, and engineering concerning the Yangtze River."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;湖北省血吸虫病防治研究所&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Hubei Province Schistosomiasis Control Research Institute is focused on schistosomiasis prevention and research in the Hubei region."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;王家生&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wang Jiasheng is a principal author involved in creating technical standards for schistosomiasis prevention in water conservancy."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;刘联兵&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Liu Lianbing is a main contributor to the development of guidelines focused on schistosomiasis prevention strategies."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;唐冬梅&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tang Dongmei is involved in the authorship of medical guidelines addressing schistosomiasis."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;李才宝&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Li Caibao is a contributor involved in the development of technical standards aimed at schistosomiasis control through water resource management."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;周&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhou is mentioned as a contributor to the technical standards, indicating involvement in schistosomiasis prevention strategies."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;赤师&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chi Shi is noted among the authors contributing to the guidelines on combating schistosomiasis."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;哲&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhe is included as a participant in creating the standards for schistosomiasis prevention."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;李昊洁&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Li Haojie is one of the contributors to the technical standards focused on water safety against schistosomiasis."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;史其敏&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shi Qimin is part of the team developing guidelines for schistosomiasis prevention in water-related projects."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;朱朝峰&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhu Chaofeng is mentioned as a contributor to the schistosomiasis prevention technical standards, indicating involvement in the drafting process."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;黎礼刚&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Li Ligan is recognized among the key figures contributing to technical standards for schistosomiasis control."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;闵凤阳&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Min Fengyang is included as a contributor to the standards for schistosomiasis prevention and water management."</data>
+      <data key="d2">chunk-14febbcd2031fe31c85224164ee02c70</data>
+      <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;水利部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"水利部门 refers to the governmental or organizational entities responsible for water management and resource conservation, actively involved in the planning and evaluation of water-related projects."</data>
+      <data key="d2">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;生态环境&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"生态环境 encompasses the natural ecosystems and their conservation, highlighting the need to balance water management with ecological preservation in the context of various projects."&lt;SEP&gt;"生态环境 refers to the ecological context that must be respected during urban and environmental construction to minimize钉螺 breeding."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a&lt;SEP&gt;chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+    </node>
+    <node id="&quot;钉螺扩散&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"钉螺扩散 refers to the spread of freshwater snails that host schistosomes, posing a risk for schistosomiasis in areas affected by water projects."</data>
+      <data key="d2">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </node>
+    <node id="&quot;农田水利&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"农田水利 includes water management strategies specifically aimed at improving agricultural productivity through irrigation and resource conservation."</data>
+      <data key="d2">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </node>
+    <node id="&quot;湿地保护&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"湿地保护 focuses on the conservation of wetlands, which are important for biodiversity and ecological balance, requiring coordination with water management projects."</data>
+      <data key="d2">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </node>
+    <node id="&quot;工程设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工程设计 refers to the planning and design phase of various water-related projects, ensuring their effectiveness and sustainability."&lt;SEP&gt;"工程设计指在计划和构建水利设施过程中进行的专业规划与考量。"&lt;SEP&gt;"工程设计涉及对防螺平台和防螺隔离沟的构建进行详细的规划和实施，目的是防止钉螺孳生及其过程中对水道的影响。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec&lt;SEP&gt;chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </node>
+    <node id="&quot;水土保持&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水土保持 involves measures to prevent soil erosion and maintain soil fertility, critical for sustainable agricultural practices associated with water management."</data>
+      <data key="d2">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </node>
+    <node id="&quot;灌溉&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"灌溉 is the process of supplying water to crops to aid their growth, a key component of agricultural water management."</data>
+      <data key="d2">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </node>
+    <node id="&quot;供水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"供水 refers to the systems and processes established to provide water to communities, agricultural lands, and industries."</data>
+      <data key="d2">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </node>
+    <node id="&quot;技术经济综合比较论证&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术经济综合比较论证 involves comprehensive analysis to evaluate the technical and economic feasibility of various water management strategies."</data>
+      <data key="d2">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </node>
+    <node id="&quot;水系控制&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水系控制 involves engineering measures taken to manage water systems in a manner that limits the dissemination of 钉螺 and the risk of infection."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;螺土层&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"螺土层 is a layer of soil that may harbor 钉螺, and when disturbed, it can directly contribute to the spread of the parasite."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;河道&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"河道 are the river channels that serve as pathways for water flow, influencing the distribution and prevalence of 钉螺."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;渠系&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"渠系 refers to the network of channels which plays a crucial role in the control and spread of 钉螺 populations in water systems."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;用水地区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"用水地区 are areas that utilize water supplied from rivers and channels, which may be contaminated by 钉螺."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;多部门合作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"多部门合作 involves various sectors working together in a coordinated effort to combat the spread of blood flukes and related diseases."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;血防规划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"血防规划 refers to the strategic planning and implementation of measures aimed at preventing and controlling Schistosomiasis outbreaks."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;安全运行条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全运行条件 are the necessary conditions for the effective and safe operation of structures designed to control 钉螺 and manage water flow."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;清淤措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"清淤措施 are actions taken to remove sediment and ensure the functionality of structures like 沉螺池."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;水流流态&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水流流态 pertains to the state of water movement, which is critical in regard to the habitat and spread of 钉螺."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;经验证明&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"经验证明 refers to empirical evidence gathered from previous practices in the construction of 钉螺 control facilities."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;环境改善&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境改善 refers to the improvement of conditions in areas endemic to Schistosomiasis, influenced by the successful implementation of control measures."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;投入&quot;&amp;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"投入 describes the resources allocated towards the prevention and control of 钉螺 and Schistosomiasis."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;监督管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监督管理 pertains to oversight and regulatory measures ensuring the effectiveness of the anti-Schistosomiasis strategies."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;生态影响&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态影响 refers to the ecological consequences of introducing control measures on local water systems and habitats."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;防治措施&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防治措施 are strategies implemented to prevent and treat the spread of Schistosomiasis and its vectors, including 钉螺."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;流量变化条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流量变化条件 are fluctuations in water flow that must be considered during the design of structures to control 钉螺."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;无螺区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"无螺区 refers to areas free from 钉螺, which are crucial for preventing the spread of Schistosomiasis."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;监测与评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"监测与评估 are processes of observing and assessing the effectiveness of Schistosomiasis control initiatives."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;水利和血防规划&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水利和血防规划 encompasses the integrated planning of hydraulic projects and public health measures to mitigate the spread of Schistosomiasis."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot; ГУБЗОБР О&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"губзобр о relates to specific actions taken to eliminate non-target species that might interfere with the ecological balance or control measures."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;潜在风险&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"潜在风险 refers to the possible dangers associated with infrastructure affecting the spread of钉螺 and Schistosomiasis."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;数据分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"数据分析 describes the evaluation of data collected to assess the effectiveness of control measures against 钉螺."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;技术手段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"技术手段 refers to the methods and technologies applied to control and eradicate 钉螺 populations."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;调研分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"调研分析 involves field research and analysis to inform the planning and implementation of anti-schistosomiasis measures."</data>
+      <data key="d2">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </node>
+    <node id="&quot;模型试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"模型试验是一个方法，通过多种手段分析论证沉螺池的防螺效果。"</data>
+      <data key="d2">chunk-0309bb5aac83c5282a2b1af28cc578e7</data>
+    </node>
+    <node id="&quot;水位变幅&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水位变幅是一个描述水位变化的概念，影响沉螺池的布置与效果。"</data>
+      <data key="d2">chunk-0309bb5aac83c5282a2b1af28cc578e7</data>
+    </node>
+    <node id="&quot;泥沙&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"泥沙是在水流中被挟带的沉积物，影响沉螺池的操作与维护。"&lt;SEP&gt;"泥沙是水流中携带的颗粒物，过多的泥沙可能影响水安全和生物生存，需要进行控制和管理。"</data>
+      <data key="d2">chunk-0309bb5aac83c5282a2b1af28cc578e7&lt;SEP&gt;chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;设计断面平均流速&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设计断面平均流速是沉螺池的一个重要设计参数，影响钉螺的静水沉降速度。"</data>
+      <data key="d2">chunk-0309bb5aac83c5282a2b1af28cc578e7</data>
+    </node>
+    <node id="&quot;静水沉降速度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"静水沉降速度指的是钉螺在静水环境下的下沉速度对其生存和分布的影响，重要于沉螺池的设计。"&lt;SEP&gt;"静水沉降速度是钉螺在静水中的沉降速率，被用于评估沉螺池的效果。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-0309bb5aac83c5282a2b1af28cc578e7</data>
+    </node>
+    <node id="&quot;地区的地形、地质&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"地区的地形和地质特征会影响沉螺池的最终设计和构建。"</data>
+      <data key="d2">chunk-0309bb5aac83c5282a2b1af28cc578e7</data>
+    </node>
+    <node id="&quot;农业用地&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"农业用地是指用于农业活动的土地，涉及沉螺池的布置规划。"</data>
+      <data key="d2">chunk-0309bb5aac83c5282a2b1af28cc578e7</data>
+    </node>
+    <node id="&quot;非农业用地&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"非农业用地是指不用于农业的土地，优先考虑沉螺池的修建。"</data>
+      <data key="d2">chunk-0309bb5aac83c5282a2b1af28cc578e7</data>
+    </node>
+    <node id="&quot;水流&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水流 refers to the movement of water within channels and bodies that can be regulated to deter钉螺 onset."&lt;SEP&gt;"水流指的是沉螺池内流动的水，有助于影响钉螺的沉降和行为。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-61d660812365902f98dcbedaa44a019a</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;实验室&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"实验室是进行钉螺及其沉降速度实验的场所，对数据的统计和分析提供支持。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;水的运动黏滞性系数&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水的运动黏滞性系数是流体力学中的一个重要参数，影响沉降速度的计算。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;拦污栅&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"拦污栅是设置在沉螺池入口的结构，旨在防止漂浮物和钉螺进入池内。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;池宽与深度的比值&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"池宽与深度的比值是沉螺池设计的重要参数，影响水流分布和沉螺效率。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;高程&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"高程是指沉螺池与上游、下游渠道底部的相对高度，影响钉螺的流动和行为。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;过孔的水流&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"过孔的水流指的是经过拦螺墙的水流，可能影响钉螺的沉降和传播。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;室内试验&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"室内试验是为了研究钉螺行为及沉螺池设计而进行的实验活动。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;统计分析&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"统计分析是用以处理实验室数据，得出关于钉螺沉降速度的结论。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;设计推荐&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设计推荐指的是对沉螺池设计进行的建议，以确保防螺效果。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;流速&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流速是指水流的速率，影响钉螺及其分布的沉降池设计。"&lt;SEP&gt;"流速是指水流运动的速度，具有重要的生态和工程影响。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;静水条件&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"静水条件是进行沉降速度测量时的重要环境因素。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;钉螺的容重&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"钉螺的容重是决定其在水中沉降特性的一个物理属性。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;沉螺效果&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"沉螺效果指的是沉螺池在减少钉螺数量和防治方面的成效。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;防螺、灭螺效果&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"防螺、灭螺效果是沉螺池的关键指标，代表其在控制钉螺方面的效率。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;工作段&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"工作段指的是沉螺池内用于实际进行沉螺工作的区域，设计具备特定流速和结构。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;池的宽度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"池的宽度是沉螺池设计的一项关键参数，影响水流分布和沉降速度。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;池的深度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"池的深度是沉螺池设计的一项重要参数，涉及环境和生物特性的平衡。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;流速的均匀分布&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流速的均匀分布对于沉螺池的设计至关重要，确保高效拦截钉螺。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;钉螺行为&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"钉螺行为是指钉螺在水体中的移动和沉降模式，受到多种水文与设计因素影响。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;处理水体&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"处理水体是进行水质管理中的一个环节，与防治钉螺密切相关。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;水体表层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水体表层是受阳光影响的水面部分，通常是钉螺及其他生物的栖息地。"&lt;SEP&gt;"水体表层是指水体上部，钉螺常在此区域聚集，影响沉降池的设计。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;沉螺池设计&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"沉螺池设计是以防止钉螺入侵下游渠道为目的的综合工程活动。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;环境影响因素&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境影响因素包括温度、水流、钉螺行为等，对于沉沉沉降和设计有重要作用。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;下游环境&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"下游环境是指沉螺池流出后水体的环境，影响整个水域的生态平衡。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;河流&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"河流 encompasses the rivers that can be pivotal for water supply but may also harbor schistosomiasis if not properly managed."&lt;SEP&gt;"河流是指流动的水体，沉螺池位于其分支、处理钉螺入侵的问题。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;水文条件&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水文条件是影响沉螺池的设计和功能的关键因素，如流速、深度等。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;定期清理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"定期清理是沉螺池维护的重要工作，确保其效能的持续和稳定。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;灭螺方式&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"灭螺方式是指采取的措施和技术以减少水体中钉螺的数量。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;废弃物处理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"废弃物处理是确保沉螺池功能正常的另外一个关键活动，涉及钉螺的管理与控制。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;水位变化&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水位变化在浑浊条件下，对于沉螺池内部钉螺动态也会有影响。"&lt;SEP&gt;"水位变化指水体高度的波动，是设计水利设施时需要重要考虑的因素之一。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;设计准则&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设计准则为沉螺池的构建与运用提供指导，提升其防治钉螺的效果。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;水体净化&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水体净化是指处理水体中的污染物，钉螺的防治是其中一部分。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;水流速率&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水流速率是描述水体流动快慢的一个重要参数，与沉螺池设计息息相关。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;流动状态&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流动状态是描述水体流动特征的指标，直接影响钉螺的行为和沉降效果。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;生物监测&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生物监测是观察水体生态系统中钉螺的数量和健康的手段。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;生态管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"生态管理是指对水生态环境进行的综合管理与维护，以保持水体健康。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;钉螺治理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"钉螺治理是指通过一系列措施来减少水域中钉螺数量的过程。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;环境评估&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境评估是评估沉螺池影响与效果的过程，重要于优化设计。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;流动平衡&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"流动平衡是流动状态下水体的稳定性指标，与沉螺池设计直相关。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;生物指标&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"生物指标是用来评估水体健康和生态效果的参考数据。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;水体灌溉&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水体灌溉指的是利用水体进行农业灌溉的过程，涉及水管理。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;水质标准&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水质标准是确保水体质量达标的指导文件和依据。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;水体管理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"水体管理是对水体的监测、维护和利用的全面活动，涉及水资源的合理利用。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;钉螺群落&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"钉螺群落是指在特定水体中生存的钉螺的集合，展示其生态特征。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;水体动力学&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水体动力学是研究水流运动规律，对于设计沉螺池至关重要。"</data>
+      <data key="d2">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </node>
+    <node id="&quot;暗渠&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"暗渠是一种用于灌水的管道，能够在无光条件下防止钉螺孳生，设计需考虑长度和流速。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;水源区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水源区是指供水的自然或人工区域，通常与水位和水质有关，是生态平衡的重要组成部分。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;涵闸&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"涵闸是一种水利工程设施，用于控制水流和水位，且在钉螺防治中具有一定的作用。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;泵站&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"泵站是用来提高水流和水位的设施，可以增强灌排渠系的功能，帮助控制钉螺的扩散。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;立轴漩涡&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"立轴漩涡是一种水流现象，在渠系设计中需要防止其产生，以避免钉螺和漂浮物被卷入进水口。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;消涡梁&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"消涡梁是一种工程措施，用于防止立轴漩涡的产生，从而保护水源安全。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;安全度&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"安全度是指设计和施工过程中所考虑的安全系数，以保证工程的稳定性和安全性。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;卫生部门&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"卫生部门负责公共健康事务，并为防治疾病提供相关数据和建议，是钉螺控制的重要合作方。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;工程投资&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"工程投资是指为建设和维护水利设施所需的资金，是评估和决策的重要考量。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;运作&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"运作是指各种机制、设施正常工作的状态，关联到水利系统的效率与安全。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;高水位&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"高水位是指水体超过通常水平的状态，可能影响周围环境和生物，防治钉螺时需考虑的因素。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;低水位&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"低水位是指水体低于通常水平的状态，对水源和生态环境具有重要影响，需要在渠系设计中考虑。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;浮式和活动式拦螺墙&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"浮式和活动式拦螺墙是设计用于防止钉螺进入水体的设施，关键在于调节水流的状态。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;渠顶&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"渠顶是渠道的最上部，通常涉及到水位的安全与管理。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;设计水位&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"设计水位是指在规划水利工程时所定的理想水位，用于评估工程的结构与功能。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;调查&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"调查是为了获取与水源和钉螺相关的必要信息的过程，为决策提供支持。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;固定式涵管&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"固定式涵管是在水利系统中使用的一种特定设计，旨在实现稳定的水流管理。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;饲养地&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"饲养地是提供生物生存环境的区域，影响钉螺及其他生物的分布和生态平衡。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;边坡土壤含水率&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"边坡土壤含水率表示土壤中水分的含量，对钉螺的生存具有直接影响。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;水体&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水体指自然或人工产生的水域，如河流、湖泊等，是生物栖息和人类生活的基础。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;生存时间&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"生存时间是指生物能够存活的时间长度，对于了解生态系统健康状况具有重要意义。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;适应性技术&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"适应性技术涉及能够根据环境变化进行调整和优化的解决方案，有助于提升设施的效能。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;生物&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"生物是指在特定环境中生活的有机体，包括动植物，其生存受到多方面因素影响。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;生态平衡&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"生态平衡是指生物种群与环境之间的和谐状态，受到多种因素的影响，需维持其稳定性。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;工程技术&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"工程技术是为提升水利设施效能而进行的技术应用，包括建设与维护的多项方法。"</data>
+      <data key="d2">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </node>
+    <node id="&quot;填塘&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"填塘 is an environmental management practice aimed at filling in low-lying areas to eliminate 钉螺 breeding sites, thereby reducing health risks."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;护坡防螺&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"护坡防螺 involves implementing erosion control methods while preventing the breeding of 钉螺 through surface hardening techniques."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;混凝土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"混凝土 is a construction material used in building structures for堤防 and防螺平台 to enhance their effectiveness."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;新材料&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"新材料 refers to innovative materials that can be used in construction and ecological management to mitigate the breeding of 钉螺."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;坡面硬化&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"坡面硬化 is a process that involves hardening the surface of slopes to prevent soil moisture retention, which is favorable for 钉螺 breeding."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;周围土层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"周围土层 refers to the surrounding soil layers that influence the breeding of钉螺 and other organisms in aquatic environments."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;环境&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"环境 is a broad concept encompassing ecological and geographical factors that affect the breeding and survival of钉螺."&lt;SEP&gt;"环境 refers to the living and working conditions around the projects, which need monitoring to ensure safety from schistosomiasis."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c&lt;SEP&gt;chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;血吸虫&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"血吸虫 is a parasitic worm associated with hazardous environments where 钉螺 thrive, potentially spreading diseases to humans and animals."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;堤脚&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"堤脚 refers to the base of the embankment, which plays a crucial role in preventing water overflow and managing钉螺 habitats."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;土层&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"土层 represents the different layers of soil that affect the ecological balance and impact钉螺 populations."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;水沟&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水沟 is a drainage ditch that can play a role in managing钉螺 proliferation by controlling water flow and reducing breeding sites."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;疫病&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"疫病 refers to diseases that can be transmitted through environments favorable to the breeding of钉螺 and blood flukes."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;建设&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"建设 refers to the activities involved in the construction and development of防螺 structures and堤防 aimed at ecological management."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;治理&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"治理 embodies the comprehensive management strategies employed to control钉螺 populations and maintain safe environments."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;倾斜&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"倾斜 refers to the sloping aspects of堤防 and terrain that can be designed to reduce water accumulation and prevent钉螺 habitats."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;规格&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"规格 defines the standards and regulations that guide the construction of防螺 platforms and堤防 to ensure stability and efficacy."</data>
+      <data key="d2">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </node>
+    <node id="&quot;洲滩&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"洲滩是河流或湖泊中的突起土地，容易积水并形成钉螺的栖息地。"</data>
+      <data key="d2">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;湖区&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"湖区指的是大面积的水体区域，通常是淡水湖，研究中提到防螺措施适合于湖泊环境。"</data>
+      <data key="d2">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;堤外有螺洲滩&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"堤外有螺洲滩是指在堤坝外面形成的水边滩地，因其积水而存在钉螺风险。"</data>
+      <data key="d2">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;护岸工程&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"护岸工程包括削坡和裁弯工程，目的是保护河岸，涉及的施工过程会产生弃土，需管理以避免新钉螺生境。"</data>
+      <data key="d2">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </node>
+    <node id="&quot;水位控制&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"水位控制是指在特定水域中对水位的人工调整，以改变钉螺的生存环境，减少其繁殖数量。"</data>
+      <data key="d2">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;河道整治&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"河道整治是一系列措施，旨在改善河流的功能，包括疏浚、设计防护措施以及防止钉螺的孳生。"</data>
+      <data key="d2">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </node>
+    <node id="&quot;护坡&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"护坡是用来防止坡面侵蚀的结构，在防螺治水工程中起到重要作用，预防钉螺的生存环境。"</data>
+      <data key="d2">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;滩地&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"滩地是指水边的平坦或起伏地带，容易积水，可能成为钉螺的生存地区。"</data>
+      <data key="d2">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </node>
+    <node id="&quot;地下水位&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"地下水位指的是土壤或岩石中水的水平，在自然和人工环境中都对钉螺的生存造成影响。"</data>
+      <data key="d2">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </node>
+    <node id="&quot;C#O水利血防工程&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"C#o水利血防工程 is an organization focused on water conservancy and preventive measures against schistosomiasis, integrating both water management and health safety."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;参建人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"参建人员 are the construction workers involved in the water conservancy projects, who must adhere to health protocols to avoid schistosomiasis infection."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+      <data key="d3">[{"level": 0, "cluster": 0}, {"level": 1, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;水源地&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水源地 refers to the source of water used for drinking and irrigation, which must be protected from contamination by schistosomiasis carriers."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;集中供水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"集中供水 refers to the centralized water supply system designed to provide safe drinking water, particularly important in areas requiring schistosomiasis prevention measures."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;分散供水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"分散供水 indicates the decentralized approach to supplying water, which may have implications for managing water quality and health safety."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;自流引水&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"自流引水 describes a method of water collection that uses gravity flow, important in maintaining water supply without mechanical intervention."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;蓄水塘堰&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"蓄水塘堰 refers to reservoirs and storage ponds that are critical for water conservation in agricultural and domestic use."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;山泉&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"山泉 indicates the mountain spring water sources that can serve as safe alternatives if managed correctly to avoid contamination."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;水井&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水井 refers to water wells that are used for extracting groundwater, requiring protective measures to prevent schistosomiasis."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;环境保护&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"环境保护 involves the measures taken to protect the surroundings of water sources from contamination by schistosomiasis."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;防护用具&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"防护用具 refers to protective gear that construction workers must wear to avoid exposure to infected waters during their tasks."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;血防知识&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"血防知识 encompasses the knowledge related to schistosomiasis prevention, crucial for workers involved in relevant projects."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;血防专项经费&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"血防专项经费 is special funding allocated for prevention measures against schistosomiasis, supporting health safety in construction work."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;预防药物&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"预防药物 refers to medicinal substances promoted by authorities to prevent schistosomiasis infection among workers."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;血防警示牌&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"血防警示牌 are warning signs set up in high-risk areas to inform workers about the dangers of schistosomiasis."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;施工监理人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"施工监理人员 are supervising personnel responsible for overseeing construction activities, ensuring compliance with health safety measures against schistosomiasis."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;疫情流行情况&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"疫情流行情况 describes the prevalence and spread of schistosomiasis in the area, guiding preventive measures."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;螺土&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"螺土 refers to soil that is contaminated with schistosomiasis carriers, posing a risk to health if not managed effectively."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;临时住宿&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"临时住宿 denotes the temporary accommodations arranged for workers, which must be situated strategically to avoid infection."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;低洼地&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"低洼地 indicates low-lying areas that may contain standing water, facilitating the breeding of disease carriers like 钉螺."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;水塘&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"水塘 refers to ponds that can either serve as water sources or contribute to the spread of schistosomiasis if not properly handled."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;健康安全&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"健康安全 refers to the health safety measures that need to be implemented during construction work to prevent schistosomiasis exposure."</data>
+      <data key="d2">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </node>
+    <node id="&quot;管理单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"管理单位 refers to the organization responsible for overseeing the operation and management of water and schistosomiasis prevention projects."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;人员&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"人员 refers to the individuals involved in the management and operation of the water and schistosomiasis prevention projects, highlighting their susceptibility to schistosomiasis."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;血吸虫卵&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"血吸虫卵 refers to the eggs of the schistosomiasis-causing parasite, which can contaminate water sources and pose a health risk."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 14}]</data>
+    </node>
+    <node id="&quot;施工区域&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"施工区域 refers to the geographical area where construction activities related to the water and schistosomiasis prevention projects take place."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;生活区域&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"生活区域 refers to the living area of personnel involved in the water and schistosomiasis prevention projects, which may also be affected by schistosomiasis risks."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;警示牌&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"警示牌 is a warning sign established to alert personnel about the risks of schistosomiasis in construction and living areas."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 15}]</data>
+    </node>
+    <node id="&quot;工程管理单位&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"工程管理单位 refers to the specific organization overseeing the design, construction, and operation of the water and schistosomiasis prevention engineering."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </node>
+    <node id="&quot;预防药品&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"预防药品 are medications that personnel should take to prevent schistosomiasis infection while working in endemic areas."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </node>
+    <node id="&quot;健康教育&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"健康教育 involves educating personnel about the transmission and prevention of schistosomiasis, crucial for their safety."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;水利设施&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"水利设施 refers to the hydraulic facilities connected to water and schistosomiasis prevention projects, which require management and maintenance."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </node>
+    <node id="&quot;设施维修&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"设施维修 is the process of maintaining and repairing the hydraulic facilities to ensure their proper function and minimize health risks."</data>
+      <data key="d2">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </node>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水利血防技术规范&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Ministry of Water Resources approves and publishes the water management standards related to preventing Schistosomiasis, indicating its authoritative role."</data>
+      <data key="d6">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;长江水利委员会&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Yangtze River Commission operates under the Ministry of Water Resources, directly implementing its policies and technical standards."</data>
+      <data key="d6">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;长江科学院&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Yangtze Academy of Sciences collaborates with the Ministry of Water Resources in research and development of water management strategies."</data>
+      <data key="d6">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </edge>
+    <edge source="&quot;中华人民共和国水利部&quot;" target="&quot;水利部水利水电规划设计总院&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Planning and Design Institute plays a critical role in formulating and implementing water resource management policies set by the Ministry."</data>
+      <data key="d6">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;血吸虫病防治办公室&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Bureau for Schistosomiasis Prevention and Control utilizes the technical standards to enhance public health measures related to water management."</data>
+      <data key="d6">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;卢金友&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Lu Jinyou is a principal author who directly contributed to the creation of the technical standards for schistosomiasis prevention."&lt;SEP&gt;"卢金友 is a principal author contributing to the formulation of the mosquito control standards, imparting expertise and oversight."</data>
+      <data key="d6">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8&lt;SEP&gt;chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;高华斌&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"高华斌's involvement indicates a role in ensuring the credibility and technical accuracy of the water management standards."</data>
+      <data key="d6">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;朱孔贤&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"朱孔贤 contributes to the review process, ensuring the standards are comprehensive and adhere to regulatory requirements"</data>
+      <data key="d6">chunk-ec82cd5c8d5f6e7678bcacb02b9ba9c8</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;长江科学院&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Yangtze River Scientific Research Institute is instrumental in drafting and creating technical standards for schistosomiasis prevention in water-related projects."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;湖北省血吸虫病防治研究所&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The research institute’s focus on schistosomiasis links directly to the development of technical standards aimed at mitigating its prevalence."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;王家生&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Wang Jiasheng’s role as a principal author reflects a significant involvement in the establishment of guidelines for schistosomiasis prevention."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;魏国远&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Wei Guoyuan's authorship signifies an important contribution to the standards addressing schistosomiasis in water management."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;刘联兵&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Liu Lianbing's contributions to the technical standards indicate their engagement in combating schistosomiasis through water management practices."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;徐海涛&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Xu Haitao’s involvement in the technical standards reflects his role in improving schistosomiasis prevention methods in water resources."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;唐冬梅&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Tang Dongmei's contribution to the authorship signifies her role in shaping guidelines for schistosomiasis prevention tactics."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;孙贵州&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Sun Guizhou's participation highlights his role in writing technical standards for schistosomiasis prevention."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;李才宝&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Li Caibao's involvement signifies an important contribution to the development of schistosomiasis management standards."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;周&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Zhou's contributions illustrate his role in the creation of the technical standards for schistosomiasis prevention."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;赤师&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Chi Shi is mentioned as a contributor, indicating his involvement in shaping the guidelines for schistosomiasis control."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;哲&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Zhe's role in the authorship showcases his engagement in developing schistosomiasis prevention standards."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;李昊洁&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Li Haojie's contribution signifies his involvement in drafting the technical standards relevant to schistosomiasis prevention."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;史其敏&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Shi Qimin's authorship reflects his active role in developing guidelines for schistosomiasis control."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;朱朝峰&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Zhu Chaofeng's participation indicates his contributions to technical standards addressing schistosomiasis issues."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;黎礼刚&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Li Ligan's involvement highlights his contributions to the standards for managing schistosomiasis through water engineering."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;水利血防技术规范&quot;" target="&quot;闵凤阳&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Min Fengyang's contributions signify an important role in developing and drafting technical standards for schistosomiasis prevention."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;长江水利委员会&quot;" target="&quot;长江科学院&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"长江水利委员会 oversees and collaborates with 长江科学院 on research and monitoring of water resources."</data>
+      <data key="d6">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </edge>
+    <edge source="&quot;长江水利委员会&quot;" target="&quot;血吸虫病防治办公室&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"长江水利委员会 coordinates with 血吸虫病防治办公室 to implement water management strategies that prevent the spread of schistosomiasis."</data>
+      <data key="d6">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </edge>
+    <edge source="&quot;长江水利委员会&quot;" target="&quot;长江勘测规划设计研究院&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"长江水利委员会 partners with 长江勘测规划设计研究院 for planning and designing effective water management systems."</data>
+      <data key="d6">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </edge>
+    <edge source="&quot;长江水利委员会&quot;" target="&quot;卢金友&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"卢金友 contributes expertise to projects initiated and managed by the 长江水利委员会."</data>
+      <data key="d6">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </edge>
+    <edge source="&quot;长江水利委员会&quot;" target="&quot;潘庆燊&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"潘庆燊 plays a significant role in water management projects coordinated by the 长江水利委员会."</data>
+      <data key="d6">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </edge>
+    <edge source="&quot;长江科学院&quot;" target="&quot;徐海涛&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"徐海涛 collaborates with the 长江科学院 in developing water safety and resource management standards."</data>
+      <data key="d6">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </edge>
+    <edge source="&quot;长江科学院&quot;" target="&quot;水利部长江水利委员会&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Both organizations collaborate on research and standard development for effective water management practices along the Yangtze River."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;血吸虫病防治办公室&quot;" target="&quot;饮水工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"血吸虫病防治办公室 ensures safe drinking water projects are developed in schistosomiasis endemic areas to prevent disease spread."</data>
+      <data key="d6">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </edge>
+    <edge source="&quot;血吸虫病防治办公室&quot;" target="&quot;徐海涛&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"徐海涛's work is integral to the operational efforts of the 血吸虫病防治办公室 in addressing water safety issues."</data>
+      <data key="d6">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </edge>
+    <edge source="&quot;水利血防规划&quot;" target="&quot;血吸虫病&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利血防规划 outlines strategic measures aimed at controlling the spread of 血吸虫病 in endemic regions."</data>
+      <data key="d6">chunk-b7e5d51caef759742754104121d89fbf</data>
+    </edge>
+    <edge source="&quot;水利血防规划&quot;" target="&quot;钉螺&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利血防规划 includes specific approaches for managing the spread of 钉螺 as part of controlling 血吸虫病."</data>
+      <data key="d6">chunk-b7e5d51caef759742754104121d89fbf</data>
+    </edge>
+    <edge source="&quot;水利血防规划&quot;" target="&quot;涵闸（泵站）&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利血防规划 provides guidelines for the construction and management of 涵闸（泵站） to ensure effective water resource utilization and pest control."</data>
+      <data key="d6">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </edge>
+    <edge source="&quot;水利血防规划&quot;" target="&quot;螺防措施&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水利血防规划 outlines the strategic implementation of 螺防措施, including engineering and management practices for pest control."</data>
+      <data key="d6">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </edge>
+    <edge source="&quot;防螺平台&quot;" target="&quot;水利血防工作&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"防螺平台 are established as part of water management strategies to control the environment and reduce snail populations associated with schistosomiasis."</data>
+      <data key="d6">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </edge>
+    <edge source="&quot;防螺平台&quot;" target="&quot;血吸虫病&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"防螺平台 aids in minimizing the habitat available for snails, thereby addressing the spread of schistosomiasis."&lt;SEP&gt;"防螺平台的建立目的是为了降低血吸虫病的传播风险，确保环境适宜性，防止钉螺孳生。"</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69&lt;SEP&gt;chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </edge>
+    <edge source="&quot;防螺平台&quot;" target="&quot;钉螺&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"防螺平台 is specifically designed to prevent the breeding of 钉螺 in areas adjacent to water bodies, ensuring health safety."</data>
+      <data key="d6">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </edge>
+    <edge source="&quot;防螺平台&quot;" target="&quot;防螺隔离沟&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"防螺平台和防螺隔离沟的结合使用旨在全面降低钉螺孳生的风险。"</data>
+      <data key="d6">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </edge>
+    <edge source="&quot;防螺隔离沟&quot;" target="&quot;血吸虫病&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"防螺隔离沟 is an important structural measure to prevent snail movement, directly impacting the incidence of schistosomiasis."&lt;SEP&gt;"防螺隔离沟的设计和建设旨在降低人畜血吸虫感染的风险，预防血吸虫病的传播。"</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69&lt;SEP&gt;chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </edge>
+    <edge source="&quot;防螺隔离沟&quot;" target="&quot;钉螺&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"防螺隔离沟被用来滤干积水，降低钉螺孳生的环境，有效防止血吸虫病的传播。"</data>
+      <data key="d6">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </edge>
+    <edge source="&quot;防螺隔离沟&quot;" target="&quot;湖区&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"湖区适合实施防螺隔离沟设计，该措施有助于减少钉螺的繁殖。"</data>
+      <data key="d6">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;沟渠&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"沟渠 are designed to prevent 钉螺 spread in certain areas, aligning with the goals of water management efforts."</data>
+      <data key="d6">chunk-b7e5d51caef759742754104121d89fbf</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;工 程措施&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工 程措施 are specifically aimed at managing and preventing the spread of 钉螺 related to schistosomiasis."</data>
+      <data key="d6">chunk-b7e5d51caef759742754104121d89fbf</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;防螺措施&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"钉螺 are the target of 防螺措施 as they are the primary vectors for schistosomiasis, necessitating control efforts."</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;血防专业人员&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"血防专业人员 uses knowledge about 钉螺 to inform strategies for functionally controlling their population in water management projects."</data>
+      <data key="d6">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;涵闸（泵站）&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"钉螺 spreads through water systems, therefore, the design and construction of 涵闸（泵站） are aimed at preventing its movement downstream."&lt;SEP&gt;"钉螺可通过涵闸进入水道，涵闸的设计影响钉螺的进入和控制。"</data>
+      <data key="d6">chunk-0309bb5aac83c5282a2b1af28cc578e7&lt;SEP&gt;chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;血吸虫病&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"钉螺 is the intermediate host for the parasite that causes 血吸虫病, making its management critical to controlling the disease."&lt;SEP&gt;"钉螺是血吸虫病的传播者，二者关系密切，因为钉螺的存在直接影响人畜的感染率。"</data>
+      <data key="d6">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec&lt;SEP&gt;chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;沉螺池&quot;">
+      <data key="d4">27.0</data>
+      <data key="d5">"沉螺池的设计和工作原理主要是为了防止钉螺进入水道，从而控制其数量。"&lt;SEP&gt;"沉螺池的设计目的是为了防止钉螺的扩散，确保水源安全。"&lt;SEP&gt;"钉螺在沉螺池环境中被设计、观察和集中灭杀，直接影响沉螺池的功能。"</data>
+      <data key="d6">chunk-7b905d8da15fbcb93b31805e081117d1&lt;SEP&gt;chunk-0309bb5aac83c5282a2b1af28cc578e7&lt;SEP&gt;chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;水流&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"钉螺的行为和沉降速度受到水流流动的影响。"</data>
+      <data key="d6">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;灌排渠系&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"灌排渠系可能引导钉螺向受水区及农田扩散，影响生态平衡。"</data>
+      <data key="d6">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;暗渠&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"暗渠的设计目的是为了防止钉螺生存，使其无法在渠道内繁殖。"</data>
+      <data key="d6">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;渠道硬化&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"渠道硬化可以有效地限制钉螺在边坡的孳生。"</data>
+      <data key="d6">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;堤防&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"堤防 is constructed to manage and prevent environments where 钉螺 can breed, thus impacting public health."</data>
+      <data key="d6">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;护坡防螺&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"护坡防螺 prevents environmental conditions conducive to 钉螺 growth while addressing erosion concerns."</data>
+      <data key="d6">chunk-61d660812365902f98dcbedaa44a019a</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;洲滩&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"洲滩的积水为钉螺的孳生提供了适宜的环境，导致钉螺的增加。"</data>
+      <data key="d6">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;堤外有螺洲滩&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"堤外有螺洲滩的存在为钉螺提供了生存和繁殖的条件。"</data>
+      <data key="d6">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;水位控制&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水位控制措施可以改变钉螺的生存环境，从而影响其孳生率。"</data>
+      <data key="d6">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;护坡&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"护坡的设计和施工可以减少钉螺的栖息环境，避免对水道的影响。"</data>
+      <data key="d6">chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </edge>
+    <edge source="&quot;钉螺&quot;" target="&quot;水源地&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"钉螺 can proliferate in 水源地 if proper preventive measures are not taken, leading to a higher risk of schistosomiasis transmission."</data>
+      <data key="d6">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </edge>
+    <edge source="&quot;水利血防工作&quot;" target="&quot;血吸虫病&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利血防工作 focuses on controlling the spread of blood flukes responsible for schistosomiasis."</data>
+      <data key="d6">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;防螺措施&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"防螺措施 are integral to preventing the transmission of schistosomiasis by managing snail populations."</data>
+      <data key="d6">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;基本资料&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"基本资料 includes essential data that facilitate the understanding and management of 血吸虫病 in endemic areas."</data>
+      <data key="d6">chunk-b7e5d51caef759742754104121d89fbf</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;灌排渠系&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The design and management of 灌排渠系 must consider the risk of 血吸虫病, necessitating pest control measures during construction and operation."</data>
+      <data key="d6">chunk-f48bce737e3c408af99118ccc937076e</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;堤防&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"堤防 is designed to protect against flooding but also incorporates measures to combat schistosomiasis in high-risk areas."</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;河湖整治&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"河湖整治 involves the application of preventive measures against schistosomiasis during the restoration of aquatic areas."</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;药物&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"药物 is utilized to treat and control schistosomiasis, making it essential in combating this disease."</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;沉螺池&quot;">
+      <data key="d4">17.0</data>
+      <data key="d5">"沉螺池 are specifically designed to trap snails, thus contributing to la reducing the risk of schistosomiasis spread."&lt;SEP&gt;"沉螺池的建设有助于防止钉螺的生存，这间接降低了血吸虫病的风险。"</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69&lt;SEP&gt;chunk-7f3ff86e9cbe1f8d5f4f7e14fc0f23ec</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;水系控制&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Effective 水系控制 is essential to prevent the spread of 钉螺 and thereby control the incidence of 血吸虫病."</data>
+      <data key="d6">chunk-13338a2d269844599b16d9b9aac22ba9</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;C#O水利血防工程&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"C#o水利血防工程 aims to mitigate the risks of 血吸虫病 through effective water management and public health measures."</data>
+      <data key="d6">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;参建人员&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"参建人员 are at risk of contracting 血吸虫病 due to exposure to infected waters during construction activities."</data>
+      <data key="d6">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </edge>
+    <edge source="&quot;血吸虫病&quot;" target="&quot;人员&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"人员 exposed to the environment of 水利血防工程 are at risk of contracting 血吸虫病 due to their frequent contact with contaminated water."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;防螺措施&quot;" target="&quot;沉螺池&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"沉螺池 are one of the 防螺措施 integrated into the overall strategy for schistosomiasis control."&lt;SEP&gt;"沉螺池 is a specific application of 防螺措施 aimed at combating snail proliferation."</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69&lt;SEP&gt;chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </edge>
+    <edge source="&quot;防螺措施&quot;" target="&quot;中层取水防螺建筑物&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"中层取水防螺建筑物 is a type of 防螺措施 designed to use water from layers with no snails, reducing the risk of disease spread."</data>
+      <data key="d6">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </edge>
+    <edge source="&quot;防螺措施&quot;" target="&quot;有螺土&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"有螺土 is a critical factor in determining the need for 防螺措施 as it indicates the presence of snail habitats in the environment."</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+    </edge>
+    <edge source="&quot;防螺措施&quot;" target="&quot;堤防&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"堤防 incorporates 防螺措施 to ensure that its construction does not inadvertently promote snail proliferation."</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+    </edge>
+    <edge source="&quot;防螺措施&quot;" target="&quot;河湖整治&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"河湖整治 often includes 防螺措施 to maintain healthy ecosystems while managing schistosomiasis risks."</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+    </edge>
+    <edge source="&quot;防螺措施&quot;" target="&quot;生态护岸&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"生态护岸 incorporates 防螺措施 to ensure that ecological health is maintained while controlling snail populations."</data>
+      <data key="d6">chunk-6291bae611e71915d2f3197f0ece8d69</data>
+    </edge>
+    <edge source="&quot;沉螺池&quot;" target="&quot;拦螺墙&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"拦螺墙 works in tandem with 沉螺池 to prevent debris entering the pool, thereby controlling snails."</data>
+      <data key="d6">chunk-e71dd9a4aea4ba70febbd92c37a4fbf0</data>
+    </edge>
+    <edge source="&quot;沉螺池&quot;" target="&quot;涵闸（泵站）&quot;">
+      <data key="d4">33.0</data>
+      <data key="d5">"沉螺池 is connected to the 涵闸（泵站） for managing water flow effectively, highlighting their complementary roles in water management."&lt;SEP&gt;"涵闸（泵站） controls the water flow where 沉螺池 is implemented to capture 钉螺, ensuring effective removal and control of their population."&lt;SEP&gt;"涵闸（泵站） may incorporate 沉螺池 as a specific measure to address pest control within their operational framework."&lt;SEP&gt;"涵闸（泵站）的位置和布置影响沉螺池的效果，特别是在汛期水流的情况下。"</data>
+      <data key="d6">chunk-f89779b2559ab22d6f82211e17281a55&lt;SEP&gt;chunk-13338a2d269844599b16d9b9aac22ba9&lt;SEP&gt;chunk-0309bb5aac83c5282a2b1af28cc578e7&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+    </edge>
+    <edge source="&quot;沉螺池&quot;" target="&quot;螺防措施&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"沉螺池 is a specific engineering approach utilized within the broader category of 螺防措施 to manage pest control effectively."</data>
+      <data key="d6">chunk-f89779b2559ab22d6f82211e17281a55</data>
+    </edge>
+    <edge source="&quot;沉螺池&quot;" target="&quot;灌排渠系&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"沉螺池 serves as a crucial engineering measure within the 灌排渠系 aimed at preventing pest issues and managing sedimentation."&lt;SEP&gt;"沉螺池的构建是为了在灌排渠系中控制钉螺的扩散。"</data>
+      <data key="d6">chunk-63dbfa6dfda0e78b328e1d152bb36d40&lt;SEP&gt;chunk-f48bce737e3c408af99118ccc937076e</data>
+    </edge>
+    <edge source="&quot;沉螺池&quot;" target="&quot;水流&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"沉螺池的设计旨在使水流均匀分布，有助于提高沉螺效果。"</data>
+      <data key="d6">chunk-7b905d8da15fbcb93b31805e081117d1</data>
+    </edge>
+    <edge source="&quot;水利工程&quot;" target="&quot;水淹灭螺&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"水利工程 plays a key role in implementing water management strategies, including 水淹灭螺 measures."</data>
+      <data key="d6">chunk-b7e5d51caef759742754104121d89fbf</data>
+    </edge>
+    <edge source="&quot;水利工程&quot;" target="&quot;C#O水利血防工程&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"水利工程 encompasses the various activities and knowledge required for the successful implementation of C#o水利血防工程 projects."</data>
+      <data key="d6">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </edge>
+    <edge source="&quot;血防专业人员&quot;" target="&quot;水利血防工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"血防专业人员 participates in the acceptance and evaluation of the 水利血防工程, specifically in relation to its effectiveness in controlling snails."</data>
+      <data key="d6">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </edge>
+    <edge source="&quot;洲滩高程&quot;" target="&quot;沟渠&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"洲滩高程 management is necessary for the effective construction and functionality of 沟渠 aimed at snail control."</data>
+      <data key="d6">chunk-b7e5d51caef759742754104121d89fbf</data>
+    </edge>
+    <edge source="&quot;沟渠&quot;" target="&quot;堤防&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"堤防 are constructed alongside 沟渠 to enhance water management and prevent snail propagation."</data>
+      <data key="d6">chunk-b7e5d51caef759742754104121d89fbf</data>
+    </edge>
+    <edge source="&quot;涵闸（泵站）&quot;" target="&quot;灌排渠系&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"涵闸（泵站） is essential for controlling and facilitating water flow within the 灌排渠系, directly impacting irrigation efficiency."</data>
+      <data key="d6">chunk-f48bce737e3c408af99118ccc937076e</data>
+    </edge>
+    <edge source="&quot;渠道硬化&quot;" target="&quot;灌排渠系&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"渠道硬化措施是确保灌排渠系安全的重要工程，对于防止钉螺育生具有关键作用。"</data>
+      <data key="d6">chunk-63dbfa6dfda0e78b328e1d152bb36d40</data>
+    </edge>
+    <edge source="&quot;孙贵州&quot;" target="&quot;水利血防工程&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"孙贵州 is involved in the creation and implementation of protocols for water safety within the framework of 水利血防工程."</data>
+      <data key="d6">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </edge>
+    <edge source="&quot;血吸虫病流行区&quot;" target="&quot;水利血防工程&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"水利血防工程 are specifically designed to address and mitigate the risks associated with schistosomiasis in these geographical zones."</data>
+      <data key="d6">chunk-7227ce8b1c0bf52b31b62ff8b16961c4</data>
+    </edge>
+    <edge source="&quot;水利血防工程&quot;" target="&quot;水利部门&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利部门 is involved in the planning and evaluation of the 水利血防工程, ensuring that both water management and health objectives are met."</data>
+      <data key="d6">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </edge>
+    <edge source="&quot;水利血防工程&quot;" target="&quot;生态环境&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The project must consider the ecological environment to avoid conflicts between snail control measures and environmental conservation."</data>
+      <data key="d6">chunk-ed3212c125fb14d9c5ed50d6b464157c</data>
+    </edge>
+    <edge source="&quot;水利血防工程&quot;" target="&quot;管理单位&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"管理单位 oversees the operation and management of the 水利血防工程, ensuring compliance with health and safety protocols."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;水利血防工程&quot;" target="&quot;疫水&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"水利血防工程 aims to mitigate the risks associated with 疫水, promoting safe practices to prevent disease spread."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;疫水&quot;" target="&quot;人员&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Personnel must take precautions against exposure to 疫水 to reduce the risk of schistosomiasis infection."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;疫水&quot;" target="&quot;血吸虫卵&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"血吸虫卵 contaminate 疫水, posing a significant health risk to personnel in construction and living areas."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;水利部长江水利委员会&quot;" target="&quot;湖北省血吸虫病防治研究所&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Yangtze River Water Resources Commission works with the Hubei province institute to address water management issues that affect schistosomiasis control."</data>
+      <data key="d6">chunk-14febbcd2031fe31c85224164ee02c70</data>
+    </edge>
+    <edge source="&quot;C#O水利血防工程&quot;" target="&quot;参建人员&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"参建人员 must receive education and training from C#o水利血防工程 to effectively prevent schistosomiasis infection during their work."</data>
+      <data key="d6">chunk-09f7b7e4b51fbce6d94f34a58690347e</data>
+    </edge>
+    <edge source="&quot;管理单位&quot;" target="&quot;人员&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"管理单位 is responsible for implementing health education and safety protocols to protect personnel from 血吸虫病 during their work."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;人员&quot;" target="&quot;警示牌&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"警示牌 serves to remind personnel to remain vigilant against schistosomiasis while working in affected areas."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;人员&quot;" target="&quot;健康教育&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"健康教育 is vital for increasing personnel awareness about schistosomiasis and preventive measures they should take."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;施工区域&quot;" target="&quot;警示牌&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"警示牌 are placed in 施工区域 to warn workers about the risks of schistosomiasis and promote safety measures."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;生活区域&quot;" target="&quot;警示牌&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"警示牌 in 生活区域 serve to inform residents about the precautions necessary to avoid schistosomiasis exposure."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;工程管理单位&quot;" target="&quot;水利设施&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"工程管理单位 is responsible for the management and maintenance of 水利设施 to ensure effective schistosomiasis prevention."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+    <edge source="&quot;水利设施&quot;" target="&quot;设施维修&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"设施维修 is crucial to maintaining the integrity of 水利设施 and ensuring the efficacy of projects in preventing schistosomiasis."</data>
+      <data key="d6">chunk-d8737bbf73c4220feb5a0b35bd19b05c</data>
+    </edge>
+  </graph>
+</graphml>
